@@ -9,7 +9,7 @@ last updated: 2017-03-28
 
 The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely randomize the creation of the Dungeon that the party is exploring. The core tools used in this are a full set of [Dungeonmorph][] Dice and/or cards, a full set of Warhammer Fantasy Roleplay 3rd Edition special dice, and an array of mostly-online random generators.
 
-HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-written method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play - I recommend [Dark Dungeons][] of the OSR realm.
+HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-compiled home-rules method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play - I recommend [Dark Dungeons][] of the OSR realm.
 
 
 
@@ -39,10 +39,11 @@ To quickly run through the dice, with WFRP3 you get a mix of seven different typ
 
 ### The Generators
 
-* [Donjon][]
-* [Totalpartykill][]
-* [BECMI Utilities][]
-* [Behind the Name][]
+* [Donjon][] - more random generators than a human will ever need
+* [Totalpartykill][] - fantastic formatted one-click random characters
+* [BECMI Utilities][] - an old Windows app for BECMI randomness
+* [Behind the Name][] - Best random name tool on the Internet, no contest
+* [Warhammer FRP3 Dice Tool][] - in case you don't have the physical dice
 
 ### Other Things You Need to Track
 
@@ -240,7 +241,7 @@ The characters will gain XP from encounters they defeat, and hopefully loot as w
 Using some traditional old school game rules, monetary loot also counts as XP – but in HAMMERCRAWL!, that XP is only applied *after* the heroes make it back to town with the loot. So when loot is acquired, write down the loot and its value, but do not count it as XP just yet. Heroes can also convert a fraction of the loot to XP as a Camp Action, but this wastes the vast majority of it.
 
 
-## EXPLORATION!
+## EXPLORATION! (The Explore Action)
 
 Each Dungeon Die or Card represents one room of the Dungeon. There will likely be many rooms, and multiple levels of them! Each room can contain numerous horrible dangers, but also a good chance at wondrous loot as well!
 
@@ -258,7 +259,7 @@ During active combat, a character can take any one readily-accessible item from 
 Money loot from fallen allies is always split evenly among the survivors, unless they otherwise work something else out among themselves.
 
 
-## CAMPTIME!
+## CAMPTIME! (The Camp Action)
 
 As you explore, the GM builds up a secret "Hope" tally. Once you have accrued ten points or more, your leader can choose to take a Camp Action.
 
@@ -286,7 +287,7 @@ If total is 4+, an encounter happens while they camp! Roll as usual to generate 
 If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter initiative checks.
 
 
-## Returning to Town!
+## Returning to Town! (The Town Action)
 
 When the heroes finally return to town (which likely involves backtracking through the dungeon to their original exit), the following happens, in order:
 
@@ -299,10 +300,11 @@ When the heroes finally return to town (which likely involves backtracking throu
 * Return to the Dungeon!
 
 
-[Donjon]: http://donjon.bin.sh/>
+[Donjon]: http://donjon.bin.sh/
 [Totalpartykill]: http://character.totalpartykill.ca/lotfp/
 [BECMI Utilities]: http://www.dragonsfoot.org/forums/viewtopic.php?f=15&t=61875
 [Behind the Name]: http://www.behindthename.com/random/
+[Warhammer FRP3 Dice Tool]: http://brokentome.com/tools/DiceRoller.aspx
 [Dungeonmorph]: http://dungeonmorphs.com/
 [Dark Dungeons]: http://www.drivethrurpg.com/product/177410/Dark-Dungeons
 [Torch Cards]: https://rpgcharacters.wordpress.com/2011/06/26/hand-tooled-dccrpg-character-sheets/
