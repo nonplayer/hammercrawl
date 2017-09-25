@@ -1,7 +1,9 @@
 The HAMMERCRAWL! RPG method  
 by N. Phillip Cole
 
-HAMMERCRAWL! is not a complete game, but a method of running OSR style games 100% randomly.
+HAMMERCRAWL! is not a complete game, but a method of running OSR style games 100% randomly. Start with the core rules document in this repo.
+
+# Meta Stuff
 
 ### How to Create the Character Stack
 
@@ -9,7 +11,7 @@ I'm writing this as a note to self because I wish that Past Me had recorded the 
 
 First start a new Word Docx file, brand new and blank.
 
-Next, Generate here - use Chromium or Cent or such, because it pastes a LOT better from there than it does on Firefox: http://character.totalpartykill.ca/lotfp/
+Next, Generate characters via [this website](http://character.totalpartykill.ca/lotfp/) - use Chromium or Cent or such, because it pastes a LOT better from there than it does on Firefox.
 
 Keep refreshing to get new characters each time!
 

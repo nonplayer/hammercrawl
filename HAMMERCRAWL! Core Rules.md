@@ -241,14 +241,64 @@ The characters will gain XP from encounters they defeat, and hopefully loot as w
 Using some traditional old school game rules, monetary loot also counts as XP – but in HAMMERCRAWL!, that XP is only applied *after* the heroes make it back to town with the loot. So when loot is acquired, write down the loot and its value, but do not count it as XP just yet. Heroes can also convert a fraction of the loot to XP as a Camp Action, but this wastes the vast majority of it.
 
 
-## EXPLORATION! (The Explore Action)
+## USING SKILLS!
+
+Skills are handled as one would expect in the base game being played. Since HAMMERCRAWL! is written primarily with "old school" games in mind, this means that the method expects the same kind of old school mentalities to apply when using "skills" in play.
+
+If you are new to this concept, I recommend starting with the ["Quick Primer for Old School Gaming"](http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf) as a good introductory read.
+
+In short, in "old school" style play, the characters are all assumed to be able to do a great number of things that aren't otherwise specifically written on their character sheets, *provided* they have a reasonable amount of time to do so. For just a few examples, given a low-stress situation (as in "not being actively stabbed by murder trees and melted by acid goblins") and appropriate time to accomplish, the following assumptions can be made:
+
+* Fighters and Thieves can climb a wall or barrier with assumed handholds.
+* Wizards and Priests can decipher ancient tomes through extended study.
+* A character from a woodsman background can tell if a plant is poisonous or not.
+* Anyone unencumbered and without clanky bits can walk slowly and silently for a bit.
+* ...and so on
+
+Again, these are just some basic examples of assumptions that can be made. When there is a question of complexity and/or added danger, use one or more (or all!) of the following basic guidelines:
+
+##### Is time a factor worth considering in this moment?
+
+If so, let them perform the task without a roll, but let them know it takes one or more turns of time to accomplish. This can diminish light sources and spell durations, and also affect the exploration dice pools!
+
+##### Is there a chance of a dangerous complication?
+
+This includes things such as "they might hurt themselves" or such. If so, incorporate a basic Ability Check (d20 roll-under). Either way they succeed at the task, but with a failed roll they also suffer a setback, such as:
+
+* HP loss (1 to 1d4 points maybe)
+* Equipment loss
+* Injury or such resulting in Temporary penalty to near-future die rolls
+* an added challenge die to the next exploration pool
+* alerting nearby enemies
+* some other appropriate environmental response
+
+##### Is there a chance of failure?
+
+This one's a tough call, because again, these are supposed to be capable adventurers. If you truly feel that the feat is a tough enough that they might not succeed, first let them know this in your own preferred DM narrative way. Try to encourage them to offer new strategies to overcome the task, fall-back plans, or complete reassessment of the situation.
+
+If they still persist, as above have them roll an associated ability check. With a failed roll, they both fail the task _and_ suffer some complication from above. Sucks, but they knew the risks before they rolled!
+
+### "Thief Skills"
+
+**However**, certain characters (Thieves, Specialists, etc) get very specific skills written down on their character sheets. The general approach to these skills is to only require them to be rolled against when the situation seems otherwise impossible, when the odds are visibly and obviously stacked against them. Each Thief skill has built into it the assumption that something really bad might happen if it fails. If you're not willing to make that bad thing happen, then what's the point of making the thief roll in the first place?
+
+### Other Skills (Proficiencies, etc)
+
+If your flavor of game has skill proficiencies built into it for all characters, the assumption here is that simply *having* the skill in the first place means that you can just do it most of the time, no roll needed. You would only need to roll for those skills when you wanted ot needed to do something truly spectacular with them.
+
+
+## MOVING ONWARD! (The Explore Action)
 
 Each Dungeon Die or Card represents one room of the Dungeon. There will likely be many rooms, and multiple levels of them! Each room can contain numerous horrible dangers, but also a good chance at wondrous loot as well!
 
-In order to explore the Dungeon, your party leader must tell the DM that your group is moving on to the next Room - be sure to discuss tactics and approaches before you move! Moving to the next room in this fashion initiates the **Explore Action** and tells the DM that it's time to roll the dungeon die and the Divining Pool. The rules for divining the Explore Action are in the DM section of this document.
+In order to continue exploring the Dungeon, your party leader must tell the DM that your group is moving on to the next Room - be sure to discuss tactics and approaches before you move! Moving to the next room in this fashion initiates the **Explore Action** and tells the DM that it's time to roll the dungeon die and the Divining Pool. The rules for divining the Explore Action are in the DM section of this document (further above).
 
 
-## COMBAT!
+## FIGHTING THINGS! (Combat Rounds)
+
+Combat flows as normal for the base game's rules. HAMMERCRAWL! adds the following new special action(s):
+
+* **Loot Fallen Ally**
 
 ### New Personal Action: Loot Fallen Ally
 
@@ -259,7 +309,7 @@ During active combat, a character can take any one readily-accessible item from 
 Money loot from fallen allies is always split evenly among the survivors, unless they otherwise work something else out among themselves.
 
 
-## CAMPTIME! (The Camp Action)
+## CAMPING! (The Camp Action)
 
 As you explore, the GM builds up a secret "Hope" tally. Once you have accrued ten points or more, your leader can choose to take a Camp Action.
 
@@ -287,7 +337,7 @@ If total is 4+, an encounter happens while they camp! Roll as usual to generate 
 If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter initiative checks.
 
 
-## Returning to Town! (The Town Action)
+## RETURNING HOME! (The Town Action)
 
 When the heroes finally return to town (which likely involves backtracking through the dungeon to their original exit), the following happens, in order:
 
