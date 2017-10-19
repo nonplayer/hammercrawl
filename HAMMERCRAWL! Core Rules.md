@@ -19,15 +19,17 @@ This document starts with the DM rules up front, because it is primarily written
 
 ## THE TOOLS OF HAMMERCRAWL!
 
-### The Dungeon Dice
+### The Dungeon Generators
 
 To generate Dungeon rooms, I use a set of Dungeonmorph dice and their matching blue-and-white cards (the latter kept into handy dry-erase sleeves). They even come with little symbols and a handy key to them, for adding more spontaneous dungeon features on the fly.
 
 The basic process involves going from room to room, encountering obstacles, grabbing treasure, and moving ever onward. When it’s time to move to a new room, I grab one of the dice from a bag, roll it, and that’s the next room. I then find the matching card and lay it out. The pieces are all laid out on the table, and the dungeon grows dynamically as the players explore it.
 
-### The Warhammer Dice
+Conversely, the [Donjon][] site has an extremely detailed set of random dungeon generators. Using them to pre-build your dungeon can save a lot of time at the table for playing.
 
-To quickly run through the dice, with WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
+### The Divining Dice
+
+I use a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. To quickly run through the dice, with WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
 
 * **Blue: The Reward Die** - rolled to find new fortunes and treasure.
 * **Red: The “Huzzah!” Die** - rolled when the heroes are especially brave and/or foolhardy.
@@ -35,7 +37,9 @@ To quickly run through the dice, with WFRP3 you get a mix of seven different typ
 * **White: The Luck Die** - added to the pool for good ideas and plans.
 * **Black: The Dark Die** - added when the players’ own actions turn against them.
 * **Yellow: The Die of Expertise** - representing solid applied skill and craft.
-* **Purple: The Die of growing Risk** - Purple dice can bring great danger and peril. 
+* **Purple: The Die of Challenge** - Purple dice can bring great danger and peril, but amplify XP! 
+
+Don't have dice of your own? [Use the Broken Tome generator!](http://brokentome.com/tools/DiceRoller.aspx)
 
 ### The Generators
 
@@ -50,10 +54,29 @@ To quickly run through the dice, with WFRP3 you get a mix of seven different typ
 I just use a graph paper notebook for these:
 
 * Character list (player names, PC names, classes, AC)
-* Hope Meter
-* Danger Meter
 * Dungeon Level Exit Roll Tally
 * Death List
+
+
+## GAME SETUP!
+
+First off, you need some players. I think this process works best with no more than 5.
+
+You then need the basic tools.
+
+Then you need to print off a stack of characters using any of the recommended generators. I suggest a stack of 50, that should last you a few games.
+
+Designate one player character to be the party Leader!
+
+Have the party leader pick the Difficulty Level of the dungeon, from the three options below:
+
+1. Normal: Only a single Purple die is used for the Divining Pool, XP rewards are normal.
+2. Hardcore: 2 Purple Dice are used in the Divining Pool, XP rewards are doubled (x2).
+3. IRON MAN! 3 Purple Dice are used in the Divining Pool, XP rewards are quintupled (x5)
+
+### Building the Dungeon in Advance
+
+While this does partially-defeat the whole "100% random" approach to play encouraged by this system, I admit that the dungeon can be the trickiest thing to build on the fly, and the most time-consuming. To save on time, pre-designing a dungeon is pretty simple using the random dungeon generators at the [Donjon][]. Hell, it can even pre-plan encounters, saving you the need to roll for the enemy types in your divining pool!
 
 
 ## DUNGEON CRAWLING!
@@ -76,32 +99,20 @@ Finally, for each room visited after the starting room, there is a cumulative 1 
 
 #### THEN roll the Divining Pool!
 
-Next, it's time to roll the Divining Pool! This dice pool is built using the fancy colored dice from WFRP3.
+Next, it's time to roll the Divining Pool! This dice pool is built using a mix of regular gaming dice plus the fancy colored dice from WFRP3. **First we build the initial Divining Pool.** Always begin with the following:
 
-To refresh you on what the dice mean:
+* **Standard Blue Die:** Always Start with one Blue Die.
+* **Challenge Level:** This is up to the players, chosen at the beginning of the dungeon! Add 1, 2, or 3 Purple dice.
+* **Encounter Check Die:** Depends on your method for determining a random encounter. Using Dark Dungeons, this is a single d6, with an encounter occurring on a 1 (see p. 130).
+* **Reaction Check Dice:** To determine initial reactions of the encounter. In Dark Dungeons, this is 2D6 (see p. 128-129).
+* **Encounter Type Die:** To determine _what_ you encounter. In Dark Dungeons, this is a d20 (see p. 129-130).
 
-* **Blue: The Reward Die** - rolled to find new fortunes and treasure.
-* **Red: The “Huzzah!” Die** - rolled when the heroes are especially brave and/or foolhardy.
-* **Green: The Caution Die** - rolled to reward careful strategy and conversation.
-* **White: The Luck Die** - added to the pool for good ideas and plans.
-* **Black: The Dark Die** - added when the players’ own actions turn against them.
-* **Yellow: The Die of Expertise** - representing solid applied skill and craft.
-* **Purple: The Die of growing Risk** - Purple dice can bring great danger and peril. 
+Before rolling, add extra Warhammer dice based on the situation:
 
-First we build the initial Divining Pool. Always begin with both Standard Risk and Standard Reward:
-
-* **Standard Risk:** Always Start with one Purple Die, and add one more for every third level of the dungeon (so +1 at 3, 6, 9, etc).
-* **Standard Reward:** Always Start with one Blue Die.
-
-Then, add extra dice based on the situation:
-
-* **Do they have 10 or more Current Danger points?** Add +1 Black Die for every full 10 points of current Danger.
-* **Do they have 10 or more Current Hope points?** Add +1 Blue Die for every full 10 points of current Hope.
 * **Did they stealthily enter the room?** Add a Green Die.
 * **Did they kick in the door and rush the room?** Add a Red Die.
 * **Did anyone actually say “Huzzah!” when entering?** Add another Red Die.
-* **Did their previous actions raise an actual active alarm?** Add a Purple Die.
-* **Did they otherwise fore-warn the room’s occupants somehow?** Add a Black Die.
+* **Did they raise an alarm or otherwise fore-warn the room’s occupants somehow?** Add a Black Die.
 * **Are they taking any clever precautions or plans (other than the usual trap-checking)?** Add a White Die for each “really good idea” they have.
 * **Do they have any useful tools that might affect the situation?** Add a Yellow Die if they are making active use of special gear, such as maps, potions, etc.
 * **Other Mods:** Add more dice based on whim, nefarious plans, the "Scout Ahead" camp action results, cocky player complacency, shifting planes, stock market trends, and whatever else you feel makes sense.
@@ -112,57 +123,56 @@ With the Divining Pool complete, it's time to roll! **I highly suggest using a d
 
 The special symbols on the divining dice translate to different aspects of the next room, determined as follows:
 
-**Hammers and Crossblades:** MONSTERS and TREASURE! First off, Hammers and Crossblades cancel each other out one for one. If a roll gets two Hammers and five Crossblades, then that’s a net total of three Blades for that roll.
+**First, the Normal Dice.** These determine if, what, and how you encounter. See respective game rules for these, but in Dark Dungeons which I use, they are on pages 128-130, mostly.
 
-If there are *net Crossblades* in the pool, the party encounters monsters and must very likely fight with them. The encounter is rolled determined by the current dungeon level. A single Crossblade represents a single encounter, with each additional crossblade either A) increasing the size of that encounter, or B) adding in another simultaneous encounter group. When the encounter is defeated, roll the treasure as normal (see further below).
+*As for the Warhammer Dice...*
 
-Another option when using an encounter-builder tool is for each net Crossblade to call for one roll on the random encounter table, or one additional "number appearing" die for an already-rolled encounter - or a mix of the two.
+**Hammers and Crossblades!** These cancel each other out one for one. Any remaining adjust the Reaction roll, with Hammers increasing it and Crossblades decreasing it, one for one.
 
-If there are *net Hammers* instead, then the party *potentially* finds unguarded treasure! Roll an encounter as normal, but the creatures aren’t there, and they left their treasure behind. If they have a treasure value, roll to determine what it is. If they don't have a treasure value, then tough luck: no treasure, but at least no monsters too, right? Count your blessings, adventurers, and move on.
+**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to add *another* yellow die and immediately roll it, adding its results to the pool.
 
-**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to add another yellow die and immediately roll it.
+**Falcons and Skulls!** These cancel each other out one for one. These represent temporary effects the party faces in the immediate room and/or encounter. Net Falcons give the party temporary boons, while net Skulls give them setbacks. These are somewhat free-form, use whatever makes sense. Setbacks tend to be a bit worse than boons, that's just how adventuring works.
 
-**Skulls:** GROWING DANGER! Skulls are counted over many encounters, tallying up a growing Danger Meter. Every ten skulls counted since the party entered the dungeon adds another purple die to the base pool for following encounters. The Danger Meter resets every time the party leaves the dungeon.
+*Example Boons:*
 
-**Falcons:** GROWING HOPE! Similar to Skulls, Falcons add to the growing Hope Meter. Every ten Falcons rolled gives the party a safe place to camp for a bit, recovering HP and Spells. This will be detailed in the Part Two post. Reset the count each time Camp happens.
+* The explore action did not cost them any time or light, hurrah!
+* They find the hidden pack of a long lost adventurer and re-up some supplies, hurrah!
+* The next room offers them an immediate defensible position and cover, hurrah!
+
+*Example Setbacks:*
+
+* Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 turns of time from their durations.
+* One of their maintained spells suddenly fails.
+* Another random encounter happened by at the exact same time, oh no!
+* One of their rations spoils and must be discarded!
 
 **Blood Drops:** INJURY! When blood drops are rolled (Red dice only), the team suffered damage or stress of some kind in their charge forward. Roll Xd4 damage (X = current dungeon level) and have the team apply it among themselves.
 
 **Hourglasses:** DELAY! When an Hourglass is rolled (Green dice only), the team suffered some form of delay getting to the next room. Knock off an additional 1d4 Turns of game time.
 
-**Comets:** SURPRISE! The enemies (if any) are surprised! Heroes additionally receive +2 to each die roll that round. Surprise and the bonus last for # of rounds = # of comets rolled.
+**Comets:** MAGIC! Fortune smiles upon the heroes, as there is a guaranteed magical item in the room, waiting to be discovered! Of course, if there are Skulls in the pool, it could very well be cursed...
 
-**Chaos Stars:** TRAP! Roll a random trap, encountered either on the way to the new room, or as part of its composition, whichever makes most sense.
+**Chaos Stars:** TRAPS! For each Chaos Star, there is a random Trap somewhere in this room, placed as you see fit. If the traps are damaging traps, there is a limit to how much total dice of damage the traps in one room can deal. Each damaging trap deals a number of dice equal to the current level of the dungeon. The size of the die depends on the total number of traps in that dungeon room. If it is the only trap, then it uses d8s. If there are two-to-three traps, they use d6s. If there are *four or more* traps, they use d4s.
 
-#### Random Traps
+##### Random Traps
 
-Chaos stars bring traps, and to create them I’m using the handy set of generators at the donjon. And if all else fails, there is the 1d20 Tricks and Traps table from the AD&D 1E DMG.
+Chaos Stars bring traps, and to create them I’m using the handy set of generators at the donjon. And if all else fails, there is the 1d20 Tricks and Traps table from the AD&D 1E DMG.
 
 I personally like to pre-roll about 50 traps for each potential dungeon level and then print out the list in advance, just in case I lack an internet connection at my game. Then when a new one is encountered, I start at the top of the list, use the next one, and cross it off when done.
 
-#### Random Monsters
+##### Random Monsters
 
 With my current process, I use the Wandering Monsters table from p.129-130 of [Dark Dungeons][]. A single Crossblade means it has basic wandering numbers, two means it has an extra die, and three plus means it is a full-on lair of said creature, when applicable. A bit of common sense is required for working those out on the fly, of course, on a monster by monster basis.
 
-#### Random Treasure
+##### Random Treasure
 
-For Random Treasure, I’m using a Windows program I found ages ago called [BECMI Utilities][]. It generates treasure based on the old Rules Cyclopedia “A-O, P-V” treasure classes, which Dark Dungeons also uses. I’ve made heavy use of these very tables in my own long-running weekend games, and am quite familiar with their typical yields.
+For Random Encounter Treasure, I’m using a Windows program I found ages ago called [BECMI Utilities][]. It generates treasure based on the old Rules Cyclopedia “A-O, P-V” treasure classes, which Dark Dungeons also uses. I’ve made heavy use of these very tables in my own long-running weekend games, and am quite familiar with their typical yields.
 
-Conversely, the [Donjon][] has the same treasure tool available there, if you are running with an internet connection.
+Conversely, the [Donjon][] has the same treasure tool available there for AD&D/OSRIC editions (but not B/X and its ilk), if you are running with an internet connection.
 
 ### Backtracking
 
 Each time the party moves back through a room they’ve already visited, there is a cumulative 1 in 10 chance that the room has repopulated with enemies and stuff. If that chance occurs, roll a new encounter as normal. Nowhere is truly safe!
-
-### Hope and Danger
-
-As DM you need to keep track of two new growing tallies: Hope and Danger.
-
-As Falcons are rolled on the dice, the heroes accrue Hope. After accruing ten points of Hope, they are eligible for a Camp Action. Additionally, for every full 10 points of Hope they maintain, they receive one additional Reward Die (Blue) added to all Explore Action pools. When the heroes choose to camp, the Hope Meter is wiped entirely and starts again from zero.
-
-As Skulls are rolled, the Danger Meter grows. For every ten full points of the Danger Meter, add one more Dark Die (Black) to the encounter rolls. This tally only resets when the party returns to town.
-
-**NOTE:** I am still working out if these should be Blue or White, and Purple of Black instead. Needs additional testing. 
 
 ### Time-Keeping
 
@@ -173,7 +183,7 @@ This system of gaming requires a strict enforcement of timekeeping in the nature
 * One Turn = Sixty Rounds, and:
 * One Hour = 6 Turns
 
-This is crucial for keeping track of light sources and special short-duration game effects. Some basic notes of importance:
+This is crucial for keeping track of light sources and special short-duration game effects. Some basic notes of importance for the B/X and related rules sets that we use:
 
 * A **Torch** lasts for 1 Hour (6 Turns)
 * A **Lantern** lasts for 4 Hours (24 turns) on 1 flask of oil
@@ -284,7 +294,7 @@ If they still persist, as above have them roll an associated ability check. With
 
 ### Other Skills (Proficiencies, etc)
 
-If your flavor of game has skill proficiencies built into it for all characters, the assumption here is that simply *having* the skill in the first place means that you can just do it most of the time, no roll needed. You would only need to roll for those skills when you wanted ot needed to do something truly spectacular with them.
+If your flavor of game has skill proficiencies built into it for all characters, the assumption here is that simply *having* the skill in the first place means that you can just do it most of the time, no roll needed. You would only need to roll for those skills when you wanted or needed to do something truly spectacular with them.
 
 
 ## MOVING ONWARD! (The Explore Action)
@@ -311,11 +321,11 @@ Money loot from fallen allies is always split evenly among the survivors, unless
 
 ## CAMPING! (The Camp Action)
 
-As you explore, the GM builds up a secret "Hope" tally. Once you have accrued ten points or more, your leader can choose to take a Camp Action.
+The party Leader can choose to take a Camp Action at any time in the dungeon. This requires Light and Rations, however.
 
 **TIME:** 6 Turns (1 hour; light required, unless *entire* party has infravision!)
 
-**REQUIRES:** 1 Ration Each (expended!), 10+ Hope (expended)
+**REQUIRES:** 1 Ration Each (expended!)
 
 First, **EACH PLAYER PICKS ONE:**
 
