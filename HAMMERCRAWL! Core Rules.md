@@ -1,7 +1,7 @@
 title: Hammercrawl! Game Rules  
 author: N. Phillip Cole  
-version: 2.2  
-last updated: 2017-03-28  
+version: 2.3  
+last updated: 2017-10-18s  
 
 
 
