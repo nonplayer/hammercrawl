@@ -138,6 +138,7 @@ The special symbols on the divining dice translate to different aspects of the n
 * The explore action did not cost them any time or light, hurrah!
 * They find the hidden pack of a long lost adventurer and re-up some supplies, hurrah!
 * The next room offers them an immediate defensible position and cover, hurrah!
+* The next room offers **Safe Haven** once cleared of its occupants (see Camp Actions, below).
 
 *Example Setbacks:*
 
@@ -321,13 +322,22 @@ Money loot from fallen allies is always split evenly among the survivors, unless
 
 ## CAMPING! (The Camp Action)
 
-The party Leader can choose to take a Camp Action at any time in the dungeon. This requires Light and Rations, however.
+The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the DM announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light and Rations, however.
+
+To take a Camp Action
 
 **TIME:** 6 Turns (1 hour; light required, unless *entire* party has infravision!)
 
 **REQUIRES:** 1 Ration Each (expended!)
 
-First, **EACH PLAYER PICKS ONE:**
+First, **EACH CHARACTER DOES THE FOLLOWING FOR FREE:** (these are based on _Dark Dungeons_ character classes)
+
+* **Cleric:** Recover 1 daily spell use.
+* **Dwarf, Fighter, Halfling, Mystic, and Thief:** Recover 1 hit die of damage.
+* **Elf:** Either rememorize 1 daily spell *or* recover 1 hit die of damage.
+* **Magic-User:** Rememorize 1 daily spell.
+
+Then, **EACH PLAYER PICKS ONE** additional camp action:
 
 * **Rest:** Recover one rolled hit die per XP level, but also use one additional Ration.
 * **Re-Memorize:** Recover one daily spell use per character level.
@@ -337,12 +347,12 @@ First, **EACH PLAYER PICKS ONE:**
 * **Stand Watch:** Add a Green Die to the next room explored, and -1 to GM's camp encounter roll (below).
 * **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add Black dice instead.
 
-Then, **GM ROLLS 1d6:**
+Finally, **GM ROLLS 1d6:**
 
 * Subtract 1 for each party member Standing Watch
 * Add the current Dungeon Level
 
-If total is 4+, an encounter happens while they camp! Roll as usual to generate a standard encounter. If none of the PCs chose to Stand Watch, then they are also surprised!
+If total is 6+, an encounter happens while they camp! Roll as usual to generate a standard encounter. If none of the PCs chose to Stand Watch, then they are also surprised!
 
 If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter initiative checks.
 
