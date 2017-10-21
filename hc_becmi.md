@@ -1,10 +1,14 @@
 HAMMERCRAWL! System Appendix: BECMI
 
-A document for using the HAMMERCRAWL! method with the "BECMI" variant of D&D, and its related retroclones.
+A document for using the HAMMERCRAWL! method with the "BECMI" variant of D&D, and its related retroclones. For reference purposes, this document deals entirely with the _[Dark Dungeons](https://rpggeek.com/rpgitem/72635/dark-dungeons)_ retroclone, from Gratis Games.
 
-For reference purposes, this document deals entirely with the _[Dark Dungeons](https://rpggeek.com/rpgitem/72635/dark-dungeons)_ retroclone, from Gratis Games.
+One of the main goals of the process is to play older games while reducing book-checking. To that end, I've instituted a number of house rules to simplify play for fun and speed. Think of these as my system-specific House Rules for use when Hammercrawling.
 
-One of the main goals of the process is to play older games while reducing book-checking. To that end, I've instituted a number of house rules to simplify
+### Random Generators
+
+* [Treasure Generator (Windows)](https://drive.google.com/file/d/0B5L0rnHMuzezZzhlT1psYXFQU0k/view)
+* [NPC Generator](https://agathokles.pythonanywhere.com/)
+
 
 
 # Character Advancement
