@@ -7,6 +7,7 @@ One of the main goals of the process is to play older games while reducing book-
 ### Random Generators
 
 * [Treasure Generator (Windows)](https://drive.google.com/file/d/0B5L0rnHMuzezZzhlT1psYXFQU0k/view)
+* [BECMI Utilities]: http://www.dragonsfoot.org/forums/viewtopic.php?f=15&t=61875
 * [NPC Generator](https://agathokles.pythonanywhere.com/)
 
 

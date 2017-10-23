@@ -9,8 +9,15 @@ last updated: 2017-10-18s
 
 The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely randomize the creation of the Dungeon that the party is exploring. The core tools used in this are a full set of [Dungeonmorph][] Dice and/or cards, a full set of Warhammer Fantasy Roleplay 3rd Edition special dice, and an array of mostly-online random generators.
 
-HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-compiled home-rules method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play - I recommend [Dark Dungeons][] of the OSR realm.
+HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-compiled home-rules method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play.
 
+When this document was first forged, I was primarily using a "BECMI" rg retroclone called[Dark Dungeons][] for my gaming, so most of this main document was written primarily with that game in mind. However, I've recently begun to separate the more system-specific rules and notes into their own sub-documents, linked below as I add them:
+
+* [BECMI / Dark Dungeons](./hc_becmi.md)
+* [Dungeon Crawl Classics](./hc_dcc.md)
+* [Labyrinth Lord](./hc_lablord.md)
+* [Lamentations of the Flame Princess](./hc_lotfp.md)
+* [The Nightmares Underneath](./hc_tnu.md)
 
 
 # BASIC DM RULES!
@@ -18,6 +25,9 @@ HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-
 This document starts with the DM rules up front, because it is primarily written for DMs.
 
 ## THE TOOLS OF HAMMERCRAWL!
+
+This method focuses entirely on spontaneous, random play, and as such you're going to need a buttload of Random Generator tools. A good number of these are linked [in the Readme file](./README.md) and the system-specific sub-files.
+
 
 ### The Dungeon Generators
 
@@ -40,14 +50,6 @@ I use a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to 
 * **Purple: The Die of Challenge** - Purple dice can bring great danger and peril, but amplify XP! 
 
 Don't have dice of your own? [Use the Broken Tome generator!](http://brokentome.com/tools/DiceRoller.aspx)
-
-### The Generators
-
-* [Donjon][] - more random generators than a human will ever need
-* [Totalpartykill][] - fantastic formatted one-click random characters
-* [BECMI Utilities][] - an old Windows app for BECMI randomness
-* [Behind the Name][] - Best random name tool on the Internet, no contest
-* [Warhammer FRP3 Dice Tool][] - in case you don't have the physical dice
 
 ### Other Things You Need to Track
 
@@ -374,7 +376,6 @@ When the heroes finally return to town (which likely involves backtracking throu
 [Totalpartykill]: http://character.totalpartykill.ca/lotfp/
 [BECMI Utilities]: http://www.dragonsfoot.org/forums/viewtopic.php?f=15&t=61875
 [Behind the Name]: http://www.behindthename.com/random/
-[Warhammer FRP3 Dice Tool]: http://brokentome.com/tools/DiceRoller.aspx
 [Dungeonmorph]: http://dungeonmorphs.com/
 [Dark Dungeons]: http://www.drivethrurpg.com/product/177410/Dark-Dungeons
 [Torch Cards]: https://rpgcharacters.wordpress.com/2011/06/26/hand-tooled-dccrpg-character-sheets/
