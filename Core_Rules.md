@@ -11,7 +11,7 @@ The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely rando
 
 HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-compiled home-rules method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play.
 
-When this document was first forged, I was primarily using a "BECMI" rg retroclone called[Dark Dungeons][] for my gaming, so most of this main document was written primarily with that game in mind. However, I've recently begun to separate the more system-specific rules and notes into their own sub-documents, linked below as I add them:
+When this document was first forged, I was primarily using a "BECMI" rpg retroclone called[Dark Dungeons][] for my gaming, so most of this main document was written primarily with that game in mind. However, I've recently begun to separate the more system-specific rules and notes into their own sub-documents, linked below as I add them:
 
 * [BECMI / Dark Dungeons](./hc_becmi.md)
 * [Dungeon Crawl Classics](./hc_dcc.md)
@@ -39,7 +39,9 @@ Conversely, the [Donjon][] site has an extremely detailed set of random dungeon 
 
 ### The Divining Dice
 
-I use a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. To quickly run through the dice, with WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
+I use a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. Hell, this all really started because I had a bunch of these dice left over from getting rid of my WFRP3 set, and wanted to find a way to keep using them in other games.
+
+To quickly run through the dice, with WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
 
 * **Blue: The Reward Die** - rolled to find new fortunes and treasure.
 * **Red: The “Huzzah!” Die** - rolled when the heroes are especially brave and/or foolhardy.
@@ -103,13 +105,13 @@ Finally, for each room visited after the starting room, there is a cumulative 1 
 
 Next, it's time to roll the Divining Pool! This dice pool is built using a mix of regular gaming dice plus the fancy colored dice from WFRP3. **First we build the initial Divining Pool.** Always begin with the following:
 
-* **Standard Blue Die:** Always Start with one Blue Die.
-* **Challenge Level:** This is up to the players, chosen at the beginning of the dungeon! Add 1, 2, or 3 Purple dice.
+* **Standard Blue Die:** Always Start with one Blue WFRP3 Die.
+* **Challenge Level:** This is up to the players, chosen at the beginning of the dungeon! Add 1, 2, or 3 Purple WFRP3 dice.
 * **Encounter Check Die:** Depends on your method for determining a random encounter. Using Dark Dungeons, this is a single d6, with an encounter occurring on a 1 (see p. 130).
 * **Reaction Check Dice:** To determine initial reactions of the encounter. In Dark Dungeons, this is 2D6 (see p. 128-129).
 * **Encounter Type Die:** To determine _what_ you encounter. In Dark Dungeons, this is a d20 (see p. 129-130).
 
-Before rolling, add extra Warhammer dice based on the situation:
+Before rolling, add extra Warhammer FRP3 dice based on the situation:
 
 * **Did they stealthily enter the room?** Add a Green Die.
 * **Did they kick in the door and rush the room?** Add a Red Die.
@@ -127,7 +129,7 @@ The special symbols on the divining dice translate to different aspects of the n
 
 **First, the Normal Dice.** These determine if, what, and how you encounter. See respective game rules for these, but in Dark Dungeons which I use, they are on pages 128-130, mostly.
 
-*As for the Warhammer Dice...*
+*As for the Warhammer FRP3 Dice...*
 
 **Hammers and Crossblades!** These cancel each other out one for one. Any remaining adjust the Reaction roll, with Hammers increasing it and Crossblades decreasing it, one for one.
 

@@ -1,7 +1,7 @@
 The HAMMERCRAWL! RPG method  
 by N. Phillip Cole
 
-HAMMERCRAWL! is not a complete game, but a method of running OSR style games 100% randomly. Start with the core rules document in this repo.
+HAMMERCRAWL! is not a complete game, but a method of running OSR style games 100% randomly. Start with [the core rules document](./Core_Rules.md) in this repo.
 
 This specific document is a collection of links and meta/setup information for the game process.
 
