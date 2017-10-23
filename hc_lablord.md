@@ -6,3 +6,5 @@ One of the main goals of the process is to play older games while reducing book-
 
 ### Random Generators
 
+* [Character Generator](http://truculent.org/llchar/)
+* [A better one!](http://wizardawn.and-mag.com/tool_ladvg.php)
