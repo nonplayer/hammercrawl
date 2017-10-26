@@ -208,6 +208,7 @@ I like to give out prizes for my convention games, based on in-game accomplishme
 * 1st Death by Other Player / Friendly Fire
 * Longest-lived character at the end
 * Most (own) Character Deaths
+* Most Deaths from Friendly Fire
 * Most Monster Kills
 * FINAL VOTE: Most Valuable Player-driven *Action*
 * FINAL VOTE: Most Valuable Player-driven *Cunning Plan*
@@ -337,13 +338,13 @@ To take a Camp Action
 First, **EACH CHARACTER DOES THE FOLLOWING FOR FREE:** (these are based on _Dark Dungeons_ character classes)
 
 * **Cleric:** Recover 1 daily spell use.
-* **Dwarf, Fighter, Halfling, Mystic, and Thief:** Recover 1 hit die of damage.
-* **Elf:** Either rememorize 1 daily spell *or* recover 1 hit die of damage.
+* **Dwarf, Fighter, Halfling, Mystic, and Thief:** Recover half (round up) of currently-lost HPs.
+* **Elf:** Either rememorize 1 daily spell *or* recover half (round up) of currently-lost HPs.
 * **Magic-User:** Rememorize 1 daily spell.
 
 Then, **EACH PLAYER PICKS ONE** additional camp action:
 
-* **Rest:** Recover one rolled hit die per XP level, but also use one additional Ration.
+* **Rest:** Recover half (round up) of currently-lost HPs (or the second half, if doubling up from the free action above), but also use one additional Ration.
 * **Re-Memorize:** Recover one daily spell use per character level.
 * **Invest:** Convert one-fourth (rounded up) of their current financial loot value to immediate character XP, discarding the rest. Leveling up requires a separate action, however…
 * **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many stones for your sling.
