@@ -7,3 +7,4 @@ One of the main goals of the process is to play older games while reducing book-
 ### Random Generators
 
 * [Purple Sorcerer's Random Party Generator](https://purplesorcerer.com/create_upper.php)
+* For Dungeons, the Microlite20 version on the Donjon seems the most DCC-friendly
