@@ -11,13 +11,7 @@ The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely rando
 
 HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-compiled home-rules method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play.
 
-When this document was first forged, I was primarily using a "BECMI" rpg retroclone called[Dark Dungeons][] for my gaming, so most of this main document was written primarily with that game in mind. However, I've recently begun to separate the more system-specific rules and notes into their own sub-documents, linked below as I add them:
-
-* [BECMI / Dark Dungeons](./hc_becmi.md)
-* [Dungeon Crawl Classics](./hc_dcc.md)
-* [Labyrinth Lord](./hc_lablord.md)
-* [Lamentations of the Flame Princess](./hc_lotfp.md)
-* [The Nightmares Underneath](./hc_tnu.md)
+When this document was first forged, I was primarily using a "BECMI" rpg retroclone called[Dark Dungeons][] for my gaming, so most of this main document was written primarily with that game in mind. However, I've recently begun to separate the more system-specific rules and notes into their own sub-documents, linked in [this project's README](./README.md).
 
 
 # BASIC DM RULES!
@@ -26,7 +20,7 @@ This document starts with the DM rules up front, because it is primarily written
 
 ## THE TOOLS OF HAMMERCRAWL!
 
-This method focuses entirely on spontaneous, random play, and as such you're going to need a buttload of Random Generator tools. A good number of these are linked [in the Readme file](./README.md) and the system-specific sub-files.
+This method focuses entirely on spontaneous, random play, and as such you're going to need a buttload of Random Generator tools. A good number of these are linked also [the Readme file](./README.md) and the system-specific sub-files.
 
 
 ### The Dungeon Generators

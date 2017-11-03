@@ -10,8 +10,6 @@ One of the main goals of the process is to play older games while reducing book-
 * [BECMI Utilities]: http://www.dragonsfoot.org/forums/viewtopic.php?f=15&t=61875
 * [NPC Generator](https://agathokles.pythonanywhere.com/)
 
-
-
 # Character Advancement
 
 **First and foremost**, multiply all base encounter XP rewards by 10, across the board. This is a game of rapid progression through dangerous dungeons, and faster XP gain is a bit more entertaining. This multiplier *does not* apply to *any* other sources of XP.
