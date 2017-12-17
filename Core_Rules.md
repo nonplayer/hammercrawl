@@ -240,6 +240,8 @@ Conversely, the [Donjon][] has the same treasure tool available there for AD&D/O
 
 Since this is a role-playing game, the description of what follows is pretty crucial. Use the contents of your map and the results of the Divining Roll to inform the description that you then give to the players.
 
+When describing the new node's environs, do so with a hefty helping of vagueness. Give basic descriptions without exact measurements. Describe things "in passing" or otherwise cursory descriptions. If they want extended details and more specific measurements, they need to spend more time searching!
+
 
 #### Apply the Mechanics of Exploration
 
@@ -265,10 +267,9 @@ Each time the party moves back through a room they've already visited, there is 
 
 This system of gaming requires a strict enforcement of timekeeping in the nature of "turns" of dungeon action. In accordance with classic rules:
 
-* One Turn = Ten Minutes of in-game time
-* One Round = Ten Seconds, and thus:
-* One Turn = Sixty Rounds, and:
-* One Hour = 6 Turns
+* One Round = Ten Seconds of in-game time
+* One Turn = Ten Minutes of in-game time (or Sixty Rounds of action time)
+* One Hour = 6 Turns (or 360 Rounds)
 
 This is crucial for keeping track of light sources and special short-duration game effects. Some basic notes of importance for the B/X and related rules sets that we use:
 
@@ -277,7 +278,7 @@ This is crucial for keeping track of light sources and special short-duration ga
 * **Light spells** last for 6 turns, +1 per caster level
 * Each **Explore Action** costs a turn as well. This does not locate any secrets, but does give a full visual description of the room they are entering.
 * Each **Combat encounter** lasts a minimum of 1 turn, *regardless* of actual number of rounds. Combats longer than 60 rounds can last more than 1 turn - divide the total number of rounds by 60, rounding up, minimum of 1. That's how many turns it takes.
-* **Searching for Secrets** takes one turn per 10 x 10 area of the room, and uses the Search skill. Characters can split up to search different places simultaneously and save time. For thieves, this will also include searching for traps.
+* **Searching for Secrets** takes one turn per 10 x 10 area of the node, and uses the Search skill. Characters can split up to search different places simultaneously and save time. For thieves, this will also include searching for traps.
 
 
 ## END GAME REWARDS!
