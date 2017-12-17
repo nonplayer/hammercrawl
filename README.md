@@ -22,9 +22,22 @@ This specific document is a collection of links and meta/setup information for t
 
 Note: Any generator tools deemed to be system-specific are being moved into relevant sub docs.
 
-### Universal (Mostly)
+### Quick Reference
 
-* [The Donjon](https://donjon.bin.sh/) - Almost everything you will ever need!
+These are the Generators that I use most often, so am linking them here for quick access:
+
+* [My own self-written Old School Randomizer](https://github.com/nonplayer/OldSchoolCharGen) - I'll start by tooting my own horn here, but I'm continually working on this tool to try and get it to do everything I need for this project and more beyond.
+* [The Donjon](https://donjon.bin.sh/) - Almost everything you will ever need! I use this a lot, here are my main tabs:
+	- [Party Names](http://donjon.bin.sh/fantasy/name/#type=setting;setting=Party)
+	- [Dungeon Names](http://donjon.bin.sh/fantasy/name/#type=setting;setting=Dungeon)
+	- [AD&D Traps](http://donjon.bin.sh/adnd/random/#type=trap;level=Level%20I)
+	- [Inn Generator](http://donjon.bin.sh/fantasy/inn/)
+	- NPCs: Both [Generic Fantasy](http://donjon.bin.sh/fantasy/random/#type=npc) and [AD&D-Specific](http://donjon.bin.sh/adnd/random/#type=npc)
+	- Treasure: [AD&D](http://donjon.bin.sh/adnd/treasure/) and hopefully BECMI coming soon...
+
+
+### Universals
+
 * [Labyrinth Lord / Basic D&D Treasure Generator (site)](http://www.mithrilandmages.com/utilities//LLTreasure.php) - This site has a LOT of cool generators, in fact, almost as many as The Donjon
 * [Rafael's OSR Random Generators](http://www.rafaelchandler.com/osr.html)
 
