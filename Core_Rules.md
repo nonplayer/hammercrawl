@@ -1,8 +1,6 @@
 title: Hammercrawl! Game Rules  
 author: N. Phillip Cole  
-version: 2.4  
-last updated: 2017-12-17  
-
+last updated: 2017-12-29  
 
 
 # WELCOME TO HAMMERCRAWL!
@@ -20,10 +18,23 @@ This document starts with the DM rules up front, because it is primarily written
 
 ## THE TOOLS OF HAMMERCRAWL!
 
-This method focuses entirely on spontaneous, random play, and as such you're going to need a buttload of Random Generator tools. A good number of these are linked also [the Readme file](./README.md) and the system-specific sub-files.
+### The Core Role-Playing Game System
 
+HAMMERCRAWL! is primarily intended to be used with "OSR" role-playing games - that is, modern games that are remakes, retroclones, or otherwise tributes to the "old school" expectations of early (1970s-1980s) official variants of Dungeons and Dragons. This means the classic spread of six broad ability scores, five weird saving throws, a very small assortment of character classes (including "race as class" options popular at those times), and a whole mess of seemingly unfair and totally deadly traps.
 
-### The Dungeon Generators
+While this method is definitely aimed at OSR games, they aren't a hard requirement. Really, all you need is a "hardcore" style of dungeon crawl with maximum randomization built into as many aspects of its play structure. There are other games out there that do this, but usually it is the OSR catalog that does it best.
+
+The *most* compatible games are those with built-in randomization of treasure, encounters, reactions, and more. For me, systems with treasure tables go to the top of the list of options, putting those derived from either B/X, BECMI, or AD&D as my primary candidates. This is because for me, the complete randomization of treasure is a crucial part of the experience, and thus systems that only give loose guidelines and expect the DM to do all the work of treasure assignment don't fit the bill.
+
+#### A Note on Treasure Tables
+
+Please be careful when using pre-published treasure table randomizers! While B/X and BECMI use the same basic alphabetized tables, they are deceptively similar to AD&D, which also uses an alphabetized table. However, the latter's table options are completely different than those of the former, with drastically rearranged values. **Do not** use AD&D treasure table generators with B/X and BECMI, and vice-versa! I learned this the hard (but very hilarious) way in a demo game once, and while the results were quite fun, the game took a completely different turn at that point.
+
+### The Randomizers
+
+This method focuses entirely on spontaneous, random play, and as such you're going to need a buttload of Random Generator tools. A good number of these are linked in [the base Readme file](./README.md) as well as the system-specific sub-files therein.
+
+### The Dungeon
 
 To generate Dungeon rooms, I initially used a set of Dungeonmorph dice and their matching blue-and-white cards (the latter kept into handy dry-erase sleeves). They even come with little symbols and a handy key to them, for adding more spontaneous dungeon features on the fly.
 
@@ -114,15 +125,15 @@ A "Lair Node" is a tile where a guaranteed Lair Fight will occur. These will hav
 
 Each level of the Dungeon should have a number of Lair Nodes equal to the level of the dungeon + 1d4. The easiest way to place them is to just look at the dungeon you have created, and place them in the mist interesting-looking, lair-like tiles. Otherwise, divide the number of tiles by the number of lairs, and then roughly space them out every X tiles. Placing a lair on the exit tile is usually a fun setup!
 
-Do not pre-populate the denizens of these Lair Nodes! Instead, let the random encounter generate them for you when discovered by the players!
+Do not pre-populate the denizens of these Lair Nodes! Instead, let the random encounter generate them for you when discovered by the players.
 
 
 
 ## DUNGEON CRAWLING!
 
-Running the Dungeon is primarily a process of listening and responding. Use the group's Explore Actions to build the Dungeon and randomize its contents. Use their Camp Actions to allow them a brief respite from the dangers that surround them. Finally, use their Town Actions to level them up and let them re-stock their supplies.
+Running the Dungeon is primarily a process of listening and responding. Use the group's **Explore Actions** to build the Dungeon and randomize its contents. Use their **Camp Actions** to allow them a brief respite from the dangers that surround them. Finally, use their Town Actions to level them up and let them re-stock their supplies.
 
-What you do outside of all of this is up to you. It IS a role-playing game, after all, so run it otherwise as you would your game of choice!
+What you do outside of all of this is up to you. It *is* a role-playing game, after all, so run it otherwise as you would your game of choice!
 
 ### Explore Actions
 
@@ -425,12 +436,13 @@ To take a Camp Action
 
 **REQUIRES:** 1 Ration Each (expended)
 
-First, **EACH CHARACTER DOES THE FOLLOWING FOR FREE:** (these are based on _Dark Dungeons_ character classes)
+First, **EACH CHARACTER DOES THE FOLLOWING FOR FREE:** (based on _Dark Dungeons_ character classes)
 
-* **Cleric:** Recover 1 daily spell use.
+* **Cleric, Magic-User:** Re-memorize 1 daily spell.
 * **Dwarf, Fighter, Halfling, Mystic, and Thief:** Recover half (round up) of currently-lost HPs.
 * **Elf:** Either re-memorize 1 daily spell *or* recover half (round up) of currently-lost HPs.
-* **Magic-User:** Re-memorize 1 daily spell.
+
+*System Note:* If using a different system, adjust accordingly, giving primary spellcasters a spell back, and hybrids a choice.
 
 Then, **EACH PLAYER PICKS ONE** additional camp action:
 
@@ -458,11 +470,21 @@ When the heroes finally return to town (which likely involves backtracking throu
 
 * Restore HP to Max, and relearn daily Spells and Powers.
 * OPTIONAL: Each player can choose to spend any amount of their loot to acquire better goods at the DM's allowance. This could take time, though, so you might want to skip it in Con and One-Shot games. 
-* If their loot value is enough to level them up, apply just enough to level them up and discard the rest.
+* If their loot value is enough to level them up, apply just enough to level them up and discard the rest as having been spent on R&R and upkeep.
 * Apply any effects of character leveling.
-* If their loot value is not enough to level them up, apply only half of it as XP and discard the rest - you shouldn't have left the dungeon so soon!
+* If their loot value is not enough to level them up, apply half of it as XP and discard the rest as having been spent on R&R and upkeep. You shouldn't have left the dungeon so soon!
 * Restore their standard starting equipment list to full original capacity.
 * Return to the Dungeon!
+
+
+
+# Final Notes
+
+
+## Beyond the Dungeon
+
+I've recently been thinking of how I can extend this system to build out a world beyond the individual dungeons themselves. There are a number of resources I've found online, including random hex-builders and more. If I get more feedback and take this process further, I'll add more notes and collections for beyond-the-dungeon randomization here as well.
+
 
 
 [Donjon]: http://donjon.bin.sh/
