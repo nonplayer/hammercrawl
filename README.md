@@ -6,6 +6,7 @@ HAMMERCRAWL! is not a complete game, but a method of running OSR style games 100
 
 This specific document is a collection of links and meta/setup information for the game process.
 
+Any original text here is distributed by License: [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## The Main Files
 
@@ -56,5 +57,4 @@ These are the Generators that I use most often, so am linking them here for quic
 * [Kinda funky one](http://www.apolitical.info/webgame/dungeon/index2?mode=2)
 * [An older article collecting a bunch](http://inkwellideas.com/advice/random-dungeon-generators-reviewed/)
 * [PAID PRODUCT but could be good?](http://www.mapmage.com/mapmage.html)
-
 
