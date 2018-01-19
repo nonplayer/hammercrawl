@@ -1,11 +1,21 @@
 title: Hammercrawl! Game Rules  
 author: N. Phillip Cole  
-last updated: 2017-12-29  
+last updated: 2018-01-19  
 
 
 # WELCOME TO HAMMERCRAWL!
 
-The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely randomize the creation of the Dungeon that the party is exploring. The core tools used in this are a full set of [Dungeonmorph][] Dice and/or cards, a full set of Warhammer Fantasy Roleplay 3rd Edition special dice, and an array of mostly-online random generators.
+The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely randomize an old-school "Dungeon Crawl" experience. This method is based on the assumption that at the core of every good Dungeon Crawl are the following five components:
+
+1. Player Characters
+2. A Dungeon (and Maps)
+3. Encounters (both combat and non-)
+4. Traps
+5. Treasure
+
+The HAMMERCRAWL! method uses multiple randomizers to provide these core elements on the fly, for as close to a 100% procedurally-generated game experience as possible.
+
+Aside from numerous digital generators, the core *physical* tools used in this are a full set of [Dungeonmorph][] Dice and/or cards, a full set of Warhammer Fantasy Roleplay 3rd Edition special dice, and an array of mostly-online random generators.
 
 HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-compiled home-rules method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play.
 
@@ -26,21 +36,11 @@ While this method is definitely aimed at OSR games, they aren't a hard requireme
 
 The *most* compatible games are those with built-in randomization of treasure, encounters, reactions, and more. For me, systems with treasure tables go to the top of the list of options, putting those derived from either B/X, BECMI, or AD&D as my primary candidates. This is because for me, the complete randomization of treasure is a crucial part of the experience, and thus systems that only give loose guidelines and expect the DM to do all the work of treasure assignment don't fit the bill.
 
-#### A Note on Treasure Tables
-
-Please be careful when using pre-published treasure table randomizers! While B/X and BECMI use the same basic alphabetized tables, they are deceptively similar to AD&D, which also uses an alphabetized table. However, the latter's table options are completely different than those of the former, with drastically rearranged values. **Do not** use AD&D treasure table generators with B/X and BECMI, and vice-versa! I learned this the hard (but very hilarious) way in a demo game once, and while the results were quite fun, the game took a completely different turn at that point.
-
 ### The Randomizers
 
 This method focuses entirely on spontaneous, random play, and as such you're going to need a buttload of Random Generator tools. A good number of these are linked in [the base Readme file](./README.md) as well as the system-specific sub-files therein.
 
-### The Dungeon
 
-To generate Dungeon rooms, I initially used a set of Dungeonmorph dice and their matching blue-and-white cards (the latter kept into handy dry-erase sleeves). They even come with little symbols and a handy key to them, for adding more spontaneous dungeon features on the fly.
-
-Since starting this project, I've streamlined my process to use only the cards, saving the dungeon dice for more extreme one-off cases. The basic process involves going from room to room, encountering obstacles, grabbing treasure, and moving ever onward. When it's time to move to a new room, I grab one of the the dungeon cards and lay it out as the next room. The pieces are all laid out on the table, and the dungeon grows dynamically as the players explore it.
-
-Conversely, the [Donjon][] site has an extremely detailed set of random dungeon generators. Using them to pre-build your dungeon can save a lot of time at the table for playing. You can do the same with the dice and cards, too.
 
 ### The Divining Dice
 
@@ -60,7 +60,7 @@ Don't have dice of your own? [Use the Broken Tome generator!](http://brokentome.
 
 ### Other Things You Need to Track
 
-I just use a graph paper notebook for these:
+I just use a graph paper notebook for these, or a OneNote book:
 
 * Character list (player names, PC names, classes, AC)
 * Dungeon Level Exit Roll Tally
@@ -69,23 +69,39 @@ I just use a graph paper notebook for these:
 
 ## GAME SETUP!
 
-First off, you need some players. I think this process works best with no more than 5.
+First off, you need some players. I think this process works best with 1 GM and no more than 5 players.
 
 You then need the basic tools.
 
 Then you need to print off a stack of characters using any of the recommended generators. I suggest a stack of 50, that should last you a few games.
 
-Designate one player character to be the party Leader!
+Designate one player character to be the **Party Leader**!
 
-Have the party leader pick the Difficulty Level of the dungeon, from the three options below:
+Have the party leader pick the Difficulty Level of the dungeon, from the three options below. These set the base Divining Pool for the Explore actions:
 
 1. Normal: Only a single Purple die is used for the Divining Pool, XP rewards are normal.
 2. Hardcore: 2 Purple Dice are used in the Divining Pool, XP rewards are doubled (x2).
 3. IRON MAN! 3 Purple Dice are used in the Divining Pool, XP rewards are quintupled (x5)
 
-### Building the Dungeon in Advance
+Finally, see below for details on the "Big Five" Components necessary to your Dungeon Crawl experience.
 
-While this does partially-defeat the whole "100% random" approach to play encouraged by this system, I admit that the dungeon can be the trickiest thing to build on the fly, and the most time-consuming. To save on time, pre-designing a dungeon is pretty simple using the random dungeon generators at the [Donjon][]. Hell, it can even pre-plan encounters, saving you the need to roll for the enemy types in your divining pool!
+### Generating the Characters
+
+The hard way to do this is to manually roll every character by hand. Personally I prefer to use automated generators. Some of these are linked in the README, and others are linked in the individual sub-system documents.
+
+### Generating the Dungeon
+
+To generate Dungeon rooms, I initially used a set of Dungeonmorph dice and their matching blue-and-white cards (the latter kept into handy dry-erase sleeves). They even come with little symbols and a handy key to them, for adding more spontaneous dungeon features on the fly.
+
+Since starting this project, I've streamlined my process to use only the cards, saving the dungeon dice for more extreme one-off cases. The basic process involves going from room to room, encountering obstacles, grabbing treasure, and moving ever onward. When it's time to move to a new room, I grab one of the the dungeon cards and lay it out as the next room. The pieces are all laid out on the table, and the dungeon grows dynamically as the players explore it.
+
+Conversely, the [Donjon][] site has an extremely detailed set of random dungeon generators. Using them to pre-build your dungeon can save a lot of time at the table for playing. You can do the same with the dice and cards, too.
+
+There are two basic approaches to Dungeon Generation. You can certainly do so on the fly (described below in the "Explore Actions" section). That can add some slow-down to a live play session, however, so I've provided tips on building it in advance, as well. While this does partially-defeat the whole "100% random" approach to play that is encouraged by this gaming method, I admit that the dungeon can be the trickiest thing to build on the fly, and the most time-consuming. To save on time, pre-designing a dungeon is pretty simple using the random dungeon generators at the [Donjon][]. Hell, it can even pre-plan encounters, saving you the need to roll for the enemy types in your divining pool!
+
+#### Building the Dungeon on the Fly
+
+This is detailed further below in the Explore Action rules, where it occurs during play.
 
 #### Pre-Game Dungeon-Building with Dungeonmorph Cards
 
@@ -127,7 +143,43 @@ Each level of the Dungeon should have a number of Lair Nodes equal to the level 
 
 Do not pre-populate the denizens of these Lair Nodes! Instead, let the random encounter generate them for you when discovered by the players.
 
+### Generating the Encounters
 
+Every game system that I'm focusing on *should* have its own encounter generator. See the system-specific sub-documents for more details.
+
+### Generating the Traps
+
+I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the [Donjon][], and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons: 
+
+| Roll | Trap                                                                                  | 
+|----|-----------------------------------------------------------------------------------------| 
+| 1  | Acid Trap (1d6 x level damage)                                                          | 
+| 2  | Arrow Trap (1d6 x level damage)                                                         | 
+| 3  | Blinding Gas Trap                                                                       | 
+| 4  | Elevator Room Trap (descends 1 level)                                                   | 
+| 5  | Falling Block Trap (1d6 x 1d6 x level damage)                                           | 
+| 6  | Falling Ceiling Trap (1d10 x 1d10 x level damage)                                       | 
+| 7  | Fire Trap (1d6 damage)                                                                  | 
+| 8  | Flooding Pit Trap (1d6 x 10 x level feet, 1d6 damage per 10 ft.)                        | 
+| 9  | Flooding Room Trap                                                                      | 
+| 10 | Lightning Trap (1d6 x level damage)                                                     | 
+| 11 | Net Trap                                                                                | 
+| 12 | Pendulum Trap (1d6 x 1d6 x level damage)                                                | 
+| 13 | Pit Trap (1d6 x 10 x level feet, 1d6 damage per 10 ft.)                                 | 
+| 14 | Poison Dart Trap (1d4 damage plus poison; onset 1d8-1 rounds, save or level x10 damage) | 
+| 15 | Poison Gas Trap (onset 1d8-1 rounds, save or level x10 damage)                          | 
+| 16 | Scythe Trap (1d6 x 1d6 x level damage)                                                  | 
+| 17 | Sleep Gas Trap                                                                          | 
+| 18 | Spear Trap (1d8 x level damage)                                                         | 
+| 19 | Spiked Pit Trap (1d6 x 10 x level feet, 1d8 damage per 10 ft.)                          | 
+| 20 | Teleporter Trap                                                                         | 
+
+
+### Generating the Treasure
+
+As mentioned before, this method works best with game systems that have built-in treasure tables that allow complete randomization of treasure. The only games that I know of that specifically do this are B/X, BECMI, AD&D 1e, AD&D 2e, and their associated retroclones and variants. If you know of others, please update me!
+
+Please be careful when using pre-published treasure table randomizers! While B/X and BECMI use the same basic alphabetized tables, they are deceptively similar to AD&D, which also uses an alphabetized table. However, the latter's table options are completely different than those of the former, with drastically rearranged values. **Do not** use AD&D treasure table generators with B/X and BECMI, and vice-versa! I learned this the hard (but very hilarious) way in a demo game once, and while the results were quite fun, the game took a completely different turn at that point.
 
 ## DUNGEON CRAWLING!
 
