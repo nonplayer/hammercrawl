@@ -19,6 +19,11 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 	- [The Nightmares Underneath](./hc_tnu.md)
 
 
+## Coming Soon...
+
+* HAMMERSPRAWL! Cyberpunk Mission Crawling
+* SLAMMERCRAWL! Scifi Hulk Crawling
+
 ## Generators
 
 Note: Any generator tools deemed to be system-specific are being moved into relevant sub docs.
