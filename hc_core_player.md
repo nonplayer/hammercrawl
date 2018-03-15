@@ -97,14 +97,6 @@ If they still persist, as above have them roll an associated ability check. With
 
 If your flavor of game has skill proficiencies built into it for all characters, the assumption here is that simply *having* the skill in the first place means that you can just do it most of the time, no roll needed. You would only need to roll for those skills when you wanted or needed to do something truly spectacular with them.
 
-
-# MOVING ONWARD! (The Explore Action)
-
-Each Dungeon Die or Card represents one room of the Dungeon. There will likely be many rooms, and multiple levels of them! Each room can contain numerous horrible dangers, but also a good chance at wondrous loot as well!
-
-In order to continue exploring the Dungeon, your party leader must tell the DM that your group is moving on to the next Room - be sure to discuss tactics and approaches before you move! Moving to the next room in this fashion initiates the **Explore Action** and tells the DM that it's time to roll the dungeon die and the Divining Pool. The rules for divining the Explore Action are in the DM section of this document (further above). **NOTE** that the Explore action requires a minimum of 1 turn of time, so have light sources ready!
-
-
 ## FIGHTING THINGS! (Combat Rounds)
 
 Combat flows as normal for the base game's rules. HAMMERCRAWL! adds the following new special action(s):
@@ -120,13 +112,22 @@ During active combat, a character can take any one readily-accessible item from 
 Money loot from fallen allies is always split evenly among the survivors, unless they otherwise work something else out among themselves.
 
 
+# MOVING ONWARD! (The Explore Action)
+
+Each dungeon will likely consist of multiple levels, with many rooms among them. Each room can contain numerous horrible dangers, but also a good chance at wondrous loot as well. Moving from room to room requires exploration, which invites danger but also creates opportunity for new treasures and rewards!
+
+In order to continue exploring the Dungeon, your party leader must tell the DM that your group is moving on to the next Room - be sure to discuss tactics and approaches before you move! Moving to the next room in this fashion initiates the **Explore Action** and tells the DM that it's time to roll the dungeon die and the Divining Pool. The rules for divining the Explore Action are in the DM's Document.
+
+**TIME:** The Explore action requires a minimum of 1 turn of time, so have light sources ready!
+
+
 # CAMPING! (The Camp Action)
 
 The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the DM announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light and Rations, however.
 
 To take a Camp Action
 
-**TIME:** 6 Turns (1 hour; light is required unless the *entire* party can see in the dark)
+**TIME:** The action takes a minimum of 6 Turns (1 hour; light is required and spent accordingly unless the *entire* party can see in the dark)
 
 **REQUIRES:** 1 Ration Each (expended)
 
@@ -148,7 +149,7 @@ Then, **EACH PLAYER PICKS ONE** additional camp action:
 * **Stand Watch:** Add a Green Die to the next room explored, and -1 to GM's camp encounter roll (below).
 * **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add Black dice instead.
 
-Finally, **GM ROLLS 1d6:**
+Finally, **DM ROLLS 1d6:**
 
 * Subtract 1 for each party member Standing Watch
 * Add the current Dungeon Level
