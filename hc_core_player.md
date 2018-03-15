@@ -1,10 +1,15 @@
 title: Hammercrawl! Game Rules (Player Section)  
 author: N. Phillip Cole  
-last updated: 2018-03-15
+last updated: 2018-03-15  
 
-This document serves as a Player's guide to staying alive during the HAMMERCRAWL! process.
+# A Player's Guide to HAMMERCRAWL!
 
-# CHARACTER MANAGEMENT!
+This document serves as a Player's guide to staying alive during the **HAMMERCRAWL!** process. There is more behind-the-scenes data in the [DM's Guide](./hc_core_dm.md), while this document focuses specifically on your role at the table.
+
+For the most part, the general play of the game is handled according to the rules of the game system you are playing. This document details specific overrides put in place to better facilitate randomized old-school play.
+
+
+# Characters
 
 For a true HAMMERCRAWL! experience, the DM will pre-gen 50 or so characters in advance, and set out a stack on the table, face-down.
 
@@ -115,7 +120,7 @@ During active combat, a character can take any one readily-accessible item from 
 Money loot from fallen allies is always split evenly among the survivors, unless they otherwise work something else out among themselves.
 
 
-## CAMPING! (The Camp Action)
+# CAMPING! (The Camp Action)
 
 The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the DM announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light and Rations, however.
 
@@ -153,7 +158,7 @@ If total is 6+, an encounter happens while they camp! Roll as usual to generate 
 If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter initiative checks.
 
 
-## RETURNING HOME! (The Town Action)
+# RETURNING HOME! (The Town Action)
 
 When the heroes finally return to town (which likely involves backtracking through the dungeon to their original exit), the following happens, in order:
 
