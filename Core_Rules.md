@@ -245,42 +245,76 @@ Finally, depending on your game system, you may add other dice as well, such as:
 
 With the Divining Pool complete, it's time to roll! **I highly suggest using a dice tray for this.**
 
-The special symbols on the WFRP3 divining dice translate to different aspects of the next room, determined as follows:
+The special symbols on the WFRP3 divining dice translate to different aspects of both the transition and the next room beyond. These pips create a pool that can be used to more or less purchase different effects to apply to the journey forward. As DM, you pick and choose which outcomes to apply, based on the feel and beat of the current flow of the game. The results are determined as follows:
 
-**Hammers and Crossblades!** These cancel each other out one for one. Any remaining determine the size of the encounter that results. Net Crossblades mean the encounter begins at an Aggressive or even Hostile reaction level, while net Hammers indicate the encounter beings at a Neutral or even Friendly reaction level. Encounter size based on number of net pips:
+##### **Comets and Chaos Stars: Extreme Outcomes!**
 
-* **None:** They canceled each other out, meaning no encounter at all!
-* **1 pip:** Standard Encounter for the current dungeon level
-* **2 pips:** Strong Encounter for the current dungeon level
-* **3+ pips:** Super Strong Encounter for the current dungeon level, possibly a Lair (if not predetermined beforehand)
+**Note:** Comets and Chaos Stars *do not* cancel each other out; total them both and apply their outcomes together.
 
-**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hmmer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
+These represent extreme boons or dangers in the destination room/node of the dungeon. For each **Comet** rolled in the pool, add +3 Hammers to the results! For each Chaos Star, add +3 Crossblades!
 
-**Falcons and Skulls!** These cancel each other out one for one. These represent temporary effects the party faces in the immediate room and/or encounter. Net Falcons give the party temporary boons, while net Skulls give them setbacks. These are somewhat free-form, use whatever makes sense. Setbacks tend to be a bit worse than boons, that's just how adventuring works.
+Take note of and possibly apply effects from applicable Comets and Chaos Stars before moving on to...
 
-*Example Boons:*
+##### **Blood Drops and Hour Glasses: Loss of Resources**
 
-* The explore action did not cost them any time or light, hurrah!
-* They find the hidden pack of a long lost adventurer and re-up some supplies, hurrah!
-* The next room offers them an immediate defensible position and cover, hurrah!
-* They catch the encounter by surprise, hurrah!
-* The next room offers **Safe Haven** once cleared of its occupants (see Camp Actions, below).
-
-*Example Setbacks:*
-
-* Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 turns of time from their durations.
-* One of their maintained spells suddenly fails.
-* Another random encounter happened by at the exact same time, oh no!
-* The encounter catches them by surprise and/or at a disadvantage of preparation!
-* One of their rations spoils and must be discarded!
+**Note:** Blood Drops and Hour Glasses *do not* cancel each other out; total them both and apply their outcomes together.
 
 **Blood Drops:** INJURY! When blood drops are rolled (Red dice only), the team suffered damage or stress of some kind in their charge forward. Roll Xd4 damage (X = current dungeon level) and have the team apply it among themselves.
 
-**Hourglasses:** DELAY! When an Hourglass is rolled (Green dice only), the team suffered some form of delay getting to the next room. Knock off an additional 1d4 Turns of game time.
+**Hourglasses:** DELAY! When an Hourglass is rolled (Green dice only), the team suffered some form of additional delay getting to the next room. Knock off an additional 1d4 Turns of game time.
 
-**Comets:** MAGIC! Fortune smiles upon the heroes, as there is a guaranteed magical item in the room, waiting to be discovered! Of course, if there are Skulls in the pool, it could very well be cursed...
+Apply all effects from Blood Drops and Hourglasses before moving on to...
 
-**Chaos Stars:** TRAPS! For each Chaos Star, there is a random Trap somewhere in this room, placed as you see fit. If the traps are damaging traps, there is a limit to how much total dice of damage the traps in one room can deal. Each damaging trap deals a number of dice equal to the current level of the dungeon. The size of the die depends on the total number of traps in that dungeon room. If it is the only trap, then it uses d8s. If there are two-to-three traps, they use d6s. If there are *four or more* traps, they use d4s.
+##### **Falcons and Skulls: Encounters in Transit**
+
+**Note:** These cancel each other out one for one, and only the *net* total remaining are counted.
+
+Falcons give the party temporary boons, while Skulls give them setbacks. Setbacks tend to be a bit worse than boons, though, but that's just how adventuring works.
+
+Net *Falcons* represent minor boons encountered during travel to the next room. For each net Falcon, apply a boon similar to the items on the list below. These are somewhat free-form, use whatever makes sense:
+
+* The explore action did not cost them any time or light.
+* They find the hidden pack of a long lost adventurer and re-up some supplies.
+* The party receives a bonus re-roll that can be used to re-roll any single die in the next room only.
+* blah
+
+Net *Skulls* represent minor setbacks incurred during travel to the next room. Similar to Falcons, apply from the list below:
+
+* Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 turns of time from their durations.
+* One of their maintained spells suddenly fails.
+* Another random encounter happened by while in transit!
+* One of their rations spoils and must be discarded!
+* blah
+
+Apply all effects from net Falcons or Skulls before moving on to...
+
+##### **Hammers and Crossblades: Encounters at the Destination**
+
+**Note:** Hammers and Crossblades *do not* cancel each other out; total them both and apply their outcomes together.
+
+**Hammers:** Hammers represent greater boons and windfalls discovered in the *next room* of the dungeon. For each *total* Hammer in the pool, the next room/node contains a boon such as those on the list below. Each can be selected multiple times, even combined:
+
+* The room contains a(n additional) random friendly encounter.
+* Change the reaction grade of an existing encounter in the room by one level toward friendly.
+* Decrease the difficulty (or dungeon level) of one planned or random encounter by 1.
+* The party catches the room's encounter(s) by surprise.
+* The room contains an environmental feature that favors or protects the Party.
+* The room will function as a Safe Haven once cleared of encounters.
+* One of the treasures they find is guaranteed to be Magical.
+* ...or any from the Falcons list above.
+
+**Crossblades:** Crossblades represent sources of danger encountered in the *next room* of the dungeon. Similar to Hammers, options for Crossblades include:
+
+* The room contains a(n additional) random hostile encounter.
+* Change the reaction grade of an existing encounter in the room by one level toward hostile.
+* Increase the difficulty (or dungeon level) of one planned or random encounter by 1.
+* The occupants of the room catch the party by surprise.
+* The room contains an environmental feature that favors or protects the Enemies.
+* The room contains a dangerous trap that may or may not be concealed.
+* One of the treasures they find is guaranteed to be Cursed.
+* ...or any from the Skulls list above.
+
+**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hmmer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
 
 ##### Random Traps
 
