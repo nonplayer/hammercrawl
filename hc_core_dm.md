@@ -6,7 +6,7 @@ last updated: 2018-03-15
 
 This document serves as a DM's guide to running the **HAMMERCRAWL!** process. The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely randomize an old-school "Dungeon Crawl" experience. This method is based on the assumption that at the core of every good Dungeon Crawl are the following five components:
 
-1. Player Characters (see the [Player's Guide](./hc_player_dm.md) for PC-specific information)
+1. Player Characters (see the [Player's Guide](./hc_core_player.md) for PC-specific information)
 2. A Dungeon (and Maps)
 3. Encounters (both combat and non-)
 4. Traps
