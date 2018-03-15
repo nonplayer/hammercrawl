@@ -1,7 +1,8 @@
-title: Hammercrawl! Game Rules  
+title: Hammercrawl! Game Rules (DM Section)  
 author: N. Phillip Cole  
 last updated: 2018-01-19  
 
+This document serves as a DM's guide to running the HAMMERCRAWL! process.
 
 # WELCOME TO HAMMERCRAWL!
 
@@ -22,13 +23,9 @@ HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-
 I've recently begun to separate the more system-specific rules and notes into their own sub-documents, linked in [this project's README](./README.md). Most of this main document was written primarily with the game [Dark Dungeons][] in mind, and extended rules for that system are in the linked document as well.
 
 
-# BASIC DM RULES!
+# THE TOOLS OF HAMMERCRAWL!
 
-This document starts with the DM rules up front, because it is primarily written for DMs.
-
-## THE TOOLS OF HAMMERCRAWL!
-
-### The Core Role-Playing Game System
+## The Core Role-Playing Game System
 
 HAMMERCRAWL! is primarily intended to be used with "OSR" role-playing games - that is, modern games that are remakes, retroclones, or otherwise tributes to the "old school" expectations of early (1970s-1980s) official variants of Dungeons and Dragons. This means the classic spread of six broad ability scores, five weird saving throws, a very small assortment of character classes (including "race as class" options popular at those times), and a whole mess of seemingly unfair and totally deadly traps.
 
@@ -36,13 +33,11 @@ While this method is definitely aimed at OSR games, they aren't a hard requireme
 
 The *most* compatible games are those with built-in randomization of treasure, encounters, reactions, and more. For me, systems with treasure tables go to the top of the list of options, putting those derived from either B/X, BECMI, or AD&D as my primary candidates. This is because for me, the complete randomization of treasure is a crucial part of the experience, and thus systems that only give loose guidelines and expect the DM to do all the work of treasure assignment don't fit the bill.
 
-### The Randomizers
+## The Randomizers
 
 This method focuses entirely on spontaneous, random play, and as such you're going to need a buttload of Random Generator tools. A good number of these are linked in [the base Readme file](./README.md) as well as the system-specific sub-files therein.
 
-
-
-### The Divining Dice
+## The Divining Dice
 
 I use a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. Hell, this all really started because I had a bunch of these dice left over from getting rid of my WFRP3 set, and wanted to find a way to keep using them in other games.
 
@@ -58,7 +53,7 @@ To quickly run through the dice, with WFRP3 you get a mix of seven different typ
 
 Don't have dice of your own? [Use the Broken Tome generator!](http://brokentome.com/tools/DiceRoller.aspx)
 
-### Other Things You Need to Track
+## Other Things You Need to Track
 
 I just use a graph paper notebook for these, or a OneNote book:
 
@@ -67,7 +62,7 @@ I just use a graph paper notebook for these, or a OneNote book:
 * Death List
 
 
-## GAME SETUP!
+# GAME SETUP!
 
 First off, you need some players. I think this process works best with 1 GM and no more than 5 players.
 
@@ -85,11 +80,11 @@ Have the party leader pick the Difficulty Level of the dungeon, from the three o
 
 Finally, see below for details on the "Big Five" Components necessary to your Dungeon Crawl experience.
 
-### Generating the Characters
+## Generating the Characters
 
 The hard way to do this is to manually roll every character by hand. Personally I prefer to use automated generators. Some of these are linked in the README, and others are linked in the individual sub-system documents.
 
-### Generating the Dungeon
+## Generating the Dungeon
 
 To generate Dungeon rooms, I initially used a set of Dungeonmorph dice and their matching blue-and-white cards (the latter kept into handy dry-erase sleeves). They even come with little symbols and a handy key to them, for adding more spontaneous dungeon features on the fly.
 
@@ -99,11 +94,11 @@ Conversely, the [Donjon][] site has an extremely detailed set of random dungeon 
 
 There are two basic approaches to Dungeon Generation. You can certainly do so on the fly (described below in the "Explore Actions" section). That can add some slow-down to a live play session, however, so I've provided tips on building it in advance, as well. While this does partially-defeat the whole "100% random" approach to play that is encouraged by this gaming method, I admit that the dungeon can be the trickiest thing to build on the fly, and the most time-consuming. To save on time, pre-designing a dungeon is pretty simple using the random dungeon generators at the [Donjon][]. Hell, it can even pre-plan encounters, saving you the need to roll for the enemy types in your divining pool!
 
-#### Building the Dungeon on the Fly
+### Building the Dungeon on the Fly
 
 This is detailed further below in the Explore Action rules, where it occurs during play.
 
-#### Pre-Game Dungeon-Building with Dungeonmorph Cards
+### Pre-Game Dungeon-Building with Dungeonmorph Cards
 
 If you have a set of Dungeonmorph cards, you can instead use my personal method for pre-game dungeon generation. This saves time in play if you have it in advance, and creates some pretty interesting setups.
 
@@ -135,7 +130,7 @@ When finished, use a black marker to fill in the "dead exits" on the tiles as ma
 
 Once you have the flow mastered, this process takes no more than 5-10 minutes per dungeon level. Since even a single level can play host to a multitude of game sessions, you most likely only really need one or two, tops. With 90 available tiles, the scenery remains fresh for many sessions of adventuring.
 
-##### (Optional) Setting Lair Nodes
+#### (Optional) Setting Lair Nodes
 
 A "Lair Node" is a tile where a guaranteed Lair Fight will occur. These will have larger encounter numbers, and most likely pose great challenges to the players. Choosing their locations in advance can give you a bit more freedom and strategy mid-session when guiding the game proper.
 
@@ -143,11 +138,11 @@ Each level of the Dungeon should have a number of Lair Nodes equal to the level 
 
 Do not pre-populate the denizens of these Lair Nodes! Instead, let the random encounter generate them for you when discovered by the players.
 
-### Generating the Encounters
+## Generating the Encounters
 
 Every game system that I'm focusing on *should* have its own encounter generator. See the system-specific sub-documents for more details.
 
-### Generating the Traps
+## Generating the Traps
 
 I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the [Donjon][], and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons: 
 
@@ -175,29 +170,29 @@ I use the following roll table for traps. The basic names are cribbed directly f
 | 20 | Teleporter Trap                                                                         | 
 
 
-### Generating the Treasure
+## Generating the Treasure
 
 As mentioned before, this method works best with game systems that have built-in treasure tables that allow complete randomization of treasure. The only games that I know of that specifically do this are B/X, BECMI, AD&D 1e, AD&D 2e, and their associated retroclones and variants. If you know of others, please update me!
 
 Please be careful when using pre-published treasure table randomizers! While B/X and BECMI use the same basic alphabetized tables, they are deceptively similar to AD&D, which also uses an alphabetized table. However, the latter's table options are completely different than those of the former, with drastically rearranged values. **Do not** use AD&D treasure table generators with B/X and BECMI, and vice-versa! I learned this the hard (but very hilarious) way in a demo game once, and while the results were quite fun, the game took a completely different turn at that point.
 
-## DUNGEON CRAWLING!
+# DUNGEON CRAWLING!
 
 Running the Dungeon is primarily a process of listening and responding. Use the group's **Explore Actions** to build the Dungeon and randomize its contents. Use their **Camp Actions** to allow them a brief respite from the dangers that surround them. Finally, use their Town Actions to level them up and let them re-stock their supplies.
 
 What you do outside of all of this is up to you. It *is* a role-playing game, after all, so run it otherwise as you would your game of choice!
 
-### Explore Actions
+## Explore Actions
 
 What to do when the players choose a new Explore Action:
 
-#### (OPTIONAL) Build Out the Dungeon
+### (OPTIONAL) Build Out the Dungeon
 
 **NOTE:** If you're using a pre-built dungeon to save time, skip this step.
 
 When the players choose to move to the next room with an Explore Action, it's time to build the dungeon. For years I would use a combination of matching cards and dice from Dungeonmorph, but recently I've streamlined my method to use only the cards. You can use whatever method you prefer, but I've made notes on two options below.
 
-##### The Dungeonmorph Dice Method
+#### The Dungeonmorph Dice Method
 
 If you truly want a simple one shot, run-and-go, never-to-return method, use this one. There are 15 Dungeonmorph dice available for this task, each one a different theme of location.
 
@@ -207,7 +202,7 @@ Then, roll ALL the remaining dice at once, *except for one* - that's right, leav
 
 Finally, roll that last die, add it somewhere interesting, and note it as the Exit to the next level. You now have yourself a completely randomized dungeon made of awesome dice, complete with entrance and the exit down to the next level. Go forth and plunder!
 
-##### The Dungeonmorph Cards Method
+#### The Dungeonmorph Cards Method
 
 Using just the tiles, you want to build a shuffled stack first of as many as you have, preferably in dry-erase sleeves. Draw one, and that's the first node of the dungeon. Roll 1d8 to determine the entrance, and close off the second entrance on that side. Then roll 1d6 to determine how many of the entrances on the other three sides also lead off somewhere. Use a marker to "seal" the rest off.
 
@@ -217,7 +212,7 @@ For each room visited after the starting room, there is a *cumulative* 1 in 20 c
 
 If you somehow happen to "close off" the dungeon using the above methods, without rolling a level exit, either A) add a level exit organically to the last-placed node tile, or B) just accept it as a single-level dungeon and call it good. Not every dungeon needs to be a multi-level descent into the depths of Demon Heck!
 
-#### Build the Divining Pool
+### Build the Divining Pool
 
 Next, it's time to roll the Divining Pool! This dice pool is built using a mix of regular gaming dice plus the fancy colored dice from WFRP3. **First we build the initial Divining Pool.** This consists of two or more Warhammer funky dice, and possibly additional standard dice based on your game system of choice and any other third-party random tables you're incorporating.
 
@@ -241,13 +236,13 @@ Finally, depending on your game system, you may add other dice as well, such as:
 * **d20:** To determine the Encounter Type in Dark Dungeons (pages 219-139)
 * **Any other Dice:** If you have any other random check tables, add their dice to the pool, and roll them all at once to save time.
 
-#### Roll the Dice
+### Roll the Dice
 
 With the Divining Pool complete, it's time to roll! **I highly suggest using a dice tray for this.**
 
 The special symbols on the WFRP3 divining dice translate to different aspects of both the transition and the next room beyond. These pips create a pool that can be used to more or less purchase different effects to apply to the journey forward. As DM, you pick and choose which outcomes to apply, based on the feel and beat of the current flow of the game. The results are determined as follows:
 
-##### **Comets and Chaos Stars: Extreme Outcomes!**
+#### **Comets and Chaos Stars: Extreme Outcomes!**
 
 **Note:** Comets and Chaos Stars *do not* cancel each other out; total them both and apply their outcomes together.
 
@@ -255,7 +250,7 @@ These represent extreme boons or dangers in the destination room/node of the dun
 
 Take note of and possibly apply effects from applicable Comets and Chaos Stars before moving on to...
 
-##### **Blood Drops and Hour Glasses: Loss of Resources**
+#### **Blood Drops and Hour Glasses: Loss of Resources**
 
 **Note:** Blood Drops and Hour Glasses *do not* cancel each other out; total them both and apply their outcomes together.
 
@@ -265,7 +260,7 @@ Take note of and possibly apply effects from applicable Comets and Chaos Stars b
 
 Apply all effects from Blood Drops and Hourglasses before moving on to...
 
-##### **Falcons and Skulls: Encounters in Transit**
+#### **Falcons and Skulls: Encounters in Transit**
 
 **Note:** These cancel each other out one for one, and only the *net* total remaining are counted.
 
@@ -288,7 +283,7 @@ Net *Skulls* represent minor setbacks incurred during travel to the next room. S
 
 Apply all effects from net Falcons or Skulls before moving on to...
 
-##### **Hammers and Crossblades: Encounters at the Destination**
+#### **Hammers and Crossblades: Encounters at the Destination**
 
 **Note:** Hammers and Crossblades *do not* cancel each other out; total them both and apply their outcomes together.
 
@@ -316,51 +311,49 @@ Apply all effects from net Falcons or Skulls before moving on to...
 
 **Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hmmer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
 
-#### Random Traps
+### Random Traps
 
 To randomly add traps, I'm using the handy set of generators at the donjon. And if all else fails, there is the 1d20 Tricks and Traps table from the AD&D 1E DMG. To speed this up, I've added a handy traps table a bit further up.
 
 I personally like to pre-roll about 50 traps for each potential dungeon level and then print out the list in advance, just in case I lack an internet connection at my game. Then when a new one is encountered, I start at the top of the list, use the next one, and cross it off when done.
 
-#### Random Monsters
+### Random Monsters
 
 With my current process, I use the Wandering Monsters table from p.129-130 of [Dark Dungeons][]. A single Crossblade means it has basic wandering numbers, two means it has an extra die, and three plus means it is a full-on lair of said creature, when applicable. A bit of common sense is required for working those out on the fly, of course, on a monster by monster basis.
 
-#### Random Treasure
+### Random Treasure
 
 For Random Encounter Treasure, I'm using a Windows program I found ages ago called [BECMI Utilities][]. It generates treasure based on the old Rules Cyclopedia "A-O, P-V" treasure classes, which Dark Dungeons also uses. I've made heavy use of these very tables in my own long-running weekend games, and am quite familiar with their typical yields.
 
 Conversely, the [Donjon][] has the same treasure tool available there for AD&D/OSRIC editions (but not B/X and its ilk), if you are running with an internet connection.
 
 
-#### Describe the Exploration
+### Describe the Exploration
 
 Since this is a role-playing game, the description of what follows is pretty crucial. Use the contents of your map and the results of the Divining Roll to inform the description that you then give to the players.
 
 When describing the new node's environs, do so with a hefty helping of vagueness. Give basic descriptions without exact measurements. Describe things "in passing" or otherwise cursory descriptions. If they want extended details and more specific measurements, they need to spend more time searching!
 
 
-#### Apply the Mechanics of Exploration
+### Apply the Mechanics of Exploration
 
 Exploration has a few resource mechanics applied to it as well. When you've finished describing the new locale, before handling any encounters, resolve the following:
 
 **Time:** Exploration always takes at least 1 turn of time, possibly more with bad Divining Pool results. Mark off a minimum of 1 turn from all light sources and other ongoing time-tracked effects.
 
 
-
-
-#### Handle Any Encounters
+### Handle Any Encounters
 
 After Rolling the pool, Describing the exploration, and then Applying the basic mechanics, it's time to resolve any Encounters that may have been rolled!
 
 
-### Exploration Considerations
+## Exploration Considerations
 
-#### Backtracking
+### Backtracking
 
 Each time the party moves back through a room they've already visited, there is a cumulative 1 in 10 chance that the room has repopulated with enemies and stuff. If that chance occurs, roll a new encounter as normal. Nowhere is truly safe!
 
-#### Time-Keeping
+### Time-Keeping
 
 This system of gaming requires a strict enforcement of timekeeping in the nature of "turns" of dungeon action. In accordance with classic rules:
 
@@ -378,7 +371,7 @@ This is crucial for keeping track of light sources and special short-duration ga
 * **Searching for Secrets** takes one turn per 10 x 10 area of the node, and uses the Search skill. Characters can split up to search different places simultaneously and save time. For thieves, this will also include searching for traps.
 
 
-## END GAME REWARDS!
+# END GAME REWARDS!
 
 I like to give out prizes for my convention games, based on in-game accomplishments:
 
@@ -397,175 +390,7 @@ I like to give out prizes for my convention games, based on in-game accomplishme
 These are a work in progress.
 
 
-
-# BASIC PLAYER RULES!
-
-As a player, there's not much more that you need to do other than play the game as you normally would. Using the HAMMERCRAWL! method, the only extra player concerns are in the realms of Character Creation, Character Death, and Meta-Game Actions.
-
-
-## CHARACTER MANAGEMENT!
-
-### Your First Character
-
-Youngest player at the table draws first! Draw Three characters from the stack, pick one. Put the other two face down on the TOP. Repeat until everyone has one character. The LAST person puts their two rejects on the BOTTOM of the stack.
-
-Newcomer to the table? Draw three, pick one, put the others on the BOTTOM!
-
-Play this character until they die!
-
-#### Naming Your Character
-
-We've discovered that the _absolute most_ fun is had by having other players name your character. So once you've drawn up your random character, pass them to the left, right, or anywhere really, and have a different player give them a name.
-
-### Who is Party Leader?
-
-One character must be responsible for relaying to the DM the party's official plans. With the initial group selected, the players must decide on the starting Leader of their party.
-
-### Your Character's Inevitable Demise
-
-When you die, your gear becomes party loot. Each item has a 50% (use a d6) chance of being made worthless and useless by your death, however!
-
-Draw a new character from the pile! You arrive either one Turn or one Round later, whichever makes more sense or seems more exciting.
-
-For added fun. draw a tombstone on the back of your character sheet, and give the character a fitting epitaph.
-
-If the dead character was party leader, the group needs to elect a new leader! If this is instantaneous, then move on. However if there is any debate or argument on the role, **it takes one turn of game time** - mark off those lights!
-
-### Don't forget Food and Lights!
-
-Before you head off on your trek, you should make special note that Food and Lights are extremely important to survival in the HAMMERCRAWL! experience. Dungeons are dark and scary places, and most characters can't see in the dark. Without light, you can't act, nor can you camp! Similarly, Food is required in order to camp as well. No food? No camp action. Camping in this system is an *extremely* beneficial resource for the party, so be sure to manage your light and food accordingly!
-
-To better keep track of your light sources, I highly recommend making use of the awesome custom [Torch Cards][] from Dyson Logos. There are lanterns there too! They make great tools for tracking the countdown of lights.
-
-### Managing Loot and XP
-
-The characters will gain XP from encounters they defeat, and hopefully loot as well. XP earned from encounters is immediately applied to the character sheet.
-
-Using some traditional old school game rules, monetary loot also counts as XP - but in HAMMERCRAWL!, that XP is only applied *after* the heroes make it back to town with the loot. So when loot is acquired, write down the loot and its value, but do not count it as XP just yet. Heroes can also convert a fraction of the loot to XP as a Camp Action, but this wastes the vast majority of it.
-
-
-## USING SKILLS!
-
-Skills are handled as one would expect in the base game being played. Since HAMMERCRAWL! is written primarily with "old school" games in mind, this means that the method expects the same kind of old school mentalities to apply when using "skills" in play.
-
-If you are new to this concept, I recommend starting with the ["Quick Primer for Old School Gaming"](http://www.lulu.com/items/volume_63/3019000/3019374/1/print/3019374.pdf) as a good introductory read.
-
-In short, in "old school" style play, the characters are all assumed to be able to do a great number of things that aren't otherwise specifically written on their character sheets, *provided* they have a reasonable amount of time to do so. For just a few examples, given a low-stress situation (as in "not being actively stabbed by murder trees and melted by acid goblins") and appropriate time to accomplish, the following assumptions can be made:
-
-* Fighters and Thieves can climb a wall or barrier with assumed handholds.
-* Wizards and Priests can decipher ancient tomes through extended study.
-* A character from a woodsman background can tell if a plant is poisonous or not.
-* Anyone unencumbered and without clanky bits can walk slowly and silently for a bit.
-* ...and so on
-
-Again, these are just some basic examples of assumptions that can be made. When there is a question of complexity and/or added danger, use one or more (or all!) of the following basic guidelines:
-
-##### Is time a factor worth considering in this moment?
-
-If so, let them perform the task without a roll, but let them know it takes one or more turns of time to accomplish. This can diminish light sources and spell durations, and also affect the exploration dice pools!
-
-##### Is there a chance of a dangerous complication?
-
-This includes things such as "they might hurt themselves" or such. If so, incorporate a basic Ability Check (d20 roll-under). Either way they succeed at the task, but with a failed roll they also suffer a setback, such as:
-
-* HP loss (1 to 1d4 points maybe)
-* Equipment loss
-* Injury or such resulting in Temporary penalty to near-future die rolls
-* an added challenge die to the next exploration pool
-* alerting nearby enemies
-* some other appropriate environmental response
-
-##### Is there a chance of failure?
-
-This one's a tough call, because again, these are supposed to be capable adventurers. If you truly feel that the feat is a tough enough that they might not succeed, first let them know this in your own preferred DM narrative way. Try to encourage them to offer new strategies to overcome the task, fall-back plans, or complete reassessment of the situation.
-
-If they still persist, as above have them roll an associated ability check. With a failed roll, they both fail the task _and_ suffer some complication from above. Sucks, but they knew the risks before they rolled!
-
-### "Thief Skills"
-
-**However**, certain characters (Thieves, Specialists, etc) get very specific skills written down on their character sheets. The general approach to these skills is to only require them to be rolled against when the situation seems otherwise impossible, when the odds are visibly and obviously stacked against them. Each Thief skill has built into it the assumption that something really bad might happen if it fails. If you're not willing to make that bad thing happen, then what's the point of making the thief roll in the first place?
-
-### Other Skills (Proficiencies, etc)
-
-If your flavor of game has skill proficiencies built into it for all characters, the assumption here is that simply *having* the skill in the first place means that you can just do it most of the time, no roll needed. You would only need to roll for those skills when you wanted or needed to do something truly spectacular with them.
-
-
-## MOVING ONWARD! (The Explore Action)
-
-Each Dungeon Die or Card represents one room of the Dungeon. There will likely be many rooms, and multiple levels of them! Each room can contain numerous horrible dangers, but also a good chance at wondrous loot as well!
-
-In order to continue exploring the Dungeon, your party leader must tell the DM that your group is moving on to the next Room - be sure to discuss tactics and approaches before you move! Moving to the next room in this fashion initiates the **Explore Action** and tells the DM that it's time to roll the dungeon die and the Divining Pool. The rules for divining the Explore Action are in the DM section of this document (further above). **NOTE** that the Explore action requires a minimum of 1 turn of time, so have light sources ready!
-
-
-## FIGHTING THINGS! (Combat Rounds)
-
-Combat flows as normal for the base game's rules. HAMMERCRAWL! adds the following new special action(s):
-
-* **Loot Fallen Ally**
-
-### New Personal Action: Loot Fallen Ally
-
-During active combat, a character can take any one readily-accessible item from a fallen ally as an action. Any more in-depth looting must wait until the action is over and the danger clear.
-
-*After* combat, multiple PCs may wish to loot their ally at the same time. Handle this as a special kind initiative. Roll off as usual, and then on their turn a PC may take either one specific item or 1d4 random items.
-
-Money loot from fallen allies is always split evenly among the survivors, unless they otherwise work something else out among themselves.
-
-
-## CAMPING! (The Camp Action)
-
-The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the DM announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light and Rations, however.
-
-To take a Camp Action
-
-**TIME:** 6 Turns (1 hour; light is required unless the *entire* party can see in the dark)
-
-**REQUIRES:** 1 Ration Each (expended)
-
-First, **EACH CHARACTER DOES THE FOLLOWING FOR FREE:** (based on _Dark Dungeons_ character classes)
-
-* **Cleric, Magic-User:** Re-memorize 1 daily spell.
-* **Dwarf, Fighter, Halfling, Mystic, and Thief:** Recover half (round up) of currently-lost HPs.
-* **Elf:** Either re-memorize 1 daily spell *or* recover half (round up) of currently-lost HPs.
-
-*System Note:* If using a different system, adjust accordingly, giving primary spellcasters a spell back, and hybrids a choice.
-
-Then, **EACH PLAYER PICKS ONE** additional camp action:
-
-* **Rest:** Recover half (round up) of currently-lost HPs (or the second half, if doubling up from the free action above), but also use one additional Ration.
-* **Re-Memorize:** Recover one previously-spent daily spell use per character level.
-* **Invest:** Convert one-fourth (rounded up) of their current financial loot value to immediate character XP (1GP = 1XP exchange), marking that loot off of the character sheet. Leveling up requires a separate action, however...
-* **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many stones for your sling.
-* **Level up!:** If the hero has enough XP to reach the next level, they can apply the effects of that level as a Camp Action. This adds a Hit Die, as well as any other new-level bonuses. Note that it does not heal existing HP loss or restore used spells or abilities (those are separate Camp Actions, above).
-* **Stand Watch:** Add a Green Die to the next room explored, and -1 to GM's camp encounter roll (below).
-* **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add Black dice instead.
-
-Finally, **GM ROLLS 1d6:**
-
-* Subtract 1 for each party member Standing Watch
-* Add the current Dungeon Level
-
-If total is 6+, an encounter happens while they camp! Roll as usual to generate a standard encounter. If none of the PCs chose to Stand Watch, then they are also surprised!
-
-If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter initiative checks.
-
-
-## RETURNING HOME! (The Town Action)
-
-When the heroes finally return to town (which likely involves backtracking through the dungeon to their original exit), the following happens, in order:
-
-* Restore HP to Max, and relearn daily Spells and Powers.
-* OPTIONAL: Each player can choose to spend any amount of their loot to acquire better goods at the DM's allowance. This could take time, though, so you might want to skip it in Con and One-Shot games. 
-* If their loot value is enough to level them up, apply just enough to level them up and discard the rest as having been spent on R&R and upkeep.
-* Apply any effects of character leveling.
-* If their loot value is not enough to level them up, apply half of it as XP and discard the rest as having been spent on R&R and upkeep. You shouldn't have left the dungeon so soon!
-* Restore their standard starting equipment list to full original capacity.
-* Return to the Dungeon!
-
-
-
 # Final Notes
-
 
 ## Beyond the Dungeon
 

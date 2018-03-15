@@ -10,7 +10,9 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 
 ## The Main Files
 
-* [The HammerCrawl Core Rules](./Core_Rules.md) - Details on how HAMMERCRAWL! works.
+* **The HammerCrawl Core Rules:** The entire process, defined
+	- [DM's Guide](./hc_core_dm.md)
+	- [Players' Guide](./hc_core_player.md)
 * Subsystem Documents:
 	- [BECMI / Dark Dungeons](./hc_becmi.md)
 	- [Dungeon Crawl Classics](./hc_dcc.md)
