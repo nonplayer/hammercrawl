@@ -316,17 +316,17 @@ Apply all effects from net Falcons or Skulls before moving on to...
 
 **Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hmmer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
 
-##### Random Traps
+#### Random Traps
 
-Chaos Stars bring traps, and to create them I'm using the handy set of generators at the donjon. And if all else fails, there is the 1d20 Tricks and Traps table from the AD&D 1E DMG.
+To randomly add traps, I'm using the handy set of generators at the donjon. And if all else fails, there is the 1d20 Tricks and Traps table from the AD&D 1E DMG. To speed this up, I've added a handy traps table a bit further up.
 
 I personally like to pre-roll about 50 traps for each potential dungeon level and then print out the list in advance, just in case I lack an internet connection at my game. Then when a new one is encountered, I start at the top of the list, use the next one, and cross it off when done.
 
-##### Random Monsters
+#### Random Monsters
 
 With my current process, I use the Wandering Monsters table from p.129-130 of [Dark Dungeons][]. A single Crossblade means it has basic wandering numbers, two means it has an extra die, and three plus means it is a full-on lair of said creature, when applicable. A bit of common sense is required for working those out on the fly, of course, on a monster by monster basis.
 
-##### Random Treasure
+#### Random Treasure
 
 For Random Encounter Treasure, I'm using a Windows program I found ages ago called [BECMI Utilities][]. It generates treasure based on the old Rules Cyclopedia "A-O, P-V" treasure classes, which Dark Dungeons also uses. I've made heavy use of these very tables in my own long-running weekend games, and am quite familiar with their typical yields.
 
