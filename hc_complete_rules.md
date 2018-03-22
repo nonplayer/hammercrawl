@@ -84,7 +84,7 @@ You will need the following for this process:
 
 ##### Sidebar: The Online Generation Method
 
-I strongly recommend using my companion random character generator program for this process. It allows entire stacks of characters to be generated with a few keystrokes. Hammersmiths can thus create a single pile of replacement characters for instant access and insertion into an ongoing dungeon, saving time in longer play sessions with high death tolls.
+I strongly recommend using [my companion random character generator program](https://github.com/nonplayer/OldSchoolCharGen) for this process. It allows entire stacks of characters to be generated with a few keystrokes. Hammersmiths can thus create a single pile of replacement characters for instant access and insertion into an ongoing dungeon, saving time in longer play sessions with high death tolls.
 
 ### Step 1: Roll Your Class
 
@@ -130,6 +130,13 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 #### Dwarf Defender
 
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
+
 **Born in Armor:** Dwarves in Medium or heavier armour do not suffer AC penalties from low DEX mods. Heavy armour never reduces their movement speed.
 
 **Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a turn searching.
@@ -142,17 +149,58 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 #### Elf Exemplar
 
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
+
+**Ageless Perfection:** Elves are immune to sleep, charm, slow, haste, aging, and energy drain effects, *unless* those effects are results of the magic of an Elf (self or other, alive or undead).
+
 **Blade Dancer:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
+**Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a turn searching.
+
 #### Halfling Burglar
+
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:** ???
+  - **Decent:** ???
+  - **Bad:** ???
+
+**Backup Thief:** Halflings can function as thieves of a sort, in a pinch.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
 #### Halforc Berserker
 
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
+
 #### Human Cleric
 
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
+
 #### Human Fighter
+
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
 
 **Combat Superiority:** Fighters have a bonus attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
@@ -160,7 +208,21 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 #### Human Magic-User
 
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
+
 #### Human Thief
+
+* **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
 
 
 
@@ -316,6 +378,16 @@ Note that player characters' levels are capped at 15, and as such an adventurer'
 
 #### Combat Actions
 
+These are sorted alphabetically, for ease of reference.
 
+##### Attack
+
+##### Shield Bash
+
+The shield bash is a special attack available to Dwarves and Fighters.
+
+blah
+
+Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
 
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
