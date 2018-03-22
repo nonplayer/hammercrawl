@@ -14,6 +14,16 @@ This document is the beginning of my attempt to write a full HAMMERCRAWL! game s
 
 The intended result will be a recognizable OSR game with inspirations from *Dark Dungeons*, *The Nightmares Underneath*, and *Dungeon Crawl Classics*.
 
+### Acknowledgements
+
+HAMMERCRAWL! in this "complete game" format would not exist without the amazing creativity contained in the followed pre-existing games:
+
+* [Dark Dungeons](http://www.drivethrurpg.com/product/177410/Dark-Dungeons) by Blacky the Blackball
+* [Dungeon Crawl Classics](http://goodman-games.com/dungeon-crawl-classics-rpg/) by Goodman Games
+* [The Nightmares Underneath](https://redboxvancouver.wordpress.com/2016/11/14/the-nightmares-underneath-rpg/) by Red Box Vancouver
+
+Seriously, you should probably just go play those instead, they're much better games with much better production values.
+
 ### Cost, License, and Contributions
 
 HAMMERCRAWL! is now and always will be a free game. Very few (if any) of these concepts are original to me, and asking for money for the project would just be wrong.
@@ -106,18 +116,47 @@ Each class has its own special rules and abilities. Take note of yours using the
 #### TEMPLATE
 
 * **Hit Dice:**
+* **Attack Rank:**
+* **Saving Throws:**
+  - **Good:**
+  - **Decent:**
+  - **Bad:**
+
+**Special Ability:** Blah
+
+**Special Ability:** Blah
+
+**Special Ability:** Blah
 
 #### Dwarf Defender
 
+**Born in Armor:** Dwarves in Medium or heavier armour do not suffer AC penalties from low DEX mods. Heavy armour never reduces their movement speed.
+
+**Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a turn searching.
+
+**Dwarf Battlemaster:** Dwarves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+
+**Dwarven Resilience:** Dwarves have advantage on all of their Good saves.
+
+**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the AC bonus of their shield when using the bash.
+
 #### Elf Exemplar
 
+**Blade Dancer:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+
 #### Halfling Burglar
+
+**Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
 #### Halforc Berserker
 
 #### Human Cleric
 
 #### Human Fighter
+
+**Combat Superiority:** Fighters have a bonus attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+
+**Shield-Trainer:** Fighters can use a Shield Bash with any one of their successful attack dice.
 
 #### Human Magic-User
 
@@ -166,6 +205,10 @@ See "Experience"
 
 See "Party Actions"
 
+### Character Tiers (link)
+
+See "Experience"
+
 ### Combat (link)
 
 Given the depth involved in a combat encounter, the fighting mechanics have their own separate chapter. See "Combat and Fighting" further below.
@@ -175,6 +218,14 @@ Given the depth involved in a combat encounter, the fighting mechanics have thei
 ### Death
 
 ### Experience
+
+
+
+
+Notes:
+
+* earned from defeating challenges
+* earned based on money brought back to town (including money spent on goods?)
 
 ### Healing (link)
 
@@ -196,12 +247,75 @@ See "Experience"
 
 #### Party Action 3: Returning to Town
 
+### Saving Throws
+
+You will frequently be asked to make a "saving throw" in order to resist affects from spells, traps, and many other dangers. The Hammersmith will tell you when you need to make a Save, and which of the following five categories that save falls under:
+
+* Area Attacks
+* Death Effects
+* Mind Debilitation
+* Body Debilitation
+* Fate and Fortune
+
+When it's time to make the check, roll 1d20 and add your relevant modifier based on your class and stats. The target number for your roll is based on the "Tier" of power of the source effect, determined by comparing the source's relevant power tier to your character's current experience tier:
+
+| Source Tier is…    | Target |
+|--------------------|--------|
+| Two or more Lower  | 6      |
+| One Lower          | 9      |
+| Equal              | 12     |
+| One Higher         | 15     |
+| Two or more Higher | 18     |
+
+For example, a 2nd level Adventurer (Tier 1) saving against the magical fear effect of a 7th level Monster (Tier 3) would have to roll an 18 or higher, due to the differences in their tiers.
+
+
+
 ### Skills
+
+### Tiers
+
+A number of effects in the game use the "Tier" mechanic as a rough relative comparison of power between two or more entities within the fiction. For example, gaining XP from challenges is determined by the relative tiers of the Party and their Opponents, and similarly the targets for Saving Throws against harmful effects are based on Tier comparison.
+
+| Tier | XP/HD Levels | Adventurer Rank         | Monster Rank    | Treasure?          |
+|------|--------------|-------------------------|-----------------|--------------------|
+| 1    | 1-3          | Skilled Vagabond        | Nuisance        | Money              |
+| 2    | 4-6          | Professional Adventurer | Monster         | Gem/Art            |
+| 3    | 7-9          | Local Hero              | Serious Danger  | Minor Magic Item   |
+| 4    | 10-12        | Reknowned Hero          | Critical Threat | Major Magic Item   |
+| 5    | 13-15        | Living Legend           | Legendary Foe   | Legendary Artifact |
+| 6    | 16+          | N/A                     | Ultimate Threat | Divine Relic       |
+
+Note that player characters' levels are capped at 15, and as such an adventurer's personal experience Tier will never rise above 5. Monsters and Treasures have one tier higher, because there is always something more powerful than even the greatest of heroes...
 
 ### Timekeeping
 
 
 ## CHAPTER: Combat and Fighting
+
+
+### Combat Stats and Details
+
+
+### Combat Process
+
+1. Check for Surprise
+2. COMBAT ROUNDS
+  1. Roll Initiative to determine first action.
+  2. COMBAT TURN
+    1. Resolve Movement Actions
+    2. Resolve Missile Actions
+    3. Resolve Melee Actions
+    4. Resolve Misc. Actions
+    5. Resolve Magic Actions
+  3. Still Fighting? Back to Initiative!
+
+#### Surprise
+
+#### Initiative
+
+#### Combat Actions
+
 
 
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
