@@ -61,6 +61,7 @@ Both the Hammersmith and the Players will work together to feed a group of Adven
 
 If you're familiar with The OG and its many derivatives, the following should probably make sense to you. HAMMERCRAWL! is built with the following system assumptions:
 
+* **Roll High:** The system is tooled around all D20 rolls being targeted high. 20 is good, 1 is bad.
 * **Stat Rolls:** Class is determined first, then 3D6 stats in order, with highest two determined by the class.
 * **Race as Class:** Races are implemented as entirely separate character classes.
 * **Skills:** In addition to expectations based on class abilities and career backgrounds, every character gets 4 random skills they are somehow good at as well.
@@ -71,6 +72,7 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **Experience Levels:** 15 levels for all characters. Each level requires Level x 1000 XP to attain, and every time you gain a level your XP reserve is reduced to zero.
 * **Experience Points:** XP is gained from overcoming challenges and from investing treasure.
 * **XP as Money:** XP is the fifth and final new step on the Classic Money Chain (CP, SP, GP, PP, and now XP), with 10 PP = 1XP.
+* **Advantages and Disadvantages:** They're in here, and they're incremental.
 
 # Book One: The Player's Guide to Crawling Dungeons
 
@@ -180,9 +182,9 @@ Each class has its own special rules and abilities. Take note of yours using the
 * **Hit Dice:**
 * **Attack Rank:**
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - Good: add your level to your roll.
+  - Okay: add 1/2 your level (round down) to the roll.
+  - Bad: add 1/3 your level (round down) to the roll.
 
 #### Human Cleric
 
@@ -224,7 +226,11 @@ Each class has its own special rules and abilities. Take note of yours using the
   - **Decent:**
   - **Bad:**
 
+**Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
+**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering, Lockpicking, Perception, Stealth, Thief-climbing, Tracking, Trap-finding, and Trap-breaking. The Thief adds their level to rolls using these skills.
+
+At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
 
 ### Step 3: Roll Your Stats
 
@@ -259,19 +265,19 @@ These are all you get. You will not automatically acquire more skills unless the
 
 As a reference for Play, this section is sorted alphabetically by subject.
 
-### Advancement (link)
+### Advancement (ref)
 
 See "Experience"
 
-### Camping (link)
+### Camping (ref)
 
 See "Party Actions"
 
-### Character Tiers (link)
+### Character Tiers (ref)
 
 See "Experience"
 
-### Combat (link)
+### Combat (ref)
 
 Given the depth involved in a combat encounter, the fighting mechanics have their own separate chapter. See "Combat and Fighting" further below.
 
@@ -289,11 +295,11 @@ Notes:
 * earned from defeating challenges
 * earned based on money brought back to town (including money spent on goods?)
 
-### Healing (link)
+### Healing (ref)
 
 See "Damage"
 
-### Leveling Up (link)
+### Leveling Up (ref)
 
 See "Experience"
 
@@ -335,6 +341,20 @@ For example, a 2nd level Adventurer (Tier 1) saving against the magical fear eff
 
 ### Skills
 
+All characters in HAMMERCRAWL! begin play with a variety of both explicit and assumed skills. Explicit skills include the four free random skills that each character gets at creation. Assumed skills are anything that one could reasonably assume the character has ability in due to their background and their class. Fighters and Elves are pretty athletic, obviously, while former Bankers and Accountants are assumed to know math and finances.
+
+The Hammersmith is heavily encouraged to involve these skills as ways to move things along and give out information without relying upon the dice. The *vast* majority of the time, skills should be involved in play as purely narrative flavor. If a Banker is looking over a found ledger of an evil kingdom's accounts, they do not need to roll for anything, and the Hammersmith will give them special information that only they can glean from it. Similarly, a physically fit Elf adventurer should not need to make a check to climb a tree, leap a fence, or rappel down a ravine with proper tooling. In most cases, the 'Smith is encouraged to simply "give it to them" when they clearly have the right skill or assumed background for the situation.
+
+Still, the Hammersmith may *occasionally* feel that a roll of some sort should still be somehow involved, for behind the scenes reasons. Perhaps the aforementioned ledger is encoded in a strange cryptic cypher, or maybe the Elf is trying to climb that tree in the middle of an earthquake!
+
+In such cases, the Hammersmith may call for a test. The player will need to roll a d20 and add the modifier of whichever stat the 'Smith deems most appropriate. If the character has either an explicit or assumed skill in the matter, their target is 10. If not, their target is 15. And if it's something that the 'Smith deems to be vastly out of that character's repertoire of ability, the target is 20.
+
+Thief skills are special, and detailed in the "Thief Skills" section.
+
+### Thief Skills (ref)
+
+Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls.
+
 ### Tiers
 
 A number of effects in the game use the "Tier" mechanic as a rough relative comparison of power between two or more entities within the fiction. For example, gaining XP from challenges is determined by the relative tiers of the Party and their Opponents, and similarly the targets for Saving Throws against harmful effects are based on Tier comparison.
@@ -350,6 +370,8 @@ A number of effects in the game use the "Tier" mechanic as a rough relative comp
 
 Note that player characters' levels are capped at 15, and as such an adventurer's personal experience Tier will never rise above 5. Monsters and Treasures have one tier higher, because there is always something more powerful than even the greatest of heroes...
 
+Dungeon levels have tiers too! Treat the level of the Dungeon as its own Tier, directly. Thus the first level is Tier 1, the second is Tier 2, the third is Tier 3, and so on.
+
 ### Timekeeping
 
 
@@ -363,31 +385,59 @@ Note that player characters' levels are capped at 15, and as such an adventurer'
 
 1. Check for Surprise
 2. COMBAT ROUNDS
-  1. Roll Initiative to determine first action.
-  2. COMBAT TURN
-    1. Resolve Movement Actions
-    2. Resolve Missile Actions
-    3. Resolve Melee Actions
-    4. Resolve Misc. Actions
-    5. Resolve Magic Actions
-  3. Still Fighting? Back to Initiative!
+  * Roll Initiative to determine first action.
+  * COMBAT TURN
+    - Resolve Movement Actions
+    - Resolve Missile Actions
+    - Resolve Melee Actions
+    - Resolve Misc. Actions
+    - Resolve Magic Actions
+  * Still Fighting? Back to Initiative!
+3. LOOT TIME!
 
 #### Surprise
 
+#### Combat Rounds
+
+A combat round is roughly ten (10) seconds of action.
+
 #### Initiative
 
-#### Combat Actions
+At the top of each Round of combat, the designated leader of each side rolls initiative as follows: 1d10 + DEX mod + WIS mod. Highest roll wins initiative. Initiative Ties are resolved in the following order of determination:
 
-These are sorted alphabetically, for ease of reference.
+1. Most numerous side wins
+2. Winner of last initiative wins
+3. Roll off
 
-##### Attack
+After Initiative is determined, the winning side gets to take all of their actions first, followed by the losing side. Each side must take their actions in the following order, every time:
 
-##### Shield Bash
+1. Movement: People who are only moving go first.
+2. Missile: People firing ranged weapons go second.
+3. Melee: People making melee attacks go third.
+4. Misc.: People taking "miscellaneous" actions go fourth.
+5. Magic: People using magic spells and attacks go last.
+
+The Hammersmith resolves this by announcing which "phase" of action is now, and resolving the actions of any characters who are acting in that phase. Players can choose to wait to declare their actions until their chosen phase is announced. Actions are declared and resolved at the same time.
+
+#### Movement Actions
+
+#### Missile Actions
+
+#### Melee Actions
+
+##### Special: Shield Bash
 
 The shield bash is a special attack available to Dwarves and Fighters.
 
 blah
 
 Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
+
+#### Misc. Actions
+
+#### Loot Time!
+
+When combat ends, the survivors gain the might-gained right to loot the bodies of the fallen, both foe and friend alike. This is a divine privilege that extends back to the earliest days of gaming, and is in fact the reason many of us still play these elf games today. Loot gained through feats of martial and magical prowess is the best loot, bar none.
+
 
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
