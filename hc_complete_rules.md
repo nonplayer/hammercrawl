@@ -111,7 +111,7 @@ First and foremost, you must randomly determine your new character's Class. Roll
 | 4-7   | Dwarf Defender    |
 | 8-12  | Human*            |
 | 13-16 | Halfling Burglar  |
-| 17-18 | Halforc Berserker |
+| 17-18 | Half-ogre Berserker |
 
 *If human, roll 1d4 to determine your actual class:
 
@@ -128,28 +128,17 @@ First and foremost, you must randomly determine your new character's Class. Roll
 Each class has its own special rules and abilities. Take note of yours using the references below.
 
 
-#### TEMPLATE
-
-* **Prime Stats:** ???, ???
-* **Hit Dice:** 1dX per level, modified by CON mod.
-* **Attack Rank:** X: ???
-* **Base Movement:** 30
-* **Saving Throws:**
-  - **Good:** X, Y = add your level to your roll.
-  - **Okay:** X, Y = add 1/2 your level (round down) to the roll.
-  - **Bad:** X, Y = add 1/3 your level (round down) to the roll.
-
-
 #### Dwarf Defender
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d8 per level, modified by CON mod.
-* **Attack Rank:**
+* **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 25
 * **Saving Throws:**
   - **Good:** Body, Death = add your level to your roll.
   - **Okay:** Fate = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Area = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Can use all weapons, shields, and armour except longbows.
 
 **Born in Armor:** Dwarves in Medium or heavier armour do not suffer AC penalties from low DEX mods. Heavy armour never reduces their movement speed.
 
@@ -172,12 +161,15 @@ Each class has its own special rules and abilities. Take note of yours using the
   - **Good:** Mind, Death = add your level to your roll.
   - **Okay:** Body, Area = add 1/2 your level (round down) to the roll.
   - **Bad:** Fate = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Can use all weapons, shields, and armour. Armour may limit spellcasting.
 
 **Ageless Perfection:** Elves are immune to sleep, charm, slow, haste, aging, and energy drain effects, *unless* those effects are results of the magic of an Elf (self or other, alive or undead).
 
 **Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*, which you can always cast at will. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
 
 At the start of play, a new Elf can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
+
+**Armoured Spellcaster:** Elves are better at casting in armour than humans. Elves suffer no chance of spell failure in Light armour, and a 25%/50%/75% chance when wearing medium/heavy/plate armours, respectively. Failed spells are forgotten per normal rules.
 
 **Blade Dancer:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
@@ -194,6 +186,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
   - **Good:** Area, Body, Death, Fate, Mind = add your level to your roll.
   - **Okay:** None
   - **Bad:** None
+* **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
 
 **Backup Thief:** Halflings can function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). They add 1/2 their level (round down) to rolls against these skills.
 
@@ -203,10 +196,10 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Tactical Attacker:** Halflings roll with advantage on Tactical Attacks.
 
-**Wee:** Halfling size limits a few of their combat options. Base Movement is 20 (instead of Humans' 30)
+**Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans.
 
 
-#### Halforc Berserker
+#### Half-ogre Berserker
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d10 per level, modified by CON mod.
@@ -216,6 +209,25 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
   - **Good:** Body, Death = add your level to your roll.
   - **Okay:** Area = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Can use all weapons and shields. Armour must be custom made.
+
+**Large and in the Way:** Half-ogres stand around 7 feet tall or more, and are built like icehouses. All armour must be custom made for them at increased costs and time, and only Halfling-sized creatures or smaller can move through their occupied space if minis and a battlemat are in use.
+
+**Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they have advantage on all damage dice rolled, and disadvantage on all saves except Body and Death. On their turn, they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
+
+* Melee Attack the strongest-looking enemy within immediate striking range.
+* Move to the strongest-looking enemy within charging range and Melee Attack them.
+* Thrown (Missile) attach the strongest-looking enemy within Thrown Range.
+* Melee Attack the nearest living creature (friend or foe) within immediate striking range.
+* Mind Save (target: 18) to break rage or Collapse to the ground unconscious (remain unconscious for 3d6 minutes)
+
+A Berserker can choose to voluntarily fail either save and willingly let the rage overtake them and/or knock them unconscious afterward. They can also trigger it on their own by causing themselves 1 point of damage with a weapon.
+
+**Savage Warrior:** Berserkers have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Berserker declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+
+**Tooth and Nail:** Half-ogres' teeth and fingernails are deadly weapons in their own right. When fighting without a suitable weapon, a Berserker still does 1d6 damage.
+
+**Two-Hander:** When using a two-handed weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
 
 #### Human Cleric
@@ -228,6 +240,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
   - **Good:** Fate = add your level to your roll.
   - **Okay:** Mind, Body, Death = add 1/2 your level (round down) to the roll.
   - **Bad:** Area = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Can use all weapons, shields, and armour that are not otherwise prohibited by their deity.
 
 **Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast spells from the Cleric spell list. Clerics begin the game with a holy prayerbook which contains a base of three (3) randomly-determined clerical prayers. This number of bonus spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons.
 
@@ -246,10 +259,13 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
   - **Good:** Body, Death = add your level to your roll.
   - **Okay:** Area = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Fighters can use all weapons, shields, and armour.
 
 **Combat Superiority:** Fighters have a bonus attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Shield-Trainer:** Fighters can use a Shield Bash with any one of their successful attack dice.
+**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice.
+
+**Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 
 
 #### Human Magic-User
@@ -262,12 +278,21 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
   - **Good:** Mind = add your level to your roll.
   - **Okay:** Fate = add 1/2 your level (round down) to the roll.
   - **Bad:** Body, Area, Death = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Can not use two-handed weapons except staves. Can not wear heavy armour or use shields. Other armour can cause spell failure.
+
+**Armour-Inept:** Magic-users cannot wear Heavy armour, and suffer a chance of spell failure while wearing other armour. In Light armour, the chance is 50%, and in Medium armour the chance is 75%. Failed spells are forgotten per normal rules.
+
+**Bloodcaster:** Magic-users can choose to take damage instead of forgetting spells. The amount of HP damage taken is equal to the level of spell just cast. If below Zero HP, this burns CON instead.
+
+**Highcaster:** Magic-users (only) can prepare and even attempt to cast spells of higher level than they normally would be able to, provided they have a copy of the spell in their book. Casting the spell requires permanent loss of INT score equal to the difference in allowed spell levels. Such INT loss can only be regained through the use of the Cleric's *Restoration* spell. Spells cast in this fashion are always immediately forgotten.
 
 **Magical Mind:** Magic-users can cast the spell *Read Magic* freely and at will, without need to prepare or roll.
 
 **Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of four (4) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
 
 At the start of play, a new Magic-User can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
+
+**Wizardly Weaponry:** Magic-users can make use of new special mage-only weapons: The Wand and The Staff. Be warned that actively using these tools will mark you as a magician, and likely increase your chances of becoming a target priority by smart enemies...
 
 
 #### Human Thief
@@ -280,6 +305,7 @@ At the start of play, a new Magic-User can only cast level 1 spells. This maximu
   - **Good:** Area, Fate = add your level to your roll.
   - **Okay:** Death = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Body = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Thieves can use any weapons and armour that the Hammersmith deems to be suitably sneaky.
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
@@ -370,6 +396,9 @@ Given the depth involved in a combat encounter, the fighting mechanics have thei
 
 ### Damage
 
+Your base damage with all weapons is equal to your Class Hit Die. Some weapons may have special modifiers to this, however.
+
+Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
 
 #### Zero Hit Points
 
@@ -715,7 +744,7 @@ Clerics call them "Prayerbooks" but still follow all the core spellbook rules.
 
 ### Preparing and Memorizing Spells
 
-You are considered to have memorized every spell in your currently-possessed spellbook, even newly-discovered ones.
+Upon the start of a new day, Clerics and Elves are considered to have memorized every spell in their currently-possessed spellbooks for the levels that they are allowed to cast, even newly-discovered ones. Magic-Users (only) are considered to have memorized *every* spell in their spellbooks, regardless of level.
 
 *Whoah now, hold on bro! What the heck?! That's OP, dude!*
 
@@ -741,6 +770,10 @@ Spellcasters learn spells through leveling up and also by finding them as loot o
 
 Whenever a spellcaster acquires a new spell from an external source that is compatible with their spell list, they can transcribe it into their spellbook. If the source is a scroll or other such scrap, the source is destroyed in the process. If the source is another spellbook, the spell remains in the source.
 
+
+### Spell Lists
+
+This game text does not have spell lists. Instead, I recommend you use whichever B/X or BECMI compatible spell list that you prefer. I find that the *Dark Dungeons* list is pretty comprehensive, and give it my seal of approved compatibility. In fact, it's the list I default to when I run HAMMERCRAWL!
 
 
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
