@@ -2,17 +2,21 @@ title: Hammercrawl! Complete Game Rules
 author: N. Phillip Cole  
 created: 2018-03-22  
 
+
 # Welcome to the Meat Grinder
 
 *Ahhhhh... Fresh Meat!*
+
 
 ## About this Document
 
 This document is the beginning of my attempt to write a full HAMMERCRAWL! game system from the ground up. This is very much a work in progress.
 
+
 ### Future Plans
 
 The intended result will be a recognizable OSR game with inspirations from *Dark Dungeons*, *The Nightmares Underneath*, and *Dungeon Crawl Classics*.
+
 
 ### Acknowledgements
 
@@ -24,17 +28,20 @@ HAMMERCRAWL! in this "complete game" format would not exist without the amazing 
 
 Seriously, you should probably just go play those instead, they're much better games with much better production values.
 
+
 ### Cost, License, and Contributions
 
 HAMMERCRAWL! is now and always will be a free game. Very few (if any) of these concepts are original to me, and asking for money for the project would just be wrong.
 
 Contributions to testing and development are always welcome.
 
+
 # About HAMMERCRAWL!
 
 HAMMERCRAWL! is a fantasy dungeon-crawling role-playing game entirely derived from a half-dozen other similar games which were themselves built up from house rules for the older variants of "That One Game" (henceforth just referred to as The OG) that everyone knows. HAMMERCRAWL! doesn't try to do anything new or revolutionary, instead focusing on establishing a familiar-feeling baseline for 100% procedurally-generated tournament-style role-playing. It sands down a lot of the rough points, standardizes a number of odd inconsistencies, and sacrifices more than one established sacred idol of The OG in order to make the game a bit more approachable by noobs and randos that may plop down to play at a public tourney.
 
 This text won't try to introduce you to the hobby or explain the ideas of role-playing to a novice reader of the genre. If this is your first introduction to a game text, good god, Lemon, I hope you enjoy reading but a lot of the text may be confusing. Good luck, and god speed.
+
 
 ## The Basics of Play
 
@@ -73,8 +80,12 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **Experience Points:** XP is gained from overcoming challenges and from investing treasure.
 * **XP as Money:** XP is the fifth and final new step on the Classic Money Chain (CP, SP, GP, PP, and now XP), with 10 PP = 1XP.
 * **Advantages and Disadvantages:** They're in here, and they're incremental.
+* **Consolidated Spellcasting:** Clerics and Magic-Users have much closer-aligned rules for spellcasting and memorization. This is to assist new/random drop-in players in having fun with playing these two classes, which have historically presented challenges for noobs.
+
+
 
 # Book One: The Player's Guide to Crawling Dungeons
+
 
 ## CHAPTER: Creating Your Character
 
@@ -84,9 +95,11 @@ You will need the following for this process:
 * A writing utensil
 * A full set of gaming dice
 
+
 ##### Sidebar: The Online Generation Method
 
 I strongly recommend using [my companion random character generator program](https://github.com/nonplayer/OldSchoolCharGen) for this process. It allows entire stacks of characters to be generated with a few keystrokes. Hammersmiths can thus create a single pile of replacement characters for instant access and insertion into an ongoing dungeon, saving time in longer play sessions with high death tolls.
+
 
 ### Step 1: Roll Your Class
 
@@ -117,27 +130,26 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 #### TEMPLATE
 
-* **Hit Dice:**
-* **Attack Rank:**
+* **Prime Stats:** ???, ???
+* **Hit Dice:** 1dX per level, modified by CON mod.
+* **Attack Rank:** X: ???
+* **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - **Good:** X, Y = add your level to your roll.
+  - **Okay:** X, Y = add 1/2 your level (round down) to the roll.
+  - **Bad:** X, Y = add 1/3 your level (round down) to the roll.
 
-**Special Ability:** Blah
-
-**Special Ability:** Blah
-
-**Special Ability:** Blah
 
 #### Dwarf Defender
 
-* **Hit Dice:**
+* **Prime Stats:** STR, CON
+* **Hit Dice:** 1d8 per level, modified by CON mod.
 * **Attack Rank:**
+* **Base Movement:** 25
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - **Good:** Body, Death = add your level to your roll.
+  - **Okay:** Fate = add 1/2 your level (round down) to the roll.
+  - **Bad:** Mind, Area = add 1/3 your level (round down) to the roll.
 
 **Born in Armor:** Dwarves in Medium or heavier armour do not suffer AC penalties from low DEX mods. Heavy armour never reduces their movement speed.
 
@@ -149,88 +161,134 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the AC bonus of their shield when using the bash.
 
+
 #### Elf Exemplar
 
-* **Hit Dice:**
-* **Attack Rank:**
+* **Prime Stats:** DEX, INT
+* **Hit Dice:** 1d8 per level, modified by CON mod.
+* **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
+* **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - **Good:** Mind, Death = add your level to your roll.
+  - **Okay:** Body, Area = add 1/2 your level (round down) to the roll.
+  - **Bad:** Fate = add 1/3 your level (round down) to the roll.
 
 **Ageless Perfection:** Elves are immune to sleep, charm, slow, haste, aging, and energy drain effects, *unless* those effects are results of the magic of an Elf (self or other, alive or undead).
+
+**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*, which you can always cast at will. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
+
+At the start of play, a new Elf can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
 **Blade Dancer:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a turn searching.
 
+
 #### Halfling Burglar
 
-* **Hit Dice:**
+* **Prime Stats:** DEX, CHA
+* **Hit Dice:** 1d6 per level, modified by CON mod.
 * **Attack Rank:**
+* **Base Movement:** 20
 * **Saving Throws:**
-  - **Good:** ???
-  - **Decent:** ???
-  - **Bad:** ???
+  - **Good:** Area, Body, Death, Fate, Mind = add your level to your roll.
+  - **Okay:** None
+  - **Bad:** None
 
-**Backup Thief:** Halflings can function as thieves of a sort, in a pinch.
+**Backup Thief:** Halflings can function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). They add 1/2 their level (round down) to rolls against these skills.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
+**Sudden Inner Strength:** A Halfling can draw from their inner strength for a sudden display of unexpected fierceness. By spending 1 Hit Point before they roll their attacks, they can increase the die size of their attacks this round by one step.
+
+**Tactical Attacker:** Halflings roll with advantage on Tactical Attacks.
+
+**Wee:** Halfling size limits a few of their combat options. Base Movement is 20 (instead of Humans' 30)
+
+
 #### Halforc Berserker
 
-* **Hit Dice:**
-* **Attack Rank:**
+* **Prime Stats:** STR, CON
+* **Hit Dice:** 1d10 per level, modified by CON mod.
+* **Attack Rank:** A: You add your level to your attack rolls.
+* **Base Movement:** 30
 * **Saving Throws:**
-  - Good: add your level to your roll.
-  - Okay: add 1/2 your level (round down) to the roll.
-  - Bad: add 1/3 your level (round down) to the roll.
+  - **Good:** Body, Death = add your level to your roll.
+  - **Okay:** Area = add 1/2 your level (round down) to the roll.
+  - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
+
 
 #### Human Cleric
 
-* **Hit Dice:**
-* **Attack Rank:**
+* **Prime Stats:** WIS, CHA
+* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
+* **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - **Good:** Fate = add your level to your roll.
+  - **Okay:** Mind, Body, Death = add 1/2 your level (round down) to the roll.
+  - **Bad:** Area = add 1/3 your level (round down) to the roll.
+
+**Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast spells from the Cleric spell list. Clerics begin the game with a holy prayerbook which contains a base of three (3) randomly-determined clerical prayers. This number of bonus spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons.
+
+At the start of play, a new Cleric can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
+
+**Turn Away the Unholy** Once per Day per Level of Experience, a Cleric can hold aloft the symbol of their righteous faith and turn back undead, devils, demons, and any others that the Hammersmith deems to be enemies of their faith. All such opponents must make Mind saves based on the difference in Level/HD Tiers. Those who fail must cower, flee, or possibly even take damage or be destroyed.
+
 
 #### Human Fighter
 
-* **Hit Dice:**
-* **Attack Rank:**
+* **Prime Stats:** STR, CON
+* **Hit Dice:** 1d8 per level, modified by CON mod.
+* **Attack Rank:** A: You add your level to your attack rolls.
+* **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - **Good:** Body, Death = add your level to your roll.
+  - **Okay:** Area = add 1/2 your level (round down) to the roll.
+  - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
 
 **Combat Superiority:** Fighters have a bonus attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Shield-Trainer:** Fighters can use a Shield Bash with any one of their successful attack dice.
 
+
 #### Human Magic-User
 
-* **Hit Dice:**
-* **Attack Rank:**
+* **Prime Stats:** INT
+* **Hit Dice:** 1d4 per level, modified by CON mod.
+* **Attack Rank:** D: You have no level-based combat bonus to attacks.
+* **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - **Good:** Mind = add your level to your roll.
+  - **Okay:** Fate = add 1/2 your level (round down) to the roll.
+  - **Bad:** Body, Area, Death = add 1/3 your level (round down) to the roll.
+
+**Magical Mind:** Magic-users can cast the spell *Read Magic* freely and at will, without need to prepare or roll.
+
+**Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of four (4) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
+
+At the start of play, a new Magic-User can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
+
 
 #### Human Thief
 
-* **Hit Dice:**
-* **Attack Rank:**
+* **Prime Stats:** DEX, INT
+* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
+* **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:**
-  - **Decent:**
-  - **Bad:**
+  - **Good:** Area, Fate = add your level to your roll.
+  - **Okay:** Death = add 1/2 your level (round down) to the roll.
+  - **Bad:** Mind, Body = add 1/3 your level (round down) to the roll.
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
 **Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering, Lockpicking, Perception, Stealth, Thief-climbing, Tracking, Trap-finding, and Trap-breaking. The Thief adds their level to rolls using these skills.
 
 At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+
+**Tactical Attacker:** Thieves roll with advantage on Tactical Attacks.
+
 
 ### Step 3: Roll Your Stats
 
@@ -245,6 +303,18 @@ Now roll 3d6 six times, and write them down in order.
 **Next** assign the remaining rolls *in order of their rolling* to the remaining empty stats on your character sheet.
 
 *Example: Darla's remaining rolls are 9, 11, 10, and 5. She assigns them in order to her Fighter's remaining stats, which results in a final spread of: STR 14, DEX 9, CON 17, INT 11, WIS 10, CHA 5.*
+
+**Finally** record the stat mods next to each one, using the following table:
+
+| Stat  | Mod |
+|-------|-----|
+| 3     | -3  |
+| 4-5   | -2  |
+| 6-8   | -1  |
+| 9-12  | 0   |
+| 13-15 | +1  |
+| 16-17 | +2  |
+| 18    | +3  |
 
 
 ### Step X: Roll Your Skills
@@ -265,25 +335,73 @@ These are all you get. You will not automatically acquire more skills unless the
 
 As a reference for Play, this section is sorted alphabetically by subject.
 
+
 ### Advancement (ref)
 
 See "Experience"
+
+
+### Attack Ranks
+
+Every character class has an associated Attack Rank, which determines their base combat attack bonuses.
+
+| Rank | Bonus                                                  |
+|------|--------------------------------------------------------|
+| A    | You add your level to your attack rolls.               |
+| B    | You add 1/2 your level (rounded down) to attack rolls. |
+| C    | You add 1/3 your level (rounded down) to attack rolls. |
+| D    | You have no level-based combat bonus to attacks.       |
+
 
 ### Camping (ref)
 
 See "Party Actions"
 
+
 ### Character Tiers (ref)
 
 See "Experience"
+
 
 ### Combat (ref)
 
 Given the depth involved in a combat encounter, the fighting mechanics have their own separate chapter. See "Combat and Fighting" further below.
 
+
 ### Damage
 
+
+#### Zero Hit Points
+
+When your adventurer is reduced to 0 Hit Points, you're not dead... *not yet*. First, any damage taken in excess of what would be needed to drop you to Zero hit points is immediately taken out of your CON score. This loss is *permanent* until magically restored (see below). Now if *that* reduces you to 0 CON, *then* you're dead. See the "Death" section for how to proceed.
+
+If you've still got CON score left after over, then you're still up! But you're now getting badly wounded, and each breath you take brings you one step closer to the doorway to the afterlife. On your turn, you can choose one of the following two options:
+
+* Lay Down and Call for Help
+* Fight On!
+
+If you choose to **Lay Down**, you drop to the ground prone. On this round and every round following it until you are healed, you must make a Death save. If you fail, you take an immediate point of permanent CON loss. If this drops you to Zero, you're dead.
+
+If you choose to **Fight On**, you can take an action as normal! Resolve it, and at the end of your action you immediately take 1d4 permanent CON damage, no save allowed. If this drops you to Zero, you're dead. Repeat for each turn that you continue to Fight on.
+
+
+#### Magically Restoring Lost CON
+
+If your CON has been permanently reduced due to taking damage below zero HP, then the only way to restore it is through advanced medical technology of 21st century or later (good luck finding that in your dirty-ass dungeon), or instead via a special alternate use of the Level 4 Cleric Spell *Cure Serious Wounds* spell (or similar potion or scroll).
+
+When *Cure Serious Wounds* is used to restore lost CON from damage, ignore the spell's normal printed effect and use the following description instead:
+
+
+##### Cure Serious Wounds
+
+* **Target:** One living creature
+* **Range:** Touch
+* **Duration:** Permanent
+* **Effect:** Restore 1d4 + Caster Level in lost CON stat points to the target. The caster can target themselves with this spell.
+
+
 ### Death
+
 
 ### Experience
 
@@ -295,9 +413,11 @@ Notes:
 * earned from defeating challenges
 * earned based on money brought back to town (including money spent on goods?)
 
+
 ### Healing (ref)
 
 See "Damage"
+
 
 ### Leveling Up (ref)
 
@@ -305,15 +425,26 @@ See "Experience"
 
 ### Light
 
+
+### Magic (ref)
+
+Given the depth of magical ways, the magic rules have their own separate chapter. See "Magic and Spellcasting" further below.
+
+
 ### Mapping
+
 
 ### Party Actions
 
+
 #### Party Action 1: Camping
+
 
 #### Party Action 2: Exploring
 
+
 #### Party Action 3: Returning to Town
+
 
 ### Saving Throws
 
@@ -338,7 +469,6 @@ When it's time to make the check, roll 1d20 and add your relevant modifier based
 For example, a 2nd level Adventurer (Tier 1) saving against the magical fear effect of a 7th level Monster (Tier 3) would have to roll an 18 or higher, due to the differences in their tiers.
 
 
-
 ### Skills
 
 All characters in HAMMERCRAWL! begin play with a variety of both explicit and assumed skills. Explicit skills include the four free random skills that each character gets at creation. Assumed skills are anything that one could reasonably assume the character has ability in due to their background and their class. Fighters and Elves are pretty athletic, obviously, while former Bankers and Accountants are assumed to know math and finances.
@@ -349,11 +479,55 @@ Still, the Hammersmith may *occasionally* feel that a roll of some sort should s
 
 In such cases, the Hammersmith may call for a test. The player will need to roll a d20 and add the modifier of whichever stat the 'Smith deems most appropriate. If the character has either an explicit or assumed skill in the matter, their target is 10. If not, their target is 15. And if it's something that the 'Smith deems to be vastly out of that character's repertoire of ability, the target is 20.
 
-Thief skills are special, and detailed in the "Thief Skills" section.
+Thief skills are special, and detailed in the "Thief Skills" section below.
+
+
+### Spells and Spellcasting (ref)
+
+Given the depth of magical ways, the magic rules have their own separate chapter. See "Magic and Spellcasting" further below.
+
 
 ### Thief Skills (ref)
 
 Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls.
+
+The target of a Thief Skill is based on the Tier of the Dungeon. Compare the Thief's experience Tier to the Dungeon Level Tier to determine the skill roll target. This is a D20 roll, modified by the relevant stat for that skill. Thieves add their level to the roll, while Halflings add 1/2 their level (rounded down).
+
+| Dungeon Level Tier is…    | Target |
+|---------------------------|--------|
+| Two or more Lower         | 6      |
+| One Lower                 | 9      |
+| Equal                     | 12     |
+| One Higher                | 15     |
+| Two or more Higher        | 18     |
+
+#### Deciphering (INT)
+
+
+#### Lockpicking (DEX)
+
+
+#### Perception (WIS)
+
+
+#### Stealth (DEX)
+
+
+#### Thief-climbing (STR)
+
+While most characters can climb with rope and gear, Thieves have an almost supernatural ability to climb *sheer* walls and slick surfaces with grace and panache. Roll this skill when facing a climbing challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this.
+
+
+#### Tracking (WIS)
+
+
+#### Trap-finding (INT)
+
+
+#### Trap-breaking (DEX)
+
+Once the trap has been properly identified, the thief can then use this skill to disarm the mechanism that triggers it. A thief can also attempt to break a trap *without* first finding it, but suffers disadvantage to the roll. Additionally, if failed, they've sprung it!
+
 
 ### Tiers
 
@@ -370,9 +544,44 @@ A number of effects in the game use the "Tier" mechanic as a rough relative comp
 
 Note that player characters' levels are capped at 15, and as such an adventurer's personal experience Tier will never rise above 5. Monsters and Treasures have one tier higher, because there is always something more powerful than even the greatest of heroes...
 
-Dungeon levels have tiers too! Treat the level of the Dungeon as its own Tier, directly. Thus the first level is Tier 1, the second is Tier 2, the third is Tier 3, and so on.
+
+#### Dungeon Level Tiers
+
+Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the HD total of the strongest monster on that level - aka the "Boss" of that Dungeon Level. Thus a Dungeon Level whose Boss has 10HD would be a Tier 4 Dungeon Level.
+
 
 ### Timekeeping
+
+
+### Turn Unholy
+
+
+The victims must make a Mind Save. The target is determined by comparing their HD/level Tier to the Cleric's tier:
+
+| Cleric's Level Tier is… | Target | Results of Failed Save |
+|-------------------------|--------|------------------------|
+| Two or more Lower       | 6      | Dazed for 1d4 rounds (disadvantage) |
+| One Lower               | 9      | Cower in Fear for 1d4 rounds |
+| Equal                   | 12     | Flee for 2d4 rounds |
+| One Higher              | 15     | Flee for 2d4 rounds, take damage (Xd8) |
+| Two or more Higher      | 18     | Destroyed |
+
+Thus an undead foe with HD 9 (tier 3) would roll against a target of 6 when turned by a Cleric of 2nd level (tier 1).
+
+Success means the targets are not affected. With a failed save, the targets are affected as detailed in the third column of the table above, based again on the difference in the cleric's level
+
+The results are explained further below:
+
+**Dazed:** The victim is dazed for the stated duration, suffering disadvantage on all actions.
+
+**Cower in Fear:** The victim cowers in place paralyzed in fear. The victim loses all of its actions for the stated duration.
+
+**Flee:** The victim must spend its next few rounds doing nothing but fleeing from the Cleric in the most direct and obvious fashion and path.
+
+**Damage:** The victim is deeply hurt by the force of the Cleric's faith. The number of dice of damage is equal to the Cleric's current experience *Tier* (1 - 5).
+
+**Destroyed:** The victim is outright destroyed by the overwhelming power of the Cleric's faith.
+
 
 
 ## CHAPTER: Combat and Fighting
@@ -387,19 +596,22 @@ Dungeon levels have tiers too! Treat the level of the Dungeon as its own Tier, d
 2. COMBAT ROUNDS
   * Roll Initiative to determine first action.
   * COMBAT TURN
-    - Resolve Movement Actions
-    - Resolve Missile Actions
-    - Resolve Melee Actions
-    - Resolve Misc. Actions
-    - Resolve Magic Actions
+    - Phase 1: Resolve Movement Actions
+    - Phase 2: Resolve Missile Actions
+    - Phase 3: Resolve Melee Actions
+    - Phase 4: Resolve Misc. Actions
+    - Phase 5: Resolve Magic Actions
   * Still Fighting? Back to Initiative!
 3. LOOT TIME!
 
+
 #### Surprise
+
 
 #### Combat Rounds
 
 A combat round is roughly ten (10) seconds of action.
+
 
 #### Initiative
 
@@ -411,7 +623,7 @@ At the top of each Round of combat, the designated leader of each side rolls ini
 
 After Initiative is determined, the winning side gets to take all of their actions first, followed by the losing side. Each side must take their actions in the following order, every time:
 
-1. Movement: People who are only moving go first.
+1. Movement: Resolve all Movement first.
 2. Missile: People firing ranged weapons go second.
 3. Melee: People making melee attacks go third.
 4. Misc.: People taking "miscellaneous" actions go fourth.
@@ -419,25 +631,119 @@ After Initiative is determined, the winning side gets to take all of their actio
 
 The Hammersmith resolves this by announcing which "phase" of action is now, and resolving the actions of any characters who are acting in that phase. Players can choose to wait to declare their actions until their chosen phase is announced. Actions are declared and resolved at the same time.
 
-#### Movement Actions
 
-#### Missile Actions
+#### Movement Phase
 
-#### Melee Actions
+After winning Initiative, everyone on the acting side can choose one of the following movement options:
+
+* **Stay Put:** By standing your ground and not moving, you still get to act afterward in the proper order this round. You additionally enjoy a +1 readiness bonus to any one rolled die (of any size) during that action.
+* **Move Near:** You can choose to move no further than your Speed, and still act afterward in the proper order this round.
+* **Move Far:** You can choose to rush, moving up to double your Speed. You do not get to act afterward this round.
+
+
+#### Missile Phase
+
+After movement, anyone making missile, thrown, or other ranged attacks acts.
+
+
+#### Melee Phase
+
+After missile attacks are resolved, anyone making melee attacks acts.
+
 
 ##### Special: Shield Bash
 
-The shield bash is a special attack available to Dwarves and Fighters.
+The shield bash is a special attack available to Dwarves and Fighters. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
-blah
+* The target is disarmed, and their weapon knocked beyond immediate melee reach.
+* The target is "dazed" until their next action, suffering combat disadvantage.
+* The target is knocked to the ground, and the next ally that attacks them gains advantage on one of their dice.
 
 Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
 
-#### Misc. Actions
+
+##### Special: Tactical Attack
+
+Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase. detailed below.
+
+These attacks never do damage, but can instead set up temporary advantages and disadvantages. Any character can attempt a tactical attack, although Thieves and Halflings have advantages to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
+
+The target must make the relevant Save. If failed, the Hammersmith chooses one of the following based on the description and the beat of the moment:
+
+* The target suffers a disadvantage on their next action
+* The next action against the target gains an advantage
+* The target loses their next action
+* The target is temporarily incapacitated
+* Any other effect that seems appropriate
+
+Tactical Actions are great for setting an opportunity for a Thief's Stabbity attack.
+
+
+#### Misc. Phase
+
+After melee attacks are resolved, anyone taking any other "miscellaneous" actions acts.
+
+##### Special: Tactical Action
+
+TBD
+
+
+#### Magic Phase
+
+Finally, at the end of the round, anyone wishing to cast a spell or activate a magical spell-like effect gets to take their actions.
+
 
 #### Loot Time!
 
 When combat ends, the survivors gain the might-gained right to loot the bodies of the fallen, both foe and friend alike. This is a divine privilege that extends back to the earliest days of gaming, and is in fact the reason many of us still play these elf games today. Loot gained through feats of martial and magical prowess is the best loot, bar none.
 
 
+## CHAPTER: Magic and Spellcasting
+
+Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. While Clerics have access to a different "divine" spell list than Elves and Magic-Users, unlike most other derivatives of The OG, that is where their spellcasting differences end. Spell lists aside, all spellcasting classes use the same rules for memorizing and casting spells.
+
+
+### Maintaining Spellbooks
+
+
+
+Clerics call them "Prayerbooks" but still follow all the core spellbook rules.
+
+
+#### Losing Spellbooks
+
+
+### Preparing and Memorizing Spells
+
+You are considered to have memorized every spell in your currently-possessed spellbook, even newly-discovered ones.
+
+*Whoah now, hold on bro! What the heck?! That's OP, dude!*
+
+Don't worry, fam, I hear you, and beg you to chilly down. Dear Reader, it's important to remember the focus of this game: sit-down, pick-up, meat-grinder dungeon crawling. One of the major roadblocks for brand new players to "Old School" style games is the experience-based barrier of entry to the "fun" classes like Clerics, Magic-Users, and Elves. They clearly get to do all the cool stuff, but for new players without extensive knowledge of daily spell preparation and the entire contents of the Cleric spell list, taking on these classes at the start can be intimidating, and can lead to those new players never coming back to a game they could learn to love. Thus HAMMERCRAWL! takes a simplified approach, aiming to make all spellcasters easier to play for newbies, but still keep them *somewhat* in check.
+
+*Ahem, resuming rules text...*
+
+At the beginning of a new day of adventuring, and following a good long restful session of sleep and morning preparation, a spellcaster is assumed to have memorized every spell currently in their Spellbook.
+
+Spells are usually forgotten upon casting. Spells can be re-memorized by resting or returning to town.
+
+
+### Casting Spells
+
+You can cast any spell you have memorized. To do so, simply choose the spell and follow the rules of that spell. Many spells won't require the caster to make any dice rolls, although many will have saving throws that the target must make in order to resist the effects.
+
+Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other spells instead, provided their total level cost is equal to or greater than that of the spell that you just cast.
+
+
+### Learning New Spells
+
+Spellcasters learn spells through leveling up and also by finding them as loot on scrolls. Each class has its own rules for gaining spells when leveling up.
+
+Whenever a spellcaster acquires a new spell from an external source that is compatible with their spell list, they can transcribe it into their spellbook. If the source is a scroll or other such scrap, the source is destroyed in the process. If the source is another spellbook, the spell remains in the source.
+
+
+
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
+
+
+## Converting Material from Other Games
