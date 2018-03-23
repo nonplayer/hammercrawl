@@ -188,11 +188,13 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
   - **Bad:** None
 * **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
 
-**Backup Thief:** Halflings can function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). They add 1/2 their level (round down) to rolls against these skills.
+**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Berserkers gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+
+**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). They add 1/2 their level (round down) to rolls against these skills.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
-**Sudden Inner Strength:** A Halfling can draw from their inner strength for a sudden display of unexpected fierceness. By spending 1 Hit Point before they roll their attacks, they can increase the die size of their attacks this round by one step.
+**Sudden Inner Strength:** A Halfling can draw from their inner strength for a sudden display of unexpected fierceness. By spending 1 Hit Point before they roll their attacks, they can increase the damage die size for their attacks this round by one step.
 
 **Tactical Attacker:** Halflings roll with advantage on Tactical Attacks.
 
