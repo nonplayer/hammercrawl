@@ -778,6 +778,15 @@ Whenever a spellcaster acquires a new spell from an external source that is comp
 This game text does not have spell lists. Instead, I recommend you use whichever B/X or BECMI compatible spell list that you prefer. I find that the *Dark Dungeons* list is pretty comprehensive, and give it my seal of approved compatibility. In fact, it's the list I default to when I run HAMMERCRAWL!
 
 
+### Wait a Sec... What about Level 9 Spells?
+
+Ah, you are an observant one, yes, you will do well in the adventures to come... So you've probably noticed that due to the 15-level limit on characters, and the progression rates for Elves and Magic-Users, there are no opportunities for them to "safely" memorize and cast 9th-Level spells.
+
+Yes. This is intentional. In the world of HAMMERCRAWL! such spells are legendary creations of the greatest (and most insane) ancient wizards. The Elves refuse to touch them, for fear of the ways they warp the nature of the world and befoul the wellsprings of life. Only human Magic-Users can ever learn them, and even then they can never "safely" cast them due to the restrictions on leveling and the nature of their Highcasting ability.
+
+As for how to find them? Well, dear adventurer, that's why you must always go as deep into the dungeon as possible, to find the ancient madness that lurks beneath...
+
+
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
 
 
