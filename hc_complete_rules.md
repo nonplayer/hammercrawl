@@ -292,7 +292,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 
 **Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of four (4) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
 
-At the start of play, a new Magic-User can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
+At the start of play, a new Magic-User can safely cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience. Take note of their Highcast ability, above.
 
 **Wizardly Weaponry:** Magic-users can make use of new special mage-only weapons: The Wand and The Staff. Be warned that actively using these tools will mark you as a magician, and likely increase your chances of becoming a target priority by smart enemies...
 
