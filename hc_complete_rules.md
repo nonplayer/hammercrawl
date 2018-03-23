@@ -188,7 +188,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
   - **Bad:** None
 * **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
 
-**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Berserkers gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). They add 1/2 their level (round down) to rolls against these skills.
 
