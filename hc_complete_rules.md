@@ -165,7 +165,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Ageless Perfection:** Elves are immune to sleep, charm, slow, haste, aging, and energy drain effects, *unless* those effects are results of the magic of an Elf (self or other, alive or undead).
 
-**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*, which you can always cast at will. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
+**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
 
 At the start of play, a new Elf can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
