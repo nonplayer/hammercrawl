@@ -144,7 +144,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a turn searching.
 
-**Dwarf Battlemaster:** Dwarves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Dwarf Battlemaster:** Dwarves have a bonus melee attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Dwarven Resilience:** Dwarves have advantage on all of their Good saves.
 
@@ -171,9 +171,13 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Armoured Spellcaster:** Elves are better at casting in armour than humans. Elves suffer no chance of spell failure in Light armour, and a 25%/50%/75% chance when wearing medium/heavy/plate armours, respectively. Failed spells are forgotten per normal rules.
 
-**Blade Dancer:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Blade Dancer:** Elves are skilled at fighting with two weapons at once. When wielding two one-handed weapons, Elves roll one extra attack die, but lower their damage die by one step (to a d6) for the entire assault. At level 9, this increases to two extra attack dice.
+
+**Bow Master:** Elves learn the way of the bow from birth. At second level, Elves (only) gain a second attack die when using Short and Long Bows, and they acquire a third at level 10. Each attack die requires one arrow from their quiver. When attacking with a bow, declare target(s) first and then roll all of the attack dice, but only one damage die. Each arrow that hits applies the same amount of damage.
 
 **Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a turn searching.
+
+**War Adept:** Elves have a bonus melee attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 
 #### Halfling Burglar
@@ -188,9 +192,9 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
   - **Bad:** None
 * **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
 
-**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus melee attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). They add 1/2 their level (round down) to rolls against these skills.
+**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). Additionally, at level one the Thief adds +1 to any two of these Skills. Each additional level they add two more points to their skills as they see fit. The total bonus on a skill can never exceed their level.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
@@ -215,7 +219,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Large and in the Way:** Half-ogres stand around 7 feet tall or more, and are built like icehouses. All armour must be custom made for them at increased costs and time, and only Halfling-sized creatures or smaller can move through their occupied space if minis and a battlemat are in use.
 
-**Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they have advantage on all damage dice rolled, and disadvantage on all saves except Body and Death. On their turn, they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
+**Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they have advantage on melee and thrown damage dice rolls, immunity to critical fumbles, and disadvantage on all saves except Body and Death. On their turn, they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
 
 * Melee Attack the strongest-looking enemy within immediate striking range.
 * Move to the strongest-looking enemy within charging range and Melee Attack them.
@@ -263,7 +267,11 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
   - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Fighters can use all weapons, shields, and armour.
 
-**Combat Superiority:** Fighters have a bonus attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Combat Superiority:** Fighters have a bonus melee attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+
+**Not Today!:** Once per experience level (cumulative), when a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can instead remain at 1 HP and negate the rest of the damage from that attack. Lucky Fighters can save these uses up across multiple experience levels.
+
+**Primary Tank:** Fighters have advantage on all Hit Dice rolls, *and* reroll all 1s on Hit Dice.
 
 **Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice.
 
@@ -288,7 +296,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 
 **Highcaster:** Magic-users (only) can prepare and even attempt to cast spells of higher level than they normally would be able to, provided they have a copy of the spell in their book. Casting the spell requires permanent loss of INT score equal to the difference in allowed spell levels. Such INT loss can only be regained through the use of the Cleric's *Restoration* spell. Spells cast in this fashion are always immediately forgotten.
 
-**Magical Mind:** Magic-users can cast the spell *Read Magic* freely and at will, without need to prepare or roll.
+**Magical Mind:** Magic-users can cast the spell *Read Magic* freely and at will, without need to prepare, memorize, or roll.
 
 **Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of four (4) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
 
@@ -311,11 +319,11 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
-**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering, Lockpicking, Perception, Stealth, Thief-climbing, Tracking, Trap-finding, and Trap-breaking. The Thief adds their level to rolls using these skills.
-
-At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering, Lockpicking, Perception, Stealth, Thief-climbing, Tracking, Trap-finding, and Trap-breaking. At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing. Additionally, at level one the Thief adds +1 to any four Thief Skills. Each additional level they add four more points to their skills as they see fit. The total bonus on a skill can never exceed their level.
 
 **Tactical Attacker:** Thieves roll with advantage on Tactical Attacks.
+
+**Trapwise:** Thieves have advantage on all Saves against the effects of Traps.
 
 
 ### Step 3: Roll Your Stats
@@ -344,6 +352,39 @@ Now roll 3d6 six times, and write them down in order.
 | 16-17 | +2  |
 | 18    | +3  |
 
+Stats are explained in further detail immediately below.
+
+
+#### Basics of Stats
+
+There are six core stats: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). Each stat has a Base Score and a Derived Modifier. The **Base Score** is determined by the initial 3D6 roll. These initial scores are not used much outside of their initial purpose of determining the Stats' derived modifiers. The **Modifier** is a number from -3 to +3, determined by the table above. This number is most commonly used to modify a character's relevant active dice rolls when attempting actions during play.
+
+Each of the six core stats affects certain mechanics, as detailed below:
+
+
+##### Strength (STR)
+
+
+
+##### Dexterity (DEX)
+
+
+
+##### Constitution (CON)
+
+
+
+##### Intelligence (INT)
+
+
+
+##### Wisdom (WIS)
+
+
+
+##### Charisma (CHA)
+
+
 
 ### Step X: Roll Your Skills
 
@@ -352,6 +393,16 @@ While your character is assumed to have many unwritten skills simply through the
 
 
 These are all you get. You will not automatically acquire more skills unless the Hammersmith and/or the whims of the game otherwise gift them to you.
+
+
+
+### Step X: Confirm and Note Important Sub-Stats
+
+* Armor Class (AC)
+* Melee Attack Modifier
+* Melee Damage Modifier
+* Missile Attack Modifier
+* Movement Speed
 
 
 
@@ -401,6 +452,7 @@ Given the depth involved in a combat encounter, the fighting mechanics have thei
 Your base damage with all weapons is equal to your Class Hit Die. Some weapons may have special modifiers to this, however.
 
 Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
+
 
 #### Zero Hit Points
 
@@ -454,7 +506,12 @@ See "Damage"
 
 See "Experience"
 
+
 ### Light
+
+1 torch = 6 turns (1 hour) of light
+
+lantern w/ 1 flash of oil = 24 turns (4 hours) of light
 
 
 ### Magic (ref)
@@ -468,13 +525,13 @@ Given the depth of magical ways, the magic rules have their own separate chapter
 ### Party Actions
 
 
-#### Party Action 1: Camping
+#### Party Action: Camp
 
 
-#### Party Action 2: Exploring
+#### Party Action: Explore
 
 
-#### Party Action 3: Returning to Town
+#### Party Action: Return to Town
 
 
 ### Saving Throws
@@ -491,13 +548,27 @@ When it's time to make the check, roll 1d20 and add your relevant modifier based
 
 | Source Tier is…    | Target |
 |--------------------|--------|
-| Two or more Lower  | 6      |
-| One Lower          | 9      |
-| Equal              | 12     |
-| One Higher         | 15     |
-| Two or more Higher | 18     |
+| Two or more Lower  | 9      |
+| One Lower          | 12     |
+| Equal              | 15     |
+| One Higher         | 18     |
+| Two or more Higher | 21     |
 
 For example, a 2nd level Adventurer (Tier 1) saving against the magical fear effect of a 7th level Monster (Tier 3) would have to roll an 18 or higher, due to the differences in their tiers.
+
+
+### Searching for Hidden Secrets
+
+Adventurers can search for clues and hidden secrets in the dungeon by spending time in active investigation. A character can search a single 10 x 10 area in a minimum one Turn of time, and of course the party can split up to cover more ground in larger areas by searching simultaneously. Characters can spend longer searching, and increase their chances of success.
+
+When one or more characters are searching, the Hammersmith asks how many characters (if any) are searching together, and how long they intend to spend searching. After the time stated, the 'Smith secretly rolls to see if they found anything that may have been hidden in their area. Each character searching has a cumulative 1 in 6 chance of finding a hidden secret in the area per turn spent searching. If they work together, their efforts are combined. For example, two characters who spend two turns together searching the same area have a 4 in 6 chance of finding a hidden secret. If the combined time and efforts push the chance to 6 in 6 or more, the characters automatically find the secret(s) after the allotted amount of time.
+
+Note that a successful search result still won't find any hidden secrets if there are none there to find in the first place. And also note that discovering the *existence* of the secret doesn't necessarily inform the characters how to *access* that secret, either. That may require additional detailed, creative, and hands-on storytelling, role-playing, and scene exploration.
+
+
+#### Searching for Traps (ref)
+
+Searching for Traps is handled by the Thief Skill. See Thief Skills, particularly "Trap-Finding."
 
 
 ### Skills
@@ -515,22 +586,22 @@ Thief skills are special, and detailed in the "Thief Skills" section below.
 
 ### Spells and Spellcasting (ref)
 
-Given the depth of magical ways, the magic rules have their own separate chapter. See "Magic and Spellcasting" further below.
+Given the mechanical depth of the magical arts, the magic rules have their own separate chapter. See "Magic and Spellcasting" further below.
 
 
 ### Thief Skills (ref)
 
 Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls.
 
-The target of a Thief Skill is based on the Tier of the Dungeon. Compare the Thief's experience Tier to the Dungeon Level Tier to determine the skill roll target. This is a D20 roll, modified by the relevant stat for that skill. Thieves add their level to the roll, while Halflings add 1/2 their level (rounded down).
+The target of a Thief Skill is based on the Tier of the Dungeon. Compare the Thief's experience Tier to the Dungeon Level Tier to determine the skill roll target. This is a D20 roll, modified by the relevant stat for that skill.
 
 | Dungeon Level Tier is…    | Target |
 |---------------------------|--------|
-| Two or more Lower         | 6      |
-| One Lower                 | 9      |
-| Equal                     | 12     |
-| One Higher                | 15     |
-| Two or more Higher        | 18     |
+| Two or more Lower         | 9      |
+| One Lower                 | 12     |
+| Equal                     | 15     |
+| One Higher                | 18     |
+| Two or more Higher        | 21     |
 
 #### Deciphering (INT)
 
@@ -566,6 +637,7 @@ A number of effects in the game use the "Tier" mechanic as a rough relative comp
 
 | Tier | XP/HD Levels | Adventurer Rank         | Monster Rank    | Treasure?          |
 |------|--------------|-------------------------|-----------------|--------------------|
+| 0    | 0            | Common Non-Adventurer   | Dungeon Fodder  | Pocket Oddities    |
 | 1    | 1-3          | Skilled Vagabond        | Nuisance        | Money              |
 | 2    | 4-6          | Professional Adventurer | Monster         | Gem/Art            |
 | 3    | 7-9          | Local Hero              | Serious Danger  | Minor Magic Item   |
@@ -582,6 +654,18 @@ Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the H
 
 
 ### Timekeeping
+
+1 second = ~1 action phase (move/missile/melee/misc/magic)
+
+1 round = ~10 seconds = ~10 action phases
+
+1 minute = ~6 rounds
+
+1 turn = ~10 minutes = ~60 rounds
+
+1 hour = ~6 turns
+
+
 
 
 ### Turn Unholy
@@ -682,34 +766,6 @@ After movement, anyone making missile, thrown, or other ranged attacks acts.
 After missile attacks are resolved, anyone making melee attacks acts.
 
 
-##### Special: Shield Bash
-
-The shield bash is a special attack available to Dwarves and Fighters. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
-
-* The target is disarmed, and their weapon knocked beyond immediate melee reach.
-* The target is "dazed" until their next action, suffering combat disadvantage.
-* The target is knocked to the ground, and the next ally that attacks them gains advantage on one of their dice.
-
-Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
-
-
-##### Special: Tactical Attack
-
-Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase. detailed below.
-
-These attacks never do damage, but can instead set up temporary advantages and disadvantages. Any character can attempt a tactical attack, although Thieves and Halflings have advantages to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
-
-The target must make the relevant Save. If failed, the Hammersmith chooses one of the following based on the description and the beat of the moment:
-
-* The target suffers a disadvantage on their next action
-* The next action against the target gains an advantage
-* The target loses their next action
-* The target is temporarily incapacitated
-* Any other effect that seems appropriate
-
-Tactical Actions are great for setting an opportunity for a Thief's Stabbity attack.
-
-
 #### Misc. Phase
 
 After melee attacks are resolved, anyone taking any other "miscellaneous" actions acts.
@@ -729,6 +785,45 @@ Finally, at the end of the round, anyone wishing to cast a spell or activate a m
 When combat ends, the survivors gain the might-gained right to loot the bodies of the fallen, both foe and friend alike. This is a divine privilege that extends back to the earliest days of gaming, and is in fact the reason many of us still play these elf games today. Loot gained through feats of martial and magical prowess is the best loot, bar none.
 
 
+### Combat Special Rules
+
+Alphabetized for ease of reference.
+
+
+#### Critical Hits and Fumbles
+
+
+#### Shield Bash
+
+The **shield bash** is a special melee attack available to Dwarves and Fighters. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
+
+* The target is disarmed, and their weapon knocked beyond immediate melee reach.
+* The target is "dazed" until their next action, suffering combat disadvantage.
+* The target is knocked to the ground, and the next ally that attacks them gains advantage on one of their dice.
+
+Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
+
+
+#### Tactical Attacks
+
+The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
+
+These attacks never do damage, but can instead set up temporary advantages and disadvantages. Any character can attempt a tactical attack, although Thieves and Halflings have advantages to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
+
+The target must make the relevant Save. If failed, the Hammersmith chooses one of the following based on the description and the beat of the moment:
+
+* The target suffers a disadvantage on their next action
+* The next action against the target gains an advantage
+* The target loses their next action
+* The target is temporarily incapacitated
+* Any other effect that seems appropriate
+
+Tactical Actions are great for setting an opportunity for a Thief's Stabbity attack.
+
+
+
+
+
 ## CHAPTER: Magic and Spellcasting
 
 Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. While Clerics have access to a different "divine" spell list than Elves and Magic-Users, unlike most other derivatives of The OG, that is where their spellcasting differences end. Spell lists aside, all spellcasting classes use the same rules for memorizing and casting spells.
@@ -738,7 +833,11 @@ Elves, Clerics, and Magic-Users (and of course many monsters) have the special a
 
 
 
-Clerics call them "Prayerbooks" but still follow all the core spellbook rules.
+#### Clerics Use Spellbooks Too!
+
+Unlike The OG and most of its derivatives, Clerics in HAMMERCRAWL! require spellbooks too! In opposition to how a lot of other games implement them, Clerics *do not* immediately have access to the entire Clerical spell list upon attaining the requisite experience levels. Instead, Clerics must collect and learn spells exactly as Elves and Magic-users, only their are drawn from Holy Writ. Clerics call their tomes "Prayerbooks" but otherwise follow all the core spellbook rules. Clerical spells care commonly called "prayers" and they can learn from holy scrolls exactly the same as Magic-users learn from wizardly scrolls.
+
+Some more experienced players of The OG may call this change blasphemy, but in play we've found that brand new players at one-shot games find that it makes for a lot more approachable experience when playing a Cleric for the very first time.
 
 
 #### Losing Spellbooks
@@ -791,3 +890,9 @@ As for how to find them? Well, dear adventurer, that's why you must always go as
 
 
 ## Converting Material from Other Games
+
+### From "Old School" Editions
+
+
+
+### From Edition the Fifth
