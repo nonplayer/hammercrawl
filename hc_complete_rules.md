@@ -107,10 +107,10 @@ First and foremost, you must randomly determine your new character's Class. Roll
 
 | Roll  | Class             |
 |-------|-------------------|
-| 2-3   | Elf Exemplar      |
-| 4-7   | Dwarf Defender    |
-| 8-12  | Human*            |
-| 13-16 | Halfling Burglar  |
+| 3-4   | Elf Exemplar      |
+| 5-7   | Dwarf Defender    |
+| 8-13  | Human*            |
+| 14-16 | Halfling Burglar  |
 | 17-18 | Half-ogre Berserker |
 
 *If human, roll 1d4 to determine your actual class:
