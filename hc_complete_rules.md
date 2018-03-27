@@ -398,6 +398,7 @@ These are all you get. You will not automatically acquire more skills unless the
 
 ### Step X: Confirm and Note Important Sub-Stats
 
+* Experience Level and Character Tier
 * Armor Class (AC)
 * Melee Attack Modifier
 * Melee Damage Modifier
@@ -591,17 +592,21 @@ Given the mechanical depth of the magical arts, the magic rules have their own s
 
 ### Thief Skills (ref)
 
-Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls.
+Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls. These rolls are handled similarly to the d6 Search Checks, in fact, but increase in difficulty based on the dungeon level's Tier (see the table below). A dungeon level's Tier is based on the HD value of that level's strongest opponent (the "Boss" of the level).
 
-The target of a Thief Skill is based on the Tier of the Dungeon. Compare the Thief's experience Tier to the Dungeon Level Tier to determine the skill roll target. This is a D20 roll, modified by the relevant stat for that skill.
+To attempt a Thief Skill, the player must first have the skill in question as a class feature. Checking it requires a roll of the associated Check Die for that dungeon level's Tier. After rolling, modify the result by the associated Stat Mod, and the Thief's invested points in the skill. For example, a Thief with DEX mod of +2 and 3 points in Lockpicking would add +5 to their roll.
 
-| Dungeon Level Tier is…    | Target |
-|---------------------------|--------|
-| Two or more Lower         | 9      |
-| One Lower                 | 12     |
-| Equal                     | 15     |
-| One Higher                | 18     |
-| Two or more Higher        | 21     |
+If the resulting modified total equals or exceeds the maximum die value (i.e. 8 or more when rolling a d8), the check succeeds. Otherwise, the check fails. Each skill has its own details on the results of success and failure.
+
+| Tier | Boss's HD | Check Die |
+|------|-----------|-----------|
+| 1    | 1-3       | d6        |
+| 2    | 4-6       | d8        |
+| 3    | 7-9       | d10       |
+| 4    | 10-12     | d12       |
+| 5    | 13-15     | d20       |
+| 6    | 16+       | d30       |
+
 
 #### Deciphering (INT)
 
@@ -893,6 +898,8 @@ As for how to find them? Well, dear adventurer, that's why you must always go as
 
 ### From "Old School" Editions
 
+#### Monsters
 
+Ignore any noted HD asterisks when calculating Tiers on Monsters and Dungeon Levels, instead using the base HD alone.
 
 ### From Edition the Fifth
