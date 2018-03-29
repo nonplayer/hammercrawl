@@ -139,6 +139,7 @@ Each class has its own special rules and abilities. Take note of yours using the
   - **Okay:** Fate = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Area = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons, shields, and armour except longbows.
+* **Bonus Languages:** Dwarf
 
 **Born in Armor:** Dwarves in Medium or heavier armour do not suffer AC penalties from low DEX mods. Heavy armour never reduces their movement speed.
 
@@ -162,10 +163,11 @@ Each class has its own special rules and abilities. Take note of yours using the
   - **Okay:** Body, Area = add 1/2 your level (round down) to the roll.
   - **Bad:** Fate = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons, shields, and armour. Armour may limit spellcasting.
+* **Bonus Languages:** Elf
 
 **Ageless Perfection:** Elves are immune to sleep, charm, slow, haste, aging, and energy drain effects, *unless* those effects are results of the magic of an Elf (self or other, alive or undead).
 
-**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
+**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of one (1) randomly-determined bonus spell. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
 
 At the start of play, a new Elf can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
@@ -184,13 +186,14 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 * **Prime Stats:** DEX, CHA
 * **Hit Dice:** 1d6 per level, modified by CON mod.
-* **Attack Rank:**
+* **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 20
 * **Saving Throws:**
   - **Good:** Area, Body, Death, Fate, Mind = add your level to your roll.
   - **Okay:** None
   - **Bad:** None
 * **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
+* **Bonus Languages:** Halfling
 
 **Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus melee attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
@@ -216,6 +219,9 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
   - **Okay:** Area = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons and shields. Armour must be custom made.
+* **Bonus Languages:** Ogre
+
+**Chaotic Nature:** Berserkers cannot be aligned to Law.
 
 **Large and in the Way:** Half-ogres stand around 7 feet tall or more, and are built like icehouses. All armour must be custom made for them at increased costs and time, and only Halfling-sized creatures or smaller can move through their occupied space if minis and a battlemat are in use.
 
@@ -247,12 +253,15 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
   - **Okay:** Mind, Body, Death = add 1/2 your level (round down) to the roll.
   - **Bad:** Area = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons, shields, and armour that are not otherwise prohibited by their deity.
+* **Bonus Languages:** None
 
-**Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast spells from the Cleric spell list. Clerics begin the game with a holy prayerbook which contains a base of three (3) randomly-determined clerical prayers. This number of bonus spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons.
+**Aligned to the Gods:** Clerics must believe in a great deific cause, and as such cannot be of Neutral alignment.
+
+**Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast spells from the Cleric spell list. Clerics begin the game with a holy prayerbook which contains a base of two (2) randomly-determined clerical prayers. This number of bonus spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons.
 
 At the start of play, a new Cleric can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
-**Turn Away the Unholy** Once per Day per Level of Experience, a Cleric can hold aloft the symbol of their righteous faith and turn back undead, devils, demons, and any others that the Hammersmith deems to be enemies of their faith. All such opponents must make Mind saves based on the difference in Level/HD Tiers. Those who fail must cower, flee, or possibly even take damage or be destroyed.
+**Turn Away the Unholy** Once per Day per Level of Experience, a Cleric can hold aloft the symbol of their righteous faith and turn back undead, devils, demons, and any others that the Hammersmith deems to be enemies of their faith. All such opponents must make Mind saves based on the difference in Level/HD Tiers. Targets who fail this save must cower, flee, or possibly even take damage or be destroyed.
 
 
 #### Human Fighter
@@ -266,6 +275,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
   - **Okay:** Area = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Fighters can use all weapons, shields, and armour.
+* **Bonus Languages:** None
 
 **Combat Superiority:** Fighters have a bonus melee attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
@@ -289,6 +299,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
   - **Okay:** Fate = add 1/2 your level (round down) to the roll.
   - **Bad:** Body, Area, Death = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can not use two-handed weapons except staves. Can not wear heavy armour or use shields. Other armour can cause spell failure.
+* **Bonus Languages:** None
 
 **Armour-Inept:** Magic-users cannot wear Heavy armour, and suffer a chance of spell failure while wearing other armour. In Light armour, the chance is 50%, and in Medium armour the chance is 75%. Failed spells are forgotten per normal rules.
 
@@ -298,7 +309,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 
 **Magical Mind:** Magic-users can cast the spell *Read Magic* freely and at will, without need to prepare, memorize, or roll.
 
-**Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of four (4) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
+**Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
 
 At the start of play, a new Magic-User can safely cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience. Take note of their Highcast ability, above.
 
@@ -316,6 +327,7 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
   - **Okay:** Death = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Body = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Thieves can use any weapons and armour that the Hammersmith deems to be suitably sneaky.
+* **Bonus Languages:** Thieves' Cant
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
@@ -326,7 +338,12 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 **Trapwise:** Thieves have advantage on all Saves against the effects of Traps.
 
 
-### Step 3: Roll Your Stats
+### Step 3: Choose Your Alignment
+
+Choose from: Chaos, Evil, Good, Law, and Neutral.
+
+
+### Step 4: Roll Your Stats
 
 Now roll 3d6 six times, and write them down in order.
 
@@ -388,7 +405,9 @@ Each of the six core stats affects certain mechanics, as detailed below:
 
 ### Step X: Roll Your Skills
 
-While your character is assumed to have many unwritten skills simply through their class and background, you also begin the game with four randomly determined skills that you somehow picked up during your pre-game life. Explanations for these are up to you.
+While your character is assumed to have many unwritten skills simply through their class and background, you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
+
+At creation, you begin with a base of 4 skills, modified by your INT mod. Thus if you have a -2 INT mod, then you only start with two skills.
 
 
 
