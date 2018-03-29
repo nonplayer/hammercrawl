@@ -197,7 +197,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus melee attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). Additionally, at level one the Thief adds +1 to any two of these Skills. Each additional level they add two more points to their skills as they see fit. The total bonus on a skill can never exceed their level.
+**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). Additionally, at level one the Halfling adds +1 to any two of these Skills. Each additional level they add two more points to their skills as they see fit. They cannot invest more points in any single skill than their current level.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
