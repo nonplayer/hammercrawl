@@ -237,8 +237,6 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 
 **Savage Warrior:** Berserkers have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Berserker declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Tooth and Nail:** Half-ogres' teeth and fingernails are deadly weapons in their own right. When fighting without a suitable weapon, a Berserker still does 1d6 damage.
-
 **Two-Hander:** When using a two-handed weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
 
