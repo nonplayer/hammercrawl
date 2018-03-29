@@ -281,7 +281,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 
 **Primary Tank:** Fighters have advantage on all Hit Dice rolls, *and* reroll all 1s on Hit Dice.
 
-**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice.
+**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's AC bonus until the start of their next turn in combat.
 
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 
