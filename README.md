@@ -2,15 +2,15 @@
 
 **Created by:** N. Phillip Cole
 
-HAMMERCRAWL! is not a complete game, but a method of running OSR style games 100% randomly. Start with [the core rules document](./Core_Rules.md) in this repo.
-
-This specific document is a collection of links and meta/setup information for the game process.
+In the past, HAMMERCRAWL! wasn't meant to be a complete game, but just a method of running OSR style games 100% randomly. However, as of Q1 2018, this has changed, and I've decided to write an entire base game for the HAMMERCRAWL! process from the ground up. The older process docs are still here and updated as needed, but I'm now directing most of my efforts on this project toward building on the new base game itself. Expect a lot more in the coming days!
 
 Any original text here is distributed by License: [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## The Main Files
 
-* **The HammerCrawl Core Rules:** The entire process, defined
+* **[The HAMMERCRAWL! Core Game System](./hc_complete_rules.md):** This is the new core game, fully OSR-compatible, and completely free. It is very much a work in progress, but all the basics are there to be played with.
+	- This process works best with my own associated [Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen), also on GitHub
+* The HammerCrawl Original Process: If you have a game already and just want the meta-process, follow these links:
 	- [DM's Guide](./hc_core_dm.md)
 	- [Players' Guide](./hc_core_player.md)
 * Subsystem Documents:
@@ -20,13 +20,7 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 	- [Lamentations of the Flame Princess](./hc_lotfp.md)
 	- [The Nightmares Underneath](./hc_tnu.md)
 
-
-## Coming Soon...
-
-* HAMMERSPRAWL! Cyberpunk Mission Crawling
-* SLAMMERCRAWL! Scifi Hulk Crawling
-
-## Generators
+## The Generators
 
 Note: Any generator tools deemed to be system-specific are being moved into relevant sub docs.
 
@@ -64,4 +58,3 @@ These are the Generators that I use most often, so am linking them here for quic
 * [Kinda funky one](http://www.apolitical.info/webgame/dungeon/index2?mode=2)
 * [An older article collecting a bunch](http://inkwellideas.com/advice/random-dungeon-generators-reviewed/)
 * [PAID PRODUCT but could be good?](http://www.mapmage.com/mapmage.html)
-
