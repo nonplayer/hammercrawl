@@ -197,7 +197,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus melee attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking, Perception, Stealth (with Advantage), Thief-Climbing, and Trap-Finding (with Disadvantage). Additionally, at level one the Halfling adds +1 to any two of these Skills. Each additional level they add two more points to their skills as they see fit. They cannot invest more points in any single skill than their current level.
+**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking (DEX), Perception (WIS), Stealth (DEX, with Advantage), Thief-Climbing (STR), and Trap-Finding (INT, with Disadvantage). Additionally, at level one the Halfling adds +1 to any two of these Skills. Each additional level they add two more points to their skills as they see fit. They cannot invest more points in any single skill than their current level.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
@@ -329,7 +329,7 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
-**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering, Lockpicking, Perception, Stealth, Thief-climbing, Tracking, Trap-finding, and Trap-breaking. At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing. Additionally, at level one the Thief adds +1 to any four Thief Skills. Each additional level they add four more points to their skills as they see fit. The total bonus on a skill can never exceed their level.
+**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering (INT), Lockpicking (DEX), Perception (WIS), Stealth (DEX), Thief-climbing (STR), Tracking (WIS), Trap-finding (INT), and Trap-breaking (DEX). At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing. Additionally, at level one the Thief adds +1 to any four Thief Skills. Each additional level they add four more points to their skills as they see fit. The total bonus on a skill can never exceed their level.
 
 **Tactical Attacker:** Thieves roll with advantage on Tactical Attacks.
 
