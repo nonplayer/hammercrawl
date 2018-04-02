@@ -136,7 +136,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 * **Base Movement:** 25
 * **Saving Throws:**
   - **Good:** Body, Death = add your level to your roll.
-  - **Okay:** Fate = add 1/2 your level (round down) to the roll.
+  - **Okay:** Luck, Rally = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Area = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons, shields, and armour except longbows.
 * **Bonus Languages:** Dwarf
@@ -160,8 +160,8 @@ Each class has its own special rules and abilities. Take note of yours using the
 * **Base Movement:** 30
 * **Saving Throws:**
   - **Good:** Mind, Death = add your level to your roll.
-  - **Okay:** Body, Area = add 1/2 your level (round down) to the roll.
-  - **Bad:** Fate = add 1/3 your level (round down) to the roll.
+  - **Okay:** Body, Area, Rally = add 1/2 your level (round down) to the roll.
+  - **Bad:** Luck = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons, shields, and armour. Armour may limit spellcasting.
 * **Bonus Languages:** Elf
 
@@ -189,7 +189,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 20
 * **Saving Throws:**
-  - **Good:** Area, Body, Death, Fate, Mind = add your level to your roll.
+  - **Good:** Area, Body, Death, Luck, Mind, Rally = add your level to your roll.
   - **Okay:** None
   - **Bad:** None
 * **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
@@ -216,8 +216,8 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 * **Base Movement:** 30
 * **Saving Throws:**
   - **Good:** Body, Death = add your level to your roll.
-  - **Okay:** Area = add 1/2 your level (round down) to the roll.
-  - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
+  - **Okay:** Area, Rally = add 1/2 your level (round down) to the roll.
+  - **Bad:** Mind, Luck = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons and shields. Armour must be custom made.
 * **Bonus Languages:** Ogre
 
@@ -247,7 +247,7 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:** Fate = add your level to your roll.
+  - **Good:** Luck, Rally = add your level to your roll.
   - **Okay:** Mind, Body, Death = add 1/2 your level (round down) to the roll.
   - **Bad:** Area = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can use all weapons, shields, and armour that are not otherwise prohibited by their deity.
@@ -269,9 +269,9 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 * **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:** Body, Death = add your level to your roll.
+  - **Good:** Body, Death, Rally = add your level to your roll.
   - **Okay:** Area = add 1/2 your level (round down) to the roll.
-  - **Bad:** Mind, Fate = add 1/3 your level (round down) to the roll.
+  - **Bad:** Mind, Luck = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Fighters can use all weapons, shields, and armour.
 * **Bonus Languages:** None
 
@@ -294,8 +294,8 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 * **Base Movement:** 30
 * **Saving Throws:**
   - **Good:** Mind = add your level to your roll.
-  - **Okay:** Fate = add 1/2 your level (round down) to the roll.
-  - **Bad:** Body, Area, Death = add 1/3 your level (round down) to the roll.
+  - **Okay:** Luck = add 1/2 your level (round down) to the roll.
+  - **Bad:** Body, Area, Death, Rally = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Can not use two-handed weapons except staves. Can not wear heavy armour or use shields. Other armour can cause spell failure.
 * **Bonus Languages:** None
 
@@ -321,8 +321,8 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 * **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
-  - **Good:** Area, Fate = add your level to your roll.
-  - **Okay:** Death = add 1/2 your level (round down) to the roll.
+  - **Good:** Area, Luck = add your level to your roll.
+  - **Okay:** Death, Rally = add 1/2 your level (round down) to the roll.
   - **Bad:** Mind, Body = add 1/3 your level (round down) to the roll.
 * **Gear Restrictions:** Thieves can use any weapons and armour that the Hammersmith deems to be suitably sneaky.
 * **Bonus Languages:** Thieves' Cant
@@ -338,7 +338,7 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 
 ### Step 3: Choose Your Alignment
 
-Choose from: Chaos, Evil, Good, Law, and Neutral.
+Choose from the following five: Chaotic, Evil, Good, Lawful, and Neutral.
 
 
 ### Step 4: Roll Your Stats
@@ -380,25 +380,55 @@ Each of the six core stats affects certain mechanics, as detailed below:
 ##### Strength (STR)
 
 
+**Modifies:**
+
+* Melee Attack Rolls
+* Melee Damage Rolls
+* Thrown Damage Rolls
+
 
 ##### Dexterity (DEX)
 
+**Modifies:**
+
+* Area Save Rolls
+* Armour Class
+* Initiative Rolls
+* Missile Attack Rolls
 
 
 ##### Constitution (CON)
 
+**Modifies:**
+
+* Body Saves
+* Hit Die Rolls
 
 
 ##### Intelligence (INT)
 
+**Modifies:**
+
+* Elf and Magic-User Starting Spells
+* Starting Languages
+* Starting Skills
 
 
 ##### Wisdom (WIS)
 
+**Modifies:**
+
+* Cleric Starting Spells
+* Initiative
+* Mind Saves
 
 
 ##### Charisma (CHA)
 
+**Modifies:**
+
+* Leadership (Lead) Saves
+* Reaction Rolls
 
 
 ### Step X: Roll Your Skills
@@ -504,6 +534,18 @@ When *Cure Serious Wounds* is used to restore lost CON from damage, ignore the s
 ### Death
 
 
+### Encounters (the Players' version)
+
+Misc:
+
+* basic encounter expectations
+* reaction basics
+* parley and such
+* etc
+
+Extended encounter rules in Hammersmith section.
+
+
 ### Experience
 
 
@@ -518,6 +560,9 @@ Notes:
 ### Healing (ref)
 
 See "Damage"
+
+
+### Hirelings and Henchmen
 
 
 ### Leveling Up (ref)
@@ -540,6 +585,11 @@ Given the depth of magical ways, the magic rules have their own separate chapter
 ### Mapping
 
 
+### Morale and Leadership
+
+(includes Rally Saves)
+
+
 ### Party Actions
 
 
@@ -552,15 +602,21 @@ Given the depth of magical ways, the magic rules have their own separate chapter
 #### Party Action: Return to Town
 
 
+### Reactions (ref)
+
+See "Encounters"
+
+
 ### Saving Throws
 
-You will frequently be asked to make a "saving throw" in order to resist affects from spells, traps, and many other dangers. The Hammersmith will tell you when you need to make a Save, and which of the following five categories that save falls under:
+You will frequently be asked to make a "saving throw" in order to resist affects from spells, traps, and many other dangers. The Hammersmith will tell you when you need to make a Save, and which of the following Six categories that save falls under:
 
-* Area Attacks
-* Death Effects
-* Mind Debilitation
-* Body Debilitation
-* Fate and Fortune
+* Area: Dodges and Large Area Effect Attacks
+* Death: Insta-Kills and Bleeding Out
+* Mind: Mental Debilitations
+* Body: Physical Debilitations
+* Luck: Fate and Fortune
+* Rally: Leadership and Morale
 
 When it's time to make the check, roll 1d20 and add your relevant modifier based on your class and stats. The target number for your roll is based on the "Tier" of power of the source effect, determined by comparing the source's relevant power tier to your character's current experience tier:
 
@@ -909,6 +965,9 @@ As for how to find them? Well, dear adventurer, that's why you must always go as
 
 
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
+
+
+## Encounters (Hammersmith Version)
 
 
 ## Converting Material from Other Games
