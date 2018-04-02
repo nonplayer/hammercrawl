@@ -442,6 +442,9 @@ At creation, you begin with a base of 4 skills, modified by your INT mod. Thus i
 These are all you get. You will not automatically acquire more skills unless the Hammersmith and/or the whims of the game otherwise gift them to you.
 
 
+### Step X: Randomize Your Starting Equipment
+
+
 
 ### Step X: Confirm and Note Important Sub-Stats
 
@@ -452,6 +455,10 @@ These are all you get. You will not automatically acquire more skills unless the
 * Missile Attack Modifier
 * Movement Speed
 
+
+### Step X: Name Your Characters
+
+(pass it to the left!)
 
 
 ### Final Step: Determine Party (Player) Roles
@@ -563,6 +570,49 @@ See "Damage"
 
 
 ### Hirelings and Henchmen
+
+blah
+
+**First off** every Hireling has an associated **Profession.** This states the scope of action they are skilled in.
+
+Example Professions and associated abilities:
+
+* Blah
+
+Additionally, every Hireling has a base Tier, which determines everything else about their usefulness and cost.
+
+**Hireling Tier Table:**
+
+| Hireling Tier | Daily Cost | Expertise | Chance of Finding | Description                             |
+|---------------|------------|-----------|-------------------|-----------------------------------------|
+| 0             | 1 Ration   | 0         | 100 in 100        | Unskilled                               |
+| 1             | 1 cp       | 1         | 1 in 10           | Apprentice                              |
+| 2             | 2 sp       | 2         | 1 in 20           | Expert                                  |
+| 3             | 3 gp       | 3         | 1 in 100          | Master                                  |
+| 4             | 4 pp       | 4         | 1 in 1,000        | Best in their Field for the Present Day |
+| 5             | 5 xp       | 5         | 1 in 10,000       | Best in their Field in all of History   |
+
+**Tier:** The Tier is used for all associated and relevant mechanics. It determines the base bonus to related abilities, and the number of hit dice the hireling has should they come into question.
+
+**Daily Cost:** Every hireling has a daily cost that must be paid in order to secure their continued service. Tier 0 hirelings merely require food and a place to sleep. At Tiers 1 and higher, their daily cost is equal to their tier matched with a step on the Money Chain (see the table).
+
+**Expertise:** Every Hireling gets an Expertise bonus equal to their Tier applied to any checks related to their Professional abilities. Tier 0 hirelings don't get this bonus, but you probably knew that already - you didn't hire them to be good at anything but holding a torch and serving as dungeon "canaries."
+
+**Chance of Finding:** Pretty self-explanatory. If you're looking for one, that's your chance of finding them.
+
+**Description:** A general eyeballing of how that hireling fits into the hierarchy of ability for their chosen profession.
+
+
+#### Finding a Hireling
+
+Go to a place where you might expect a hireling to be found - that means a town or other social center that is most likely *not* in a dungeon. Ask around, chances are you will find someone interesting...
+
+
+#### Putting Up With Your Bullshit
+
+Hirelings prefer to keep their demanded work within the scope of the expertise they were hired for. When you push a hireling to act too often or intensely, the 'Smith may require you to make a Rally save in order to keep the hireling's current services. This is a check per normal Saves rules, using the difference between your relative Tiers to determine the target (making expensive higher-tier hirelings more difficult to hold onto after pissing them off!).
+
+If you succeed at the save, you keep your hireling for the time being, without changes to your contract. If you fail the save by 5 or less, they may choose to remain, but require double the daily cost. If you fail by more than 5, they quit your service immediately, possibly becoming hostile.
 
 
 ### Leveling Up (ref)
@@ -967,15 +1017,77 @@ As for how to find them? Well, dear adventurer, that's why you must always go as
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
 
 
-## Encounters (Hammersmith Version)
+## RANDOMIZE ALL THE THINGS
+
+
+### Master List of Randomizers (ref)
+
+See Appendix R, at the end of this document.
+
+
+### Random Dungeons
+
+
+### Random Encounters
+
+
+### Random Monsters
+
+
+### Random NPCs (other than the author)
+
+
+### Random Traps
+
+
+### Random Treasure
 
 
 ## Converting Material from Other Games
 
+
+### Converting Pre-Made Maps
+
+People like Dyson Logos, Miska Friedman, and Karl Stjernberg (links?) pop out dungeon material at lightning speeds, making them prime sources of dungeon inspiration. If you don't want to make a dungeon on the fly, but don't have time to map out and populate your own from the ground up, here's how to convert an existing one for use as the map for an otherwise randomly-generated HAMMERCRAWL! game.
+
+
+
+
+
 ### From "Old School" Editions
+
 
 #### Monsters
 
 Ignore any noted HD asterisks when calculating Tiers on Monsters and Dungeon Levels, instead using the base HD alone.
 
+
 ### From Edition the Fifth
+
+
+# Appendix R: Master List of Randomizers
+
+Here are all of the randomizers that I have found to be most excellent for running HAMMERCRAWL! live and with minimal preparation.
+
+First and foremost, nothing beats [The Donjon](http://donjon.bin.sh/) for it's enormous variety of pure randomized awesomeness. This website is the most-used tool in my collection of randomness. It's a vast and comprehensive site with more generators than you could possibly imagine, and I recommend it as the first stop for all your immediate randomizer needs.
+
+Beyond the Donjon, here are some other good resources:
+
+
+#### Mobile Apps
+
+* Adventuresmith
+* Crawler's Companion
+* Dunjen (defunt?)
+
+
+#### Programs
+
+* BECMI Utilities
+* NPC's Old School Character Generator
+
+
+#### Websites
+
+* Behind the Name
+* Save vs Total Party Kill
