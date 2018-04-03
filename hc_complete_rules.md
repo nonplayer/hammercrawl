@@ -277,7 +277,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 
 **Combat Superiority:** Fighters have a bonus melee attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Not Today!:** Once per experience level (cumulative), when a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can instead remain at 1 HP and negate the rest of the damage from that attack. Lucky Fighters can save these uses up across multiple experience levels.
+**Not Today!:** At first level and each level after, the Fighter gains a single use of "Not Today!" When a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can spend a use and instead remain at 1 HP and negate the rest of the damage from that attack. These uses accumulate with each level, but each use is permanently lost upon spending.
 
 **Primary Tank:** Fighters have advantage on all Hit Dice rolls, *and* reroll all 1s on Hit Dice.
 
