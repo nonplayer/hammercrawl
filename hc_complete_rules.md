@@ -329,7 +329,9 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
-**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering (INT), Lockpicking (DEX), Perception (WIS), Stealth (DEX), Thief-climbing (STR), Tracking (WIS), Trap-finding (INT), and Trap-breaking (DEX). At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing. Additionally, at level one the Thief adds +1 to any four Thief Skills. Each additional level they add four more points to their skills as they see fit. The total bonus on a skill can never exceed their level.
+**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering (INT), Lockpicking (DEX), Perception (WIS), Stealth (DEX), Thief-climbing (STR), Tracking (WIS), Trap-finding (INT), and Trap-breaking (DEX). At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+
+**Thiefy Expertise:** Once per adventure per experience level, the Thief can attempt to reroll a failed Thief Skill check. This count resets upon Returning to Town.
 
 **Tactical Attacker:** Thieves roll with advantage on Tactical Attacks.
 
@@ -715,20 +717,18 @@ Given the mechanical depth of the magical arts, the magic rules have their own s
 
 ### Thief Skills (ref)
 
-Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls. These rolls are handled similarly to the d6 Search Checks, in fact, but increase in difficulty based on the dungeon level's Tier (see the table below). A dungeon level's Tier is based on the HD value of that level's strongest opponent (the "Boss" of the level).
+Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls. To attempt a Thief Skill, the player must first have the skill in question as a class feature. These rolls are performed by rolling a d20, adding the associated Stat Mod for the skill being tested, and comparing it to a target number. The target number is determined by comparing the Thief's experience Tier to the Tier of the current Dungeon Level, which is based on the level Boss's HD (see Tiers, further below).
 
-To attempt a Thief Skill, the player must first have the skill in question as a class feature. Checking it requires a roll of the associated Check Die for that dungeon level's Tier. After rolling, modify the result by the associated Stat Mod, and the Thief's invested points in the skill. For example, a Thief with DEX mod of +2 and 3 points in Lockpicking would add +5 to their roll.
+If the resulting modified total equals or exceeds the target number, the check succeeds. Otherwise, the check fails. Each skill has its own details on the results of success and failure.
 
-If the resulting modified total equals or exceeds the maximum die value (i.e. 8 or more when rolling a d8), the check succeeds. Otherwise, the check fails. Each skill has its own details on the results of success and failure.
+| Dungeon Level Tier is… | Thiefskill Target |
+|------------------------|-------------------|
+| Two or more Lower      | 9                 |
+| One Lower              | 12                |
+| Equal                  | 15                |
+| One Higher             | 18                |
+| Two or more Higher     | 21                |
 
-| Tier | Boss's HD | Check Die |
-|------|-----------|-----------|
-| 1    | 1-3       | d6        |
-| 2    | 4-6       | d8        |
-| 3    | 7-9       | d10       |
-| 4    | 10-12     | d12       |
-| 5    | 13-15     | d20       |
-| 6    | 16+       | d30       |
 
 
 #### Deciphering (INT)
