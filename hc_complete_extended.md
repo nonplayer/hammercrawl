@@ -23,21 +23,51 @@ What you'll find within:
 ### New Classes
 
 
-#### Half-elf Bard
+#### Dwarf Battle Cleric (replaces Dwarf Defender)
+
+* **Prime Stats:** ???
+* **Hit Dice:** 1d8 per level, modified by CON mod.
+* **Attack Rank:** ???
+* **Base Movement:** 20
+* **Saving Throws:**
+  - **Good:** ???
+  - **Okay:** ???
+  - **Bad:** ???
+* **Gear Restrictions:** ???
+* **Bonus Languages:** Dwarf
+
+
+#### Gnome Alchemist (replaces Halfling Burglar)
 
 * **Prime Stats:** ???
 * **Hit Dice:** 1d6 per level, modified by CON mod.
 * **Attack Rank:** ???
-* **Base Movement:** 40
+* **Base Movement:** 20
 * **Saving Throws:**
-  - **Good:** Luck, Rally = add your level to your roll.
-  - **Okay:** Mind, Body, Death = add 1/2 your level (round down) to the roll.
-  - **Bad:** Area = add 1/3 your level (round down) to the roll.
+  - **Good:** ???
+  - **Okay:** ???
+  - **Bad:** ???
 * **Gear Restrictions:** ???
-* **Bonus Languages:** Vulterran
+* **Bonus Languages:** Gnome
+
+
+#### Half-elf Bard (replaces Elf Exemplar)
+
+* **Prime Stats:** ???
+* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Attack Rank:** ???
+* **Base Movement:** 30
+* **Saving Throws:**
+  - **Good:** ???
+  - **Okay:** ???
+  - **Bad:** ???
+* **Gear Restrictions:** ???
+* **Bonus Languages:** Elf
 
 
 #### Vulterran Scout (replaces Half-ogre Berserker)
+
+Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in the lands of Humankind and its allies. The Northlands are largely seen as barbaric wilds by the "civilised" Kingdoms of Humans, but there are actually rich cultures with long-reaching histories, mostly unknown to all residents South of their harsh bounds. Vulterran Scouts range into the lands of Humans, seeking information, allies, and potential targets of eventual raid and conquest.
 
 * **Prime Stats:** ???
 * **Hit Dice:** 1d6 per level, modified by CON mod.
