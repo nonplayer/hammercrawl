@@ -15,7 +15,7 @@ This document is the beginning of my attempt to write a full HAMMERCRAWL! game s
 
 ### Future Plans
 
-The intended result will be a recognizable OSR game with inspirations from *Dark Dungeons*, *The Nightmares Underneath*, and *Dungeon Crawl Classics*.
+The intended result will hopefully be a recognizable game with inspirations from *Dark Dungeons*, *The Nightmares Underneath*, and *Dungeon Crawl Classics*.
 
 
 ### Acknowledgements

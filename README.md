@@ -2,13 +2,14 @@
 
 **Created by:** N. Phillip Cole
 
-In the past, HAMMERCRAWL! wasn't meant to be a complete game, but just a method of running OSR style games 100% randomly. However, as of Q1 2018, this has changed, and I've decided to write an entire base game for the HAMMERCRAWL! process from the ground up. The older process docs are still here and updated as needed, but I'm now directing most of my efforts on this project toward building on the new base game itself. Expect a lot more in the coming days!
+In the past, HAMMERCRAWL! wasn't meant to be a complete game, but just a method of running "classic"" style games 100% randomly. However, as of Q1 2018, this has changed, and I've decided to write an entire base game for the HAMMERCRAWL! process from the ground up. The older process docs are still here and updated as needed, but I'm now directing most of my efforts on this project toward building on the new base game itself. Expect a lot more in the coming days!
 
 Any original text here is distributed by License: [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
 ## The Main Files
 
-* **[The HAMMERCRAWL! Core Game System](./hc_complete_rules.md):** This is the new core game, fully OSR-compatible, and completely free. It is very much a work in progress, but all the basics are there to be played with.
+* **[The HAMMERCRAWL! Core Game System](./hc_complete_rules.md):** This is the new core game, fully compatible with other classic-inspired games currently popular with certain groups, and completely free. It is very much a work in progress, but all the basics are there to be played with.
 	- This process works best with my own associated [Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen), also on GitHub
 * The HammerCrawl Original Process: If you have a game already and just want the meta-process, follow these links:
 	- [DM's Guide](./hc_core_dm.md)
@@ -20,11 +21,10 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 	- [Lamentations of the Flame Princess](./hc_lotfp.md)
 	- [The Nightmares Underneath](./hc_tnu.md)
 
+
 ## The Generators
 
-Note: Any generator tools deemed to be system-specific are being moved into relevant sub docs.
-
-### Quick Reference
+**Note:** Any generator tools deemed to be system-specific are being moved into relevant sub docs.
 
 These are the Generators that I use most often, so am linking them here for quick access:
 
@@ -36,19 +36,11 @@ These are the Generators that I use most often, so am linking them here for quic
 	- [Inn Generator](http://donjon.bin.sh/fantasy/inn/)
 	- NPCs: Both [Generic Fantasy](http://donjon.bin.sh/fantasy/random/#type=npc) and [AD&D-Specific](http://donjon.bin.sh/adnd/random/#type=npc)
 	- Treasure: [AD&D](http://donjon.bin.sh/adnd/treasure/) and hopefully BECMI coming soon...
-
-
-### Universals
-
 * [Labyrinth Lord / Basic D&D Treasure Generator (site)](http://www.mithrilandmages.com/utilities//LLTreasure.php) - This site has a LOT of cool generators, in fact, almost as many as The Donjon
-* [Rafael's OSR Random Generators](http://www.rafaelchandler.com/osr.html)
-
-### Characters
-
 * [Wizardawn Character Generator](http://wizardawn.and-mag.com/tool_bxadvg.php) - THIS ONE IS FUCKING AWESOME! Can print up multiple sheets right from the get-go!
 
 
-### Dungeons
+### Dungeons Specifically
 
 * [Pretty universal, but basic](http://www.gozzys.com/dungeon-maps)
 * [Holy shitballs](https://donjon.bin.sh/adnd/dungeon/)
