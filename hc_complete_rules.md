@@ -429,7 +429,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 
 **Modifies:**
 
-* Leadership (Lead) Saves
+* Rally Saves
 * Reaction Rolls
 
 
@@ -437,25 +437,31 @@ Each of the six core stats affects certain mechanics, as detailed below:
 
 While your character is assumed to have many unwritten skills simply through their class and background, you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
 
-At creation, you begin with a base of 4 skills, modified by your INT mod. Thus if you have a -2 INT mod, then you only start with two skills.
+At creation, you begin with a base of 4 skills, modified by your INT mod. Thus if you have a -2 INT mod, then you only start with two skills. These are all you get. You will not automatically acquire more skills unless the Hammersmith and/or the whims of the game otherwise gift them to you.
 
+If you're using the character generator python tool, this is already handled for you!
 
-
-These are all you get. You will not automatically acquire more skills unless the Hammersmith and/or the whims of the game otherwise gift them to you.
+If not, this section is pending until I get the lists converted from that code...
 
 
 ### Step X: Randomize Your Starting Equipment
 
+If you're using the character generator python tool, this is already handled for you!
+
+If not, this section is pending until I get the lists converted from that code...
 
 
 ### Step X: Confirm and Note Important Sub-Stats
 
-* Experience Level and Character Tier
-* Armor Class (AC)
-* Melee Attack Modifier
-* Melee Damage Modifier
-* Missile Attack Modifier
-* Movement Speed
+* Experience Level (1) and associated Character Tier (1)
+* Armor Class (AC) = 10 + DEX mod + AC mod from any Armour and Shields
+* Melee Attack Modifier = STR mod + any class mods
+* Melee Damage Modifier = STR mod
+* Missile Attack Modifier = DEX mod + any class mods
+* Movement Speed = determined by class (human base is 30)
+
+
+#### Step X: Randomize Your Character Traits
 
 
 ### Step X: Name Your Characters
@@ -463,8 +469,21 @@ These are all you get. You will not automatically acquire more skills unless the
 (pass it to the left!)
 
 
-### Final Step: Determine Party (Player) Roles
+### Step X: Determine Party (Player) Roles
 
+Hopefully the rest of your group has been making your characters alongside one another, and you've now all reached this point together. It's time to determine the party roles, which are mainly for administration and also for the use of the special new Party Actions.
+
+**The Roles to Assign:**
+
+* **Party Leader:** This player is responsible for informing the Hammersmith when the party moves on or takes any of the Party Actions.
+* **Mapper:** This player is responsible for translating the Hammersmith's descriptions to a map that the party can use, in whatever artistic fashion the player sees fit.
+* **Lootkeeper:** This player keeps a master list of all the loot discovered, so it can be fairly distributed by the party upon returning to town. It might not be wise to assign this role to the Thief...
+* **Timekeeper:** The player tracks the passage of game Turns, and keeps track of who is carrying what light sources (and how much time is left on them).
+
+
+### Final Step: Take it All In
+
+Take a moment to think about the kind of person your character is. Think about their goals, their ambitions, their reasons for doing the things they do. And while you're at it, take a long hard moment to ponder exactly what kind of person they have to be in order to willingly leave everything behind and delve into terrifying and disgusting dungeons.
 
 
 ## CHAPTER: Playing Your Character
@@ -557,13 +576,58 @@ Extended encounter rules in Hammersmith section.
 
 ### Experience
 
+Experience is the currency of character advancement in HAMMERCRAWL! As characters go on adventures, defeat threats, and gather wealth, they will accrue experience points (XP) which can be cashed in to increase experience levels.
+
+Experience in HAMMERCRAWL! is earned from the following two activities:
+
+* Killing your Enemies
+* Taking their Stuff
+
+Okay, it's a *bit* more complicated than that, but not much. Read on below.
 
 
+#### XP from Challenges
 
-Notes:
+When monsters and traps and such are overcome in a Dungeon, the Hammersmith awards players with the XP value for those challenges, split as evenly as possible among the surviving characters. As with all things, the XP awarded from overcoming challenges is based on the comparative Tiers of the players and their opposition. See the table below:
 
-* earned from defeating challenges
-* earned based on money brought back to town (including money spent on goods?)
+| Threat Tier is…    | XP Rewarded |
+|--------------------|-------------|
+| Two or more Lower  | 5           |
+| One Lower          | 50          |
+| Equal              | 100         |
+| One Higher         | 250         |
+| Two or more Higher | 500         |
+
+**For Defeating Monsters and Encounters:** Compare the *average* experience Tier of the Party to the *individual* HD tiers of the monsters defeated to determine how much XP they receive from defeating the monsters. This is done on a *per-monster* basis. Total up the XP earned from each monster in the encounter, then divide it among the party members who survived the encounter. See the "Tiers" section further below to determine monster tiers based on HD.
+
+**For Defeating Traps:** Compare the *individual* Tier(s) of the character(s) who disabled or otherwise defeated the trap to that trap's Tier (based on current dungeon level). Reward it to the character who defeated it - if characters worked together then divide it between them. Note that a *sprung* trap awards no XP! See the "Tiers" section further below to determine trap tiers based on dungeon levels.
+
+**Modifying The XP Rewards:** The Hammersmith may choose to raise or lower the rewards after the fact based on group performance or unexpected results. If the party wins against overwhelming odds, for example, the 'Smith may decide to raise the comparative Tier of the enemies to account for an unusual smashing success. Conversely, if the party is just "grinding rats" in the noob zone for an XP mill, the 'Smith may decide to reward them no XP at all for their bad attitudes about the whole thing.
+
+
+#### XP from Loot
+
+As you can probably tell from the details above, defeating monsters provides a minimum amount of XP. Indeed, the majority of your XP gains will (and should!) be from the actual treasure that you gain from defeating those threats. By making it out of the dungeon alive with loot, you exchange the value of that loot for XP upon returning to Town.
+
+Every 100gp worth of loot exchanged in town converts to 1 XP. This includes coins, gems, art, collectibles, weapons, armour, and magical items.
+
+**Important Note:** Characters gain NO XP from "loot" that was brought into the dungeon by party members. This means that no, you can not gain XP from looting your dead former party members of their original belongings, *unless* it is from loot that was found on this dungeon run.
+
+
+#### Ad-Hoc Experience Awards
+
+Hammersmiths may feel like rewarding some players with spontaneous experience boons when those players come up with good ideas or engage in captivating scenes of role-playing. I recommend keeping these to a minimum, and instead making players earn those valuable XPs through the expected core methods, but hey, it's your game, go buck wild. Use the following as a guideline, based on the occurrence that you feel deserves the reward:
+
+* Hah yeah, okay that was pretty cool: 25 XP
+* Whoah, that was awesome!: 50 XP
+* (table, players, and household all literally explode from the magnitude of sheer bodacious game fire): 100 XP
+
+
+#### Experience and Money
+
+
+#### Leveling Up
+
 
 
 ### Healing (ref)
@@ -610,9 +674,11 @@ Additionally, every Hireling has a base Tier, which determines everything else a
 Go to a place where you might expect a hireling to be found - that means a town or other social center that is most likely *not* in a dungeon. Ask around, chances are you will find someone interesting...
 
 
-#### Putting Up With Your Bullshit
+#### Putting Up With Your Bullshit (aka Morale)
 
-Hirelings prefer to keep their demanded work within the scope of the expertise they were hired for. When you push a hireling to act too often or intensely, the 'Smith may require you to make a Rally save in order to keep the hireling's current services. This is a check per normal Saves rules, using the difference between your relative Tiers to determine the target (making expensive higher-tier hirelings more difficult to hold onto after pissing them off!).
+Hirelings are subject to Morale, but it's handled a bit differently than it is for NPCs not in the PCs' employ. And for Hirelings, the scope covers not just being thrust into dangerous encounters, but also being asked to work beyond the limits of their contracts.
+
+Hirelings prefer to keep their demanded work within the scope of the expertise they were hired for. When you push a hireling to act too often or intensely, or when a Hireling gets into danger far above its preferred safety level, the 'Smith may require you to make a Rally save in order to keep the hireling's current services. This is a check per normal Saves rules, using the difference between your relative Tiers to determine the target (making expensive higher-tier hirelings more difficult to hold onto after pissing them off!).
 
 If you succeed at the save, you keep your hireling for the time being, without changes to your contract. If you fail the save by 5 or less, they may choose to remain, but require double the daily cost. If you fail by more than 5, they quit your service immediately, possibly becoming hostile.
 
@@ -637,9 +703,21 @@ Given the depth of magical ways, the magic rules have their own separate chapter
 ### Mapping
 
 
-### Morale and Leadership
+### Morale
 
-(includes Rally Saves)
+The player characters themselves are as brave as their players choose them to be. Their allies and henchpersons, however, are usually decidedly less so. The same goes for many enemies that the adventurers beat on, who might come to the realization that cowering or even running away are better choices than fighting to the death against superior opponents.
+
+When a NPC that *is not* under the leadership or employ of a player character faces a life-threatening situation, the 'Smith may require it to make a Morale check. This is done by rolling a standard Rally Save against a Target determined by comparing the NPC's HD Tier against the threat's HD Tier (see the "Saving Throws" section, below).
+
+If no mechanical basis of comparison is immediately apparent, just eyeball the Target as follows:
+
+* Minor Threat: 9
+* Major Threat: 15
+* OMGWTFBBQRUN: 21
+
+If the NPC passes the Save, they grit their teeth and fight on! If they fail, they either freeze in panic, cower in their boots, wet themselves, and/or run screaming immediately (up to the 'Smith based on the feel of the moment).
+
+NPCs that are under the leadership of a player character are called "Hirelings" and handle morale checks different. See the "Hirelings and Henchmen" section, above.
 
 
 ### Party Actions
