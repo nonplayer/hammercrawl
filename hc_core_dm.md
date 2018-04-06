@@ -25,9 +25,9 @@ I've recently begun to separate the more system-specific rules and notes into th
 
 ## The Core Role-Playing Game System
 
-HAMMERCRAWL! is primarily intended to be used with "OSR" role-playing games - that is, modern games that are remakes, retroclones, or otherwise tributes to the "old school" expectations of early (1970s-1980s) official variants of Dungeons and Dragons. This means the classic spread of six broad ability scores, five weird saving throws, a very small assortment of character classes (including "race as class" options popular at those times), and a whole mess of seemingly unfair and totally deadly traps.
+HAMMERCRAWL! is primarily intended to be used with "old school" role-playing games - that is, modern games that are remakes, retroclones, or otherwise tributes to the "old school" expectations of early (1970s-1980s) official variants of Dungeons and Dragons. This means the classic spread of six broad ability scores, five weird saving throws, a very small assortment of character classes (including "race as class" options popular at those times), and a whole mess of seemingly unfair and totally deadly traps.
 
-While this method is definitely aimed at OSR games, they aren't a hard requirement. Really, all you need is a "hardcore" style of dungeon crawl with maximum randomization built into as many aspects of its play structure. There are other games out there that do this, but usually it is the OSR catalog that does it best.
+While this method is definitely aimed at old school games, they aren't a hard requirement. Really, all you need is a "hardcore" style of dungeon crawl with maximum randomization built into as many aspects of its play structure. There are other games out there that do this, but usually it is the "retroclone" catalog that does it best.
 
 The *most* compatible games are those with built-in randomization of treasure, encounters, reactions, and more. For me, systems with treasure tables go to the top of the list of options, putting those derived from either B/X, BECMI, or AD&D as my primary candidates. This is because for me, the complete randomization of treasure is a crucial part of the experience, and thus systems that only give loose guidelines and expect the DM to do all the work of treasure assignment don't fit the bill.
 
@@ -47,7 +47,7 @@ To quickly run through the dice, with WFRP3 you get a mix of seven different typ
 * **White: The Luck Die** - added to the pool for good ideas and plans.
 * **Black: The Dark Die** - added when the players' own actions turn against them.
 * **Yellow: The Die of Expertise** - representing solid applied skill and craft.
-* **Purple: The Die of Challenge** - Purple dice can bring great danger and peril, but amplify XP! 
+* **Purple: The Die of Challenge** - Purple dice can bring great danger and peril, but amplify XP!
 
 Don't have dice of your own? [Use the Broken Tome generator!](http://brokentome.com/tools/DiceRoller.aspx)
 
@@ -142,30 +142,30 @@ Every game system that I'm focusing on *should* have its own encounter generator
 
 ## Generating the Traps
 
-I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the [Donjon][], and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons: 
+I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the [Donjon][], and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons:
 
-| Roll | Trap                                                                                  | 
-|----|-----------------------------------------------------------------------------------------| 
-| 1  | Acid Trap (1d6 x level damage)                                                          | 
-| 2  | Arrow Trap (1d6 x level damage)                                                         | 
-| 3  | Blinding Gas Trap                                                                       | 
-| 4  | Elevator Room Trap (descends 1 level)                                                   | 
-| 5  | Falling Block Trap (1d6 x 1d6 x level damage)                                           | 
-| 6  | Falling Ceiling Trap (1d10 x 1d10 x level damage)                                       | 
-| 7  | Fire Trap (1d6 damage)                                                                  | 
-| 8  | Flooding Pit Trap (1d6 x 10 x level feet, 1d6 damage per 10 ft.)                        | 
-| 9  | Flooding Room Trap                                                                      | 
-| 10 | Lightning Trap (1d6 x level damage)                                                     | 
-| 11 | Net Trap                                                                                | 
-| 12 | Pendulum Trap (1d6 x 1d6 x level damage)                                                | 
-| 13 | Pit Trap (1d6 x 10 x level feet, 1d6 damage per 10 ft.)                                 | 
-| 14 | Poison Dart Trap (1d4 damage plus poison; onset 1d8-1 rounds, save or level x10 damage) | 
-| 15 | Poison Gas Trap (onset 1d8-1 rounds, save or level x10 damage)                          | 
-| 16 | Scythe Trap (1d6 x 1d6 x level damage)                                                  | 
-| 17 | Sleep Gas Trap                                                                          | 
-| 18 | Spear Trap (1d8 x level damage)                                                         | 
-| 19 | Spiked Pit Trap (1d6 x 10 x level feet, 1d8 damage per 10 ft.)                          | 
-| 20 | Teleporter Trap                                                                         | 
+| Roll | Trap                                                                                  |
+|----|-----------------------------------------------------------------------------------------|
+| 1  | Acid Trap (1d6 x level damage)                                                          |
+| 2  | Arrow Trap (1d6 x level damage)                                                         |
+| 3  | Blinding Gas Trap                                                                       |
+| 4  | Elevator Room Trap (descends 1 level)                                                   |
+| 5  | Falling Block Trap (1d6 x 1d6 x level damage)                                           |
+| 6  | Falling Ceiling Trap (1d10 x 1d10 x level damage)                                       |
+| 7  | Fire Trap (1d6 damage)                                                                  |
+| 8  | Flooding Pit Trap (1d6 x 10 x level feet, 1d6 damage per 10 ft.)                        |
+| 9  | Flooding Room Trap                                                                      |
+| 10 | Lightning Trap (1d6 x level damage)                                                     |
+| 11 | Net Trap                                                                                |
+| 12 | Pendulum Trap (1d6 x 1d6 x level damage)                                                |
+| 13 | Pit Trap (1d6 x 10 x level feet, 1d6 damage per 10 ft.)                                 |
+| 14 | Poison Dart Trap (1d4 damage plus poison; onset 1d8-1 rounds, save or level x10 damage) |
+| 15 | Poison Gas Trap (onset 1d8-1 rounds, save or level x10 damage)                          |
+| 16 | Scythe Trap (1d6 x 1d6 x level damage)                                                  |
+| 17 | Sleep Gas Trap                                                                          |
+| 18 | Spear Trap (1d8 x level damage)                                                         |
+| 19 | Spiked Pit Trap (1d6 x 10 x level feet, 1d8 damage per 10 ft.)                          |
+| 20 | Teleporter Trap                                                                         |
 
 
 ## Generating the Treasure
