@@ -1216,6 +1216,17 @@ As for how to find them? Well, dear adventurer, that's why you must always go as
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
 
 
+## The Basics of Hammersmithin'
+
+
+Some basic principles to follow:
+
+* **Always tell the Players their Target Numbers!** Seriously, don't waste everyone's time with that pointlessly sneaky number-concealing bullshit. This game is meant to move fast, and hiding DCs and Targets just slows things down for the sole sake of forcing some stupid un-fun antiquated artificial anti-metagame crap on everyone. When they need to Save, tell them the target before they roll. When they commit to an attack, tell them the enemy's AC so they can just tell you if they hit and not wait for you to verify it. Quit that middling crap and step up your game.
+* **Roll in the Open, and Don't Fudge the Dice!** Fudging dice is lame as lame can be. If you're going to roll dice, then commit to it. If you're not going to commit to it, just put on the big kid britches, say what happens instead, and move on - no roll required. Throw the bones out in the open for all to see. You can't expect the players to play fair and true to the rules if you don't do the same.
+* **Listen to the Players!** Players often come up with way cooler ideas than you ever thought of. Listen to them, mine their passing throw-away jokes for gold, and then use it against them later. The best spur-of-the-moment games are often driven by the players' own side comments. Save yourself the effort and let the players unknowingly do all your work for you!
+* **Egg and Entice them!** Give them big red shiny buttons that say "do not push" and then watch them fight over who gets to push them. Place the most stupidly obvious traps in their way and watch them second-guess themselves. And cheer them on the whole time!
+
+
 ## Specific Hammersmith Actions
 
 The sub-sections beyond are an alphabetized reference of all the specific Hammersmith rules for core actions you are expected to take. These are mainly the *new* game rules, unique to the HAMMERCRAWL! experience, and most have been previously referenced in the Players' section.
