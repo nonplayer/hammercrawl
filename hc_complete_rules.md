@@ -1337,10 +1337,9 @@ With the results of the Divining Dice resolved, it's time to get back to the rol
 
 ## RANDOMIZE ALL THE THINGS
 
+HAMMERCRAWL! is designed to be played with as little prep as possible, relying instead on a lot of on-the-fly at-the-table randomization.
 
-### Master List of Randomizers (ref)
-
-See Appendix R, at the end of this document.
+For a Master List of links to various third-party Randomizers, see Appendix R, at the end of this document.
 
 
 ### Random Dungeons
@@ -1421,18 +1420,33 @@ For each room visited after the starting room, there is a *cumulative* 1 in 20 c
 If you somehow happen to "close off" the dungeon using the above methods, without rolling a level exit, either A) add a level exit organically to the last-placed node tile, or B) just accept it as a single-level dungeon and call it good. Not every dungeon needs to be a multi-level descent into the depths of Demon Heck!
 
 
+#### Converting Pre-Made Maps
+
+People like Dyson Logos, Miska Friedman, and Karl Stjernberg (links?) pop out dungeon material at lightning speeds, making them prime sources of dungeon inspiration. If you don't want to make a dungeon on the fly, but don't have time to map out and populate your own from the ground up, here's how to convert an existing one for use as the map for an otherwise randomly-generated HAMMERCRAWL! game.
+
+If the dungeon is already populated, then you're in luck! Use that as the basis for the adventure, and then let the Divining Dice change things on the fly by increasing or decreasing encounters. Pre-populated dungeons are pretty easy to work with, as they give you the basic expectation of what's in there from the beginning, so you already have a stock of options to take inspiration from. You can either use the rooms as-is, or alter them to your liking to fit the party and their level. If you change things up, be sure to set proper Lair Nodes (see above) for periodic increases in challenge.
+
+If the dungeon is not already populated, you'll need to put together an encounter table for it first (see below). And you'll want to determine the Lair Nodes here, as well.
+
+
 ### Random Encounters
+
+TBD
 
 
 ### Random Monsters
 
+TBD
+
 
 ### Random NPCs (other than the author)
+
+TBD
 
 
 ### Random Traps
 
-I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the Donjon, and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons. Most results are based on the dungeon leve:
+I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the Donjon, and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons. Most results are based on the dungeon level:
 
 | Roll | Trap                                                                                  |
 |----|-----------------------------------------------------------------------------------------|
@@ -1460,19 +1474,17 @@ I use the following roll table for traps. The basic names are cribbed directly f
 
 ### Random Treasure
 
+TBD
+
 
 ## Converting Material from Other Games
 
-
-### Converting Pre-Made Maps
-
-People like Dyson Logos, Miska Friedman, and Karl Stjernberg (links?) pop out dungeon material at lightning speeds, making them prime sources of dungeon inspiration. If you don't want to make a dungeon on the fly, but don't have time to map out and populate your own from the ground up, here's how to convert an existing one for use as the map for an otherwise randomly-generated HAMMERCRAWL! game.
-
-
-
+TBD
 
 
 ### From "Old School" Editions
+
+TBD
 
 
 #### Monsters
@@ -1482,30 +1494,39 @@ Ignore any noted HD asterisks when calculating Tiers on Monsters and Dungeon Lev
 
 ### From Edition the Fifth
 
+TBD
+
 
 # Appendix R: Master List of Randomizers
 
 Here are all of the randomizers that I have found to be most excellent for running HAMMERCRAWL! live and with minimal preparation.
 
-First and foremost, nothing beats [The Donjon](http://donjon.bin.sh/) for it's enormous variety of pure randomized awesomeness. This website is the most-used tool in my collection of randomness. It's a vast and comprehensive site with more generators than you could possibly imagine, and I recommend it as the first stop for all your immediate randomizer needs.
+First and foremost, **nothing beats [The Donjon](http://donjon.bin.sh/)** for it's enormous variety of pure randomized awesomeness. This website is the most-used tool in my collection of randomness. It's a vast and comprehensive site with more generators than you could possibly imagine, and I recommend it as the first stop for all your immediate randomizer needs.
 
 Beyond the Donjon, here are some other good resources:
 
 
 #### Mobile Apps
 
-* Adventuresmith
-* Crawler's Companion
-* Dunjen (defunt?)
+* [Adventuresmith](https://stevesea.github.io/Adventuresmith/)
+* [Crawler's Companion](https://purplesorcerer.com/crawler.php)
+* *Dungen* - A sadly no-more Random Dungeon Generator app on the Windows Store =(
 
 
 #### Programs
 
-* BECMI Utilities
-* NPC's Old School Character Generator
+* *BECMI Utilities* - An older Windows program that is impossible to find now, sadly. Included encounters, treasure, and a character generator too.
+* [NPC's Old School Character Generator](https://github.com/nonplayer/OldSchoolCharGen)
 
 
 #### Websites
 
-* Behind the Name
-* Save vs Total Party Kill
+* [Behind the Name Random Name Generator](http://www.behindthename.com/random/)
+* [Labyrinth Lord / Basic D&D Treasure Generator (site)](http://www.mithrilandmages.com/utilities//LLTreasure.php) - This site has a LOT of cool generators, in fact, almost as many as The Donjon
+* [Wizardawn Character Generator](http://wizardawn.and-mag.com/tool_bxadvg.php) - Can print up multiple sheets right from the get-go!
+* [Gozzys Random Dungeon Maps](http://www.gozzys.com/dungeon-maps)
+* [RPG20's Dungeon Generator](http://rpg20.com/dungeonGen.php)
+* [Dizzy Dragon's Adventure Generator (Based off the 1e DMG)](http://www.dizzydragon.net/adventuregenerator/gen)
+* [Labyrinth Lord Random Dungeon Generator](http://www.apolitical.info/webgame/dungeon/index2?mode=2)
+* [An older article collecting a bunch of them together](http://inkwellideas.com/advice/random-dungeon-generators-reviewed/)
+* [Mystara / RCD&D NPC generator](https://agathokles.pythonanywhere.com/)
