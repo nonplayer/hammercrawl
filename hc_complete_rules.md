@@ -222,7 +222,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Ageless Perfection:** Elves are immune to sleep, charm, slow, haste, aging, and energy drain effects, *unless* those effects are results of the magic of an Elf (self or other, alive or undead).
 
-**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of one (1) randomly-determined bonus spell. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
+**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of one (1) randomly-determined bonus spell. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons. Spells are memorized, cast and forgotten per normal magic rules.
 
 At the start of play, a new Elf can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
@@ -285,8 +285,8 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 * Melee Attack the strongest-looking enemy within immediate striking range.
 * Move to the strongest-looking enemy within charging range and Melee Attack them.
 * Thrown (Missile) attach the strongest-looking enemy within Thrown Range.
-* Melee Attack the nearest living creature (friend or foe) within immediate striking range.
-* Mind Save (target: 18) to break rage or Collapse to the ground unconscious (remain unconscious for 3d6 minutes)
+* Melee Attack the strongest-looking standing living creature (friend or foe) within immediate striking range.
+* Mind Save (target: 15) to break rage or Collapse to the ground unconscious (remain unconscious for 3d6 minutes)
 
 A Berserker can choose to voluntarily fail either save and willingly let the rage overtake them and/or knock them unconscious afterward. They can also trigger it on their own by causing themselves 1 point of damage with a weapon.
 
@@ -310,7 +310,7 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 
 **Aligned to the Gods:** Clerics must believe in a great deific cause, and as such cannot be of Neutral alignment.
 
-**Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast spells from the Cleric spell list. Clerics begin the game with a holy prayerbook which contains a base of two (2) randomly-determined clerical prayers. This number of bonus spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons.
+**Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast spells from the Cleric spell list. Clerics begin the game with a holy prayerbook which contains a base of two (2) randomly-determined clerical prayers. This number of bonus spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons. Spells are memorized, cast and forgotten per normal magic rules.
 
 At the start of play, a new Cleric can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
@@ -358,11 +358,11 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 
 **Bloodcaster:** Magic-users can choose to take damage instead of forgetting spells. The amount of HP damage taken is equal to the level of spell just cast. If below Zero HP, this burns CON instead.
 
-**Highcaster:** Magic-users (only) can prepare and even attempt to cast spells of higher level than they normally would be able to, provided they have a copy of the spell in their book. Casting the spell requires permanent loss of INT score equal to the difference in allowed spell levels. Such INT loss can only be regained through the use of the Cleric's *Restoration* spell. Spells cast in this fashion are always immediately forgotten.
+**Highcaster:** Magic-users (only) can prepare and even attempt to cast spells of higher level than they normally would be able to, provided they have a copy of the spell in their book. Casting the spell requires permanent loss of INT score equal to the difference in allowed spell levels. Such INT loss can only be regained through the use of the Cleric's *Restoration* spell. Spells are memorized, cast and forgotten per normal magic rules.
 
 **Magical Mind:** Magic-users can cast the spell *Read Magic* freely and at will, without need to prepare, memorize, or roll.
 
-**Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons.
+**Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons. Spells are cast and forgotten per normal magic rules.
 
 At the start of play, a new Magic-User can safely cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience. Take note of their Highcast ability, above.
 
@@ -1189,7 +1189,7 @@ Spells are usually forgotten upon casting. Spells can be re-memorized by resting
 
 You can cast any spell you have memorized. To do so, simply choose the spell and follow the rules of that spell. Many spells won't require the caster to make any dice rolls, although many will have saving throws that the target must make in order to resist the effects.
 
-Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other spells instead, provided their total level cost is equal to or greater than that of the spell that you just cast.
+Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other memorized spells, provided their total level cost is equal to or greater than that of the spell that you just cast.
 
 
 ### Learning New Spells
