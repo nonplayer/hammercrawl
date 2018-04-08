@@ -285,8 +285,8 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 * Melee Attack the strongest-looking enemy within immediate striking range.
 * Move to the strongest-looking enemy within charging range and Melee Attack them.
 * Thrown (Missile) attach the strongest-looking enemy within Thrown Range.
-* Melee Attack the strongest-looking standing living creature (friend or foe) within immediate striking range.
-* Mind Save (target: 15) to break rage or Collapse to the ground unconscious (remain unconscious for 3d6 minutes)
+* Melee Attack the strongest-looking *standing* living creature (friend or foe) within immediate striking range (Mind Save DC 12 each time to avoid attacking an ally).
+* Mind Save (target: 15) to break out of rage: if successful you mind clears and you spend the round panting, if failed you Collapse to the ground unconscious (remain unconscious for 3d6 minutes)
 
 A Berserker can choose to voluntarily fail either save and willingly let the rage overtake them and/or knock them unconscious afterward. They can also trigger it on their own by causing themselves 1 point of damage with a weapon.
 
