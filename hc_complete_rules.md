@@ -200,7 +200,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a turn searching.
 
-**Dwarf Battlemaster:** Dwarves have a bonus melee attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Dwarf Battlemaster:** Dwarves have a bonus melee-only attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Dwarven Resilience:** Dwarves have advantage on all of their Good saves.
 
@@ -230,11 +230,9 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Blade Dancer:** Elves are skilled at fighting with two weapons at once. When wielding two one-handed weapons, Elves roll one extra attack die, but lower their damage die by one step (to a d6) for the entire assault. At level 9, this increases to two extra attack dice.
 
-**Bow Master:** Elves learn the way of the bow from birth. At second level, Elves (only) gain a second attack die when using Short and Long Bows, and they acquire a third at level 10. Each attack die requires one arrow from their quiver. When attacking with a bow, declare target(s) first and then roll all of the attack dice, but only one damage die. Each arrow that hits applies the same amount of damage.
-
 **Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a turn searching.
 
-**War Adept:** Elves have a bonus melee attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**War Adept:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 
 #### Halfling Burglar
@@ -250,7 +248,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 * **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
 * **Bonus Languages:** Halfling
 
-**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus melee attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking (DEX), Perception (WIS), Stealth (DEX, with Advantage), Thief-Climbing (STR), and Trap-Finding (INT, with Disadvantage). Additionally, at level one the Halfling adds +1 to any two of these Skills. Each additional level they add two more points to their skills as they see fit. They cannot invest more points in any single skill than their current level.
 
@@ -292,7 +290,7 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 
 **Savage Warrior:** Berserkers have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Berserker declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Two-Hander:** When using a two-handed weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
+**Two-Hander:** When using a two-handed melee weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
 
 #### Human Cleric
@@ -330,7 +328,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 * **Gear Restrictions:** Fighters can use all weapons, shields, and armour.
 * **Bonus Languages:** None
 
-**Combat Superiority:** Fighters have a bonus melee attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Combat Superiority:** Fighters have a bonus attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Not Today!:** At first level and each level after, the Fighter gains a single use of "Not Today!" When a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can spend a use and instead remain at 1 HP and negate the rest of the damage from that attack. These uses accumulate with each level, but each use is permanently lost upon spending.
 
@@ -1118,6 +1116,12 @@ Alphabetized for ease of reference.
 
 
 #### Critical Hits and Fumbles
+
+If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies advantage against them for the next round).
+
+If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
+
+
 
 
 #### Shield Bash
