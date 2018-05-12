@@ -109,7 +109,7 @@ This method focuses entirely on spontaneous, random play, and as such you're goi
 
 ### The Divining Dice
 
-I use a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. Hell, this all really started because I had a bunch of these dice left over from getting rid of my WFRP3 set, and wanted to find a way to keep using them in other games.
+The 'Smith needs a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. I am currently looking into adapting this system to use the new Genesys Fantasy RPG Dice, as well.
 
 To quickly run through the dice, with WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
 
@@ -121,7 +121,10 @@ To quickly run through the dice, with WFRP3 you get a mix of seven different typ
 * **Yellow: The Die of Expertise** - representing solid applied skill and craft.
 * **Purple: The Die of Challenge** - Purple dice can bring great danger and peril, but amplify XP!
 
-Don't have dice of your own? [Use the Broken Tome generator!](http://brokentome.com/tools/DiceRoller.aspx)
+Don't have dice of your own? [Use the Broken Tome generator](http://brokentome.com/tools/DiceRoller.aspx)! There are a number of other apps available as well:
+
+* Android: [WFRP Dice](https://play.google.com/store/apps/details?id=net.WFRPDice&hl=en_US)
+* PC: [WFRP 3rd Edition Dice Pool Tool Kit](https://rpggeek.com/filepage/60367/wfrp-3rd-edition-dice-pool-tool-kit)
 
 
 ### Additional Things
