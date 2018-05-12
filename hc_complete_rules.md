@@ -83,9 +83,8 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **Armor Class:** Base 10, Ascending.
 * **Combat Initiative:** Side-based, then ordered by a five-step flow based on type of action (Move, Missile, Melee, Misc, Magic)
 * **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
-* **Experience Levels:** 15 levels for all characters. Each level requires Level x 1000 XP to attain, and every time you gain a level your XP reserve is reduced to zero.
-* **Experience Points:** XP is gained from overcoming challenges and from investing treasure.
-* **XP as Money:** XP is the fifth and final new step on the Classic Money Chain (CP, SP, GP, PP, and now XP), with 10 PP = 1XP.
+* **Experience Levels:** 15 levels for all characters. To attain the next Experience Level, you need that level x10 in Experience Points (XP), and every time you gain a level your XP reserve resets to zero.
+* **Experience Points (XP):** XP is gained from exploring new locations and defeating the challenges within.
 * **Advantages and Disadvantages:** They're in here, and they're incremental.
 * **Consolidated Spellcasting:** Clerics and Magic-Users have much closer-aligned rules for spellcasting and memorization. This is to assist new/random drop-in players in having fun with playing these two classes, which have historically presented challenges for noobs.
 
@@ -645,46 +644,47 @@ Okay, it's a *bit* more complicated than that, but not much. Read on below.
 
 #### XP from Challenges
 
-When monsters and traps and such are overcome in a Dungeon, the Hammersmith awards players with the XP value for those challenges, split as evenly as possible among the surviving characters. As with all things, the XP awarded from overcoming challenges is based on the comparative Tiers of the players and their opposition. See the table below:
+The primary method of XP acquisition is by exploring new locations and dungeon rooms, and then defeating the challenges within those rooms. When a challenge is defeated, each individual surviving member of the party earns an amount of XP based on the following factors:
 
-| Threat Tier is…    | XP Rewarded |
-|--------------------|-------------|
-| Two or more Lower  | 5           |
-| One Lower          | 50          |
-| Equal              | 100         |
-| One Higher         | 250         |
-| Two or more Higher | 500         |
+* Exploring a new Room
+* Defeating Challenges
+* Dungeon Level Tier Modifiers
 
-**For Defeating Monsters and Encounters:** Compare the *average* experience Tier of the Party to the *individual* HD tiers of the monsters defeated to determine how much XP they receive from defeating the monsters. This is done on a *per-monster* basis. Total up the XP earned from each monster in the encounter, then divide it among the party members who survived the encounter. See the "Tiers" section further below to determine monster tiers based on HD.
+In HAMMERCRAWL!, XP is only gained *after* overcoming challenges generated from the Divining Pool. When the party survives a new rolled challenge, use the following process to determine the how *base* XP reward:
 
-**For Defeating Traps:** Compare the *individual* Tier(s) of the character(s) who disabled or otherwise defeated the trap to that trap's Tier (based on current dungeon level). Reward it to the character who defeated it - if characters worked together then divide it between them. Note that a *sprung* trap awards no XP! See the "Tiers" section further below to determine trap tiers based on dungeon levels.
+1. **Did they explore a new Room?** Each time the party discovers a new "room" or "node" in the dungeon (specifically after using the Explore Action), start the reward with a single XP. This is based on the "node" based method of dungeon exploration; if you're running a room-heavy dungeon, you may need to restrict this to once per "region" of rooms instead.
+2. **Did they defeat the challenges?** If there was a challenge in the room, increase the reward by the total number of Crossblades rolled in that encounter's Divining Pool, plus any additional Hammers rolled. Note that Hammers only add to the XP reward pool if at least one Crossblade was also present - rewards without challenge earn no XP!
+3. **Are they on a level-appropriate Dungeon Tier?** Multiply the reward based on comparing the party's average level Tier to that of the current dungeon level:
+
+
+| Dungeon Level Tier is: | Reward Mod:            |
+|------------------------|------------------------|
+| 2 or more lower        | One-Tenth (round down) |
+| 1 lower                | One-Half (round down)  |
+| Equal                  | No Mod                 |
+| 1 higher               | Multiply x2            |
+| 2 or more higher       | Multiply x10           |
+
+
+**XP Rewards are Individual!** Once calculated, *each* surviving party member receives the same amount of XP. It is not divided among them, instead being given out equally in full. As such there is no inherent XP-driven benefit to sacrificing party members in the hopes of getting more XP.
+
 
 **Modifying The XP Rewards:** The Hammersmith may choose to raise or lower the rewards after the fact based on group performance or unexpected results. If the party wins against overwhelming odds, for example, the 'Smith may decide to raise the comparative Tier of the enemies to account for an unusual smashing success. Conversely, if the party is just "grinding rats" in the noob zone for an XP mill, the 'Smith may decide to reward them no XP at all for their bad attitudes about the whole thing.
 
-
-#### XP from Loot
-
-As you can probably tell from the details above, defeating monsters provides a minimum amount of XP. Indeed, the majority of your XP gains will (and should!) be from the actual treasure that you gain from defeating those threats. By making it out of the dungeon alive with loot, you exchange the value of that loot for XP upon returning to Town.
-
-Every 100gp worth of loot exchanged in town converts to 1 XP. This includes coins, gems, art, collectibles, weapons, armour, and magical items.
-
-**Important Note:** Characters gain NO XP from "loot" that was brought into the dungeon by party members. This means that no, you can not gain XP from looting your dead former party members of their original belongings, *unless* it is from loot that was found on this dungeon run.
 
 
 #### Ad-Hoc Experience Awards
 
 Hammersmiths may feel like rewarding some players with spontaneous experience boons when those players come up with good ideas or engage in captivating scenes of role-playing. I recommend keeping these to a minimum, and instead making players earn those valuable XPs through the expected core methods, but hey, it's your game, go buck wild. Use the following as a guideline, based on the occurrence that you feel deserves the reward:
 
-* Hah yeah, okay that was pretty cool: 25 XP
-* Whoah, that was awesome!: 50 XP
-* (table, players, and household all literally explode from the magnitude of sheer bodacious game fire): 100 XP
+* Hah yeah, okay that was pretty cool: 1 XP
+* Whoah, that was awesome!: 3 XP
+* (table, players, and household all literally explode from the magnitude of sheer bodacious game fire): 5 XP
 
 
 #### Experience and Money
 
-In HAMMERCRAWL! experience points (XP) are part of the money chain: CP -> SP -> GP -> PP -> XP. That means 1 XP is worth 10pp, or 100gp. I *most* cases, this is only a one-way upwards exchange (see "XP from Loot" above) that happens when a party returns to Town to cash in their loot.
-
-However, there may be a few instances where the characters are allowed to spend that precious XP for other valuable purchases, as well. At the present time (note: April 2018, when this section was added), the only hard-coded option for spending XP as money is for payment of those extremely rare top-Tier hirelings. However, I'm considering adding a few other options down the road, such as investing in the purchase of magical items, and so on. For the time being this section is a placeholder to hold that system ready, but stay tuned for more...
+Unlike some older "classic" games, characters do not gain XP from money in HAMMERCRAWL! Instead, they gain it by exploring new rooms and defeating the challenges within, based on the results of the Divining Pool.
 
 
 #### Leveling Up
@@ -693,7 +693,7 @@ In order to attain the next level of ability in your Class, you must accrue an a
 
 When you attain the next level, the following things happen, in order:
 
-1. Your XP total resets to Zero. Any accrued XP over the amount needed to level up is erased, but 1% (round down) of that remaining amount is set aside in a special "discretionary fund" for the sole purpose of potential XP-only expenditures (to be implemented in a later system update).
+1. Your XP total resets to Zero. Any accrued XP over the amount needed to level up is erased.
 2. Your level increases by 1, to a maximum of 15.
 3. You gain an additional Hit Die based on your class.
 4. Reroll ALL of your Hit Dice, and apply your CON Mod to the total. The total becomes your new maximum Hit Points. If the total is less than your previous HP total, your new HP total is instead equal to the previous amount +1.
@@ -729,11 +729,11 @@ Additionally, every Hireling has a base Tier, which determines everything else a
 | 2             | 2 sp       | 2         | 1 in 20           | Expert                                  |
 | 3             | 3 gp       | 3         | 1 in 100          | Master                                  |
 | 4             | 4 pp       | 4         | 1 in 1,000        | Best in their Field for the Present Day |
-| 5             | 5 xp       | 5         | 1 in 10,000       | Best in their Field in all of History   |
+| 5             | 5 XP!      | 5         | 1 in 10,000       | Best in their Field in all of History   |
 
 **Tier:** The Tier is used for all associated and relevant mechanics. It determines the base bonus to related abilities, and the number of hit dice the hireling has should they come into question.
 
-**Daily Cost:** Every hireling has a daily cost that must be paid in order to secure their continued service. Tier 0 hirelings merely require food and a place to sleep. At Tiers 1 and higher, their daily cost is equal to their tier matched with a step on the Money Chain (see the table).
+**Daily Cost:** Every hireling has a daily cost that must be paid in order to secure their continued service. Tier 0 hirelings merely require food and a place to sleep. At Tiers 1 and higher, their daily cost is equal to their tier matched with a step on the Money Chain (see the table). Yes, those tier 5 hirelings require you to give them XP instead of money!
 
 **Expertise:** Every Hireling gets an Expertise bonus equal to their Tier applied to any checks related to their Professional abilities. Tier 0 hirelings don't get this bonus, but you probably knew that already - you didn't hire them to be good at anything but holding a torch and serving as dungeon "canaries."
 
@@ -813,7 +813,6 @@ Then, each player gets to pick one additional Camp Action to perform now:
 
 * **Rest:** Recover half (round up) of currently-lost HPs (or the second half, if doubling up from the free action above). **Requires Food:** Choosing this action consumes one additional Ration.
 * **Re-Memorize:** Recover one previously-spent daily spell use per character level.
-* **Invest:** Convert one-fourth (rounded up) of their current financial loot value to immediate character XP (100GP = 1XP exchange), marking that loot off of the character sheet. Leveling up requires a separate action, however...
 * **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many stones for your sling.
 * **Level up!:** If the hero has enough XP to reach the next level, they can apply the effects of that level as a Camp Action. Follow the core process for Leveling Up. Note that it does not heal existing HP loss or restore used spells or abilities (those are separate Camp Actions, above).
 * **Stand Watch:** Add a Green Die to the next room explored, and -1 to Smith's camp encounter roll (below).
@@ -824,7 +823,7 @@ Finally, **The Hammersmith Rolls 1d6:**
 * Subtract 1 for each party member Standing Watch
 * Add the current Dungeon Level
 
-If total is 6+, an encounter happens while the party is camping! Roll as usual to generate a standard encounter. If none of the PCs chose to Stand Watch, then they are also surprised!
+If total is 6+, an encounter happens while the party is camping! Roll as usual to generate a standard encounter, using the Divining Pool as if an Explore action had occurred. Apply any bonus color dice from camp actions to this roll. If none of the PCs chose to Stand Watch, then they are also surprised!
 
 If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter's initiative checks.
 
@@ -846,10 +845,9 @@ When the heroes finally return to town (which likely involves backtracking throu
 2. Restore their standard starting equipment list to full original capacity.
 3. The party divides up their loot and plunder as they see fit.
 4. Each player can choose to spend any amount of their loot to acquire better goods at the DM's allowance. This could take time, though, so you might want to skip it in Con and One-Shot games.
-5. Convert the value of all remaining loot to XP. Every 100gp of loot = 1 XP.
-6. If anyone has enough XP to level up, they follow the Leveling Up process.
-7. Role-play any town encounters or experiences you wish.
-8. Return to the Dungeons!
+5. If anyone has enough XP to level up, they follow the Leveling Up process.
+6. Role-play any town encounters or experiences you wish.
+7. Return to the Dungeons!
 
 
 ### Reactions (ref)
@@ -1239,7 +1237,9 @@ The sub-sections beyond are an alphabetized reference of all the specific Hammer
 
 ### The Explore Action
 
-This is the real meat of the HAMMERCRAWL! experience, right here. Here's What you need to do when the players choose a new Explore Action:
+This is the real meat of the HAMMERCRAWL! experience, right here. The Explore Action is the primary method of moving the game onward. Most of the at-table randomization happens when the party chooses to explore and move onward.
+
+Here's What you need to do when the players choose a new Explore Action:
 
 
 #### Build the Divining Pool
@@ -1305,20 +1305,20 @@ Net *Falcons* represent minor boons encountered during travel to the next room. 
 * The explore action did not cost them any time or light.
 * They find the hidden pack of a long lost adventurer and re-up some supplies.
 * The party receives a bonus re-roll that can be used to re-roll any single die in the next room only.
-* blah
 
 Net *Skulls* represent minor setbacks incurred during travel to the next room. Similar to Falcons, apply from the list below:
 
 * Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 turns of time from their durations.
 * One of their maintained spells suddenly fails.
-* Another random encounter happened by while in transit!
+* Another random encounter happened by while in transit! (Roll a single Purple Die for this new challenge, ignoring any skulls)
 * One of their rations spoils and must be discarded!
-* blah
 
 Apply all effects from net Falcons or Skulls before moving on to...
 
 
 ##### **Hammers and Crossblades: Encounters at the Destination**
+
+Hammers and Crossblades determine the nature of the challenges in the next room, and any additional rewards they may give. Hammers and Crossblades also set the base XP rewards the party will earn for overcoming those challenges.
 
 **Note:** Hammers and Crossblades *do not* cancel each other out; total them both and apply their outcomes together.
 
@@ -1330,6 +1330,7 @@ Apply all effects from net Falcons or Skulls before moving on to...
 * The party catches the room's encounter(s) by surprise.
 * The room contains an environmental feature that favors or protects the Party.
 * The room will function as a Safe Haven once cleared of encounters.
+* The room is guaranteed to have some random treasure, regardless of monsters or challenges present.
 * One of the treasures they find is guaranteed to be Magical.
 * ...or any from the Falcons list above.
 
@@ -1344,7 +1345,10 @@ Apply all effects from net Falcons or Skulls before moving on to...
 * One of the treasures they find is guaranteed to be Cursed.
 * ...or any from the Skulls list above.
 
-**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hmmer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
+**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hammer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
+
+**Hammers, Crossblades, and XP:** Hammers and Crossblades together determine the base XP rewards the party receives after defeating the challenges in a room. Note that Hammers *only* reward XP if at least one Crossblade is also rolled. In other words, Hammers without Crossblades still provide any number of the boons listed above, but *do not* reward XP unless a Crossblade was also rolled, providing the base challenge of the new room.
+
 
 #### Back to the Role-Playing
 
