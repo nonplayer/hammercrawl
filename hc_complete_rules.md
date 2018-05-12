@@ -689,7 +689,7 @@ Unlike some older "classic" games, characters do not gain XP from money in HAMME
 
 #### Leveling Up
 
-In order to attain the next level of ability in your Class, you must accrue an amount of XP equal to the next level times 1000. You must then either use the Level Up camp action, or return to Town.
+In order to attain the next level of ability in your Class, you must accrue an amount of XP equal to the next level times 10. You must then either use the Level Up camp action, or return to Town.
 
 When you attain the next level, the following things happen, in order:
 
