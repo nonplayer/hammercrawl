@@ -133,11 +133,9 @@ You may find the following useful as well:
 
 * Monster Books from other old school games
 * Treasure Books from other old school games
-* The Gamemaster's Apprentice series of card decks.
-* Monster Mod Cards
-* Dungeonmorph Dice
-* Dungeonmorph Cards
-
+* [The Gamemaster's Apprentice series of card decks](http://www.drivethrurpg.com/product/213131/The-GameMasters-Apprentice-Fantasy-Deck)
+* [Monster Mod Cards](http://www.drivethrurpg.com/product/175652/Monster-Mod-Cards)
+* [Dungeonmorph Dice and Cards](http://dungeonmorphs.com/)
 
 
 
