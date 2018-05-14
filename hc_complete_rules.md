@@ -761,11 +761,21 @@ If you succeed at the save, you keep your hireling for the time being, without c
 See "Experience"
 
 
-### Light
+### Light and Darkness
 
-1 torch = 6 turns (1 hour) of light
+As none of the base classes in HAMMERCRAWL! can see in the dark, having a source of light is crucial to successful dungeon delving. How can you expect to explore a dungeon and stay alive if you can't see?! In addition to all the standard role-playing needs that light serves in a game like this, the special meta-action of HAMMERCRAWL! are directly affected by it as well. For one you, absolutely require at least one light source in order to Camp, and if you try and Explore without light then you add potentially several additional dangerous Black Dice to the 'Smith's Divining Pool.
 
-lantern w/ 1 flash of oil = 24 turns (4 hours) of light
+HAMMERCRAWL! uses "classic" light sources and turn durations:
+
+* 1 torch = Burns for 6 turns (1 hour), with a 20-foot radius of effective light
+* lantern w/ 1 flash of oil = burns for 24 turns (4 hours), with a 40-foot radius of effective light
+
+When a character is acting under the effects of darkness, the following mechanics apply:
+
+* Their Combat Attack Dice pool is reduced by one. If this reduces it to Zero, they cannot effectively attack.
+* They can not perform Critical Hits on natural rolls of 20. Such rolls are treated as normal 20s instead, without the usual double damage effect.
+* Their Damage Hit Die is treated as one die size lower than it would normally be.
+* They roll with Disadvantage on Skill rolls and Area Saves.
 
 
 ### Magic (ref)
@@ -1256,6 +1266,7 @@ Add any of the following based on in-game actions and context:
 * **Did they stealthily enter the room?** Add a Green Die.
 * **Did they kick in the door and rush the room?** Add a Red Die.
 * **Did anyone actually say "Huzzah!" when entering?** Add another Red Die.
+* **Are they exploring without an active Light Source?** Add a number of Black Dice equal to one-half (rounded up) the Party size.
 * **Did they raise an alarm or otherwise fore-warn the room's occupants somehow?** Add a Black Die.
 * **Are they taking any clever precautions or plans (other than the usual trap-checking)?** Add a White Die for each "really good idea" they have.
 * **Do they have any useful tools that might affect the situation?** Add a Yellow Die if they are making active use of special gear, such as maps, potions, etc.
