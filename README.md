@@ -10,7 +10,8 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 ## The Main Files
 
 * **[The HAMMERCRAWL! Core Game System](./hc_complete_rules.md):** This is the new core game, fully compatible with other classic-inspired games currently popular with certain groups, and completely free. It is very much a work in progress, but all the basics are there to be played with.
-	- This process works best with my own associated [Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen), also on GitHub
+	- This process works best with my own associated **[Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen)**, also on GitHub
+	- And check out **[the Extended "House Rules" document](./hc_complete_extended.md)** for more ways to customize the game (note: this document is constantly changing and incomplete)
 * **[The HAMMERCRAWL! World Bible](./hc_world_bible.md):** This is a reference for the ever-growing official game world of HAMMERCRAWL! and its related podcast should you choose to follow along.
 * The HAMMERCRAWL! "Classic" Process: If you have a game already and just want the meta-process, follow these links instead of the core rules:
 	- [DM's Guide](./hc_core_dm.md)
