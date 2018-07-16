@@ -20,7 +20,6 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 	- [BECMI / Dark Dungeons](./hc_becmi.md)
 	- [Dungeon Crawl Classics](./hc_dcc.md)
 	- [Labyrinth Lord](./hc_lablord.md)
-	- [Lamentations of the Flame Princess](./hc_lotfp.md)
 	- [The Nightmares Underneath](./hc_tnu.md)
 
 
