@@ -11,10 +11,11 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 
 * **[The HAMMERCRAWL! Core Game System](./hc_complete_rules.md):** This is the new core game, fully compatible with other classic-inspired games currently popular with certain groups, and completely free. It is very much a work in progress, but all the basics are there to be played with.
 	- This process works best with my own associated [Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen), also on GitHub
-* The HammerCrawl Original Process: If you have a game already and just want the meta-process, follow these links:
+* **[The HAMMERCRAWL! World Bible](./hc_world_bible.md):** This is a reference for the ever-growing official game world of HAMMERCRAWL! and its related podcast should you choose to follow along.
+* The HAMMERCRAWL! "Classic" Process: If you have a game already and just want the meta-process, follow these links instead of the core rules:
 	- [DM's Guide](./hc_core_dm.md)
 	- [Players' Guide](./hc_core_player.md)
-* Subsystem Documents:
+* Additional Subsystem Documents:
 	- [BECMI / Dark Dungeons](./hc_becmi.md)
 	- [Dungeon Crawl Classics](./hc_dcc.md)
 	- [Labyrinth Lord](./hc_lablord.md)
