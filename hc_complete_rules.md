@@ -158,7 +158,7 @@ I strongly recommend using [my companion random character generator program](htt
 
 ### Step 1: Roll Your Class
 
-First and foremost, you must randomly determine your new character's Class. Roll 2d6, and then consult the following table:
+First and foremost, you must randomly determine your new character's Class. Roll 3d6, and then consult the following table:
 
 | Roll  | Class             |
 |-------|-------------------|
@@ -168,7 +168,7 @@ First and foremost, you must randomly determine your new character's Class. Roll
 | 14-16 | Halfling Burglar  |
 | 17-18 | Half-ogre Berserker |
 
-*If human, roll 1d4 to determine your actual class:
+\*If human, roll 1d4 to determine your actual class:
 
 1. Cleric
 2. Fighter
@@ -520,6 +520,11 @@ If not, this section is pending until I get the lists converted from that code..
 TBD (see generator program for now)
 
 
+#### Step X: Generate Your Starting Equipment
+
+TBD (see generator program for now)
+
+
 ### Step X: Name Your Characters
 
 Now it's time to give the character a name. Thing is, *you* don't get to give it that name. Instead, pass your character sheet to the player (*not* the Smith) sitting to your left. *They* get to name your character, and they are encouraged to Go Wild.
@@ -599,6 +604,8 @@ If you choose to **Lay Down**, you drop to the ground prone. On this round and e
 
 If you choose to **Fight On**, you can take an action as normal! Resolve it, and at the end of your action you immediately take 1d4 permanent CON damage, no save allowed. If this drops you to Zero, you're dead. Repeat for each turn that you continue to Fight on.
 
+*In either case,* while your HP is zero, any further damage you may take from additional attacks or effects targeting you comes directly out of your CON score. Once your CON reaches Zero, you are Dead.
+
 
 #### Magically Restoring Lost CON
 
@@ -616,6 +623,8 @@ When *Cure Serious Wounds* is used to restore lost CON from damage, ignore the s
 
 
 ### Death
+
+TBD
 
 
 ### Encounters (the Players' version)
@@ -672,7 +681,6 @@ In HAMMERCRAWL!, XP is only gained *after* overcoming challenges generated from 
 **Modifying The XP Rewards:** The Hammersmith may choose to raise or lower the rewards after the fact based on group performance or unexpected results. If the party wins against overwhelming odds, for example, the 'Smith may decide to raise the comparative Tier of the enemies to account for an unusual smashing success. Conversely, if the party is just "grinding rats" in the noob zone for an XP mill, the 'Smith may decide to reward them no XP at all for their bad attitudes about the whole thing.
 
 
-
 #### Ad-Hoc Experience Awards
 
 Hammersmiths may feel like rewarding some players with spontaneous experience boons when those players come up with good ideas or engage in captivating scenes of role-playing. I recommend keeping these to a minimum, and instead making players earn those valuable XPs through the expected core methods, but hey, it's your game, go buck wild. Use the following as a guideline, based on the occurrence that you feel deserves the reward:
@@ -701,8 +709,6 @@ When you attain the next level, the following things happen, in order:
 6. Take note of any increases to your Saves.
 
 
-
-
 ### Healing (ref)
 
 See "Damage"
@@ -710,7 +716,7 @@ See "Damage"
 
 ### Hirelings and Henchmen
 
-blah
+(work in progress)
 
 **First off** every Hireling has an associated **Profession.** This states the scope of action they are skilled in.
 
@@ -785,6 +791,8 @@ Given the depth of magical ways, the magic rules have their own separate chapter
 
 ### Mapping
 
+TBD
+
 
 ### Morale
 
@@ -803,7 +811,13 @@ If the NPC passes the Save, they grit their teeth and fight on! If they fail, th
 NPCs that are under the leadership of a player character are called "Hirelings" and handle morale checks different. See the "Hirelings and Henchmen" section, above.
 
 
-### Party Actions
+### Party Meta-Actions
+
+The HAMMERCRAWL! rules add a set of special meta-actions to the mix, which the Party Leader can call upon to move the game forward. There are three of these:
+
+* **Camp** lets the party recover some resources by taking an hour of rest.
+* **Explore** moves the party to the next room or "node" of the dungeon.
+* **Return to Town** sends the party out of the dungeon to their staging town, to spend loot and level up.
 
 
 #### Party Action: Camp
@@ -849,7 +863,7 @@ In order to continue exploring the Dungeon, your party leader must tell the 'Smi
 
 #### Party Action: Return to Town
 
-When the heroes finally return to town (which likely involves backtracking through the dungeon to their original exit), the following happens, in order:
+When the heroes finally return to town (which likely involves first backtracking through the dungeon to their original exit), the following happens, in order:
 
 1. Restore all HP totals to Max, and relearn daily Spells and Powers.
 2. Restore their standard starting equipment list to full original capacity.
@@ -939,14 +953,22 @@ If the resulting modified total equals or exceeds the target number, the check s
 
 #### Deciphering (INT)
 
+TBD
+
 
 #### Lockpicking (DEX)
+
+TBD
 
 
 #### Perception (WIS)
 
+TBD
+
 
 #### Stealth (DEX)
+
+TBD
 
 
 #### Thief-climbing (STR)
@@ -956,8 +978,12 @@ While most characters can climb with rope and gear, Thieves have an almost super
 
 #### Tracking (WIS)
 
+TBD
+
 
 #### Trap-finding (INT)
+
+TBD
 
 
 #### Trap-breaking (DEX)
@@ -968,6 +994,8 @@ Once the trap has been properly identified, the thief can then use this skill to
 ### Tiers
 
 A number of effects in the game use the "Tier" mechanic as a rough relative comparison of power between two or more entities within the fiction. For example, gaining XP from challenges is determined by the relative tiers of the Party and their Opponents, and similarly the targets for Saving Throws against harmful effects are based on Tier comparison.
+
+**Eyeballing Tier:** Typically a game item's "tier" is equal to one-third (round UP) that game item's associated "level." For Player Characters, this is based on XP level. For Monsters, it's their number of Hit Dice. Using this formula it's pretty simple to eyeball tier differences on the fly. Otherwise, refer to the table below:
 
 | Tier | XP/HD Levels | Adventurer Rank         | Monster Rank    | Treasure?          |
 |------|--------------|-------------------------|-----------------|--------------------|
@@ -984,7 +1012,7 @@ Note that player characters' levels are capped at 15, and as such an adventurer'
 
 #### Dungeon Level Tiers
 
-Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the HD total of the strongest monster on that level - aka the "Boss" of that Dungeon Level. Thus a Dungeon Level whose Boss has 10HD would be a Tier 4 Dungeon Level.
+Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the HD total of the strongest monster on that level - aka the "Boss" of that Dungeon Level. Again, the formula is 1/3 (rounded up) the HD of the monster. Thus a Dungeon Level whose Boss has 10HD (a Tier 4 monster) would be a Tier 4 Dungeon Level.
 
 
 ### Timekeeping
@@ -1000,10 +1028,9 @@ Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the H
 1 hour = ~6 turns
 
 
-
-
 ### Turn Unholy
 
+(work in progress)
 
 The victims must make a Mind Save. The target is determined by comparing their HD/level Tier to the Cleric's tier:
 
@@ -1035,8 +1062,12 @@ The results are explained further below:
 
 ## CHAPTER: Combat and Fighting
 
+TBD
+
 
 ### Combat Stats and Details
+
+TBD
 
 
 ### Combat Process
@@ -1055,6 +1086,8 @@ The results are explained further below:
 
 
 #### Surprise
+
+TBD
 
 
 #### Combat Rounds
@@ -1131,8 +1164,6 @@ If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit**
 If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
 
 
-
-
 #### Shield Bash
 
 The **shield bash** is a special melee attack available to Dwarves and Fighters. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
@@ -1162,8 +1193,6 @@ Tactical Actions are great for setting an opportunity for a Thief's Stabbity att
 
 
 
-
-
 ## CHAPTER: Magic and Spellcasting
 
 Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. While Clerics have access to a different "divine" spell list than Elves and Magic-Users, unlike most other derivatives of The OG, that is where their spellcasting differences end. Spell lists aside, all spellcasting classes use the same rules for memorizing and casting spells.
@@ -1171,6 +1200,7 @@ Elves, Clerics, and Magic-Users (and of course many monsters) have the special a
 
 ### Maintaining Spellbooks
 
+TBD
 
 
 #### Clerics Use Spellbooks Too!
@@ -1181,6 +1211,8 @@ Some more experienced players of The OG may call this change blasphemy, but in p
 
 
 #### Losing Spellbooks
+
+TBD
 
 
 ### Preparing and Memorizing Spells
@@ -1228,9 +1260,10 @@ As for how to find them? Well, dear adventurer, that's why you must always go as
 
 # Book Two: The Hammersmith's Guide to Slaughtering Adventurers
 
+TBD
+
 
 ## The Basics of Hammersmithin'
-
 
 Some basic principles to follow:
 
@@ -1416,6 +1449,7 @@ When finished, use a black marker to fill in the "dead exits" on the tiles as ma
 
 Once you have the flow mastered, this process takes no more than 5-10 minutes per dungeon level. Since even a single level can play host to a multitude of game sessions, you most likely only really need one or two, tops. With 90 available tiles, the scenery remains fresh for many sessions of adventuring.
 
+
 ##### (Optional) Setting Lair Nodes
 
 A "Lair Node" is a tile where a guaranteed Lair Fight will occur. These will have larger encounter numbers, and most likely pose great challenges to the players. Choosing their locations in advance can give you a bit more freedom and strategy mid-session when guiding the game proper.
@@ -1425,10 +1459,10 @@ Each level of the Dungeon should have a number of Lair Nodes equal to the level 
 Do not pre-populate the denizens of these Lair Nodes! Instead, let the random encounter generate them for you when discovered by the players.
 
 
-
 #### Building Dungeons on the Fly
 
 If you're feeling creative and you have the tools on hand, you can build out the dungeon live at the table, as the party chooses the Explore action. For years I would use a combination of matching cards and dice from Dungeonmorph, but recently I've streamlined my method to use only the cards. You can use whatever method you prefer, but I've made notes on two options below.
+
 
 ##### The Dungeonmorph Dice Method
 
@@ -1439,6 +1473,7 @@ To use this method, put them all into a bag, and pull one out at random. This on
 Then, roll ALL the remaining dice at once, *except for one* - that's right, leave one in the bag. Take all the rolled dice and just assemble them willy-nilly like a wild-person, pushing them up against each other until you have one crazy-looking dungeon. Make sure the entrance die is on the outside.
 
 Finally, roll that last die, add it somewhere interesting, and note it as the Exit to the next level. You now have yourself a completely randomized dungeon made of awesome dice, complete with entrance and the exit down to the next level. Go forth and plunder!
+
 
 ##### The Dungeonmorph Cards Method
 
