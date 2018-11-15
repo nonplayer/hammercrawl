@@ -51,6 +51,7 @@ Humans are by far the most vastly-reaching of the so-called "civilized" people.
 Unsorted:
 
 * The Town of Doom, at the Crossroads of Doom
+* The Eleven Mountain Ranges of Doom (Doom in the ancient languages just means snow)
 * The Gatharbar
 * The Sepulchre of Gino
 
@@ -70,6 +71,11 @@ Unsorted:
 * The Barrow of Evil
 * The Great Barrow of Evil
 * The Dread Barrow of Evil
+
+
+#### 1997
+
+The distant land of 1997 is known for its diverse colleges and it's plethora of Hottest Topics general stores. The region has a reputation for being a good starting point for many displaced teenaged would-be adventurers, most of which find new adventuring parties at the annual Lollafairuza alternative music festival.
 
 
 #### Other Places
@@ -134,9 +140,9 @@ Unsorted:
 ## Deities
 
 
-### The Great Yellow Canary
+### Fairuza Balk, Mistress of the Elements
 
-Clerics of the Great Yellow Canary are best known for the giant yellow-feathered bird suits they wear over their armor. Canary Clerics wander the lands, bringing education to children and warring against corporate product placement in dungeons far and wide. The highest-level clerics of the order often ride invisible elephants into battle against the enemies of education.
+Fairuza Balk is the name given to the loving Goddess of the Elements, the primary chosen patron of angsty rebellious teenage girls who feel the calling of the clerical ways. Fairuza is an especially popular Goddess in the distant land of 1997, where the locals pay a grand annual tribute to her in the form of the Lollafairuza music festival.
 
 
 ### Gary, God of the Food of the Southern Borderlands
@@ -191,6 +197,11 @@ The God Gluten directs his followers to carry forth and Break Bread with the hol
 ### The Great Goblin God of Goblins
 
 Everyone except the goblins knows that this god is actually just a Halfling in a really awful Goblin mask, but no one has had the heart to tell the Goblins yet, and they’d probably just ritually murder the messenger anyway.
+
+
+### The Great Yellow Canary
+
+Clerics of the Great Yellow Canary are best known for the giant yellow-feathered bird suits they wear over their armor. Canary Clerics wander the lands, bringing education to children and warring against corporate product placement in dungeons far and wide. The highest-level clerics of the order often ride invisible elephants into battle against the enemies of education.
 
 
 ### John, the Really Cool Dude that Everyone Likes
