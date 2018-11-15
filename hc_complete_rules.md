@@ -1137,6 +1137,20 @@ After missile attacks are resolved, anyone making melee attacks acts.
 
 After melee attacks are resolved, anyone taking any other "miscellaneous" actions acts.
 
+
+##### Special: Defensive Action
+
+You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position."
+
+To do so, you must first wait until the "Misc" phase of your side's combat round, and then declare you are executing a Defensive Action.
+
+Then you must describe how your character is specifically focusing on defense in the current moment.
+
+When done, you are in a Defensive state, and all attacks taken against you *that you can see coming* suffer a Disadvantage die until your next combat turn. Attacks that come from unawares do not suffer this penalty.
+
+This of course consumes your action for the round.
+
+
 ##### Special: Tactical Action
 
 TBD
