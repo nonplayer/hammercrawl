@@ -1,4 +1,5 @@
 title: HAMMERCRAWL! RPG Player's Guide  
+subtitle: Book One: The Player's Guide to Crawling Dungeons  
 author: N. Phillip Cole  
 created: 2018-03-22  
 
@@ -108,22 +109,17 @@ This method focuses entirely on spontaneous, random play, and as such you're goi
 
 ### The Divining Dice
 
-The 'Smith needs a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. I am currently looking into adapting this system to use the new Genesys Fantasy RPG Dice, as well.
+The Hammersmith will need a special set of "Divining Dice" for assistance with generating threats, challenges, and other dungeon content on the fly. As of January 2019, the HAMMERCRAWL! process has been revised to make use of the custom color-coded dice from the **Genesys** role-playing game, published by Fantasy Flight Games. The dice are available anywhere that game is sold, including online retailers and your FLGS. We recommend getting two complete sets, as that should likely be more than enough for a complete dungeon.
 
-To quickly run through the dice, with WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
+If you go not have the physical dice, there are a number of apps that can be used instead:
 
-* **Blue: The Reward Die** - rolled to find new fortunes and treasure.
-* **Red: The "Huzzah!" Die** - rolled when the heroes are especially brave and/or foolhardy.
-* **Green: The Caution Die** - rolled to reward careful strategy and conversation.
-* **White: The Luck Die** - added to the pool for good ideas and plans.
-* **Black: The Dark Die** - added when the players' own actions turn against them.
-* **Yellow: The Die of Expertise** - representing solid applied skill and craft.
-* **Purple: The Die of Challenge** - Purple dice can bring great danger and peril, but amplify XP!
+* [Heroku Web App](https://rpg-dice-roller.herokuapp.com/genesys)
+* [Official Android App](https://play.google.com/store/apps/details?id=com.fantasyflightgames.GenesysDice&hl=en_US)
+* [Official iOS App](https://itunes.apple.com/us/app/genesys-dice/id1297007531?mt=8)
 
-Don't have dice of your own? [Use the Broken Tome generator](http://brokentome.com/tools/DiceRoller.aspx)! There are a number of other apps available as well:
+The legacy version of this system used the dice from the now out-of-print 3rd Edition of Warhammer Fantasy Roleplay. The previous incarnation of the rules for using those dice are now found in Appendix W of the Smith's Guide.
 
-* Android: [WFRP Dice](https://play.google.com/store/apps/details?id=net.WFRPDice&hl=en_US)
-* PC: [WFRP 3rd Edition Dice Pool Tool Kit](https://rpggeek.com/filepage/60367/wfrp-3rd-edition-dice-pool-tool-kit)
+Details on the individual dice and their usage in HAMMERCRAWL! are located in the Smith's Guide.
 
 
 ### Additional Things
@@ -138,11 +134,7 @@ You may find the following useful as well:
 
 
 
-
-# Book One: The Player's Guide to Crawling Dungeons
-
-
-## CHAPTER: Creating Your Character
+# CHAPTER: Creating Your Character
 
 You will need the following for this process:
 
@@ -151,12 +143,12 @@ You will need the following for this process:
 * A full set of gaming dice
 
 
-##### Sidebar: The Online Generation Method
+#### Sidebar: The Online Generation Method
 
 I strongly recommend using [my companion random character generator program](https://github.com/nonplayer/OldSchoolCharGen) for this process. It allows entire stacks of characters to be generated with a few keystrokes. Hammersmiths can thus create a single pile of replacement characters for instant access and insertion into an ongoing dungeon, saving time in longer play sessions with high death tolls.
 
 
-### Step 1: Roll Your Class
+## Step 1: Roll Your Class
 
 First and foremost, you must randomly determine your new character's Class. Roll 3d6, and then consult the following table:
 
@@ -178,12 +170,12 @@ First and foremost, you must randomly determine your new character's Class. Roll
 **Note:** These tables are for a primarily humanocentric fantasy setting, such as that established in The OG. Adjust these as needed for your campaign setting.
 
 
-### Step 2: Record your Class Data
+## Step 2: Record your Class Data
 
 Each class has its own special rules and abilities. Take note of yours using the references below.
 
 
-#### Dwarf Defender
+### Dwarf Defender
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d8 per level, modified by CON mod.
@@ -207,7 +199,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 **Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the AC bonus of their shield when using the bash.
 
 
-#### Elf Exemplar
+### Elf Exemplar
 
 * **Prime Stats:** DEX, INT
 * **Hit Dice:** 1d8 per level, modified by CON mod.
@@ -235,7 +227,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 **War Adept:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 
-#### Halfling Burglar
+### Halfling Burglar
 
 * **Prime Stats:** DEX, CHA
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -261,7 +253,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 **Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans.
 
 
-#### Half-ogre Berserker
+### Half-ogre Berserker
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d10 per level, modified by CON mod.
@@ -293,7 +285,7 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 **Two-Hander:** When using a two-handed melee weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
 
-#### Human Cleric
+### Human Cleric
 
 * **Prime Stats:** WIS, CHA
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -315,7 +307,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 **Turn Away the Unholy** Once per Day per Level of Experience, a Cleric can hold aloft the symbol of their righteous faith and turn back undead, devils, demons, and any others that the Hammersmith deems to be enemies of their faith. All such opponents must make Mind saves based on the difference in Level/HD Tiers. Targets who fail this save must cower, flee, or possibly even take damage or be destroyed.
 
 
-#### Human Fighter
+### Human Fighter
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d8 per level, modified by CON mod.
@@ -339,7 +331,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 
 
-#### Human Magic-User
+### Human Magic-User
 
 * **Prime Stats:** INT
 * **Hit Dice:** 1d4 per level, modified by CON mod.
@@ -367,7 +359,7 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 **Wizardly Weaponry:** Magic-users can make use of new special mage-only weapons: The Wand and The Staff. Be warned that actively using these tools will mark you as a magician, and likely increase your chances of becoming a target priority by smart enemies...
 
 
-#### Human Thief
+### Human Thief
 
 * **Prime Stats:** DEX, INT
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -391,12 +383,12 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 **Trapwise:** Thieves have advantage on all Saves against the effects of Traps.
 
 
-### Step 3: Choose Your Alignment
+## Step 3: Choose Your Alignment
 
 Choose from the following five: Chaotic, Evil, Good, Lawful, and Neutral.
 
 
-### Step 4: Roll Your Stats
+## Step 4: Roll Your Stats
 
 Now roll 3d6 six times, and write them down in order.
 
@@ -425,14 +417,14 @@ Now roll 3d6 six times, and write them down in order.
 Stats are explained in further detail immediately below.
 
 
-#### Basics of Stats
+### Basics of Stats
 
 There are six core stats: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). Each stat has a Base Score and a Derived Modifier. The **Base Score** is determined by the initial 3D6 roll. These initial scores are not used much outside of their initial purpose of determining the Stats' derived modifiers. The **Modifier** is a number from -3 to +3, determined by the table above. This number is most commonly used to modify a character's relevant active dice rolls when attempting actions during play.
 
 Each of the six core stats affects certain mechanics, as detailed below:
 
 
-##### Strength (STR)
+#### Strength (STR)
 
 
 **Modifies:**
@@ -442,7 +434,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Thrown Damage Rolls
 
 
-##### Dexterity (DEX)
+#### Dexterity (DEX)
 
 **Modifies:**
 
@@ -452,7 +444,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Missile Attack Rolls
 
 
-##### Constitution (CON)
+#### Constitution (CON)
 
 **Modifies:**
 
@@ -460,7 +452,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Hit Die Rolls
 
 
-##### Intelligence (INT)
+#### Intelligence (INT)
 
 **Modifies:**
 
@@ -469,7 +461,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Starting Skills
 
 
-##### Wisdom (WIS)
+#### Wisdom (WIS)
 
 **Modifies:**
 
@@ -478,7 +470,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Mind Saves
 
 
-##### Charisma (CHA)
+#### Charisma (CHA)
 
 **Modifies:**
 
@@ -486,7 +478,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Reaction Rolls
 
 
-### Step X: Roll Your Skills
+## Step X: Roll Your Skills
 
 While your character is assumed to have many unwritten skills simply through their class and background, you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
 
@@ -497,14 +489,14 @@ If you're using the character generator python tool, this is already handled for
 If not, this section is pending until I get the lists converted from that code...
 
 
-### Step X: Randomize Your Starting Equipment
+## Step X: Randomize Your Starting Equipment
 
 If you're using the character generator python tool, this is already handled for you!
 
 If not, this section is pending until I get the lists converted from that code...
 
 
-### Step X: Confirm and Note Important Sub-Stats
+## Step X: Confirm and Note Important Sub-Stats
 
 * Experience Level (1) and associated Character Tier (1)
 * Hit Points = Your Maximum Hit Die, plus your Con Mod, minimum of 1.
@@ -515,22 +507,22 @@ If not, this section is pending until I get the lists converted from that code..
 * Movement Speed = determined by class (human base is 30)
 
 
-#### Step X: Randomize Your Character Traits
+### Step X: Randomize Your Character Traits
 
 TBD (see generator program for now)
 
 
-#### Step X: Generate Your Starting Equipment
+### Step X: Generate Your Starting Equipment
 
 TBD (see generator program for now)
 
 
-### Step X: Name Your Characters
+## Step X: Name Your Characters
 
 Now it's time to give the character a name. Thing is, *you* don't get to give it that name. Instead, pass your character sheet to the player (*not* the Smith) sitting to your left. *They* get to name your character, and they are encouraged to Go Wild.
 
 
-### Step X: Determine Party (Player) Roles
+## Step X: Determine Party (Player) Roles
 
 Hopefully the rest of your group has been making your characters alongside one another, and you've now all reached this point together. It's time to determine the party roles, which are mainly for administration and also for the use of the special new Party Actions.
 
@@ -542,22 +534,22 @@ Hopefully the rest of your group has been making your characters alongside one a
 * **Timekeeper:** The player tracks the passage of game Turns, and keeps track of who is carrying what light sources (and how much time is left on them).
 
 
-### Final Step: Take it All In
+## Final Step: Take it All In
 
 Take a moment to think about the kind of person your character is. Think about their goals, their ambitions, their reasons for doing the things they do. And while you're at it, take a long hard moment to ponder exactly what kind of person they have to be in order to willingly leave everything behind and delve into terrifying and disgusting dungeons.
 
 
-## CHAPTER: Playing Your Character
+# CHAPTER: Playing Your Character
 
 As a reference for Play, this section is sorted alphabetically by subject.
 
 
-### Advancement (ref)
+## Advancement (ref)
 
 See "Experience"
 
 
-### Attack Ranks
+## Attack Ranks
 
 Every character class has an associated Attack Rank, which determines their base combat attack bonuses.
 
@@ -569,29 +561,29 @@ Every character class has an associated Attack Rank, which determines their base
 | D    | You have no level-based combat bonus to attacks.       |
 
 
-### Camping (ref)
+## Camping (ref)
 
 See "Party Actions"
 
 
-### Character Tiers (ref)
+## Character Tiers (ref)
 
 See "Experience"
 
 
-### Combat (ref)
+## Combat (ref)
 
 Given the depth involved in a combat encounter, the fighting mechanics have their own separate chapter. See "Combat and Fighting" further below.
 
 
-### Damage
+## Damage
 
 Your base damage with all weapons is equal to your Class Hit Die. Some weapons may have special modifiers to this, however.
 
 Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
 
 
-#### Zero Hit Points
+### Zero Hit Points
 
 When your adventurer is reduced to 0 Hit Points, you're not dead... *not yet*. First, any damage taken in excess of what would be needed to drop you to Zero hit points is immediately taken out of your CON score. This loss is *permanent* until magically restored (see below). Now if *that* reduces you to 0 CON, *then* you're dead. See the "Death" section for how to proceed.
 
@@ -607,14 +599,14 @@ If you choose to **Fight On**, you can take an action as normal! Resolve it, and
 *In either case,* while your HP is zero, any further damage you may take from additional attacks or effects targeting you comes directly out of your CON score. Once your CON reaches Zero, you are Dead.
 
 
-#### Magically Restoring Lost CON
+### Magically Restoring Lost CON
 
 If your CON has been permanently reduced due to taking damage below zero HP, then the only way to restore it is through advanced medical technology of 21st century or later (good luck finding that in your dirty-ass dungeon), or instead via a special alternate use of the Level 4 Cleric Spell *Cure Serious Wounds* spell (or similar potion or scroll).
 
 When *Cure Serious Wounds* is used to restore lost CON from damage, ignore the spell's normal printed effect and use the following description instead:
 
 
-##### Cure Serious Wounds
+#### Cure Serious Wounds
 
 * **Target:** One living creature
 * **Range:** Touch
@@ -622,12 +614,12 @@ When *Cure Serious Wounds* is used to restore lost CON from damage, ignore the s
 * **Effect:** Restore 1d4 + Caster Level in lost CON stat points to the target. The caster can target themselves with this spell.
 
 
-### Death
+## Death
 
 TBD
 
 
-### Encounters (the Players' version)
+## Encounters (the Players' version)
 
 Misc:
 
@@ -639,7 +631,7 @@ Misc:
 Extended encounter rules in Hammersmith section.
 
 
-### Experience
+## Experience
 
 Experience is the currency of character advancement in HAMMERCRAWL! As characters go on adventures, defeat threats, and gather wealth, they will accrue experience points (XP) which can be cashed in to increase experience levels.
 
@@ -651,7 +643,7 @@ Experience in HAMMERCRAWL! is earned from the following two activities:
 Okay, it's a *bit* more complicated than that, but not much. Read on below.
 
 
-#### XP from Challenges
+### XP from Challenges
 
 The primary method of XP acquisition is by exploring new locations and dungeon rooms, and then defeating the challenges within those rooms. When a challenge is defeated, each individual surviving member of the party earns an amount of XP based on the following factors:
 
@@ -662,7 +654,7 @@ The primary method of XP acquisition is by exploring new locations and dungeon r
 In HAMMERCRAWL!, XP is only gained *after* overcoming challenges generated from the Divining Pool. When the party survives a new rolled challenge, use the following process to determine the how *base* XP reward:
 
 1. **Did they explore a new Room?** Each time the party discovers a new "room" or "node" in the dungeon (specifically after using the Explore Action), start the reward with a single XP. This is based on the "node" based method of dungeon exploration; if you're running a room-heavy dungeon, you may need to restrict this to once per "region" of rooms instead.
-2. **Did they defeat the challenges?** If there was a challenge in the room, increase the reward by the total number of Crossblades rolled in that encounter's Divining Pool, plus any additional Hammers rolled. Note that Hammers only add to the XP reward pool if at least one Crossblade was also present - rewards without challenge earn no XP!
+2. **Did they defeat the challenges?** If there was a challenge in the room, increase the reward by the total number of Xs rolled in that encounter's Divining Pool, plus any additional Suns rolled. Note that Suns *only* add to the XP reward pool if at least one X was also present - rewards without challenge earn no XP!
 3. **Are they on a level-appropriate Dungeon Tier?** Multiply the reward based on comparing the party's average level Tier to that of the current dungeon level:
 
 
@@ -681,7 +673,7 @@ In HAMMERCRAWL!, XP is only gained *after* overcoming challenges generated from 
 **Modifying The XP Rewards:** The Hammersmith may choose to raise or lower the rewards after the fact based on group performance or unexpected results. If the party wins against overwhelming odds, for example, the 'Smith may decide to raise the comparative Tier of the enemies to account for an unusual smashing success. Conversely, if the party is just "grinding rats" in the noob zone for an XP mill, the 'Smith may decide to reward them no XP at all for their bad attitudes about the whole thing.
 
 
-#### Ad-Hoc Experience Awards
+### Ad-Hoc Experience Awards
 
 Hammersmiths may feel like rewarding some players with spontaneous experience boons when those players come up with good ideas or engage in captivating scenes of role-playing. I recommend keeping these to a minimum, and instead making players earn those valuable XPs through the expected core methods, but hey, it's your game, go buck wild. Use the following as a guideline, based on the occurrence that you feel deserves the reward:
 
@@ -690,12 +682,12 @@ Hammersmiths may feel like rewarding some players with spontaneous experience bo
 * (table, players, and household all literally explode from the magnitude of sheer bodacious game fire): 5 XP
 
 
-#### Experience and Money
+### Experience and Money
 
 Unlike some older "classic" games, characters do not gain XP from money in HAMMERCRAWL! Instead, they gain it by exploring new rooms and defeating the challenges within, based on the results of the Divining Pool.
 
 
-#### Leveling Up
+### Leveling Up
 
 In order to attain the next level of ability in your Class, you must accrue an amount of XP equal to the next level times 10. You must then either use the Level Up camp action, or return to Town.
 
@@ -709,12 +701,12 @@ When you attain the next level, the following things happen, in order:
 6. Take note of any increases to your Saves.
 
 
-### Healing (ref)
+## Healing (ref)
 
 See "Damage"
 
 
-### Hirelings and Henchmen
+## Hirelings and Henchmen
 
 (work in progress)
 
@@ -748,12 +740,12 @@ Additionally, every Hireling has a base Tier, which determines everything else a
 **Description:** A general eyeballing of how that hireling fits into the hierarchy of ability for their chosen profession.
 
 
-#### Finding a Hireling
+### Finding a Hireling
 
 Go to a place where you might expect a hireling to be found - that means a town or other social center that is most likely *not* in a dungeon. Ask around, chances are you will find someone interesting...
 
 
-#### Putting Up With Your Bullshit (aka Morale)
+### Putting Up With Your Bullshit (aka Morale)
 
 Hirelings are subject to Morale, but it's handled a bit differently than it is for NPCs not in the PCs' employ. And for Hirelings, the scope covers not just being thrust into dangerous encounters, but also being asked to work beyond the limits of their contracts.
 
@@ -762,12 +754,12 @@ Hirelings prefer to keep their demanded work within the scope of the expertise t
 If you succeed at the save, you keep your hireling for the time being, without changes to your contract. If you fail the save by 5 or less, they may choose to remain, but require double the daily cost. If you fail by more than 5, they quit your service immediately, possibly becoming hostile.
 
 
-### Leveling Up (ref)
+## Leveling Up (ref)
 
 See "Experience"
 
 
-### Light and Darkness
+## Light and Darkness
 
 As none of the base classes in HAMMERCRAWL! can see in the dark, having a source of light is crucial to successful dungeon delving. How can you expect to explore a dungeon and stay alive if you can't see?! In addition to all the standard role-playing needs that light serves in a game like this, the special meta-action of HAMMERCRAWL! are directly affected by it as well. For one you, absolutely require at least one light source in order to Camp, and if you try and Explore without light then you add potentially several additional dangerous Black Dice to the 'Smith's Divining Pool.
 
@@ -784,17 +776,17 @@ When a character is acting under the effects of darkness, the following mechanic
 * They roll with Disadvantage on Skill rolls and Area Saves.
 
 
-### Magic (ref)
+## Magic (ref)
 
 Given the depth of magical ways, the magic rules have their own separate chapter. See "Magic and Spellcasting" further below.
 
 
-### Mapping
+## Mapping
 
 TBD
 
 
-### Morale
+## Morale
 
 The player characters themselves are as brave as their players choose them to be. Their allies and henchpersons, however, are usually decidedly less so. The same goes for many enemies that the adventurers beat on, who might come to the realization that cowering or even running away are better choices than fighting to the death against superior opponents.
 
@@ -811,7 +803,7 @@ If the NPC passes the Save, they grit their teeth and fight on! If they fail, th
 NPCs that are under the leadership of a player character are called "Hirelings" and handle morale checks different. See the "Hirelings and Henchmen" section, above.
 
 
-### Party Meta-Actions
+## Party Meta-Actions
 
 The HAMMERCRAWL! rules add a set of special meta-actions to the mix, which the Party Leader can call upon to move the game forward. There are three of these:
 
@@ -820,7 +812,7 @@ The HAMMERCRAWL! rules add a set of special meta-actions to the mix, which the P
 * **Return to Town** sends the party out of the dungeon to their staging town, to spend loot and level up.
 
 
-#### Party Action: Camp
+### Party Action: Camp
 
 The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the Hammersmith announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light and Rations, however. The Party Leader can activate a Camp action at any time while in a Safe Haven, provided the party has the required resources below:
 
@@ -839,8 +831,8 @@ Then, each player gets to pick one additional Camp Action to perform now:
 * **Re-Memorize:** Recover one previously-spent daily spell use per character level.
 * **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many stones for your sling.
 * **Level up!:** If the hero has enough XP to reach the next level, they can apply the effects of that level as a Camp Action. Follow the core process for Leveling Up. Note that it does not heal existing HP loss or restore used spells or abilities (those are separate Camp Actions, above).
-* **Stand Watch:** Add a Green Die to the next room explored, and -1 to Smith's camp encounter roll (below).
-* **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add Black dice instead.
+* **Stand Watch:** Add a Blue Die to the next room explored, and -1 to Smith's camp encounter roll (below).
+* **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add that many Black dice instead.
 
 Finally, **The Hammersmith Rolls 1d6:**
 
@@ -852,7 +844,7 @@ If total is 6+, an encounter happens while the party is camping! Roll as usual t
 If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter's initiative checks.
 
 
-#### Party Action: Explore
+### Party Action: Explore
 
 Each dungeon will likely consist of multiple levels, with many rooms among them. Each room can contain numerous horrible dangers, but also a good chance at wondrous loot as well. Moving from room to room requires exploration, which invites danger but also creates opportunity for new treasures and rewards!
 
@@ -861,7 +853,7 @@ In order to continue exploring the Dungeon, your party leader must tell the 'Smi
 **TIME:** The Explore action requires a minimum of 1 turn of time, so have light sources ready!
 
 
-#### Party Action: Return to Town
+### Party Action: Return to Town
 
 When the heroes finally return to town (which likely involves first backtracking through the dungeon to their original exit), the following happens, in order:
 
@@ -874,12 +866,12 @@ When the heroes finally return to town (which likely involves first backtracking
 7. Return to the Dungeons!
 
 
-### Reactions (ref)
+## Reactions (ref)
 
 See "Encounters"
 
 
-### Saving Throws
+## Saving Throws
 
 You will frequently be asked to make a "saving throw" in order to resist affects from spells, traps, and many other dangers. The Hammersmith will tell you when you need to make a Save, and which of the following Six categories that save falls under:
 
@@ -903,7 +895,7 @@ When it's time to make the check, roll 1d20 and add your relevant modifier based
 For example, a 2nd level Adventurer (Tier 1) saving against the magical fear effect of a 7th level Monster (Tier 3) would have to roll an 18 or higher, due to the differences in their tiers.
 
 
-### Searching for Hidden Secrets
+## Searching for Hidden Secrets
 
 Adventurers can search for clues and hidden secrets in the dungeon by spending time in active investigation. A character can search a single 10 x 10 area in a minimum one Turn of time, and of course the party can split up to cover more ground in larger areas by searching simultaneously. Characters can spend longer searching, and increase their chances of success.
 
@@ -912,12 +904,12 @@ When one or more characters are searching, the Hammersmith asks how many charact
 Note that a successful search result still won't find any hidden secrets if there are none there to find in the first place. And also note that discovering the *existence* of the secret doesn't necessarily inform the characters how to *access* that secret, either. That may require additional detailed, creative, and hands-on storytelling, role-playing, and scene exploration.
 
 
-#### Searching for Traps (ref)
+### Searching for Traps (ref)
 
 Searching for Traps is handled by the Thief Skill. See Thief Skills, particularly "Trap-Finding."
 
 
-### Skills
+## Skills
 
 All characters in HAMMERCRAWL! begin play with a variety of both explicit and assumed skills. Explicit skills include the four free random skills that each character gets at creation. Assumed skills are anything that one could reasonably assume the character has ability in due to their background and their class. Fighters and Elves are pretty athletic, obviously, while former Bankers and Accountants are assumed to know math and finances.
 
@@ -930,12 +922,12 @@ In such cases, the Hammersmith may call for a test. The player will need to roll
 Thief skills are special, and detailed in the "Thief Skills" section below.
 
 
-### Spells and Spellcasting (ref)
+## Spells and Spellcasting (ref)
 
 Given the mechanical depth of the magical arts, the magic rules have their own separate chapter. See "Magic and Spellcasting" further below.
 
 
-### Thief Skills (ref)
+## Thief Skills (ref)
 
 Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls. To attempt a Thief Skill, the player must first have the skill in question as a class feature. These rolls are performed by rolling a d20, adding the associated Stat Mod for the skill being tested, and comparing it to a target number. The target number is determined by comparing the Thief's experience Tier to the Tier of the current Dungeon Level, which is based on the level Boss's HD (see Tiers, further below).
 
@@ -951,47 +943,47 @@ If the resulting modified total equals or exceeds the target number, the check s
 
 
 
-#### Deciphering (INT)
+### Deciphering (INT)
 
 TBD
 
 
-#### Lockpicking (DEX)
+### Lockpicking (DEX)
 
 TBD
 
 
-#### Perception (WIS)
+### Perception (WIS)
 
 TBD
 
 
-#### Stealth (DEX)
+### Stealth (DEX)
 
 TBD
 
 
-#### Thief-climbing (STR)
+### Thief-climbing (STR)
 
 While most characters can climb with rope and gear, Thieves have an almost supernatural ability to climb *sheer* walls and slick surfaces with grace and panache. Roll this skill when facing a climbing challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this.
 
 
-#### Tracking (WIS)
+### Tracking (WIS)
 
 TBD
 
 
-#### Trap-finding (INT)
+### Trap-finding (INT)
 
 TBD
 
 
-#### Trap-breaking (DEX)
+### Trap-breaking (DEX)
 
 Once the trap has been properly identified, the thief can then use this skill to disarm the mechanism that triggers it. A thief can also attempt to break a trap *without* first finding it, but suffers disadvantage to the roll. Additionally, if failed, they've sprung it!
 
 
-### Tiers
+## Tiers
 
 A number of effects in the game use the "Tier" mechanic as a rough relative comparison of power between two or more entities within the fiction. For example, gaining XP from challenges is determined by the relative tiers of the Party and their Opponents, and similarly the targets for Saving Throws against harmful effects are based on Tier comparison.
 
@@ -1010,12 +1002,12 @@ A number of effects in the game use the "Tier" mechanic as a rough relative comp
 Note that player characters' levels are capped at 15, and as such an adventurer's personal experience Tier will never rise above 5. Monsters and Treasures have one tier higher, because there is always something more powerful than even the greatest of heroes...
 
 
-#### Dungeon Level Tiers
+### Dungeon Level Tiers
 
 Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the HD total of the strongest monster on that level - aka the "Boss" of that Dungeon Level. Again, the formula is 1/3 (rounded up) the HD of the monster. Thus a Dungeon Level whose Boss has 10HD (a Tier 4 monster) would be a Tier 4 Dungeon Level.
 
 
-### Timekeeping
+## Timekeeping
 
 1 second = ~1 action phase (move/missile/melee/misc/magic)
 
@@ -1028,7 +1020,7 @@ Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the H
 1 hour = ~6 turns
 
 
-### Turn Unholy
+## Turn Unholy
 
 (work in progress)
 
@@ -1060,17 +1052,17 @@ The results are explained further below:
 
 
 
-## CHAPTER: Combat and Fighting
+# CHAPTER: Combat and Fighting
 
 TBD
 
 
-### Combat Stats and Details
+## Combat Stats and Details
 
 TBD
 
 
-### Combat Process
+## Combat Process
 
 1. Check for Surprise
 2. COMBAT ROUNDS
@@ -1085,17 +1077,17 @@ TBD
 3. LOOT TIME!
 
 
-#### Surprise
+### Surprise
 
 TBD
 
 
-#### Combat Rounds
+### Combat Rounds
 
 A combat round is roughly ten (10) seconds of action.
 
 
-#### Initiative
+### Initiative
 
 At the top of each Round of combat, the designated leader of each side rolls initiative as follows: 1d10 + DEX mod + WIS mod. Highest roll wins initiative. Initiative Ties are resolved in the following order of determination:
 
@@ -1114,7 +1106,7 @@ After Initiative is determined, the winning side gets to take all of their actio
 The Hammersmith resolves this by announcing which "phase" of action is now, and resolving the actions of any characters who are acting in that phase. Players can choose to wait to declare their actions until their chosen phase is announced. Actions are declared and resolved at the same time.
 
 
-#### Movement Phase
+### Movement Phase
 
 After winning Initiative, everyone on the acting side can choose one of the following movement options:
 
@@ -1123,22 +1115,22 @@ After winning Initiative, everyone on the acting side can choose one of the foll
 * **Move Far:** You can choose to rush, moving up to double your Speed. You do not get to act afterward this round.
 
 
-#### Missile Phase
+### Missile Phase
 
 After movement, anyone making missile, thrown, or other ranged attacks acts.
 
 
-#### Melee Phase
+### Melee Phase
 
 After missile attacks are resolved, anyone making melee attacks acts.
 
 
-#### Misc. Phase
+### Misc. Phase
 
 After melee attacks are resolved, anyone taking any other "miscellaneous" actions acts.
 
 
-##### Special: Defensive Action
+#### Special: Defensive Action
 
 You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position."
 
@@ -1151,34 +1143,34 @@ When done, you are in a Defensive state, and all attacks taken against you *that
 This of course consumes your action for the round.
 
 
-##### Special: Tactical Action
+#### Special: Tactical Action
 
 TBD
 
 
-#### Magic Phase
+### Magic Phase
 
 Finally, at the end of the round, anyone wishing to cast a spell or activate a magical spell-like effect gets to take their actions.
 
 
-#### Loot Time!
+### Loot Time!
 
 When combat ends, the survivors gain the might-gained right to loot the bodies of the fallen, both foe and friend alike. This is a divine privilege that extends back to the earliest days of gaming, and is in fact the reason many of us still play these elf games today. Loot gained through feats of martial and magical prowess is the best loot, bar none.
 
 
-### Combat Special Rules
+## Combat Special Rules
 
 Alphabetized for ease of reference.
 
 
-#### Critical Hits and Fumbles
+### Critical Hits and Fumbles
 
 If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies advantage against them for the next round).
 
 If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
 
 
-#### Shield Bash
+### Shield Bash
 
 The **shield bash** is a special melee attack available to Dwarves and Fighters. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
@@ -1189,7 +1181,7 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters.
 Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
 
 
-#### Tactical Attacks
+### Tactical Attacks
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
@@ -1207,29 +1199,29 @@ Tactical Actions are great for setting an opportunity for a Thief's Stabbity att
 
 
 
-## CHAPTER: Magic and Spellcasting
+# CHAPTER: Magic and Spellcasting
 
 Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. While Clerics have access to a different "divine" spell list than Elves and Magic-Users, unlike most other derivatives of The OG, that is where their spellcasting differences end. Spell lists aside, all spellcasting classes use the same rules for memorizing and casting spells.
 
 
-### Maintaining Spellbooks
+## Maintaining Spellbooks
 
 TBD
 
 
-#### Clerics Use Spellbooks Too!
+### Clerics Use Spellbooks Too!
 
 Unlike The OG and most of its derivatives, Clerics in HAMMERCRAWL! require spellbooks too! In opposition to how a lot of other games implement them, Clerics *do not* immediately have access to the entire Clerical spell list upon attaining the requisite experience levels. Instead, Clerics must collect and learn spells exactly as Elves and Magic-users, only their are drawn from Holy Writ. Clerics call their tomes "Prayerbooks" but otherwise follow all the core spellbook rules. Clerical spells care commonly called "prayers" and they can learn from holy scrolls exactly the same as Magic-users learn from wizardly scrolls.
 
 Some more experienced players of The OG may call this change blasphemy, but in play we've found that brand new players at one-shot games find that it makes for a lot more approachable experience when playing a Cleric for the very first time.
 
 
-#### Losing Spellbooks
+### Losing Spellbooks
 
 TBD
 
 
-### Preparing and Memorizing Spells
+## Preparing and Memorizing Spells
 
 Upon the start of a new day, Clerics and Elves are considered to have memorized every spell in their currently-possessed spellbooks for the levels that they are allowed to cast, even newly-discovered ones. Magic-Users (only) are considered to have memorized *every* spell in their spellbooks, regardless of level.
 
@@ -1244,26 +1236,26 @@ At the beginning of a new day of adventuring, and following a good long restful 
 Spells are usually forgotten upon casting. Spells can be re-memorized by resting or returning to town.
 
 
-### Casting Spells
+## Casting Spells
 
 You can cast any spell you have memorized. To do so, simply choose the spell and follow the rules of that spell. Many spells won't require the caster to make any dice rolls, although many will have saving throws that the target must make in order to resist the effects.
 
 Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other memorized spells, provided their total level cost is equal to or greater than that of the spell that you just cast.
 
 
-### Learning New Spells
+## Learning New Spells
 
 Spellcasters learn spells through leveling up and also by finding them as loot on scrolls. Each class has its own rules for gaining spells when leveling up.
 
 Whenever a spellcaster acquires a new spell from an external source that is compatible with their spell list, they can transcribe it into their spellbook. If the source is a scroll or other such scrap, the source is destroyed in the process. If the source is another spellbook, the spell remains in the source.
 
 
-### Spell Lists
+## Spell Lists
 
 This game text does not have spell lists. Instead, I recommend you use whichever B/X or BECMI compatible spell list that you prefer. I find that the *Dark Dungeons* list is pretty comprehensive, and give it my seal of approved compatibility. In fact, it's the list I default to when I run HAMMERCRAWL!
 
 
-### Wait a Sec... What about Level 9 Spells?
+## Wait a Sec... What about Level 9 Spells?
 
 Ah, you are an observant one, yes, you will do well in the adventures to come... So you've probably noticed that due to the 15-level limit on characters, and the progression rates for Elves and Magic-Users, there are no opportunities for them to "safely" memorize and cast 9th-Level spells.
 

@@ -1,4 +1,5 @@
-title: Hammercrawl! Complete Game - Extended Rules Options  
+title: HAMMERCRAWL! Extended Rules Options  
+subtitle: Hammer Son of HAMMERCRAWL!
 author: N. Phillip Cole  
 created: 2018-04-03  
 

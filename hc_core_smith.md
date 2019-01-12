@@ -1,12 +1,7 @@
-title: HAMMERCRAWL! RPG 'Smith's Guide
+title: HAMMERCRAWL! RPG 'Smith's Guide  
+subtitle: Book Two: The Hammersmith's Guide to Slaughtering Adventurers  
 author: N. Phillip Cole
 created: 2019-01-11  
-
-
-# Book Two: The Hammersmith's Guide to Slaughtering Adventurers
-
-TBD
-
 
 # The Basics of Hammersmithin'
 
@@ -16,6 +11,28 @@ Some basic principles to follow:
 * **Roll in the Open, and Don't Fudge the Dice!** Fudging dice is lame as lame can be. If you're going to roll dice, then commit to it. If you're not going to commit to it, just put on the big kid britches, say what happens instead, and move on - no roll required. Throw the bones out in the open for all to see. You can't expect the players to play fair and true to the rules if you don't do the same.
 * **Listen to the Players!** Players often come up with way cooler ideas than you ever thought of. Listen to them, mine their passing throw-away jokes for gold, and then use it against them later. The best spur-of-the-moment games are often driven by the players' own side comments. Save yourself the effort and let the players unknowingly do all your work for you!
 * **Egg and Entice them!** Give them big red shiny buttons that say "do not push" and then watch them fight over who gets to push them. Place the most stupidly obvious traps in their way and watch them second-guess themselves. And cheer them on the whole time!
+
+
+## The Smith's Tools
+
+The 'Smith needs a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. I am currently looking into adapting this system to use the new Genesys Fantasy RPG Dice, as well.
+
+
+### The Divining Dice
+
+HAMMERCRAWL! makes use of the special colorful dice from the Genesys RPG to help the 'Smith randomly generate threat and other ideas on the spur of the moment (most commonly when they move into the next room of the dungeon). For the purposes of HAMMERCRAWL! the dice are as follows:
+
+* **Red - The Difficulty Dice:** A fluctuating pool of dice that determine the ongoing base challenge against the PCs.
+* **Green - The Reward Dice:** A pool of dice that increase as the PCs delve onward, giving them greater treasures and rewards.
+* **Purple - The Risk Dice:** A growing pool of pain and suffering dice that accompany said increase in reward.
+* **Blue - The Good Fortune Dice:** Dice that represent clever ideas and good luck in play.
+* **Black - The Bad Fortune Dice:** Dice that represent chaos working against the PCs.
+* **Yellow - The Expert Dice:** Dice that come into play when the PCs have the right tool, spell, or hireling for the job.
+
+
+### The Generators
+
+This game works best if you keep a handful of randomizers at hand at all times during play. There are a number of them linked in Appendix R of this document, but that list is by no means fully comprehensive. New tools of this sort seem to pop up every year, and as such it's a glorious time to be gaming and into RPG randomizers.
 
 
 # Specific Hammersmith Actions
@@ -32,86 +49,31 @@ Here's What you need to do when the players choose a new Explore Action:
 
 ### Build the Divining Pool
 
-Next, it's time to roll the Divining Pool! This dice pool is built using a mix of regular gaming dice plus the fancy colored dice from WFRP3. **First we build the initial Divining Pool.** This consists of two or more Warhammer funky dice, and possibly additional standard dice based on your game system of choice and any other third-party random tables you're incorporating.
+First build the Base Pool:
 
-Start with:
+* **Difficulty Dice:** The Pool starts with one Red Die, but this number may be increased by "despair" rolls (see "Determine Outcome" below). This number resets only after the party has left the dungeon and a significant amount of world time has passed.
+* **Escalating Risk and Reward Dice:** For each room they explore *beyond the first room*, add one Green Die and one Purple Die. This number resets when the camp or return to town.
 
-* **Standard Blue Die:** Always Start with one Blue WFRP3 Die.
-* **Challenge Level:** This is up to the players, chosen at the beginning of the dungeon! Add 1, 2, or 3 Purple WFRP3 dice.
+Now, add any additional dice based on a variety of situational factors:
 
-Add any of the following based on in-game actions and context:
-
-* **Did they stealthily enter the room?** Add a Green Die.
-* **Did they kick in the door and rush the room?** Add a Red Die.
-* **Did anyone actually say "Huzzah!" when entering?** Add another Red Die.
 * **Are they exploring without an active Light Source?** Add a number of Black Dice equal to one-half (rounded up) the Party size.
 * **Did they raise an alarm or otherwise fore-warn the room's occupants somehow?** Add a Black Die.
-* **Are they taking any clever precautions or plans (other than the usual trap-checking)?** Add a White Die for each "really good idea" they have.
-* **Do they have any useful tools that might affect the situation?** Add a Yellow Die if they are making active use of special gear, such as maps, potions, etc.
+* **Are they taking any clever precautions or plans (other than the usual trap-checking)?** Add a Blue Die for each "really good idea" they have.
+* **Do they have any useful tools that might affect the situation?** Add a Yellow Die if they are making active use of perfectly specialized gear or experts, such as maps, special hirelings, magical guides, and so on.
+* **Did anyone actually say "Huzzah!" when entering?** Add both one Blue and one Black die to the Pool.
 * **Other Mods:** Add more dice based on whim, nefarious plans, the "Scout Ahead" camp action results, cocky player complacency, shifting planes, stock market trends, and whatever else you feel makes sense.
 
-Finally, depending on your game system, you may add other dice as well, such as:
 
-* **d20:** To determine the Encounter Type in Dark Dungeons (pages 219-139)
-* **Any other Dice:** If you have any other random check tables, add their dice to the pool, and roll them all at once to save time.
+***With the pool assembled, Roll the Dice!***
 
 
-### Roll the Dice
+### Determine Outcome
 
-With the Divining Pool complete, it's time to roll! **I highly suggest using a dice tray for this.**
+All dice are counted in HAMMERCRAWL! - no symbols cancel any other symbols.
 
-The special symbols on the WFRP3 divining dice translate to different aspects of both the transition and the next room beyond. These pips create a pool that can be used to more or less purchase different effects to apply to the journey forward. As DM, you pick and choose which outcomes to apply, based on the feel and beat of the current flow of the game. The results are determined as follows:
+**Arrows:** (aka the "Advantage" symbol - Green, Blue, and Yellow) - For each Arrow rolled, add one to a temporary pool of expendable d20 die-roll advantages that *the PCs* can use at their discretion in the next room. Advantages must be described and feasible within the confines of the narrative. These advantages do not carry on to other rooms, and are lost as soon as the PCs move on.
 
-
-#### **Comets and Chaos Stars: Extreme Outcomes!**
-
-**Note:** Comets and Chaos Stars *do not* cancel each other out; total them both and apply their outcomes together.
-
-These represent extreme boons or dangers in the destination room/node of the dungeon. For each **Comet** rolled in the pool, add +3 Hammers to the results! For each Chaos Star, add +3 Crossblades!
-
-Take note of and possibly apply effects from applicable Comets and Chaos Stars before moving on to...
-
-
-#### **Blood Drops and Hour Glasses: Loss of Resources**
-
-**Note:** Blood Drops and Hour Glasses *do not* cancel each other out; total them both and apply their outcomes together.
-
-**Blood Drops:** INJURY! When blood drops are rolled (Red dice only), the team suffered damage or stress of some kind in their charge forward. Roll Xd4 damage (X = current dungeon level) and have the team apply it among themselves.
-
-**Hourglasses:** DELAY! When an Hourglass is rolled (Green dice only), the team suffered some form of additional delay getting to the next room. Knock off an additional 1d4 Turns of game time.
-
-Apply all effects from Blood Drops and Hourglasses before moving on to...
-
-
-#### **Falcons and Skulls: Encounters in Transit**
-
-**Note:** These cancel each other out one for one, and only the *net* total remaining are counted.
-
-Falcons give the party temporary boons, while Skulls give them setbacks. Setbacks tend to be a bit worse than boons, though, but that's just how adventuring works.
-
-Net *Falcons* represent minor boons encountered during travel to the next room. For each net Falcon, apply a boon similar to the items on the list below. These are somewhat free-form, use whatever makes sense:
-
-* The explore action did not cost them any time or light.
-* They find the hidden pack of a long lost adventurer and re-up some supplies.
-* The party receives a bonus re-roll that can be used to re-roll any single die in the next room only.
-
-Net *Skulls* represent minor setbacks incurred during travel to the next room. Similar to Falcons, apply from the list below:
-
-* Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 turns of time from their durations.
-* One of their maintained spells suddenly fails.
-* Another random encounter happened by while in transit! (Roll a single Purple Die for this new challenge, ignoring any skulls)
-* One of their rations spoils and must be discarded!
-
-Apply all effects from net Falcons or Skulls before moving on to...
-
-
-#### **Hammers and Crossblades: Encounters at the Destination**
-
-Hammers and Crossblades determine the nature of the challenges in the next room, and any additional rewards they may give. Hammers and Crossblades also set the base XP rewards the party will earn for overcoming those challenges.
-
-**Note:** Hammers and Crossblades *do not* cancel each other out; total them both and apply their outcomes together.
-
-**Hammers:** Hammers represent greater boons and windfalls discovered in the *next room* of the dungeon. For each *total* Hammer in the pool, the next room/node contains a boon such as those on the list below. Each can be selected multiple times, even combined:
+**Suns:** (aka the "Success" symbol - Green, Blue, and Yellow) - Each Sun represents a tangible benefit for the players in the next room. Example benefits:
 
 * The room contains a(n additional) random friendly encounter.
 * Change the reaction grade of an existing encounter in the room by one level toward friendly.
@@ -121,9 +83,14 @@ Hammers and Crossblades determine the nature of the challenges in the next room,
 * The room will function as a Safe Haven once cleared of encounters.
 * The room is guaranteed to have some random treasure, regardless of monsters or challenges present.
 * One of the treasures they find is guaranteed to be Magical.
-* ...or any from the Falcons list above.
 
-**Crossblades:** Crossblades represent sources of danger encountered in the *next room* of the dungeon. Similar to Hammers, options for Crossblades include:
+Additionally, each Sun increases the PCs' potential XP rewards for the encounter by 1, but *only* if there is at least one X in the pool as well.
+
+**Sun with Circles:** (aka the "Triumph" symbol - Yellow only) - Counts as a regular Sun, plus it *decreases* by 1 the number of Difficulty Dice in all subsequent Divining Pools while in this Dungeon. This *can* reduce the number of Difficulty Dice to zero for a single room, potentially earning the party a temporary reprieve of danger in the next room. However, immediately after, subsequent Difficulty pools reset to one die, unless subsequent Circle-Stars similarly reduce them again.
+
+**Targets:** (aka the "Threat" symbol - Red, Black, and Purple) - For each Target rolled, add one to a temporary pool of expendable d20 die-roll disadvantages that *the Hammersmith* can use at his discretion in the next room, applying them to the PCs stated actions. Disadvantages must be described and feasible within the confines of the narrative. These disadvantages do not carry on to other rooms, and are lost as soon as the PCs move on.
+
+**X:** (aka the "Failure" symbol - Red, Black, and Purple) - Each X represents a noteworthy threat against the PCs in the next room of the Dungeon. Example threats include:
 
 * The room contains a(n additional) random hostile encounter.
 * Change the reaction grade of an existing encounter in the room by one level toward hostile.
@@ -132,11 +99,10 @@ Hammers and Crossblades determine the nature of the challenges in the next room,
 * The room contains an environmental feature that favors or protects the Enemies.
 * The room contains a dangerous trap that may or may not be concealed.
 * One of the treasures they find is guaranteed to be Cursed.
-* ...or any from the Skulls list above.
 
-**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hammer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
+Additionally, each X increases the PCs' potential XP rewards for the encounter by 1.
 
-**Hammers, Crossblades, and XP:** Hammers and Crossblades together determine the base XP rewards the party receives after defeating the challenges in a room. Note that Hammers *only* reward XP if at least one Crossblade is also rolled. In other words, Hammers without Crossblades still provide any number of the boons listed above, but *do not* reward XP unless a Crossblade was also rolled, providing the base challenge of the new room.
+**X with Circles:** (aka the "Threat" symbol - Red only) - Counts as a regular X, plus *increases* by 1 the number of Difficulty Dice in all subsequent Divining Pools while in this Dungeon. We recommend a limit of four Difficulty dice, but hey, it's your murder fantasy, so do what you will.
 
 
 ### Back to the Role-Playing
@@ -341,3 +307,135 @@ Beyond the Donjon, here are some other good resources:
 * [Labyrinth Lord Random Dungeon Generator](http://www.apolitical.info/webgame/dungeon/index2?mode=2)
 * [An older article collecting a bunch of them together](http://inkwellideas.com/advice/random-dungeon-generators-reviewed/)
 * [Mystara / RCD&D NPC generator](https://agathokles.pythonanywhere.com/)
+
+
+# Appendix W: Using WFRP3 Dice
+
+HAMMERCRAWL! got its name from my love of the old WFRP 3rd Edition custom dice, which I wanted to keep using for other gaming purposes after that edition of the game went out of print. As the years have passed, the dice have become harder to find, and more expensive to buy. As such, I've since revised (and happily simplified!) the process to work with the similar dice from FFG's ongoing Genesys RPG, which forms the basis for a growing catalog of games using the same basic dice. The Genesys dice are more universal, easier to read, and most importantly: still in manufacture (and as such cheaper to acquire). And I think the revisions to the HAMMERCRAWL! process actually work out a whole lot smoother, too.
+
+However, I've kept the old WFRP-specific rules here in the appendix, both for each of possible future reference, and for nostalgia. The game *is* called "HAMMER"-crawl, after all!
+
+## The Dice
+
+With WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
+
+* **Blue: The Reward Die** - rolled to find new fortunes and treasure.
+* **Red: The "Huzzah!" Die** - rolled when the heroes are especially brave and/or foolhardy.
+* **Green: The Caution Die** - rolled to reward careful strategy and conversation.
+* **White: The Luck Die** - added to the pool for good ideas and plans.
+* **Black: The Dark Die** - added when the players' own actions turn against them.
+* **Yellow: The Die of Expertise** - representing solid applied skill and craft.
+* **Purple: The Die of Challenge** - Purple dice can bring great danger and peril, but amplify XP!
+
+Don't have dice of your own? [Use the Broken Tome generator](http://brokentome.com/tools/DiceRoller.aspx)! There are a number of other apps available as well:
+
+* Android: [WFRP Dice](https://play.google.com/store/apps/details?id=net.WFRPDice&hl=en_US)
+* PC: [WFRP 3rd Edition Dice Pool Tool Kit](https://rpggeek.com/filepage/60367/wfrp-3rd-edition-dice-pool-tool-kit)
+
+
+## Building the Pool
+
+The dice pool is built using a mix of regular gaming dice plus the fancy colored dice from WFRP3. **First we build the initial Divining Pool.** This consists of two or more Warhammer funky dice, and possibly additional standard dice based on your game system of choice and any other third-party random tables you're incorporating.
+
+Start with:
+
+* **Standard Blue Die:** Always Start with one Blue WFRP3 Die.
+* **Challenge Level:** This is up to the players, chosen at the beginning of the dungeon! Add 1, 2, or 3 Purple WFRP3 dice.
+
+Add any of the following based on in-game actions and context:
+
+* **Did they stealthily enter the room?** Add a Green Die.
+* **Did they kick in the door and rush the room?** Add a Red Die.
+* **Did anyone actually say "Huzzah!" when entering?** Add another Red Die.
+* **Are they exploring without an active Light Source?** Add a number of Black Dice equal to one-half (rounded up) the Party size.
+* **Did they raise an alarm or otherwise fore-warn the room's occupants somehow?** Add a Black Die.
+* **Are they taking any clever precautions or plans (other than the usual trap-checking)?** Add a White Die for each "really good idea" they have.
+* **Do they have any useful tools that might affect the situation?** Add a Yellow Die if they are making active use of special gear, such as maps, potions, etc.
+* **Other Mods:** Add more dice based on whim, nefarious plans, the "Scout Ahead" camp action results, cocky player complacency, shifting planes, stock market trends, and whatever else you feel makes sense.
+
+Finally, depending on your game system, you may add other dice as well, such as:
+
+* **d20:** To determine the Encounter Type in Dark Dungeons (pages 219-139)
+* **Any other Dice:** If you have any other random check tables, add their dice to the pool, and roll them all at once to save time.
+
+
+## Divining the Results
+
+With the Divining Pool complete, it's time to roll! **I highly suggest using a dice tray for this.**
+
+The special symbols on the WFRP3 divining dice translate to different aspects of both the transition and the next room beyond. These pips create a pool that can be used to more or less purchase different effects to apply to the journey forward. As DM, you pick and choose which outcomes to apply, based on the feel and beat of the current flow of the game. The results are determined as follows:
+
+#### **Comets and Chaos Stars: Extreme Outcomes!**
+
+**Note:** Comets and Chaos Stars *do not* cancel each other out; total them both and apply their outcomes together.
+
+These represent extreme boons or dangers in the destination room/node of the dungeon. For each **Comet** rolled in the pool, add +3 Hammers to the results! For each Chaos Star, add +3 Crossblades!
+
+Take note of and possibly apply effects from applicable Comets and Chaos Stars before moving on to...
+
+
+#### **Blood Drops and Hour Glasses: Loss of Resources**
+
+**Note:** Blood Drops and Hour Glasses *do not* cancel each other out; total them both and apply their outcomes together.
+
+**Blood Drops:** INJURY! When blood drops are rolled (Red dice only), the team suffered damage or stress of some kind in their charge forward. Roll Xd4 damage (X = current dungeon level) and have the team apply it among themselves.
+
+**Hourglasses:** DELAY! When an Hourglass is rolled (Green dice only), the team suffered some form of additional delay getting to the next room. Knock off an additional 1d4 Turns of game time.
+
+Apply all effects from Blood Drops and Hourglasses before moving on to...
+
+
+#### **Falcons and Skulls: Encounters in Transit**
+
+**Note:** These cancel each other out one for one, and only the *net* total remaining are counted.
+
+Falcons give the party temporary boons, while Skulls give them setbacks. Setbacks tend to be a bit worse than boons, though, but that's just how adventuring works.
+
+Net *Falcons* represent minor boons encountered during travel to the next room. For each net Falcon, apply a boon similar to the items on the list below. These are somewhat free-form, use whatever makes sense:
+
+* The explore action did not cost them any time or light.
+* They find the hidden pack of a long lost adventurer and re-up some supplies.
+* The party receives a bonus re-roll that can be used to re-roll any single die in the next room only.
+
+Net *Skulls* represent minor setbacks incurred during travel to the next room. Similar to Falcons, apply from the list below:
+
+* Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 turns of time from their durations.
+* One of their maintained spells suddenly fails.
+* Another random encounter happened by while in transit! (Roll a single Purple Die for this new challenge, ignoring any skulls)
+* One of their rations spoils and must be discarded!
+
+Apply all effects from net Falcons or Skulls before moving on to...
+
+
+#### **Hammers and Crossblades: Encounters at the Destination**
+
+Hammers and Crossblades determine the nature of the challenges in the next room, and any additional rewards they may give. Hammers and Crossblades also set the base XP rewards the party will earn for overcoming those challenges.
+
+**Note:** Hammers and Crossblades *do not* cancel each other out; total them both and apply their outcomes together.
+
+**Hammers:** Hammers represent greater boons and windfalls discovered in the *next room* of the dungeon. For each *total* Hammer in the pool, the next room/node contains a boon such as those on the list below. Each can be selected multiple times, even combined:
+
+* The room contains a(n additional) random friendly encounter.
+* Change the reaction grade of an existing encounter in the room by one level toward friendly.
+* Decrease the difficulty (or dungeon level) of one planned or random encounter by 1.
+* The party catches the room's encounter(s) by surprise.
+* The room contains an environmental feature that favors or protects the Party.
+* The room will function as a Safe Haven once cleared of encounters.
+* The room is guaranteed to have some random treasure, regardless of monsters or challenges present.
+* One of the treasures they find is guaranteed to be Magical.
+* ...or any from the Falcons list above.
+
+**Crossblades:** Crossblades represent sources of danger encountered in the *next room* of the dungeon. Similar to Hammers, options for Crossblades include:
+
+* The room contains a(n additional) random hostile encounter.
+* Change the reaction grade of an existing encounter in the room by one level toward hostile.
+* Increase the difficulty (or dungeon level) of one planned or random encounter by 1.
+* The occupants of the room catch the party by surprise.
+* The room contains an environmental feature that favors or protects the Enemies.
+* The room contains a dangerous trap that may or may not be concealed.
+* One of the treasures they find is guaranteed to be Cursed.
+* ...or any from the Skulls list above.
+
+**Hammer-Plus:** (Yellow die only) Some yellow results show a hammer with a plus. That means to first count the Hammer toward the total, and then add *another* yellow die and immediately roll it, adding its results to the pool as well.
+
+**Hammers, Crossblades, and XP:** Hammers and Crossblades together determine the base XP rewards the party receives after defeating the challenges in a room. Note that Hammers *only* reward XP if at least one Crossblade is also rolled. In other words, Hammers without Crossblades still provide any number of the boons listed above, but *do not* reward XP unless a Crossblade was also rolled, providing the base challenge of the new room.
