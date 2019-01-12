@@ -9,23 +9,23 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 
 ## The Main Files
 
-* **[The HAMMERCRAWL! Core Game System](./hc_complete_rules.md):** This is the new core game, fully compatible with other classic-inspired games currently popular with certain groups, and completely free. It is very much a work in progress, but all the basics are there to be played with.
-	- This process works best with my own associated **[Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen)**, also on GitHub
-	- And check out **[the Extended "House Rules" document](./hc_complete_extended.md)** for more ways to customize the game (note: this document is constantly changing and incomplete)
-* **[The HAMMERCRAWL! World Bible](./hc_world_bible.md):** This is a reference for the ever-growing official game world of HAMMERCRAWL! and its related podcast should you choose to follow along.
-* The HAMMERCRAWL! "Classic" Process: If you have a game already and just want the meta-process, follow these links instead of the core rules:
-	- [DM's Guide](./hc_core_dm.md)
-	- [Players' Guide](./hc_core_player.md)
-* Additional Subsystem Documents:
-	- [BECMI / Dark Dungeons](./hc_becmi.md)
-	- [Dungeon Crawl Classics](./hc_dcc.md)
-	- [Labyrinth Lord](./hc_lablord.md)
-	- [The Nightmares Underneath](./hc_tnu.md)
+*  This is the new core game, fully compatible with other classic-inspired games currently popular with certain groups, and completely free. It is very much a work in progress, but all the basics are there to be played with.
+
+* **[Player's Guide](./hc_core_player.md):** Everything you need to play the game
+* **[Smith's Guide](./hc_core_smith.md):** Everything you need to run the game
+* **[Son of Crawler](./hc_son_of_crawler.md):** Extended house rules, optional classes, and more
+
+Note: This process works best with my own associated **[Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen)**, also on GitHub
+
+Also be sure and look at **[The HAMMERCRAWL! World Bible](./hc_world_bible.md)**. This is a reference for the ever-growing official game world of HAMMERCRAWL! and its related podcast should you choose to follow along.
+
+
+### HAMMERCRAWL! "Classic"
+
+The process initially started as a loose procedure for running just about *any* old school system on the fly. While I have not updated those older documents since starting the grand collected system revision, I have kept them in this archive, moved to the "classic" subfolder.
 
 
 ## The Generators
-
-**Note:** Any generator tools deemed to be system-specific are being moved into relevant sub docs.
 
 These are the Generators that I use most often, so am linking them here for quick access:
 
