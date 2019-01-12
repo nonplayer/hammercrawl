@@ -834,14 +834,13 @@ Then, each player gets to pick one additional Camp Action to perform now:
 * **Stand Watch:** Add a Blue Die to the next room explored, and -1 to Smith's camp encounter roll (below).
 * **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add that many Black dice instead.
 
-Finally, **The Hammersmith Rolls 1d6:**
-
-* Subtract 1 for each party member Standing Watch
-* Add the current Dungeon Level
+Next, **The Hammersmith Checks for Camp Encounters:** Roll 1d6, -1 for each person on watch, and + the current Dungeon Level.
 
 If total is 6+, an encounter happens while the party is camping! Roll as usual to generate a standard encounter, using the Divining Pool as if an Explore action had occurred. Apply any bonus color dice from camp actions to this roll. If none of the PCs chose to Stand Watch, then they are also surprised!
 
 If an encounter occurs during camp, the Time and Rations are still spent, and all other chosen Camp Actions still occur. Resolve them before beginning the encounter's initiative checks.
+
+**Finally, reset the Risk and Reward Dice totals.** After camping, all accrued Risk and Reward dice are pulled from the Pool, their count resetting to Zero for the next Explore action.
 
 
 ### Party Action: Explore
@@ -863,7 +862,7 @@ When the heroes finally return to town (which likely involves first backtracking
 4. Each player can choose to spend any amount of their loot to acquire better goods at the DM's allowance. This could take time, though, so you might want to skip it in Con and One-Shot games.
 5. If anyone has enough XP to level up, they follow the Leveling Up process.
 6. Role-play any town encounters or experiences you wish.
-7. Return to the Dungeons!
+7. Return to the Dungeons! Note that Risk and Reward pools reset to zero!
 
 
 ## Reactions (ref)
