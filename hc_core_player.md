@@ -81,6 +81,7 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **Race as Class:** Races are implemented as entirely separate character classes.
 * **Skills:** In addition to expectations based on class abilities and career backgrounds, every character gets 4 random skills they are somehow good at as well.
 * **Feats:** There are no "Feats" in this game, at least as codified by other derivatives of The OG.
+* **No Natural Darkvision:** No characters begin the game with natural low-light or darkvision. The management of light sources is a crucial part of play for every character in the party.
 * **Armor Class:** Base 10, Ascending.
 * **Combat Initiative:** Side-based, then ordered by a five-step flow based on type of action (Move, Missile, Melee, Misc, Magic)
 * **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
