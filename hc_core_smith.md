@@ -119,89 +119,124 @@ For a Master List of links to various third-party Randomizers, see Appendix R, a
 
 ## Random Dungeons
 
-To generate Dungeon rooms, I initially used a set of Dungeonmorph dice and their matching blue-and-white cards (the latter kept into handy dry-erase sleeves). They even come with little symbols and a handy key to them, for adding more spontaneous dungeon features on the fly.
+When building a new dungeon for an adventure, I tend to follow one of two methods: The Cards Method, and The Donjon Method. I've detailed both below.
 
-Since starting this project, I've streamlined my process to use only the cards, saving the dungeon dice for more extreme one-off cases. The basic process involves going from room to room, encountering obstacles, grabbing treasure, and moving ever onward. When it's time to move to a new room, I grab one of the the dungeon cards and lay it out as the next room. The pieces are all laid out on the table, and the dungeon grows dynamically as the players explore it.
-
-Conversely, the Donjon website (See Appendix R) has an extremely detailed set of random dungeon generators. Using them to pre-build your dungeon can save a lot of time at the table for playing. You can do the same with the dice and cards, too.
-
-There are two basic approaches to Dungeon Generation. You can certainly do so on the fly. That can add some slow-down to a live play session, however, so I've provided tips on building it in advance, as well. While this does partially-defeat the whole "100% random" approach to play that is encouraged by this gaming method, I admit that the dungeon can be the trickiest thing to build on the fly, and the most time-consuming. To save on time, pre-designing a dungeon is pretty simple using the random dungeon generators at the Donjon. Hell, it can even pre-plan encounters, saving you the need to roll for the enemy types in your divining pool!
+Note that these dungeon creation method by default assume the classic "X number of levels, a boss on each level, and a final boss at the end" format. Your methods and needs may vary.
 
 
-### Building Dungeons in Advance
+### The Cards Method
 
-If you have a set of Dungeonmorph cards, you can instead use my personal method for pre-game dungeon generation. This saves time in play if you have it in advance, and creates some pretty interesting setups.
+**Required Materials:**
 
-Tools required are:
+* **REQ:** Appropriate randomizer dungeon tile cards or dice (see Appendix R for a few suggestions)
+* **REQ:** A standard set of RPG gaming dice
+* **OPT:** Plastic card sleeves
+* **OPT:** Dry Erase markers
 
-* A shuffled stack of Dungeonmorph tiles. I have 90 of them, in dry-erase sleeves, with the tops trimmed off to make placement easier.
-* Dice: you need a d3, d4, d6, and d8. Last two really only for occasional exit checks. These could also be simplified to a d6 and d8 as well.
-* Dry erase markers: Black, Green, and Red
+This method can be used either in advance of the game, or even on the fly while you play. It helps to have an area to lay all of your cards out, with some space so that you can draw connections between them.
 
-With those prepared, then determine the number of "nodes" (tiles) for the current dungeon level: Level + 5 + 3d4.
+**Pros:**
 
-For the entrance, pull the top card and set it out. Roll 1d8 to determine which of the eight exists is the entrance to the dungeon. Mark the entrance with a Green Dot.
+* Specialty cards and dice are cool as heck, and fun to use
+* Can easily be done in advance, or on the fly.
+* Works alongside the Divining Pool mechanic, allowing immediate dungeon generation as a result of Exploration
+* Somewhat easier to tweak on the fly
 
-Then roll 1d3 to determine which of the remaining sides of the currently-placed tile to add the next tile to.
+**Cons:**
 
-Draw the next dungeon tile and add it to the side determined. Roll 1d4 to determine which side of the new tile connects. Rotate accordingly and lay it down so the new side connects to the the prior card.
-
-Then roll 1d3 to determine which exits on that side connect through to the previous card: 1 = left, 2 = right, 3 = both. Use a black marker to mark out blocked ways, if applicable.
-
-Repeat process, building out the dungeon to the pre-rolled number of rooms. Sometimes sides will be pre-filled as the dungeon rolls back into itself. In those cases, adjust the base 1d3 to different die sizes to fit accordingly.
-
-Whenever a new tile connects to a previously-laid one _other than_ the most recent, roll 1d4 to determine if any of that previous tile's exits on that side connect to the new tile: 1 = left, 2 = right, 3 = both, 4 = none! use a black marker to mark through blocked passages, if any.
-
-If a tile is placed in a fashion that leaves it with no available spaces to add the next tile, place the next tile in the next best available side of the previous tile, and so on.
-
-The last tile placed has the exit to the next level. Randomly roll which exit gets this distinction, and then mark the exit with a Red Dot
-
-When finished, use a black marker to fill in the "dead exits" on the tiles as makes the most sense for the dungeon you have built.
-
-Once you have the flow mastered, this process takes no more than 5-10 minutes per dungeon level. Since even a single level can play host to a multitude of game sessions, you most likely only really need one or two, tops. With 90 available tiles, the scenery remains fresh for many sessions of adventuring.
+* This method isn't meant to generate "mega" dungeons. If those are your thing, try the Donjon method instead
+* Generating on the fly can take a bit of time until you master the process
 
 
-#### (Optional) Setting Lair Nodes
+#### Dungeon Setup
 
-A "Lair Node" is a tile where a guaranteed Lair Fight will occur. These will have larger encounter numbers, and most likely pose great challenges to the players. Choosing their locations in advance can give you a bit more freedom and strategy mid-session when guiding the game proper.
+Determine the following components:
 
-Each level of the Dungeon should have a number of Lair Nodes equal to the level of the dungeon + 1d4. The easiest way to place them is to just look at the dungeon you have created, and place them in the mist interesting-looking, lair-like tiles. Otherwise, divide the number of tiles by the number of lairs, and then roughly space them out every X tiles. Placing a lair on the exit tile is usually a fun setup!
+* **# of Dungeon Levels:** Roll 2d4 -1
+* **# of Rooms per Level:** Roll 2d4 +1
 
-Do not pre-populate the denizens of these Lair Nodes! Instead, let the random encounter generate them for you when discovered by the players.
+When done, multiply them together to determine how many total rooms are in the entire dungeon. To make sure all involved are on the same page, we advise just letting the PCs know all three of these numbers before they go in.
 
+You will also need to establish the Dungeon Level Tier of the first level of the Dungeon (see the "Tiers" section in the Player Guide). This is based on the Hit Dice of the "boss" of the first dungeon level. This is primarily used to assist you in generating suitable dangers and encounters for the first level of the dungeon.
 
-### Building Dungeons on the Fly
-
-If you're feeling creative and you have the tools on hand, you can build out the dungeon live at the table, as the party chooses the Explore action. For years I would use a combination of matching cards and dice from Dungeonmorph, but recently I've streamlined my method to use only the cards. You can use whatever method you prefer, but I've made notes on two options below.
-
-
-#### The Dungeonmorph Dice Method
-
-If you truly want a simple one shot, run-and-go, never-to-return method, use this one. There are 15 Dungeonmorph dice available for this task, each one a different theme of location.
-
-To use this method, put them all into a bag, and pull one out at random. This one is the starting Node of the dungeon. Randomly determine which of the eight entrances is the actual dungeon entrance, and note it down.
-
-Then, roll ALL the remaining dice at once, *except for one* - that's right, leave one in the bag. Take all the rolled dice and just assemble them willy-nilly like a wild-person, pushing them up against each other until you have one crazy-looking dungeon. Make sure the entrance die is on the outside.
-
-Finally, roll that last die, add it somewhere interesting, and note it as the Exit to the next level. You now have yourself a completely randomized dungeon made of awesome dice, complete with entrance and the exit down to the next level. Go forth and plunder!
+It's usually a good idea to predetermine the end objective of this dungeon. You can use various randomizers to determine this, or instead have the players decide (it can often more fun that way). This final objective usually involves some nature of "Final Boss" at the bottom of the dungeon.
 
 
-#### The Dungeonmorph Cards Method
+#### The First Room
 
-Using just the tiles, you want to build a shuffled stack first of as many as you have, preferably in dry-erase sleeves. Draw one, and that's the first node of the dungeon. Roll 1d8 to determine the entrance, and close off the second entrance on that side. Then roll 1d6 to determine how many of the entrances on the other three sides also lead off somewhere. Use a marker to "seal" the rest off.
+* **Determine first room and exits**
+* **Do NOT check for Stairs or Bosses**
 
-When the party Explores to a new area, draw another tile. Roll 1d4 to determine which of the new tile's sides connect, then place it down. Roll 1d6 again to determine how many of the other three sides' exits lead off to new places, and again use a marker to seal the rest off.
+Draw a card / roll a die. Take note of possible exits, make sure they comply with the room total for the level, and adjust accordingly if they don't.
 
-For each room visited after the starting room, there is a *cumulative* 1 in 20 chance that one of the exits of the room leads down to the next dungeon level. For the sake of at least *some* kind of consistency in all this insanity, I recommend only having one such lead-down per level. However, if you prefer truly organic creation and are down with more, just reset this count each time one is discovered.
 
-If you somehow happen to "close off" the dungeon using the above methods, without rolling a level exit, either A) add a level exit organically to the last-placed node tile, or B) just accept it as a single-level dungeon and call it good. Not every dungeon needs to be a multi-level descent into the depths of Demon Heck!
+#### Subsequent Rooms
+
+* **Add rooms and exits**
+* **Roll d12 for Stairs down**
+* **Roll d20 for Level Boss**
+
+Draw/roll the next room, and place it down next to the previous one on your working map. Once again make note of exits leading deeper into the dungeon.
+
+Additionally, for each room *beyond* the very first room of each dungeon level, roll a D12 and a d20, the results of which determine the locations of **Stairs Down** and **Level Bosses**. We don't recommend placing either of these in the first room of a dungeon level, but really, it's your choice.
+
+**Stairs Down:** You'll need to check to see if the room contains passage down to the next level - we call these "Stairs Down" in this text, but the transit can take any appropriate form you desire. Check the results of the d12 you rolled: if the number is *lower than* the number of rooms already explored on that level, then one of its exits leads down a level. If you make it to the last room of the level without rolling any Stairs Down, then that last room automatically has one. It's up to you (or your randomizers!) if a level can contain multiple Stairs Down, or if any of them are hidden behind secret doors.
+
+**Level Boss:** Additionally, every dungeon level has a Boss, whose HD sets the "Tier" of the current dungeon level (see "Tiers" in the Player Guide). Check the results of the d20 you rolled: if the number is *lower than* the number of rooms already explored on that level, it contains a Boss-class enemy, whose strength is likely to be somewhat higher than that of the PCs. There should probably be only one boss per level, unless you're feeling particularly sadistic.
+
+As for the nature of the boss itself, you already set the first level Boss's HD in the dungeon setup, so use your randomizers or encounter lists to choose an appropriate enemy with that strength.
+
+
+#### Subsequent Levels
+
+* **Add rooms and exits**
+* **Roll d12 for Stairs down**
+* **Roll d20 for Level Bosses**
+
+Continue to build out the dungeon as above, with each level starting its own count for stairs and boss checks.
+
+
+#### The Final Level
+
+* **Add rooms and exits**
+* **Roll d20 for Final Boss**
+
+On the last level of the dungeon, you no longer need to roll for Stairs Down. Additionally, the roll for the Boss determines the location of the **Final Boss** of the dungeon. This is usually the main objective of the entire adventure, and defeating it will usually be enough to "complete" the dungeon.
+
+It's up to you if the final Dungeon Boss is _also_ the boss of its own dungeon level. While it usually makes sense that way, it can be fun to also have a separate powerful level boss as the main henchman of the Dungeon Boss.
+
+
+### The Donjon Method
+
+**Required Materials:**
+
+* A computer with an internet connection
+* The Donjon website (see Appendix R)
+
+**Pros:**
+
+* Everything you probably need and more at the click of a button
+* Dungeons can be saved offline for later reference
+* A truly staggering amount of customization and detail
+
+**Cons:**
+
+* Requires internet connection to actively use at the table
+* Small number of systems supported, with some feature imparity across those systems
+* Lining up stairs down on multiple levels can be tricky
+* Changing the format of a subsequent level requires a whole new seed
+* Generated encounters can be excessively powerful
+
+The Donjon website has an extremely detailed set of random dungeon generators. Using them to pre-build your dungeon can save a lot of time at the table for playing. The dungeon generator is *extremely* powerful and customizable, so much so that I can't possibly give it a a proper description in this text. In short, it allows you to create dungeons of all shapes, sizes, contents, and themes, in the click of a single button. And for some systems it can even generate encounters.
+
+For games using the core HAMMERCRAWL! game mechanics, you may likely find the "AD&D" dungeon generator on the Donjon to be the most compatible. I have been working on porting BECMI- and B/X-compatible data to it as well, but it's a long time out.
 
 
 ### Converting Pre-Made Maps
 
 People like Dyson Logos, Miska Friedman, and Karl Stjernberg (links?) pop out dungeon material at lightning speeds, making them prime sources of dungeon inspiration. If you don't want to make a dungeon on the fly, but don't have time to map out and populate your own from the ground up, here's how to convert an existing one for use as the map for an otherwise randomly-generated HAMMERCRAWL! game.
 
-If the dungeon is already populated, then you're in luck! Use that as the basis for the adventure, and then let the Divining Dice change things on the fly by increasing or decreasing encounters. Pre-populated dungeons are pretty easy to work with, as they give you the basic expectation of what's in there from the beginning, so you already have a stock of options to take inspiration from. You can either use the rooms as-is, or alter them to your liking to fit the party and their level. If you change things up, be sure to set proper Lair Nodes (see above) for periodic increases in challenge.
+If the dungeon is already populated, then you're in luck! Use that as the basis for the adventure, and then let the Divining Dice change things on the fly by increasing or decreasing encounters. Pre-populated dungeons are pretty easy to work with, as they give you the basic expectation of what's in there from the beginning, so you already have a stock of options to take inspiration from. You can either use the rooms as-is, or alter them to your liking to fit the party and their level. If you change things up, be sure to set proper Level Boss locations for periodic increases in challenge.
 
 If the dungeon is not already populated, you'll need to put together an encounter table for it first (see below). And you'll want to determine the Lair Nodes here, as well.
 
@@ -274,6 +309,82 @@ Ignore any noted HD asterisks when calculating Tiers on Monsters and Dungeon Lev
 TBD
 
 
+# Appendix D: Dungeon Generation Archive
+
+I've revamped the dungeon generation process from an older set of rules. Instead of ditching those rules entirely, I've preserved them here in an Appendix. You may still find them useful to your method.
+
+
+### Building Dungeons in Advance
+
+If you have a set of Dungeonmorph cards, you can instead use my personal method for pre-game dungeon generation. This saves time in play if you have it in advance, and creates some pretty interesting setups.
+
+Tools required are:
+
+* A shuffled stack of Dungeonmorph tiles. I have 90 of them, in dry-erase sleeves, with the tops trimmed off to make placement easier.
+* Dice: you need a d3, d4, d6, and d8. Last two really only for occasional exit checks. These could also be simplified to a d6 and d8 as well.
+* Dry erase markers: Black, Green, and Red
+
+With those prepared, then determine the number of "nodes" (tiles) for the current dungeon level: Level + 5 + 3d4.
+
+For the entrance, pull the top card and set it out. Roll 1d8 to determine which of the eight exists is the entrance to the dungeon. Mark the entrance with a Green Dot.
+
+Then roll 1d3 to determine which of the remaining sides of the currently-placed tile to add the next tile to.
+
+Draw the next dungeon tile and add it to the side determined. Roll 1d4 to determine which side of the new tile connects. Rotate accordingly and lay it down so the new side connects to the the prior card.
+
+Then roll 1d3 to determine which exits on that side connect through to the previous card: 1 = left, 2 = right, 3 = both. Use a black marker to mark out blocked ways, if applicable.
+
+Repeat process, building out the dungeon to the pre-rolled number of rooms. Sometimes sides will be pre-filled as the dungeon rolls back into itself. In those cases, adjust the base 1d3 to different die sizes to fit accordingly.
+
+Whenever a new tile connects to a previously-laid one _other than_ the most recent, roll 1d4 to determine if any of that previous tile's exits on that side connect to the new tile: 1 = left, 2 = right, 3 = both, 4 = none! use a black marker to mark through blocked passages, if any.
+
+If a tile is placed in a fashion that leaves it with no available spaces to add the next tile, place the next tile in the next best available side of the previous tile, and so on.
+
+The last tile placed has the exit to the next level. Randomly roll which exit gets this distinction, and then mark the exit with a Red Dot
+
+When finished, use a black marker to fill in the "dead exits" on the tiles as makes the most sense for the dungeon you have built.
+
+Once you have the flow mastered, this process takes no more than 5-10 minutes per dungeon level. Since even a single level can play host to a multitude of game sessions, you most likely only really need one or two, tops. With 90 available tiles, the scenery remains fresh for many sessions of adventuring.
+
+
+#### (Optional) Setting Lair Nodes
+
+A "Lair Node" is a tile where a guaranteed Lair Fight will occur. These will have larger encounter numbers, and most likely pose great challenges to the players. Choosing their locations in advance can give you a bit more freedom and strategy mid-session when guiding the game proper.
+
+Each level of the Dungeon should have a number of Lair Nodes equal to the level of the dungeon + 1d4. The easiest way to place them is to just look at the dungeon you have created, and place them in the mist interesting-looking, lair-like tiles. Otherwise, divide the number of tiles by the number of lairs, and then roughly space them out every X tiles. Placing a lair on the exit tile is usually a fun setup!
+
+Do not pre-populate the denizens of these Lair Nodes! Instead, let the random encounter generate them for you when discovered by the players.
+
+
+### Building Dungeons on the Fly
+
+If you're feeling creative and you have the tools on hand, you can build out the dungeon live at the table, as the party chooses the Explore action. For years I would use a combination of matching cards and dice from Dungeonmorph, but recently I've streamlined my method to use only the cards. You can use whatever method you prefer, but I've made notes on two options below.
+
+
+#### The Dungeonmorph Dice Method
+
+If you truly want a simple one shot, run-and-go, never-to-return method, use this one. There are 15 Dungeonmorph dice available for this task, each one a different theme of location.
+
+To use this method, put them all into a bag, and pull one out at random. This one is the starting Node of the dungeon. Randomly determine which of the eight entrances is the actual dungeon entrance, and note it down.
+
+Then, roll ALL the remaining dice at once, *except for one* - that's right, leave one in the bag. Take all the rolled dice and just assemble them willy-nilly like a wild-person, pushing them up against each other until you have one crazy-looking dungeon. Make sure the entrance die is on the outside.
+
+Finally, roll that last die, add it somewhere interesting, and note it as the Exit to the next level. You now have yourself a completely randomized dungeon made of awesome dice, complete with entrance and the exit down to the next level. Go forth and plunder!
+
+
+#### The Dungeonmorph Cards Method
+
+Using just the tiles, you want to build a shuffled stack first of as many as you have, preferably in dry-erase sleeves. Draw one, and that's the first node of the dungeon. Roll 1d8 to determine the entrance, and close off the second entrance on that side. Then roll 1d6 to determine how many of the entrances on the other three sides also lead off somewhere. Use a marker to "seal" the rest off.
+
+When the party Explores to a new area, draw another tile. Roll 1d4 to determine which of the new tile's sides connect, then place it down. Roll 1d6 again to determine how many of the other three sides' exits lead off to new places, and again use a marker to seal the rest off.
+
+For each room visited after the starting room, there is a *cumulative* 1 in 20 chance that one of the exits of the room leads down to the next dungeon level. For the sake of at least *some* kind of consistency in all this insanity, I recommend only having one such lead-down per level. However, if you prefer truly organic creation and are down with more, just reset this count each time one is discovered.
+
+If you somehow happen to "close off" the dungeon using the above methods, without rolling a level exit, either A) add a level exit organically to the last-placed node tile, or B) just accept it as a single-level dungeon and call it good. Not every dungeon needs to be a multi-level descent into the depths of Demon Heck!
+
+
+
+
 # Appendix R: Master List of Randomizers
 
 Here are all of the randomizers that I have found to be most excellent for running HAMMERCRAWL! live and with minimal preparation.
@@ -282,6 +393,15 @@ First and foremost, **nothing beats [The Donjon](http://donjon.bin.sh/)** for it
 
 Beyond the Donjon, here are some other good resources:
 
+### Physical Randomizers
+
+All of the items in this list use tangible, physical components.
+
+* [DungeonMorph Cards and Dice](http://dungeonmorphs.com/)
+* [The GameMaster's Apprentice Cards, Fantasy Deck](https://www.drivethrucards.com/product/213131/The-GameMasters-Apprentice-Fantasy-Deck)
+* [Eric Bright's Encounter Building Cards](https://www.drivethrurpg.com/product/188924/Encounter-Building-Cards-Locations)
+* [Undercity's Dungeon Cartography Cards](https://www.drivethrurpg.com/product/104422/Dungeon-Cartography-Cards-Set-One-Dungeons)
+* [Fatbelly's Monster Mod Cards](https://www.drivethrurpg.com/product/175652/Monster-Mod-Cards)
 
 ### Mobile Apps
 
@@ -289,12 +409,10 @@ Beyond the Donjon, here are some other good resources:
 * [Crawler's Companion](https://purplesorcerer.com/crawler.php)
 * *Dungen* - A sadly no-more Random Dungeon Generator app on the Windows Store =(
 
-
 ### Programs
 
 * *BECMI Utilities* - An older Windows program that is impossible to find now, sadly. Included encounters, treasure, and a character generator too.
 * [NPC's Old School Character Generator](https://github.com/nonplayer/OldSchoolCharGen)
-
 
 ### Websites
 
