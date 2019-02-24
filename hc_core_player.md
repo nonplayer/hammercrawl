@@ -540,6 +540,29 @@ Hopefully the rest of your group has been making your characters alongside one a
 Take a moment to think about the kind of person your character is. Think about their goals, their ambitions, their reasons for doing the things they do. And while you're at it, take a long hard moment to ponder exactly what kind of person they have to be in order to willingly leave everything behind and delve into terrifying and disgusting dungeons.
 
 
+
+# CHAPTER: Equipping Your Character
+
+
+## Randomized Starting Equipment
+
+
+## Extended Equipment Details
+
+
+### Weapons
+
+
+### Armor
+
+
+### Gear
+
+
+### Special
+
+
+
 # CHAPTER: Playing Your Character
 
 As a reference for Play, this section is sorted alphabetically by subject.
