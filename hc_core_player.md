@@ -558,7 +558,15 @@ The following sub-sections contain collections of extended descriptions of speci
 
 ### Weapons
 
+**Blackjack:** Blackjacks can be used as regular melee weapons (doing regular damage), or instead as melee Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
+
+**Blowgun:** Bolas are missile weapons which do no damage, instead serving as ranged Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
+
+**Bola:** Bolas are thrown weapons which do no damage, instead serving as ranged Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
+
 **Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield AC bonuses). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
+
+**Whip:** Whips are melee weapons which do no damage, instead serving as melee Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
 
 
 ### Armour & Shields
@@ -1246,7 +1254,9 @@ The **Tactical Attack** is a special melee action available to all characters. C
 
 These attacks never do damage, but can instead set up temporary advantages and disadvantages. Any character can attempt a tactical attack, although Thieves and Halflings have advantages to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
 
-The target must make the relevant Save. If failed, the Hammersmith chooses one of the following based on the description and the beat of the moment:
+The target must make the relevant Save. If the attacker was using a special **Tactical Weapon** (such as a bola, whip, blowgun, etc), they make this save with a disadvantage.
+
+If failed, the Hammersmith chooses one of the following based on the description and the beat of the moment:
 
 * The target suffers a disadvantage on their next action
 * The next action against the target gains an advantage
