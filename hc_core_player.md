@@ -568,7 +568,7 @@ TBD
 
 ### Gear
 
-TBD
+**Acid Flask:** When used as a grenade, deals 2d6 initial acid damage to a single target, and 1d6 acid splash damage to all targets within 5 feet of the impact. The initial target takes an additional 1d6 acid damage each round for 1d6 additional rounds.
 
 
 ### Special
