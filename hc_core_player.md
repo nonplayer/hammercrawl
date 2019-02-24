@@ -558,12 +558,34 @@ The following sub-sections contain collections of extended descriptions of speci
 
 ### Weapons
 
-TBD
+**Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield AC bonuses). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
 
 
-### Armor
+### Armour & Shields
 
-TBD
+**Armour Bonuses"**
+
+| Armor        | Type  | Bonus |
+|--------------|-------|-------|
+| Padded       | Light | 1     |
+| Leather      | Light | 2     |
+| Studded      | Light | 3     |
+| Scale        | Heavy | 4     |
+| Chain        | Heavy | 5     |
+| Splint       | Heavy | 6     |
+| Platemail    | Heavy | 7     |
+| Plate Armour | Plate | 8     |
+
+**Shield Bonuses:**
+
+| Shield Type    | Bonus |
+|----------------|-------|
+| Shield         | 1     |
+| Shield, Weapon | 1*    |
+| Tower Shield   | 2     |
+
+**Shield Weapons:** Shield Weapons can be used as either Shields or hand weapons. If used defensively, they provide standard shield bonuses (+1 to AC). If used offensively, they instead function as their attachedd weapons.
+
 
 
 ### Gear
