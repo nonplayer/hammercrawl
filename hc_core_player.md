@@ -543,23 +543,37 @@ Take a moment to think about the kind of person your character is. Think about t
 
 # CHAPTER: Equipping Your Character
 
+TBD
+
 
 ## Randomized Starting Equipment
+
+TBD
 
 
 ## Extended Equipment Details
 
+The following sub-sections contain collections of extended descriptions of specific items, organized in sections that should be familiar to players of the classic game systems. The alphabetically-sorted contents of each sub-section are by no means exhaustive, instead meant to focus primarily on items which require specific additional description beyond the obvious.
+
 
 ### Weapons
+
+TBD
 
 
 ### Armor
 
+TBD
+
 
 ### Gear
 
+TBD
+
 
 ### Special
+
+TBD
 
 
 
