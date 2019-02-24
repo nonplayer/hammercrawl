@@ -1198,6 +1198,13 @@ The target must make the relevant Save. If failed, the Hammersmith chooses one o
 Tactical Actions are great for setting an opportunity for a Thief's Stabbity attack.
 
 
+### Two-Weapon Fighting
+
+In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - this is entirely a matter of narrative description, and players are encouraged to go wild with their imaginations here. Elf Exemplars are the only characters that receive *specific* mechanical bonuses for attempting to do fight in that style.
+
+Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to tactically employ two-weapon attacks on the regular are encouraged to instead consider incorporate them as description for Tactical Actions (see above).
+
+
 
 # CHAPTER: Magic and Spellcasting
 
