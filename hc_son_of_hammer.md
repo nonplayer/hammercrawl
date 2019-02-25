@@ -73,7 +73,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
   - **Bad:** Mind, Body
 * **Gear Restrictions:** ???
 * **Bonus Languages:** Goblin
-* **Bonus Equipment:** A long hooded cloak.
+* **Bonus Equipment:** A long hooded cloak, three Goblin Sticks, one Goblin Bag.
 
 **SPECIAL Creation Notes:** A Goblin Acrobat Trio is actually *three* (3) goblins that work together as a team. This creates a whole new range of role-playing possibilities, and also requires a bit of modification to the character creation and management process.
 
@@ -82,22 +82,40 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 * **Hit Dice, Hit Points, and Death:** The Trio's base HD is a d4, and their combined Hit Points are modified by the final derived CON mod. This total applies whether they are together or separated, and covers the entire Trio at once.
 * **Combat Actions:** On their Combat turn, the Trio gets only a single action
 
+**Goblin Sticks:** A Goblin Stick looks like a simple, frail, 1-foot-long stick, carved with runes. Only goblins have the ability to give them a good shake and extend them to their full shillelagh-like size and length. At full length, they are worthwhile one-handed clubs that jingle when they shake, and leave glittering dust when they impact.
+
+* **Goblin Bag:** The Goblin Bag is a special item full of reagents and other weird components for use in special goblin "magic" spells. Goblins constantly connect weird things to add to their bags, otherwise considered worthless by all other intelligent creatures. Without a goblin bag, many goblin spells cannot be used.
+
 **Small But Also Tall:** A Trio that takes up the same space can stand foot-to-shoulder as tall as a human. They can also separate to fit through smaller spaces individually.
 
 **Strength in Numbers:** TBD
 
-**Goblin Death:** When the Trio's HP total is reduced to Zero, one of the Goblins of the Trio has unfortunately been killed. Either choose the most logical Goblin based on the circumstances of the damage, or roll randomly.
+**Goblin Death:** When the Trio's HP total is reduced to Zero, one of the Goblins of the Trio has unfortunately been killed. Either choose the most logical Goblin based on the circumstances of the damage, or roll randomly. The remaining goblins flee immediately, scattering away until 1d10 rounds after the combat ends. Upon returning, the trio's stats are permanently reduced as such, and they suffer a disadvantage on all actions until they find a replacement.
 
-**Replacing a Dead Goblin:** TBD
+**Replacing a Dead Goblin:** Replacing a lost goblin requires access to a goblin community,
 
-**Goblin "Magic":** Goblin Acrobat Trios are spellcasters, of sorts. Starting at level 1 and again with each new level, they gain one random spell from the level 1 Magic-User list, modified as listed below. These are cast as normal spells, using all standard spellcasting rules.
+**Goblin Magic, Basic:** Goblin Acrobat Trios are spellcasters, of sorts. Starting at level 1 and again with each new level, they gain one random ability from the below. If a known ability is rolled, roll again. These are cast as normal spells, using all standard spellcasting rules. If only two goblins are present, casting times are doubled; if only one goblin, magic is impossible.
 
-* **Goblin Analyze:** TBD
-* **Goblin Charm Person:** TBD
-* **Goblin Magic Missile:** Range 60ft, Damage 3d4. All three goblins hop down and pelt their target with rocks and insults.
-* **Goblin Read Magic:** TBD
-* **Goblin Sleep:** Range 20 ft. All three goblins run through the target area, throwing sleeping powder in the targets' faces.
-* etc...
+1. **Goblin Analyze/Comprehend/Read:**
+2. **Goblin Charm Person:** TBD
+3. **Goblin Detect Magic:**
+4. **Goblin Hold Portal:** Time: 1 Action; Range: 20ft; Duration: 3d6 rounds or until released (whichever is first). The goblins use pressure and balance techniques to jam a portal shut as per the spell. They are completely occupied while doing so.
+5. **Goblin Light:** Time: 1 Action, Range: Self; Duration: 6 Turns. One of the goblins lights its goblin stick on fire and balances it on its head. The stick is not consumed, but the goblin is otherwise occupied until it puts away the light.
+6. **Goblin Magic Missile:** Time: 1 Action, Range 60ft, Damage 3d4. The goblins hop down and pelt their target with, insults, and various disgusting things pulled from their goblin bag.
+7. **Goblin Protection From Bad Guys:** Time: 1 Action; Target: 1 Ally within 10 ft; Duration: 6 rounds. The goblins whip out their goblin sticks and run circles around an ally or targeted spot. Any enemy that approaches within 10 feet of the target must make a Body save or be immobilized by a whack to the knee caps; if successful, they must then make a Mind save or be driven back by embarrassing vulgar taunts.
+8. **Goblin Shield:** Time: 1 Action
+9. **Goblin Sleep:** Time: 1 action, Range 20 ft. The goblins run through the target area, throwing sleeping powder in the targets' faces.
+10. **Goblin Ventriloquism:**
+
+**Goblin Magic, Advanced:** Starting at level 11, having mastered all ten of the basic magic forms, the trio begins to learn advanced magic which more often than not involves the loss of one or more goblins. Roll randomly for each level.
+
+* **Goblin Acquire Object:** Time: 3d6 Days; Range: Self. If any member of the trio - past or present! - has physically touched a specific object in the past, the trio can use this power to acquire it. To cast the spell, all current members of the trio must shake hands, and then one goblin climbs into the bag. 3d6 days later, the object emerges from the bag. The questing goblin has a 5% chance of also surviving per day of the spell - if failed, the goblin is lost forever.
+* **Goblin Bomb:** Time: 1 Action; Range: Movement. One or more of the goblins becomes unexpectedly explosive. All affected goblins charge toward their target. Upon arrival, they detonate violently, doing their level in dice of damage. The base damage die is d6 if a single goblin, d8 if two goblins, and d10 if all three goblins sacrifice themselves.
+* **Goblin Continual Burning:** Time: 1 Action; Range: Self. One of the Goblins is now completely immune to fire and heat  damage, but also permanently on fire. Reduce the Trio's total HP by 1/4 (round up) permanently. One goblin is now constantly on fire. This provides light, but also burning, with all the pros and cons you might expect in such an arrangement.
+* **Goblin Evolution:** Time: Immediate upon Leveling. One goblin eats another goblin, mutating into a Hob-goblin. Combine the two goblins' stats together, and increase the Hit Die of the new "duo" by one step (reroll hit points accordingly). The "trio" is now a hob-goblin and goblin duo.
+  - **Evolution, 2nd Stage:** If evolution is rolled a second time, the hobgoblin devours the smaller goblin and morphs into a massive Ur-Bugbear. Completely consumed by primal rage, it must make a Mind Save (target: 15). If successful, the character is now transformed into equivalent of an equal-level Half-Ogre Berzerker. If failed, the character is now a dangerous villain that the rest of the party must now fight!
+* **Goblin Resurrection:** The goblins collect the either currently-dying or recently-slain (1 hour) corpse of a named ally and shove them into their Goblin Bag. At the next stroke of midnight (local time), a new goblin with the deceased's memories climbs out, to either join an existing diminished trio, or start a new trio of their own. If the body was dying, the new XP level is one-half (rounded up) the previous, but if the body was a corpse the new level is 1.
+* **Goblin Vanish:** Time: 1 minute; Range: Self. One Goblin climbs into the Goblin Bag for a minute. Upon emerging, it is permanently either invisible, inaudible, or both, at the player's discretion. If only one was chosen, then each subsequent morning there is a cumulative 5% chance of the goblin running insane into the wilderness, never to be seen again. If both were chosen, the chance is doubled.
 
 
 #### Half-elf Bard (alternate Elf Exemplar)
