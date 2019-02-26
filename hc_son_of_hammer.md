@@ -134,29 +134,41 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 
 #### Halfling Tourist (alternate Half-ogre Berserker)
 
-* **Prime Stats:** ???
+* **Prime Stats:** CHA
 * **Hit Dice:** 1d6 per level, modified by CON mod.
-* **Attack Rank:** ???
+* **Attack Rank:** D: You have no level-based combat bonus to attacks.
 * **Base Movement:** 20
 * **Saving Throws:**
-  - **Good:** ???
-  - **Okay:** ???
-  - **Bad:** ???
-* **Gear Restrictions:** ???
+  - **Good:** Body, Death, Luck, Mind = add your level to your roll.
+  - **Okay:** Area, Rally = add 1/2 your level (round down) to the roll.
+  - **Bad:** None
+* **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
 * **Bonus Languages:** Halfling
+
+**Credit Card:** The Halfing Tourist can attempt a Luck Save to freely acquire any total purchase that costs their XP level or lower in Gold Pieces. This must be used on complete purchases, and not on individual items. If a natural 1 is rolled, make a second roll. If that roll is *also* failed, the tourist loses this ability until they level up, *and* a Debt Collector monster (Smith's Choice) is now seeking them out.
+
+**Culinary Connoisseur:**
+
+**Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
 
 #### Vulterran Scout (alternate Half-ogre Berserker)
 
 Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in the lands of Humankind and its allies. The Northlands are largely seen as barbaric wilds by the "civilised" Kingdoms of Humans, but there are actually rich cultures with long-reaching histories, mostly unknown to all residents South of their harsh bounds. Vulterran Scouts range into the lands of Humans, seeking information, allies, and potential targets of eventual raid and conquest.
 
-* **Prime Stats:** ???
+* **Prime Stats:** STR, DEX
 * **Hit Dice:** 1d6 per level, modified by CON mod.
 * **Attack Rank:** ???
-* **Base Movement:** 40
+* **Base Movement:** 30 bipedal, 45 quadrupedal
 * **Saving Throws:**
   - **Good:** Luck, Rally = add your level to your roll.
   - **Okay:** Mind, Body, Death = add 1/2 your level (round down) to the roll.
   - **Bad:** Area = add 1/3 your level (round down) to the roll.
-* **Gear Restrictions:** ???
+* **Gear Restrictions:** Can use all weapons except crossbows. All armor and clothing must be crafted to fit a large canine.
 * **Bonus Languages:** Vulterran
+
+**A Visceral Combination:**
+
+**Blood for Blood:** Vulterran Scouts grow more fierce the closer they are to death. When their current HP is equal to or less than half their maximum, their melee damage is doubled. If their current HP is equal to or less than their current XP level, their damage is *tripled*.
+
+**Never Unarmed aka Claw-Claw-Bite:** Vulterran Scouts can use any melee weapon, but don't need to in most circumstances. Their claws and teeth ensure they are never unarmed, and in fact they gain a bonus attack die at levels 1 and 9, which only applies when unarmed.
