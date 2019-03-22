@@ -176,7 +176,7 @@ First and foremost, you must randomly determine your new character's Class. Roll
 Each class has its own special rules and abilities. Take note of yours using the references below.
 
 
-### Dwarf Defender
+### Dwarf Defender (Warrior)
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d8 per level, modified by CON mod.
@@ -200,7 +200,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 **Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the AC bonus of their shield when using the bash.
 
 
-### Elf Exemplar
+### Elf Exemplar (Hybrid)
 
 * **Prime Stats:** DEX, INT
 * **Hit Dice:** 1d8 per level, modified by CON mod.
@@ -228,7 +228,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 **War Adept:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 
-### Halfling Burglar
+### Halfling Burglar (Rogue)
 
 * **Prime Stats:** DEX, CHA
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -254,7 +254,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 **Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans.
 
 
-### Half-ogre Berserker
+### Half-ogre Berserker (Warrior)
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d10 per level, modified by CON mod.
@@ -286,7 +286,7 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 **Two-Hander:** When using a two-handed melee weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
 
-### Human Cleric
+### Human Cleric (Caster)
 
 * **Prime Stats:** WIS, CHA
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -308,7 +308,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 **Turn Away the Unholy** Once per Day per Level of Experience, a Cleric can hold aloft the symbol of their righteous faith and turn back undead, devils, demons, and any others that the Hammersmith deems to be enemies of their faith. All such opponents must make Mind saves based on the difference in Level/HD Tiers. Targets who fail this save must cower, flee, or possibly even take damage or be destroyed.
 
 
-### Human Fighter
+### Human Fighter (Warrior)
 
 * **Prime Stats:** STR, CON
 * **Hit Dice:** 1d8 per level, modified by CON mod.
@@ -332,7 +332,7 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 
 
-### Human Magic-User
+### Human Magic-User (Caster)
 
 * **Prime Stats:** INT
 * **Hit Dice:** 1d4 per level, modified by CON mod.
@@ -360,7 +360,7 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 **Wizardly Weaponry:** Magic-users can make use of new special mage-only weapons: The Wand and The Staff. Be warned that actively using these tools will mark you as a magician, and likely increase your chances of becoming a target priority by smart enemies...
 
 
-### Human Thief
+### Human Thief (Rogue)
 
 * **Prime Stats:** DEX, INT
 * **Hit Dice:** 1d6 per level, modified by CON mod.

@@ -31,7 +31,7 @@ What you'll find within:
 (TBD)
 
 
-#### Dwarf Battle Cleric (alternate Dwarf Defender)
+#### Dwarf Battle Cleric (Hybrid, alternate Dwarf Defender)
 
 * **Prime Stats:** ???
 * **Hit Dice:** 1d8 per level, modified by CON mod.
@@ -45,7 +45,7 @@ What you'll find within:
 * **Bonus Languages:** Dwarf
 
 
-#### Gnome Alchemist (alternate Halfling Burglar)
+#### Gnome Alchemist (Caster, alternate Halfling Burglar)
 
 * **Prime Stats:** ???
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -59,7 +59,7 @@ What you'll find within:
 * **Bonus Languages:** Gnome
 
 
-#### Goblin Acrobat Trio (alternate Halfling Burglar)
+#### Goblin Acrobat Trio (Hybrid, alternate Halfling Burglar)
 
 Traveling goblin acrobats are an increasingly common spectacle in the frontier lands, and they are even just now starting to occasionally make their way to the bigger cities of the Civilised Lands. Your character is actually *three* such skilled acrobats, for while a single goblin may be too weak and unmotivated to be an adventurer, they can be much more capable in numbers.
 
@@ -118,7 +118,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 * **Goblin Vanish:** Time: 1 minute; Range: Self. One Goblin climbs into the Goblin Bag for a minute. Upon emerging, it is permanently either invisible, inaudible, or both, at the player's discretion. If only one was chosen, then each subsequent morning there is a cumulative 5% chance of the goblin running insane into the wilderness, never to be seen again. If both were chosen, the chance is doubled.
 
 
-#### Half-elf Bard (alternate Elf Exemplar)
+#### Half-elf Bard (Hybrid, alternate Elf Exemplar)
 
 * **Prime Stats:** ???
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -132,7 +132,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 * **Bonus Languages:** Elf
 
 
-#### Halfling Tourist (alternate Half-ogre Berserker)
+#### Halfling Tourist (Rogue, alternate Half-ogre Berserker)
 
 * **Prime Stats:** CHA
 * **Hit Dice:** 1d6 per level, modified by CON mod.
@@ -152,7 +152,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
 
-#### Vulterran Scout (alternate Half-ogre Berserker)
+#### Vulterran Scout (Warrior, alternate Half-ogre Berserker)
 
 Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in the lands of Humankind and its allies. The Northlands are largely seen as barbaric wilds by the "civilised" Kingdoms of Humans, but there are actually rich cultures with long-reaching histories, mostly unknown to all residents South of their harsh bounds. Vulterran Scouts range into the lands of Humans, seeking information, allies, and potential targets of eventual raid and conquest.
 
