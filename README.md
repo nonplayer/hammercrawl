@@ -14,6 +14,7 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 * **[Player's Guide](./hc_core_player.md):** Everything you need to play the game
 * **[Smith's Guide](./hc_core_smith.md):** Everything you need to run the game
 * **[Son of Hammer](./hc_son_of_hammer.md):** Extended house rules, optional classes, and more
+* **[Printable Helper Sheets](./sheets/)** for each of the core classes, designed to make play smoother and minimize mid-play rules checks.
 
 Note: This process works best with my own associated **[Old School Random Character Generator program](https://github.com/nonplayer/OldSchoolCharGen)**, also on GitHub
 
