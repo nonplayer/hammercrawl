@@ -251,7 +251,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Tactical Attacker:** Halflings roll with advantage on Tactical Attacks.
 
-**Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans.
+**Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans. Additionally, all item encumbrance sizes are considered one step higher for the Halfling.
 
 
 ### Half-ogre Berserker (Warrior)
@@ -269,7 +269,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Chaotic Nature:** Berserkers cannot be aligned to Law.
 
-**Large and in the Way:** Half-ogres stand around 7 feet tall or more, and are built like icehouses. All armour must be custom made for them at increased costs and time, and only Halfling-sized creatures or smaller can move through their occupied space if minis and a battlemat are in use.
+**Large and in the Way:** Half-ogres stand around 7 feet tall or more, and are built like icehouses. All armour must be custom made for them at increased costs and time, and only Halfling-sized creatures or smaller can move through their occupied space if minis and a battlemat are in use. Additionally, they can stow Huge items in gear for 3 encumbrance slots each.
 
 **Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they have advantage on melee and thrown damage dice rolls, immunity to critical fumbles, and disadvantage on all saves except Body and Death. On their turn, they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
 
@@ -506,6 +506,7 @@ If not, this section is pending until I get the lists converted from that code..
 * Melee Damage Modifier = STR mod
 * Missile Attack Modifier = DEX mod + any class mods
 * Movement Speed = determined by class (human base is 30)
+* Maximum Encumbrance (MaxEnc) = 1/2 your INT score (rounded down), plus your STR mod.
 
 
 ### Step X: Randomize Your Character Traits
@@ -592,18 +593,143 @@ The following sub-sections contain collections of extended descriptions of speci
 | Shield, Weapon | 1*    |
 | Tower Shield   | 2     |
 
-**Shield Weapons:** Shield Weapons can be used as either Shields or hand weapons. If used defensively, they provide standard shield bonuses (+1 to AC). If used offensively, they instead function as their attachedd weapons.
+**Shield Weapons:** Shield Weapons can be used as either Shields or hand weapons. If used defensively, they provide standard shield bonuses (+1 to AC). If used offensively, they instead function as their attached weapons.
 
 
 
 ### Gear
 
-**Acid Flask:** When used as a grenade, deals 2d6 initial acid damage to a single target, and 1d6 acid splash damage to all targets within 5 feet of the impact. The initial target takes an additional 1d6 acid damage each round for 1d6 additional rounds.
+The gear tables below use the following notations:
 
+* **Name:** The name of the item. If there are parenthesis, they contain the base unit and quantity of initial purchase. If no numerical quantity is stated, the quantity is 1.
+* **Size:** The Encumbrance size of 1 quantity of the base item (Tiny/Small/Medium/large/Huge). See Encumbrance rules in the "Playing Your Character" chapter for more details.
+* **Cost:** How many coins are required to purchase the item (when available) at appropriate vendors. Although all Common,
 
-### Special
+**NOTE:** For any entry with an asterisk in its data, see the section below the table for further details.
 
-TBD
+#### Common Gear Table
+
+| Name                      | Size | Cost |
+|---------------------------|------|------|
+| Bedroll*                  | M    | 1    |
+| Bell, Tiny                | S    | 1    |
+| Blanket                   | M    | 1    |
+| Block and Tackle          | M    | 1    |
+| Candles (6)*              | S    | 1    |
+| Chalk (6 pieces)          | S    | 1    |
+| Cloak                     | M    | 1    |
+| Cooking Pot, Iron         | L    | 1    |
+| Firewood (bundle)         | M    | 1    |
+| Flask                     | M    | 1    |
+| Garlic                    | S    | 1    |
+| Hammer                    | M    | 1    |
+| Holy Symbol, Wooden       | M    | 1    |
+| Iron Spike                | S    | 1    |
+| Mallet                    | M    | 1    |
+| Pole (10 ft)              | L    | 1    |
+| Rain Hat                  | M    | 1    |
+| Rations, Fresh (3 units)* | S    | 1    |
+| Rope (50 ft)              | M    | 1    |
+| Soap (puck)               | S    | 1    |
+| Tankard                   | M    | 1    |
+| Tinder Box                | M    | 1    |
+| Torches (2)*              | S    | 1    |
+| Waterskin, Gallon         | M    | 1    |
+| Whetstone                 | S    | 1    |
+| Wine (bottle)             | M    | 1    |
+| Stakes, Wooden (4)        | S    | 1    |
+
+#### Rare Gear Table
+
+| Name                            | Size | Cost |
+|---------------------------------|------|------|
+| Acid (flask)*                   | S    | 10   |
+| Antitoxin (vial)*               | S    | 10   |
+| Belladona                       | S    | 10   |
+| Caltrops (2-pound bag)          | M    | 10   |
+| Chain (10 ft length)            | M    | 10   |
+| Crowbar                         | M    | 10   |
+| Fishing Hook, Line, and Pole    | M    | 10   |
+| Fishing Net (25 sq ft)          | M    | 10   |
+| Grappling Hook                  | M    | 10   |
+| Lantern*                        | M    | 10   |
+| Lantern Oil (flask)             | S    | 10   |
+| Manacles                        | M    | 10   |
+| Mirror, Steel                   | M    | 10   |
+| Notebook                        | M    | 10   |
+| Rations, Preserved (3 units)*   | S    | 10   |
+| Sealing Wax                     | S    | 10   |
+| Sewing Kit                      | S    | 10   |
+| Signal Whistle                  | S    | 10   |
+| Tent                            | M    | 10   |
+| Wolvesbane                      | S    | 10   |
+| Writing Kit (ink, quill, paper) | M    | 10   |
+
+#### Specialty Gear Table
+
+| Name                            | Size | Cost |
+|---------------------------------|------|------|
+| Alchemist Fire (ceramic flask)* | S    | 100  |
+| Healing Potions (vial)*         | S    | 100  |
+| Holy Symbol, Silver             | S    | 100  |
+| Holy Water (vial)               | S    | 100  |
+| Mirror, Silver                  | M    | 100  |
+| Spyglass                        | M    | 100  |
+| Thieves' Tools                  | M    | 100  |
+
+#### Containers
+
+Containers are special items that have been pulled from the above lists to collect below, for ease of reference. They have their own special descriptors:
+
+* **Name:** The name of the container item
+* **Size:** How much base encumbrance is required to stow the container itself.
+* **Cost:** How many coins the container costs at a suitable vendor.
+* **Slots+:** The number of bonus Encumbrance slots provided.
+* **Save:** The saving throw target to see if the container (and all its contents) survives damage against it.
+* **Worn?** If the item can be worn. While worn, its base Size encumbrance does not count against the character's Personal encumbrance.
+
+**For any entry with an asterisk in its data, see the section below the table for further details.**
+
+| Name          | Size | Cost | Slots+ | Save | Worn? |
+|---------------|------|------|--------|------|-------|
+| Backpack      | M    | 10   | 10     | 10   | Yes   |
+| Bandoliers*   | M    | 10   | 3      | 10   | Yes   |
+| Belt Purse    | S    | 1    | 1      | 10   | Yes   |
+| Case, Scroll* | S    | 10   | 1-5    | 6    |       |
+| Chest, Large  | H    | 100  | 15     | 6    |       |
+| Chest, Medium | L    | 100  | 10     | 6    |       |
+| Chest, Small  | M    | 100  | 5      | 6    |       |
+| Sack, Large*  | M/L  | 1    | 15     | 14   |       |
+| Sack, Small*  | S/M  | 1    | 5      | 14   |       |
+| Satchel       | S    | 10   | 5      | 14   | Yes   |
+
+#### Gear Descriptions
+
+Below are extended special details on the specially-noted items from the above lists.
+
+**Acid Flask:** When used as a thrown grenade weapon, deals 1d6 initial acid damage to a single target. The target takes an additional 1d4 acid damage each round for 1d4 additional rounds.
+
+**Alchemist Fire:** When used as a thrown grenade weapon, deals 2d6 initial acid damage to a single target, and 1d6 acid splash damage to all targets within 5 feet of the impact. The initial target takes an additional 1d6 acid damage each round for 1d6 additional rounds.
+
+**Antitoxin:** When consumed, you gain advantage on Body saves vs poison effects for the next hour. If you are already poisoned, consuming antitoxin allows you to immediately attempt a new save.
+
+**Bandoliers:** When worn, these provide three gear slots which can hold nothing larger than Small in size. This effectively allows for up to 30 identical small items, or 300 identical tiny items.
+
+**Bedroll:** Fulfills rest requirements for camping HP recovery actions.
+
+**Candle:** Primarily used as a single-person light source. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
+
+**Case, Scroll:** Scroll cases are specialized container items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll, or up to five rolled-up maps or other documents.
+
+**Healing Potion:** Requires a full round to consume, healing 1d6+1 HP.
+
+**Lantern:** Primarily used as a group bright light sources. Making use of a Lantern for this purpose requires the expenditure of one flask worth of lantern oil. See the "Light and Darkness" rules in the "Playing Your Character" chapter for further details.
+
+**Rations, All:** Required for camping and a few other effects. Fresh rations are cheapest, but spoil quickly. Preserved rations are expensive, but resist spoilage in dungeons.
+
+**Sacks, All:** Sacks are handy container items common to all adventuring lifestyles. Of special note, while empty, folded, and stowed away, sacks count as one size smaller. THis is already shown on the container table.
+
+**Torch:** Primarily used as a small-group limited light source. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
 
 
@@ -660,11 +786,11 @@ If you've still got CON score left after over, then you're still up! But you're 
 * Lay Down and Call for Help
 * Fight On!
 
-If you choose to **Lay Down**, you drop to the ground prone. On this round and every round following it until you are healed, you must make a Death save. If you fail, you take an immediate point of permanent CON loss. If this drops you to Zero, you're dead.
+If you choose to **Lay Down**, you drop to the ground prone. On this round and every round following it until you are healed, you must make a Death save. If you fail, you take an immediate point of permanent CON loss. If this drops you to Zero, you're dead. See the Death subsection, further below.
 
 If you choose to **Fight On**, you can take an action as normal! Resolve it, and at the end of your action you immediately take 1d4 permanent CON damage, no save allowed. If this drops you to Zero, you're dead. Repeat for each turn that you continue to Fight on.
 
-*In either case,* while your HP is zero, any further damage you may take from additional attacks or effects targeting you comes directly out of your CON score. Once your CON reaches Zero, you are Dead.
+*In either case,* while your HP is zero, any further damage you may take from additional attacks or effects targeting you comes directly out of your CON score. Once your CON reaches Zero, you are Dead. See the Death subsection, further below.
 
 
 ### Magically Restoring Lost CON
@@ -687,6 +813,16 @@ When *Cure Serious Wounds* is used to restore lost CON from damage, ignore the s
 TBD
 
 
+
+### Loot Survival
+
+When a character dies in a dungeon, there's a chance that some or all of their gear and loot might also be destroyed with them. Many lucky groups have salvaged all kinds of sweet loot from the bodies of their fallen comrades. Other more unlucky groups can find themselves trapped and hopeless when crucial plot-specific items were destroyed along with their dead friends. Such is the way of HAMMERCRAWL!
+
+To determine this, at the time of the character's death their player must make a Luck save for each and every Worn, Equipped, and Carried item, applying the now-dead character's Luck Save mod. For most items, the target is 10. For containers, make only one roll for the entire container, using its "Save" score as the target.
+
+If an item fails its save, cross through it, for it is destroyed. If a container fails, cross through it *and* all of its contents, for they are all destroyed. On the plus side, if a container makes its save, there is no need to roll for any of its contents, as they all survive automatically.
+
+
 ## Encounters (the Players' version)
 
 Misc:
@@ -697,6 +833,70 @@ Misc:
 * etc
 
 Extended encounter rules in Hammersmith section.
+
+
+## Encumbrance
+
+In HAMMERCRAWL!, characters are limited in the amount of items they can carry at any one time. Players manage their gear using an **Encumbrance** mechanic, which consists of a variable number of "gear slots" inspired by certain popular fantasy role-playing and survival-horror video games.
+
+Every character has a "Max Encumbrance" (aka **MaxEnc**) value, which is determined at character creation. The default base value is equal to one-half (1/2) your INT score, rounded up, and modified directly by your STR mod.
+
+You may have been expecting STR to provide the basis, but that is not the case. *What is the reasoning behind this?!* you might ask. HAMMERCRAWL! uses the INT score as the Encumbrance baseline because in our "delve smarter" mentality, carrying more personal gear is mostly of a matter of smart packing and clever weight distribution. A smart character is simply better at carrying and maintaining a well-distributed personal load than a dumb one. But yes, STR *does* still affect things somewhat in the end, thus the additional modifier. If you're both dumb *and* weak, we pray for your (unlikely) safe return.
+
+Characters can increase their Encumbrance slots by purchasing various containers. Each container item has its own base, which counts against the character's personal encumbrance base. Once added to the inventory, a container lets the character collect and carry more items, but at the risk of those items being destroyed should something befall the container.
+
+
+### Gear Encumbrance
+
+Each piece of gear has a **Size** value which determines how many Encumbrance slots it takes to carry. These sizes are all intentionally gauged against the Human standard of sizes, in accordance with the ancient traditions of dungeon crawling.
+
+* **Tiny:** Requires 1 slot, but identical items can be stacked up to 100 in the same slot. This is Coin and Gem size.
+* **Small:** Requires 1 slot, but identical items can be stacked up to 10 in the same slot. This is Coin and Gem size. This is pocket item size.
+* **Medium:** Requires 1 slot per item.
+* **Large:** Requires 2 slot per item.
+* **Huge:** Cannot be stowed; requires active carrying with both hands.
+
+**Worn items** are special exceptions to Encumbrance. Any gear with the "Worn" quality does not count against a character's Encumbrance while it is being worn. This includes things like clothing, armour, and backpacks. This exception only applies while worn, however; if such an item is removed and carried, its original Size then counts against the character's encumbrance.
+
+Aside from adding more containers, **characters simply can not exceed their encumbrance limits.** If they try, they will fail: something will fall off, a strap will break, an item will come apart, and so on. It's for reasons like these that many experienced adventurers hire porters to accompany them!
+
+**CLASS NOTE:** Some character classes such as the Halfling and the Half-Ogre have special encumbrance exceptions. See their class details for more information.
+
+
+### Containers: How to Track Your Gear
+
+Characters' gear lists should be tracked as separate container-based lists. The first "container" is all of the character's **Worn Items**. These don't count against Encumbrance. The only limit here is one of narrative sensibility: you can generally only wear one piece or armor, one necklace, one cloak, ten rings, and so on. Different anatomies and states of being will drastically impact this, so in the end it's up to the Player and the 'Smith.
+
+Next, every character has a default **Personal Container** with a number of slots equal to the character's Maximum Encumbrance. All equipment on their sheet that is *not* Worn on the body must be either carried in their Personal container, or stowed into a carried container (which is in turn carried in their Personal container). It is important to note that **items inside containers do not count against the character's base Encumbrance!** Only the container's own base size counts against the Personal limit. That's why bags are great.
+
+Finally, most characters will wear or carry one or more additional portable container gear items, such as backpacks, sacks, and chests. These provide additional encumbrance slots beyond the character's base amount. While the containers themselves count their own base Sizes against the character's Personal encumbrance, their individual contents should be listed and collected separately.
+
+**When you acquire new gear** it is up to you to determine where that gear is stowed. Choose wisely.
+
+
+#### Stacking Containers
+
+Empty containers can be carried inside other containers, provide they fit. However, containers that are actively being used to contain items cannot be contained within larger containers. If you know of a better way to write that sentence, be my guest.
+
+The purpose for this rule is to prevent the Nesting Doll effect. Intentionally, a character can only carry as many actively-used containers as their *Personal* encumbrance limit will allow.
+
+
+#### Container Destruction
+
+If a container is destroyed, so too are all of its contents. Determining this is usually handled as part of some saving throw during the game. For most items, the target for that save is 10. Containers have variable saving throw based on their quality, shown in the gear list.
+
+
+### How much does that body weigh?
+
+This question is inevitably asked in every game, so here's the answer. The encumbrance of a dead, bound, unconscious, or otherwise helpless body is as follows:
+
+* **Halflings:** Large
+* **Dwarves, Elves, Humans:** Huge
+* **Half-Ogres:** More Huge (as in: not really a thing, good luck with that!)
+
+For other creatures, use the above as relative guidelines.
+
+If those bodies are *significantly* diminished (usually by amputation, etc), count them one category lower. If those bodies are actively resisting, count them as one category higher.
 
 
 ## Experience
