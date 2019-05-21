@@ -547,6 +547,11 @@ Take a moment to think about the kind of person your character is. Think about t
 TBD
 
 
+## Money and Coin
+
+TBD
+
+
 ## Randomized Starting Equipment
 
 TBD
@@ -555,6 +560,19 @@ TBD
 ## Extended Equipment Details
 
 The following sub-sections contain collections of extended descriptions of specific items, organized in sections that should be familiar to players of the classic game systems. The alphabetically-sorted contents of each sub-section are by no means exhaustive, instead meant to focus primarily on items which require specific additional description beyond the obvious.
+
+
+### Equipment Qualities
+
+Be they weapons, armour, or various adventuring tools, all items of gear can be assigned some special qualities. The following list of qualities applies to all the items in this equipment section.
+
+**Bag:** This item adds additional encumbrance slots to the character's inventory.
+
+**Durable:** This item enjoys an advantage on all its saving throws.
+
+**Fragile:** This item suffers a disadvantage on all its saving throws.
+
+**Wearable:** This item can be equipped directly to the character's person, not requiring encumbrance when worn.
 
 
 ### Weapons
@@ -574,36 +592,54 @@ The following sub-sections contain collections of extended descriptions of speci
 
 **Armour Bonuses"**
 
-| Armor        | Type  | Bonus |
-|--------------|-------|-------|
-| Padded       | Light | 1     |
-| Leather      | Light | 2     |
-| Studded      | Light | 3     |
-| Scale        | Heavy | 4     |
-| Chain        | Heavy | 5     |
-| Splint       | Heavy | 6     |
-| Platemail    | Heavy | 7     |
-| Plate Armour | Plate | 8     |
+Descriptors:
+
+* **Name:** The name of the armour
+* **Type:** Whether the armour is Light, Heavy, or Plate
+* **AC:** The character's AC while wearing the armour
+* **Size:** Encumbrance requirement when not worn
+* **Cost:** In coins, to have crafted by an armoursmith of suitable skill (With a few exceptions, armour is rarely available for immediate purchase)
+* **Qualities:** Any special qualities possessed by the armour
+
+| Name         | Type  | AC | Size | Cost  | Qualities |
+|--------------|-------|----|------|-------|-----------|
+| Padded       | Light | 11 | M    | 1     | Wearable  |
+| Leather      | Light | 12 | M    | 10    | Wearable  |
+| Studded      | Light | 13 | M    | 25    | Wearable  |
+| Scale        | Heavy | 14 | L    | 50    | Wearable  |
+| Chain        | Heavy | 15 | L    | 100   | Wearable  |
+| Splint       | Heavy | 16 | L    | 500   | Wearable  |
+| Platemail    | Heavy | 17 | H    | 1000  | Wearable  |
+| Plate Armour | Plate | 18 | H    | 10000 | Wearable  |
 
 **Shield Bonuses:**
 
-| Shield Type    | Bonus |
-|----------------|-------|
-| Shield         | 1     |
-| Shield, Weapon | 1*    |
-| Tower Shield   | 2     |
+| Shield Type    | AC+ | Size | Cost |
+|----------------|-----|------|------|
+| Shield         | 1   | M    | 10   |
+| Shield, Weapon | 1*  | M    | 100  |
+| Shield, Tower  | 2   | L    | 100  |
 
 **Shield Weapons:** Shield Weapons can be used as either Shields or hand weapons. If used defensively, they provide standard shield bonuses (+1 to AC). If used offensively, they instead function as their attached weapons.
 
 
+### Adventuring Gear
 
-### Gear
+In addition to trusty blades and sturdy mail, every adventurer should make sure and kit up with a versatile array of adventuring tools. The vast majority of these have no direct mechanical application, instead existing to serve as situational tools in the story. Sure, you might not need a big iron cooking pot every single moment of the delve, and carrying it everywhere is a gigantic pain in the butt, but you'll regret leaving it behind when the 'Smith decides that one is needed!
 
-The gear tables below use the following notations:
+In the HAMMERCRAWL! game, adventuring gear is assigned to three different categories based entirely on their costs:
+
+* **Common Gear** is usually easily purchasable at even the smallest of towns, provided a general store is around. This gear always costs a base of a single coin.
+* **Rare Gear** is bought at an additional premium, usually due to some mix of being complex in craft, specific in application, and/or made of more expensive materials. This gear always costs a base of 10 coins.
+* **Specialty Gear** is anything that is super specialized and/or quite expensive to make. This gear costs a base of 100 coins, and can be quite difficult to acquire in all but the largest cities.
+
+Although the **Bags** have been separated into a fourth sub-section for ease of reference, they are similarly broken into the above three categories based on cost.
+
+The main gear tables below use the following notations:
 
 * **Name:** The name of the item. If there are parenthesis, they contain the base unit and quantity of initial purchase. If no numerical quantity is stated, the quantity is 1.
 * **Size:** The Encumbrance size of 1 quantity of the base item (Tiny/Small/Medium/large/Huge). See Encumbrance rules in the "Playing Your Character" chapter for more details.
-* **Cost:** How many coins are required to purchase the item (when available) at appropriate vendors. Although all Common,
+* **Cost:** How many coins are required to purchase the item (when available) at appropriate vendors.
 
 **NOTE:** For any entry with an asterisk in its data, see the section below the table for further details.
 
@@ -677,31 +713,32 @@ The gear tables below use the following notations:
 | Spyglass                        | M    | 100  |
 | Thieves' Tools                  | M    | 100  |
 
-#### Containers
+#### Bags
 
-Containers are special items that have been pulled from the above lists to collect below, for ease of reference. They have their own special descriptors:
+**Bags** are special items that have the ability to contain other items. These have been pulled from the above lists to collect below, for ease of reference of their specific stats. They have their own special descriptors:
 
-* **Name:** The name of the container item
-* **Size:** How much base encumbrance is required to stow the container itself.
-* **Cost:** How many coins the container costs at a suitable vendor.
+* **Name:** The name of the item
+* **Size:** How much base encumbrance is required to stow the bag itself.
+* **Cost:** How many coins the bag costs at a suitable vendor.
 * **Slots+:** The number of bonus Encumbrance slots provided.
-* **Save:** The saving throw target to see if the container (and all its contents) survives damage against it.
-* **Worn?** If the item can be worn. While worn, its base Size encumbrance does not count against the character's Personal encumbrance.
+* **Qualities** Any special item qualities possessed by the bag.
 
 **For any entry with an asterisk in its data, see the section below the table for further details.**
 
-| Name          | Size | Cost | Slots+ | Save | Worn? |
-|---------------|------|------|--------|------|-------|
-| Backpack      | M    | 10   | 10     | 10   | Yes   |
-| Bandoliers*   | M    | 10   | 3      | 10   | Yes   |
-| Belt Purse    | S    | 1    | 1      | 10   | Yes   |
-| Case, Scroll* | S    | 10   | 1-5    | 6    |       |
-| Chest, Large  | H    | 100  | 15     | 6    |       |
-| Chest, Medium | L    | 100  | 10     | 6    |       |
-| Chest, Small  | M    | 100  | 5      | 6    |       |
-| Sack, Large*  | M/L  | 1    | 15     | 14   |       |
-| Sack, Small*  | S/M  | 1    | 5      | 14   |       |
-| Satchel       | S    | 10   | 5      | 14   | Yes   |
+| Name          | Size | Cost | Slots+ | Qualities              |
+|---------------|------|------|--------|------------------------|
+| Backpack      | M    | 10   | 10     | Bag, Wearable          |
+| Bandoliers*   | M    | 10   | 3      | Bag, Wearable          |
+| Belt Purse    | S    | 1    | 1      | Bag, Wearable          |
+| Case, Scroll* | S    | 10   | 1-5    | Bag, Durable           |
+| Chest, Large  | H    | 100  | 15     | Bag, Durable           |
+| Chest, Medium | L    | 100  | 10     | Bag, Durable           |
+| Chest, Small  | M    | 100  | 5      | Bag, Durable           |
+| Lantern Hook* | M    | 100  | 1      | Bag                    |
+| Sack, Large*  | M/L  | 1    | 15     | Bag, Fragile           |
+| Sack, Small*  | S/M  | 1    | 5      | Bag, Fragile           |
+| Satchel       | S    | 10   | 5      | Bag, Fragile, Wearable |
+
 
 #### Gear Descriptions
 
@@ -719,15 +756,17 @@ Below are extended special details on the specially-noted items from the above l
 
 **Candle:** Primarily used as a single-person light source. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
-**Case, Scroll:** Scroll cases are specialized container items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll, or up to five rolled-up maps or other documents.
+**Case, Scroll:** Scroll cases are specialized bag items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll, or up to five rolled-up maps or other documents.
 
 **Healing Potion:** Requires a full round to consume, healing 1d6+1 HP.
 
 **Lantern:** Primarily used as a group bright light sources. Making use of a Lantern for this purpose requires the expenditure of one flask worth of lantern oil. See the "Light and Darkness" rules in the "Playing Your Character" chapter for further details.
 
+**Lantern Hook:** A special rigged hook that attaches to a backpack and curves over the character's head. Can mount (contain) a single lantern overhead, allowing an active light source without a dedicated hand to hold it. Adds significant height, and counts against the backpacks slots.
+
 **Rations, All:** Required for camping and a few other effects. Fresh rations are cheapest, but spoil quickly. Preserved rations are expensive, but resist spoilage in dungeons.
 
-**Sacks, All:** Sacks are handy container items common to all adventuring lifestyles. Of special note, while empty, folded, and stowed away, sacks count as one size smaller. THis is already shown on the container table.
+**Sacks, All:** Sacks are handy bag items common to all adventuring lifestyles. Of special note, while empty, folded, and stowed away, sacks count as one size smaller. This is already shown on the bag table.
 
 **Torch:** Primarily used as a small-group limited light source. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
@@ -818,9 +857,9 @@ TBD
 
 When a character dies in a dungeon, there's a chance that some or all of their gear and loot might also be destroyed with them. Many lucky groups have salvaged all kinds of sweet loot from the bodies of their fallen comrades. Other more unlucky groups can find themselves trapped and hopeless when crucial plot-specific items were destroyed along with their dead friends. Such is the way of HAMMERCRAWL!
 
-To determine this, at the time of the character's death their player must make a Luck save for each and every Worn, Equipped, and Carried item, applying the now-dead character's Luck Save mod. For most items, the target is 10. For containers, make only one roll for the entire container, using its "Save" score as the target.
+To determine this, at the time of the character's death their player must make a Luck save for each and every Worn, Equipped, and Carried item, applying the now-dead character's Luck Save mod. For most items, the target is 10. For bags, make only one roll for the entire bag, using its "Save" score as the target.
 
-If an item fails its save, cross through it, for it is destroyed. If a container fails, cross through it *and* all of its contents, for they are all destroyed. On the plus side, if a container makes its save, there is no need to roll for any of its contents, as they all survive automatically.
+If an item fails its save, cross through it, for it is destroyed. If a bag fails, cross through it *and* all of its contents, for they are all destroyed. On the plus side, if a bag makes its save, there is no need to roll for any of its contents, as they all survive automatically.
 
 
 ## Encounters (the Players' version)
@@ -843,7 +882,7 @@ Every character has a "Max Encumbrance" (aka **MaxEnc**) value, which is determi
 
 You may have been expecting STR to provide the basis, but that is not the case. *What is the reasoning behind this?!* you might ask. HAMMERCRAWL! uses the INT score as the Encumbrance baseline because in our "delve smarter" mentality, carrying more personal gear is mostly of a matter of smart packing and clever weight distribution. A smart character is simply better at carrying and maintaining a well-distributed personal load than a dumb one. But yes, STR *does* still affect things somewhat in the end, thus the additional modifier. If you're both dumb *and* weak, we pray for your (unlikely) safe return.
 
-Characters can increase their Encumbrance slots by purchasing various containers. Each container item has its own base, which counts against the character's personal encumbrance base. Once added to the inventory, a container lets the character collect and carry more items, but at the risk of those items being destroyed should something befall the container.
+Characters can increase their Encumbrance slots by purchasing various bags. Each bag item has its own base, which counts against the character's personal encumbrance base. Once added to the inventory, a bag lets the character collect and carry more items, but at the risk of those items being destroyed should something befall the bag.
 
 
 ### Gear Encumbrance
@@ -856,34 +895,34 @@ Each piece of gear has a **Size** value which determines how many Encumbrance sl
 * **Large:** Requires 2 slot per item.
 * **Huge:** Cannot be stowed; requires active carrying with both hands.
 
-**Worn items** are special exceptions to Encumbrance. Any gear with the "Worn" quality does not count against a character's Encumbrance while it is being worn. This includes things like clothing, armour, and backpacks. This exception only applies while worn, however; if such an item is removed and carried, its original Size then counts against the character's encumbrance.
+**Wearable items** are special exceptions to Encumbrance. Any gear with the "Wearable" quality does not count against a character's Encumbrance while it is being worn. This includes things like clothing, armour, and backpacks. This exception only applies while worn, however; if such an item is removed and carried, its original Size then counts against the character's encumbrance.
 
-Aside from adding more containers, **characters simply can not exceed their encumbrance limits.** If they try, they will fail: something will fall off, a strap will break, an item will come apart, and so on. It's for reasons like these that many experienced adventurers hire porters to accompany them!
+Aside from adding more bags, **characters simply can not exceed their encumbrance limits.** If they try, they will fail: something will fall off, a strap will break, an item will come apart, and so on. It's for reasons like these that many experienced adventurers hire porters to accompany them!
 
 **CLASS NOTE:** Some character classes such as the Halfling and the Half-Ogre have special encumbrance exceptions. See their class details for more information.
 
 
-### Containers: How to Track Your Gear
+### Bags: How to Track Your Gear
 
-Characters' gear lists should be tracked as separate container-based lists. The first "container" is all of the character's **Worn Items**. These don't count against Encumbrance. The only limit here is one of narrative sensibility: you can generally only wear one piece or armor, one necklace, one cloak, ten rings, and so on. Different anatomies and states of being will drastically impact this, so in the end it's up to the Player and the 'Smith.
+Characters' gear lists should be tracked as separate bag-based lists. The first so-called "bag" is all of the character's **Worn and Equipped Items**. This includes anything held directly in their hands (weapons, shields, torches, etc) and anything specifically worn via the "Wearable" quality (armor, clothing, backpacks, etc). These items do not count against Encumbrance. The only limit here is one of narrative sensibility: you can generally only wear one piece or armor, one necklace, one cloak, ten rings, and so on. And most standard characters are assumed to have at most two functioning hands with which to hold things. Different anatomies and states of being will drastically impact this, so in the end it's up to the Player and the 'Smith.
 
-Next, every character has a default **Personal Container** with a number of slots equal to the character's Maximum Encumbrance. All equipment on their sheet that is *not* Worn on the body must be either carried in their Personal container, or stowed into a carried container (which is in turn carried in their Personal container). It is important to note that **items inside containers do not count against the character's base Encumbrance!** Only the container's own base size counts against the Personal limit. That's why bags are great.
+Next, every character has a default **Personal Inventory** with a number of slots equal to the character's Maximum Encumbrance. These are all the items they are stowing on their person, but not necessarily holding or wearing. All equipment on their sheet that is *not* worn on the body must be either carried in their Personal Inventory, or stowed into a carried bag within that Inventory. It is important to note that **items inside bags do not count against the character's base Encumbrance!** Only the bag's own base size counts against the Personal limit. That's why bags are great.
 
-Finally, most characters will wear or carry one or more additional portable container gear items, such as backpacks, sacks, and chests. These provide additional encumbrance slots beyond the character's base amount. While the containers themselves count their own base Sizes against the character's Personal encumbrance, their individual contents should be listed and collected separately.
+Finally, most characters will wear or carry one or more additional portable bag gear items, such as backpacks, sacks, and chests. These provide additional encumbrance slots beyond the character's base amount. While the bags themselves count their own base Sizes against the character's Personal encumbrance, their individual contents should be listed and collected separately.
 
 **When you acquire new gear** it is up to you to determine where that gear is stowed. Choose wisely.
 
 
-#### Stacking Containers
+#### Stacking Bags
 
-Empty containers can be carried inside other containers, provide they fit. However, containers that are actively being used to contain items cannot be contained within larger containers. If you know of a better way to write that sentence, be my guest.
+Empty bags can be carried inside other bags, provide they fit. However, bags that are actively being used to contain items cannot be contained within larger bags.
 
-The purpose for this rule is to prevent the Nesting Doll effect. Intentionally, a character can only carry as many actively-used containers as their *Personal* encumbrance limit will allow.
+The purpose for this rule is to prevent the Nesting Doll effect. Intentionally, a character can only carry as many actively-used bags as their *Personal* encumbrance limit will allow.
 
 
-#### Container Destruction
+#### Bag Destruction
 
-If a container is destroyed, so too are all of its contents. Determining this is usually handled as part of some saving throw during the game. For most items, the target for that save is 10. Containers have variable saving throw based on their quality, shown in the gear list.
+If a bag is destroyed, so too are all of its contents. Determining this is usually handled as part of some saving throw during the game. For most items, the target for that save is 10. Bags have variable saving throw based on their quality, shown in the gear list.
 
 
 ### How much does that body weigh?
@@ -1030,6 +1069,14 @@ See "Experience"
 ## Light and Darkness
 
 As none of the base classes in HAMMERCRAWL! can see in the dark, having a source of light is crucial to successful dungeon delving. How can you expect to explore a dungeon and stay alive if you can't see?! In addition to all the standard role-playing needs that light serves in a game like this, the special meta-action of HAMMERCRAWL! are directly affected by it as well. For one you, absolutely require at least one light source in order to Camp, and if you try and Explore without light then you add potentially several additional dangerous Black Dice to the 'Smith's Divining Pool.
+
+There are five types of lighting:
+
+* Blackout
+* Darkness
+* Dim Light
+* Bright Light
+* Blinding Light
 
 HAMMERCRAWL! uses "classic" light sources and turn durations:
 
