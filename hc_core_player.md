@@ -1472,6 +1472,20 @@ When done, you are in a Defensive state, and all attacks taken against you *that
 This of course consumes your action for the round.
 
 
+#### Special: Pain for Gain (aka "the Missing Sucks Rule")
+
+Combat by all means *should* be a quick and deadly endeavor for all involved. Nothing slows that down more than repeatedly whiffing on every roll, turn after turn, ad infinitum. That's why HAMMERCRAWL! features the special Pain for Gain rule.
+
+**Pain for Gain:** When you roll a miss on a combat attack, you can choose to push yourself extra harder and hit anyway. Doing so requires that you self-inflict an amount of damage equal to the difference between your total roll and the actual AC/target/etc needed to hit. If you choose this action, your attack hits, and you roll damage as normal. Your damage dealt happens simultaneous to your damage received.
+
+Exceptions:
+
+* You can take this choice even if you don't have enough HP left to survive it.
+* You can take this choice even if you roll a critical hit.
+* You *cannot* take this action if your attack was prevented by a magical spell (such as Shield blocking arrow attacks).
+* You *cannot* take this action if your enemy is wearing magically-boosted armor, unless you are using a magical weapon of equal or greater enhancement (i.e. a Sword +1 against Chain Armour +1).
+
+
 #### Special: Tactical Action
 
 TBD
