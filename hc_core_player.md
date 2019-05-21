@@ -754,13 +754,13 @@ Below are extended special details on the specially-noted items from the above l
 
 **Bedroll:** Fulfills rest requirements for camping HP recovery actions.
 
-**Candle:** Primarily used as a single-person light source. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
+**Candle:** Primarily used as a single-person light source. A lit candle lasts 6 turns, giving a 5-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
 **Case, Scroll:** Scroll cases are specialized bag items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll, or up to five rolled-up maps or other documents.
 
 **Healing Potion:** Requires a full round to consume, healing 1d6+1 HP.
 
-**Lantern:** Primarily used as a group bright light sources. Making use of a Lantern for this purpose requires the expenditure of one flask worth of lantern oil. See the "Light and Darkness" rules in the "Playing Your Character" chapter for further details.
+**Lantern:** Primarily used as a group bright light sources. Making use of a Lantern for this purpose requires the expenditure of one flask worth of lantern oil. A lit lantern lasts 24 turns (4 hours), giving a 40-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter for further details.
 
 **Lantern Hook:** A special rigged hook that attaches to a backpack and curves over the character's head. Can mount (contain) a single lantern overhead, allowing an active light source without a dedicated hand to hold it. Adds significant height, and counts against the backpacks slots.
 
@@ -768,7 +768,7 @@ Below are extended special details on the specially-noted items from the above l
 
 **Sacks, All:** Sacks are handy bag items common to all adventuring lifestyles. Of special note, while empty, folded, and stowed away, sacks count as one size smaller. This is already shown on the bag table.
 
-**Torch:** Primarily used as a small-group limited light source. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
+**Torch:** Primarily used as a small-group limited light source. A lit torch lasts 6 turns (1 hour), giving a 20-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
 
 
@@ -834,17 +834,7 @@ If you choose to **Fight On**, you can take an action as normal! Resolve it, and
 
 ### Magically Restoring Lost CON
 
-If your CON has been permanently reduced due to taking damage below zero HP, then the only way to restore it is through advanced medical technology of 21st century or later (good luck finding that in your dirty-ass dungeon), or instead via a special alternate use of the Level 4 Cleric Spell *Cure Serious Wounds* spell (or similar potion or scroll).
-
-When *Cure Serious Wounds* is used to restore lost CON from damage, ignore the spell's normal printed effect and use the following description instead:
-
-
-#### Cure Serious Wounds
-
-* **Target:** One living creature
-* **Range:** Touch
-* **Duration:** Permanent
-* **Effect:** Restore 1d4 + Caster Level in lost CON stat points to the target. The caster can target themselves with this spell.
+If your CON has been permanently reduced due to taking damage below zero HP, then the only way to restore it is through advanced medical technology of 21st century or later (good luck finding that in your dirty-ass dungeon), or instead via a special alternate use of the Level 4 Cleric Spell *Cure Serious Wounds* spell (or similar potion or scroll). See the Magic Section for specific spell details.
 
 
 ## Death
@@ -1070,25 +1060,50 @@ See "Experience"
 
 As none of the base classes in HAMMERCRAWL! can see in the dark, having a source of light is crucial to successful dungeon delving. How can you expect to explore a dungeon and stay alive if you can't see?! In addition to all the standard role-playing needs that light serves in a game like this, the special meta-action of HAMMERCRAWL! are directly affected by it as well. For one you, absolutely require at least one light source in order to Camp, and if you try and Explore without light then you add potentially several additional dangerous Black Dice to the 'Smith's Divining Pool.
 
+
+### Types of Lighting
+
 There are five types of lighting:
 
-* Blackout
-* Darkness
-* Dim Light
-* Bright Light
-* Blinding Light
+* **Darkness:** Complete loss of visual perception, must rely on other senses if available. See deeper description further below.
+* **Weak Light:** Good enough for basic visibility, but apply disadvantage to deeper visual perception-based rolls at the 'Smith's discretion.
+* **Strong Light:** Good light for human vision, no light-specific penalties applied.
+* **Blinding Light:** Without adequate eye protection, suffer disadvantage to visual perception-based rolls. Continued exposure can lead to temporary or even permanent loss of vision at the 'Smith's discretion.
 
-HAMMERCRAWL! uses "classic" light sources and turn durations:
 
-* 1 torch = Burns for 6 turns (1 hour), with a 20-foot radius of effective light
-* lantern w/ 1 flash of oil = burns for 24 turns (4 hours), with a 40-foot radius of effective light
+### Common Light Sources
+
+Most adventuring parties in HAMMERCRAWL! have access to the following "common" sources of light:
+
+* **Candle:** Lasts 6 turns, giving a 5-foot radius of weak light
+* **Torch:** Lasts 6 turns (1 hour), giving a 20-foot radius of weak light
+* **Lantern w/ 1 flask of oil:** Lasts 24 turns (4 hours), giving a 40-foot radius of weak light
+* **Light Spell (requires spellcasting):** Lasts 6 turns (+1/caster level), giving a 15-foot radius of strong light
+
+
+### Combining/Canceling Light Sources
+
+Some of the following effects may occur in your games:
+
+* **Weak Light + Weak Light = Strong Light:** If two or more weak light sources are combines (such as two lit torches, for example), the result is a strong light in the overlapping space.
+* **Any Light + Regular Darkness = Regular Light:** Light of any kind introduced to darkness temporarily cancels that darkness. This should be pretty obvious.
+* **Magical Darkness + Regular Light = Magical Darkness:** Magical darkness is stronger than any regular light source.
+* **Magical Darkness + Magical Light = Double Negation:** Magical Darkness and Magical Light negate each other out of existence. If either side has a Continual effect, it returns to existence once the other effect has expired, but if both have the Continual effect then both are permanently negated. After negation, whatever regular lighting that previously existed returns to effect.
+
+I must note, however, that these are getting super nitpicky, so you may wish to just ignore this in your games and move the hell on with play.
+
+
+### Effects of Darkness
 
 When a character is acting under the effects of darkness, the following mechanics apply:
 
 * Their Combat Attack Dice pool is reduced by one. If this reduces it to Zero, they cannot effectively attack.
 * They can not perform Critical Hits on natural rolls of 20. Such rolls are treated as normal 20s instead, without the usual double damage effect.
 * Their Damage Hit Die is treated as one die size lower than it would normally be.
-* They roll with Disadvantage on Skill rolls and Area Saves.
+* They roll with Disadvantage on Skill rolls, Area Saves.
+* They roll with double Disadvantage on all rolls involving visual perception (if the 'Smith even allows them at all).
+
+As you can see, being in complete darkness is very much Not Good, so you are advised to keep fresh light sources handy at all times.
 
 
 ## Magic (ref)
@@ -1575,7 +1590,97 @@ Whenever a spellcaster acquires a new spell from an external source that is comp
 
 ## Spell Lists
 
-This game text does not have spell lists. Instead, I recommend you use whichever B/X or BECMI compatible spell list that you prefer. I find that the *Dark Dungeons* list is pretty comprehensive, and give it my seal of approved compatibility. In fact, it's the list I default to when I run HAMMERCRAWL!
+This game text does not *yet* have extensive spell lists, but over time it will certainly grow them out. In the meantime, I recommend you use whichever B/X or BECMI compatible spell list that you prefer. I find that the *Dark Dungeons* list is pretty comprehensive, and give it my seal of approved compatibility. In fact, it's the list I default to when I run HAMMERCRAWL!
+
+
+### Cleric Spell Lists
+
+#### Level 1
+
+#### Level 2
+
+#### Level 3
+
+#### Level 4
+
+#### Level 5
+
+#### Level 6
+
+#### Level 7
+
+#### Level 8
+
+
+### Magic-User Spell Lists
+
+#### Level 1
+
+#### Level 2
+
+#### Level 3
+
+#### Level 4
+
+#### Level 5
+
+#### Level 6
+
+#### Level 7
+
+#### Level 8
+
+
+## Spells Detailed
+
+The growing collection of detailed spells is below, sorted alphabetically
+
+Template:
+
+* **Level**
+* **Target:**
+* **Range:**
+* **Duration:**
+* **Effect:**
+
+### Spells C
+
+##### Cure Light Wounds
+
+* **Level** Cleric 1
+* **Target:** One living creature
+* **Range:** Touch
+* **Duration:** Permanent
+* **Effect:** If used on a target with HP less than max, target is restored 1d6 + Caster Level hit points.
+
+
+##### Cure Serious Wounds
+
+* **Level** Cleric 4
+* **Target:** One living creature
+* **Range:** Touch
+* **Duration:** Permanent
+* **Effect:** If used on a target with HP less than max but above zero, target is restored 2d6 + Caster Level hit points.
+
+If used on a target that is already below zero HP, instead restore 1d4 + Caster Level in lost CON stat points to the target. If this restores their CON to original value, any remainder on the roll is applied to restore HP. The caster can target themselves with this spell.
+
+
+### Spells L
+
+##### Light
+
+* **Level**
+* **Target:** Self, 1 object, or 1 creature
+* **Range:** 30 ft.
+* **Duration:** 6 turns (+1/caster level)
+* **Effect:** Light is a versatile spell, with effects depending on the target. If cast upon themself, a small fist-sized orb of light appears in the caster's hand. The orb provides a 15-foot radius of strong light. The caster cannot use their hand for other purposes, or the spell is canceled.
+
+If cast on an object, the object glows with the same strength of light, which lasts until the spell is done.
+
+If cast on a creature, the creature must make a Body Save or be blinded for the duration of the spell.
+
+In each case, the duration of the spell is the same, and the caster can cancel it at any time.
+
 
 
 ## Wait a Sec... What about Level 9 Spells?
