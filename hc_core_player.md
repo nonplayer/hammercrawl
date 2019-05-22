@@ -84,7 +84,7 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **No Natural Darkvision:** No characters begin the game with natural low-light or darkvision. The management of light sources is a crucial part of play for every character in the party.
 * **Armor Class:** Base 10, Ascending.
 * **Time Tracking:** The "Beat" is the equivalent of the "Turn" in older editions (i.e. 10 minutes of in-game time). "Turn" is instead applied to Combat only. A Combat round is 10 seconds of time, thus there are 6 Rounds in a Minute. However, any single combat encounter *always* advances game time by one full Beat.
-* **Combat Initiative:** Side-based, then ordered by a five-step flow based on type of action (Move, Missile, Melee, Misc, Magic)
+* **Combat Initiative:** Side-based, then determined by Leaders.
 * **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
 * **Experience Levels:** 15 levels for all characters. To attain the next Experience Level, you need that level x10 in Experience Points (XP), and every time you gain a level your XP reserve resets to zero.
 * **Experience Points (XP):** XP is gained from exploring new locations and defeating the challenges within.
