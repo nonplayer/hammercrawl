@@ -83,6 +83,7 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **Feats:** There are no "Feats" in this game, at least as codified by other derivatives of The OG.
 * **No Natural Darkvision:** No characters begin the game with natural low-light or darkvision. The management of light sources is a crucial part of play for every character in the party.
 * **Armor Class:** Base 10, Ascending.
+* **Time Tracking:** The "Beat" is the equivalent of the "Turn" in older editions (i.e. 10 minutes of in-game time). "Turn" is instead applied to Combat only. A Combat round is 10 seconds of time, thus there are 6 Rounds in a Minute. However, any single combat encounter *always* advances game time by one full Beat.
 * **Combat Initiative:** Side-based, then ordered by a five-step flow based on type of action (Move, Missile, Melee, Misc, Magic)
 * **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
 * **Experience Levels:** 15 levels for all characters. To attain the next Experience Level, you need that level x10 in Experience Points (XP), and every time you gain a level your XP reserve resets to zero.
@@ -191,7 +192,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Born in Armor:** Dwarves in Medium or heavier armour do not suffer AC penalties from low DEX mods. Heavy armour never reduces their movement speed.
 
-**Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a turn searching.
+**Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a Beat searching.
 
 **Dwarf Battlemaster:** Dwarves have a bonus melee-only attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
@@ -223,7 +224,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Blade Dancer:** Elves are skilled at fighting with two weapons at once. When wielding two one-handed weapons, Elves roll one extra attack die, but lower their damage die by one step (to a d6) for the entire assault. At level 9, this increases to two extra attack dice.
 
-**Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a turn searching.
+**Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a Beat searching.
 
 **War Adept:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
@@ -530,10 +531,10 @@ Hopefully the rest of your group has been making your characters alongside one a
 
 **The Roles to Assign:**
 
-* **Party Leader:** This player is responsible for informing the Hammersmith when the party moves on or takes any of the Party Actions.
+* **Party Leader:** This player is responsible for choosing Initiative orders, and for informing the Hammersmith when the party moves on or takes any of the Party Actions.
 * **Mapper:** This player is responsible for translating the Hammersmith's descriptions to a map that the party can use, in whatever artistic fashion the player sees fit.
 * **Lootkeeper:** This player keeps a master list of all the loot discovered, so it can be fairly distributed by the party upon returning to town. It might not be wise to assign this role to the Thief...
-* **Timekeeper:** The player tracks the passage of game Turns, and keeps track of who is carrying what light sources (and how much time is left on them).
+* **Timekeeper:** The player tracks the passage of game Beats, and keeps track of who is carrying what light sources (and how much time is left on them).
 
 
 ## Final Step: Take it All In
@@ -754,13 +755,13 @@ Below are extended special details on the specially-noted items from the above l
 
 **Bedroll:** Fulfills rest requirements for camping HP recovery actions.
 
-**Candle:** Primarily used as a single-person light source. A lit candle lasts 6 turns, giving a 5-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
+**Candle:** Primarily used as a single-person light source. A lit candle lasts 6 Beats, giving a 5-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
 **Case, Scroll:** Scroll cases are specialized bag items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll, or up to five rolled-up maps or other documents.
 
 **Healing Potion:** Requires a full round to consume, healing 1d6+1 HP.
 
-**Lantern:** Primarily used as a group bright light sources. Making use of a Lantern for this purpose requires the expenditure of one flask worth of lantern oil. A lit lantern lasts 24 turns (4 hours), giving a 40-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter for further details.
+**Lantern:** Primarily used as a group bright light sources. Making use of a Lantern for this purpose requires the expenditure of one flask worth of lantern oil. A lit lantern lasts 24 Beats (4 hours), giving a 40-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter for further details.
 
 **Lantern Hook:** A special rigged hook that attaches to a backpack and curves over the character's head. Can mount (contain) a single lantern overhead, allowing an active light source without a dedicated hand to hold it. Adds significant height, and counts against the backpacks slots.
 
@@ -768,7 +769,7 @@ Below are extended special details on the specially-noted items from the above l
 
 **Sacks, All:** Sacks are handy bag items common to all adventuring lifestyles. Of special note, while empty, folded, and stowed away, sacks count as one size smaller. This is already shown on the bag table.
 
-**Torch:** Primarily used as a small-group limited light source. A lit torch lasts 6 turns (1 hour), giving a 20-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
+**Torch:** Primarily used as a small-group limited light source. A lit torch lasts 6 Beats (1 hour), giving a 20-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
 
 
@@ -1075,10 +1076,10 @@ There are five types of lighting:
 
 Most adventuring parties in HAMMERCRAWL! have access to the following "common" sources of light:
 
-* **Candle:** Lasts 6 turns, giving a 5-foot radius of weak light
-* **Torch:** Lasts 6 turns (1 hour), giving a 20-foot radius of weak light
-* **Lantern w/ 1 flask of oil:** Lasts 24 turns (4 hours), giving a 40-foot radius of weak light
-* **Light Spell (requires spellcasting):** Lasts 6 turns (+1/caster level), giving a 15-foot radius of strong light
+* **Candle:** Lasts 6 Beats, giving a 5-foot radius of weak light
+* **Torch:** Lasts 6 Beats (1 hour), giving a 20-foot radius of weak light
+* **Lantern w/ 1 flask of oil:** Lasts 24 Beats (4 hours), giving a 40-foot radius of weak light
+* **Light Spell (requires spellcasting):** Lasts 6 Beats (+1/caster level), giving a 15-foot radius of strong light
 
 
 ### Combining/Canceling Light Sources
@@ -1146,7 +1147,7 @@ The HAMMERCRAWL! rules add a set of special meta-actions to the mix, which the P
 
 The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the Hammersmith announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light and Rations, however. The Party Leader can activate a Camp action at any time while in a Safe Haven, provided the party has the required resources below:
 
-* **Time:** The action takes a minimum of 6 Turns (1 hour; light is required and spent accordingly unless the *entire* party can somehow see in the dark)
+* **Time:** The action takes a minimum of 6 Beats (1 hour; light is required and spent accordingly unless the *entire* party can somehow see in the dark)
 * **Food:** Each character must consume 1 Ration
 
 First, each character in the party gets the following action for free:
@@ -1179,7 +1180,7 @@ Each dungeon will likely consist of multiple levels, with many rooms among them.
 
 In order to continue exploring the Dungeon, your party leader must tell the 'Smith' that your group is moving on to the next Room - be sure to discuss tactics and approaches before you move! Moving to the next room in this fashion initiates the **Explore Action** and tells the 'Smith' that it's time to roll the dungeon die and the Divining Pool. The rules for divining the Explore Action are in the Hammersmith's section of the rules.
 
-**TIME:** The Explore action requires a minimum of 1 turn of time, so have light sources ready!
+**TIME:** The Explore action requires a minimum of 1 Beat of time, so have light sources ready!
 
 
 ### Party Action: Return to Town
@@ -1226,9 +1227,9 @@ For example, a 2nd level Adventurer (Tier 1) saving against the magical fear eff
 
 ## Searching for Hidden Secrets
 
-Adventurers can search for clues and hidden secrets in the dungeon by spending time in active investigation. A character can search a single 10 x 10 area in a minimum one Turn of time, and of course the party can split up to cover more ground in larger areas by searching simultaneously. Characters can spend longer searching, and increase their chances of success.
+Adventurers can search for clues and hidden secrets in the dungeon by spending time in active investigation. A character can search a single 10 x 10 area in a minimum one Beat of time, and of course the party can split up to cover more ground in larger areas by searching simultaneously. Characters can spend longer searching, and increase their chances of success.
 
-When one or more characters are searching, the Hammersmith asks how many characters (if any) are searching together, and how long they intend to spend searching. After the time stated, the 'Smith secretly rolls to see if they found anything that may have been hidden in their area. Each character searching has a cumulative 1 in 6 chance of finding a hidden secret in the area per turn spent searching. If they work together, their efforts are combined. For example, two characters who spend two turns together searching the same area have a 4 in 6 chance of finding a hidden secret. If the combined time and efforts push the chance to 6 in 6 or more, the characters automatically find the secret(s) after the allotted amount of time.
+When one or more characters are searching, the Hammersmith asks how many characters (if any) are searching together, and how long they intend to spend searching. After the time stated, the 'Smith secretly rolls to see if they found anything that may have been hidden in their area. Each character searching has a cumulative 1 in 6 chance of finding a hidden secret in the area per Beat spent searching. If they work together, their efforts are combined. For example, two characters who spend two Beats together searching the same area have a 4 in 6 chance of finding a hidden secret. If the combined time and efforts push the chance to 6 in 6 or more, the characters automatically find the secret(s) after the allotted amount of time.
 
 Note that a successful search result still won't find any hidden secrets if there are none there to find in the first place. And also note that discovering the *existence* of the secret doesn't necessarily inform the characters how to *access* that secret, either. That may require additional detailed, creative, and hands-on storytelling, role-playing, and scene exploration.
 
@@ -1338,15 +1339,13 @@ Dungeon levels have tiers too! A Dungeon Level's Tier rank is derived from the H
 
 ## Timekeeping
 
-1 second = ~1 action phase (move/missile/melee/misc/magic)
+1 Round = ~10 seconds
 
-1 round = ~10 seconds = ~10 action phases
+1 Minute = ~6 rounds
 
-1 minute = ~6 rounds
+1 Beat = ~10 minutes = ~60 rounds
 
-1 turn = ~10 minutes = ~60 rounds
-
-1 hour = ~6 turns
+1 Hour = ~6 Beats
 
 
 ## Turn Unholy
@@ -1395,14 +1394,13 @@ TBD
 
 1. Check for Surprise
 2. COMBAT ROUNDS
-  * Roll Initiative to determine first action.
-  * COMBAT TURN
-    - Phase 1: Resolve Movement Actions
-    - Phase 2: Resolve Missile Actions
-    - Phase 3: Resolve Melee Actions
-    - Phase 4: Resolve Misc. Actions
-    - Phase 5: Resolve Magic Actions
-  * Still Fighting? Back to Initiative!
+  * Leaders roll Initiative to determine which side goes first.
+  * SIDES:
+    - Leaders determine who takes first Turn.
+    - Afterward, leader determines who takes the next Turn.
+    - Repeat until the side has fully acted.
+    - If the other side hasn't acted yet, they now get to do so as above.
+  * After both sides are complete, if there is still a fight to resolve, return to Initiative.
 3. LOOT TIME!
 
 
@@ -1424,42 +1422,45 @@ At the top of each Round of combat, the designated leader of each side rolls ini
 2. Winner of last initiative wins
 3. Roll off
 
-After Initiative is determined, the winning side gets to take all of their actions first, followed by the losing side. Each side must take their actions in the following order, every time:
+After Initiative is determined, the winning side gets to take all of their actions first, followed by the losing side. In the unusual case of three-plus side competing against each other, each side acts in the order they rolled.
 
-1. Movement: Resolve all Movement first.
-2. Missile: People firing ranged weapons go second.
-3. Melee: People making melee attacks go third.
-4. Misc.: People taking "miscellaneous" actions go fourth.
-5. Magic: People using magic spells and attacks go last.
+When the players' side acts, the Leader designates who goes first. After that player's action is done, the Leader again designates who goes next. This repeats until everyone has taken a Turn.
 
-The Hammersmith resolves this by announcing which "phase" of action is now, and resolving the actions of any characters who are acting in that phase. Players can choose to wait to declare their actions until their chosen phase is announced. Actions are declared and resolved at the same time.
+When the 'Smith's side acts, they are allowed to choose in what order their minions act, as they act, and resolve them one at a time accordingly.
+
+Once both sides have completed their turns, it is time to roll initiative for a new round of combat. Repeat these rounds until one side is the victor, or another suitable outcome is reached.
 
 
-### Movement Phase
+### Your Turn
 
-After winning Initiative, everyone on the acting side can choose one of the following movement options:
+On your turn, you can Move and then Act, or instead Act and then Move. You cannot split that up unless rules specifically tell you otherwise.
+
+
+#### Moving
+
+Your movement options are as follows:
 
 * **Stay Put:** By standing your ground and not moving, you still get to act afterward in the proper order this round. You additionally enjoy a +1 readiness bonus to any one rolled die (of any size) during that action.
-* **Move Near:** You can choose to move no further than your Speed, and still act afterward in the proper order this round.
-* **Move Far:** You can choose to rush, moving up to double your Speed. You do not get to act afterward this round.
+* **Move Near:** You can choose to move no further than your Speed, and still take an action this round.
+* **Move Far:** You can choose to rush, moving up to double your Speed. You can not both Move Far and Take an Action in the same round.
 
 
-### Missile Phase
+#### Taking Actions
 
-After movement, anyone making missile, thrown, or other ranged attacks acts.
-
-
-### Melee Phase
-
-After missile attacks are resolved, anyone making melee attacks acts.
+TBD
 
 
-### Misc. Phase
+##### Basic Attack Action
 
-After melee attacks are resolved, anyone taking any other "miscellaneous" actions acts.
+TBD
 
 
-#### Special: Defensive Action
+##### Cast Spell Action
+
+TBD
+
+
+##### Defensive Action
 
 You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position."
 
@@ -1472,48 +1473,7 @@ When done, you are in a Defensive state, and all attacks taken against you *that
 This of course consumes your action for the round.
 
 
-#### Special: Pain for Gain (aka "the Missing Sucks Rule")
-
-Combat by all means *should* be a quick and deadly endeavor for all involved. Nothing slows that down more than repeatedly whiffing on every roll, turn after turn, ad infinitum. That's why HAMMERCRAWL! features the special Pain for Gain rule.
-
-**Pain for Gain:** When you roll a miss on a combat attack, you can choose to push yourself extra harder and hit anyway. Doing so requires that you self-inflict an amount of damage equal to the difference between your total roll and the actual AC/target/etc needed to hit. If you choose this action, your attack hits, and you roll damage as normal. Your damage dealt happens simultaneous to your damage received.
-
-Exceptions:
-
-* You can take this choice even if you don't have enough HP left to survive it.
-* You can take this choice even if you roll a critical hit.
-* You *cannot* take this action if your attack was prevented by a magical spell (such as Shield blocking arrow attacks).
-* You *cannot* take this action if your enemy is wearing magically-boosted armor, unless you are using a magical weapon of equal or greater enhancement (i.e. a Sword +1 against Chain Armour +1).
-
-
-#### Special: Tactical Action
-
-TBD
-
-
-### Magic Phase
-
-Finally, at the end of the round, anyone wishing to cast a spell or activate a magical spell-like effect gets to take their actions.
-
-
-### Loot Time!
-
-When combat ends, the survivors gain the might-gained right to loot the bodies of the fallen, both foe and friend alike. This is a divine privilege that extends back to the earliest days of gaming, and is in fact the reason many of us still play these elf games today. Loot gained through feats of martial and magical prowess is the best loot, bar none.
-
-
-## Combat Special Rules
-
-Alphabetized for ease of reference.
-
-
-### Critical Hits and Fumbles
-
-If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies advantage against them for the next round).
-
-If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
-
-
-### Shield Bash
+##### Shield Bash Action
 
 The **shield bash** is a special melee attack available to Dwarves and Fighters. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
@@ -1524,7 +1484,21 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters.
 Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
 
 
-### Tactical Attacks
+##### Swap Gear Action
+
+On your Turn, you can freely swap between any gear that you are holding or carrying in your immediate Personal Inventory. This does not cost an action, but does require it to be your active turn.
+
+For an action, you can swap between held/carried items and items inside your carried Bags. This requires an action, because you have to stop what you're doing, open the bags, dig around in them, and so on.
+
+Wearable items cannot normally be swapped out mid-combat without explicit allowances by the 'Smith.
+
+
+##### Tactical Action
+
+TBD
+
+
+##### Tactical Attack
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
@@ -1543,11 +1517,45 @@ If failed, the Hammersmith chooses one of the following based on the description
 Tactical Actions are great for setting an opportunity for a Thief's Stabbity attack.
 
 
-### Two-Weapon Fighting
+### Special Combat Rules
+
+Alphabetized for ease of reference.
+
+
+#### Critical Hits and Fumbles
+
+If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies advantage against them for the next round).
+
+If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
+
+
+#### Pain for Gain (aka "the Missing Sucks Rule")
+
+Combat by all means *should* be a quick and deadly endeavor for all involved. Nothing slows that down more than repeatedly whiffing on every roll, turn after turn, ad infinitum. That's why HAMMERCRAWL! features the special Pain for Gain rule.
+
+**Pain for Gain:** When you roll a miss on a combat attack, you can choose to push yourself extra harder and hit anyway. Doing so requires that you self-inflict an amount of damage equal to the difference between your total roll and the actual AC/target/etc needed to hit. If you choose this action, your attack hits, and you roll damage as normal. Your damage dealt happens simultaneous to your damage received.
+
+Exceptions:
+
+* You can take this choice even if you don't have enough HP left to survive it.
+* You can take this choice even if you roll a critical hit.
+* You *cannot* take this action if your attack was prevented by a magical spell (such as Shield blocking arrow attacks).
+* You *cannot* take this action if your enemy is wearing magically-boosted armor, unless you are using a magical weapon of equal or greater enhancement (i.e. a Sword +1 against Chain Armour +1).
+
+
+#### Two-Weapon Fighting
 
 In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - this is entirely a matter of narrative description, and players are encouraged to go wild with their imaginations here. Elf Exemplars are the only characters that receive *specific* mechanical bonuses for attempting to do fight in that style.
 
 Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to tactically employ two-weapon attacks on the regular are encouraged to instead consider incorporate them as description for Tactical Actions (see above).
+
+
+## After Combat
+
+
+### Loot Time!
+
+When combat ends, the survivors gain the might-gained right to loot the bodies of the fallen, both foe and friend alike. This is a divine privilege that extends back to the earliest days of gaming, and is in fact the reason many of us still play these elf games today. Loot gained through feats of martial and magical prowess is the best loot, bar none.
 
 
 
@@ -1686,7 +1694,7 @@ If used on a target that is already below zero HP, instead restore 1d4 + Caster 
 * **Level**
 * **Target:** Self, 1 object, or 1 creature
 * **Range:** 30 ft.
-* **Duration:** 6 turns (+1/caster level)
+* **Duration:** 6 Beats (+1/caster level)
 * **Effect:** Light is a versatile spell, with effects depending on the target. If cast upon themself, a small fist-sized orb of light appears in the caster's hand. The orb provides a 15-foot radius of strong light. The caster cannot use their hand for other purposes, or the spell is canceled.
 
 If cast on an object, the object glows with the same strength of light, which lasts until the spell is done.
