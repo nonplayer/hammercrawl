@@ -498,7 +498,7 @@ Take note of and possibly apply effects from applicable Comets and Chaos Stars b
 
 **Blood Drops:** INJURY! When blood drops are rolled (Red dice only), the team suffered damage or stress of some kind in their charge forward. Roll Xd4 damage (X = current dungeon level) and have the team apply it among themselves.
 
-**Hourglasses:** DELAY! When an Hourglass is rolled (Green dice only), the team suffered some form of additional delay getting to the next room. Knock off an additional 1d4 Turns of game time.
+**Hourglasses:** DELAY! When an Hourglass is rolled (Green dice only), the team suffered some form of additional delay getting to the next room. Knock off an additional 1d4 Beats of game time.
 
 Apply all effects from Blood Drops and Hourglasses before moving on to...
 
@@ -517,7 +517,7 @@ Net *Falcons* represent minor boons encountered during travel to the next room. 
 
 Net *Skulls* represent minor setbacks incurred during travel to the next room. Similar to Falcons, apply from the list below:
 
-* Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 turns of time from their durations.
+* Their active light sources flicker and sputter for whatever reason, removing an extra 1d4 Beats of time from their durations.
 * One of their maintained spells suddenly fails.
 * Another random encounter happened by while in transit! (Roll a single Purple Die for this new challenge, ignoring any skulls)
 * One of their rations spoils and must be discarded!
