@@ -20,12 +20,17 @@ This document serves as a constantly growing guide to the "official" world of th
 
 ## The Somewhat But Not Really All That Far Past
 
-(TBD)
+Rough timeline:
+
+* The first **Lollafairuza** music festival is held in the **Land of 1997**
+* The great **Battle of Jiggleton**, a civil war in the land of Jiggleton
 
 
 ## Recent Times
 
-(TBD)
+Rough timeline:
+
+* The **Unhappiness Purge of '07** in the land of Jiggleton, which resulted in a fourth of the town of Jigglesworth being ruined
 
 
 # Geography
