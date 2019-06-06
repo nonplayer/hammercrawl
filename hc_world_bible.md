@@ -135,7 +135,9 @@ Known Personages:
 
 ### The Province of Doom
 
-Far, far, far to the north lies the dismal and cold **Province of Doom**. Key locations:
+Far, far, far to the north lies the dismal and cold **Province of Doom**.
+
+Known Locations:
 
 * The **Eleven Mountain Ranges of Doom**
   - The **Sepulchre of Gino**, a dungeon within the ranges
@@ -167,19 +169,25 @@ Some notes:
 
 ### The Province of Ted
 
-(TBD)
+Known Locations:
+
+* The **Town of Testament**
+* The **Barrow of Evil**, a dungeon
+* The **Great Barrow of Evil**, a dungeon
+* The **Dread Barrow of Evil**, a dungeon
 
 
 #### The Town of Testament
 
 Located in the Provice of Ted. Key notes:
 
-* Run by **Mayor Chuck Testa**
-* Known in the local Legend of **Pabrycyg**, a local minor deific figure. Pabrycyg was a husky puppy that sacrificed itself to save some families or something like that. His petrified body is on display in town as a statue of great local fame and respect.
-* Testament’s local **Town Crier** is named **Yelp**, named as such because he is literally unable to speak softly.
-* The **Barrow of Evil**
-* The **Great Barrow of Evil**
-* The **Dread Barrow of Evil**
+This town is most known in the local Legend of **Pabrycyg**, a local minor deific figure. Pabrycyg was a husky puppy that sacrificed itself to save some families or something like that. His petrified body is on display in town as a statue of great local fame and respect.
+
+Known Personages:
+
+* **Mayor Chuck Testa**
+* **Yelp** the town crier, named as such because he is literally unable to speak softly.
+
 
 
 ### Other Places
