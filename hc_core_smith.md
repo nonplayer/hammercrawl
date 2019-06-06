@@ -391,17 +391,19 @@ Here are all of the randomizers that I have found to be most excellent for runni
 
 First and foremost, **nothing beats [The Donjon](http://donjon.bin.sh/)** for it's enormous variety of pure randomized awesomeness. This website is the most-used tool in my collection of randomness. It's a vast and comprehensive site with more generators than you could possibly imagine, and I recommend it as the first stop for all your immediate randomizer needs.
 
-Beyond the Donjon, here are some other good resources:
+Beyond the Donjon, here are some other good resources. Please note that I've added affiliate links to anything linking to DrivethruRPG, as it helps pay for new gaming tools to test out.
 
 ### Physical Randomizers
 
 All of the items in this list use tangible, physical components.
 
 * [DungeonMorph Cards and Dice](http://dungeonmorphs.com/)
-* [The GameMaster's Apprentice Cards, Fantasy Deck](https://www.drivethrucards.com/product/213131/The-GameMasters-Apprentice-Fantasy-Deck)
-* [Eric Bright's Encounter Building Cards](https://www.drivethrurpg.com/product/188924/Encounter-Building-Cards-Locations)
-* [Undercity's Dungeon Cartography Cards](https://www.drivethrurpg.com/product/104422/Dungeon-Cartography-Cards-Set-One-Dungeons)
-* [Fatbelly's Monster Mod Cards](https://www.drivethrurpg.com/product/175652/Monster-Mod-Cards)
+* [Undercity's Dungeon Cartography Cards](https://www.drivethrurpg.com/product/104422/Dungeon-Cartography-Cards-Set-One-Dungeons?affiliate_id=158958)
+* [The GameMaster's Apprentice Cards, Fantasy Deck](https://www.drivethrucards.com/product/213131/The-GameMasters-Apprentice-Fantasy-Deck?affiliate_id=158958)
+* Eric Bright's Encounter Building Cards:
+  * [Locations](https://www.drivethrurpg.com/product/188924/Encounter-Building-Cards-Locations?affiliate_id=158958)
+  * [Traps](https://www.drivethrurpg.com/product/188927/Encounter-Building-Cards-Traps?affiliate_id=158958)
+* [Fatbelly's Monster Mod Cards](https://www.drivethrurpg.com/product/175652/Monster-Mod-Cards?affiliate_id=158958)
 
 ### Mobile Apps
 
