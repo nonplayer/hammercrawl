@@ -94,7 +94,7 @@ Unsorted:
 
 ### 1996
 
-The realm of 1996 is a tyrannical dystopia that is barely worth further mention in these records, lest others foolishly deem it an interesting place to visit.
+The realm of **1996** is a tyrannical dystopia that is barely worth further mention in these records, lest others foolishly deem it an interesting place to visit.
 
 But for the sake of completeness, sigh...
 
@@ -110,7 +110,7 @@ Known Personages:
 
 ### 1997
 
-The distant land of 1997 is known for its diverse colleges and it's plethora of Hottest Topics general stores. The region has a reputation for being a good starting point for many displaced teenaged would-be adventurers, most of which find new adventuring parties at the annual **Lollafairuza** alternative music festival.
+The distant land of **1997** is known for its diverse colleges and it's plethora of Hottest Topics general stores. The region has a reputation for being a good starting point for many displaced teenaged would-be adventurers, most of which find new adventuring parties at the annual **Lollafairuza** alternative music festival.
 
 The denizens of 1997 harbor a particular enmity with the denizens of neighboring kingdom 1996.
 
@@ -130,7 +130,7 @@ Known Personages:
 
 ### The Province of Doom
 
-Far, far, far to the north lies the dismal and cold Province of Doom. Key locations:
+Far, far, far to the north lies the dismal and cold **Province of Doom**. Key locations:
 
 * The **Eleven Mountain Ranges of Doom**
   - The **Sepulchre of Gino**, a dungeon within the ranges
@@ -146,7 +146,7 @@ Built at the **Crossroads of Doom**. Home of the **Gatharbar**, where many adven
 
 ### Jiggleton
 
-A land of unbridled and strongly-enforced Cheer, ruled by the grimly smiling Church of **Bouncey the Clown**.
+A land of unbridled and strongly-enforced **Cheer**, ruled by the grimly smiling Church of **Bouncey the Clown**.
 
 
 #### Jigglesworth
@@ -202,31 +202,31 @@ Misc notes on play:
 
 ### Bouncey the Clown, God of Uncomfortable Cheer (Law)
 
-Bouncey is the great clown god, forcing cheer down your throat whether you want it or not.
+**Bouncey** is the great clown god, forcing cheer down your throat whether you want it or not.
 
 
 ### Carob, God of Health Food and Flavorlessness (Law)
 
-Carob creates an abundance of healthy, tasteless chalk-like food for all that would worship him. Carob is the sworn enemy of Fireguy.
+**Carob** creates an abundance of healthy, tasteless chalk-like food for all that would worship him. Carob is the sworn enemy of **Fireguy**.
 
 
 ### Fairuza Balk, Mistress of the Elements (Neutral)
 
-Fairuza Balk is the name given to the loving Goddess of the Elements, the primary chosen patron of angsty rebellious teenage girls who feel the calling of the clerical ways. Fairuza is an especially popular Goddess in the distant land of 1997, where the locals pay a grand annual tribute to her in the form of the Lollafairuza music festival.
+**Fairuza Balk** is the name given to the loving Goddess of the Elements, the primary chosen patron of angsty rebellious teenage girls who feel the calling of the clerical ways. Fairuza is an especially popular Goddess in the distant land of 1997, where the locals pay a grand annual tribute to her in the form of the Lollafairuza music festival.
 
 
 ### Fireguy, God of Flavor and Also Fire (Chaos)
 
-Fireguy rules from the great deific city of Tastytown, in the legendary holy lands of Scrumpt. His clerics serve the best food, and love setting things on fire.
+**Fireguy** rules from the great deific city of Tastytown, in the legendary holy lands of Scrumpt. His clerics serve the best food, and love setting things on fire.
 
-Fireguy is sworn enemy of Carob.
+Fireguy is sworn enemy of **Carob**.
 
 Fireguy's clerics are known to bleach their hair to bring them closer to their god. The truly devout sometimes set their hair on fire.
 
 
 ### Gary, God of the Food of the Southern Borderlands (Neutral)
 
-Gary is a prolific god in the world. His symbol is a Bell. His holy text is a Taco Bell receipt, preserved from the long-before times.
+**Gary** is a prolific god in the world. His symbol is a Bell. His holy text is a Taco Bell receipt, preserved from the long-before times.
 
 There are four "Ways" of the Church of Gary, based on the original items in the receipt.
 
@@ -237,7 +237,7 @@ The Churches of Gary frequently house 24-step recovery programs, which have prov
 
 **Main Belief:** To Be perfect, one must be Fresh
 
-A splinter sect that left the orthodox church of Gary after discovering what they refer to as the New Accords of Freshness, buried in ancient debris very close to the original site of Gary's first testament. They are known to live by The Freshness, so much so that some cells of this sect have chosen the lifestyle of paleo-cannibalism.
+A splinter sect that left the orthodox church of Gary after discovering what they refer to as the **New Accords of Freshness**, buried in ancient debris very close to the original site of Gary's first testament. They are known to live by The Freshness, so much so that some cells of this sect have chosen the lifestyle of paleo-cannibalism.
 
 (TBD)
 
