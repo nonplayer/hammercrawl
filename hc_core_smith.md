@@ -35,7 +35,16 @@ Read these pages, and reap the rewards of knowledge.
 
 ### 2. The Dungeon
 
+(TBD)
+
+* Be sure to set the Difficulty
+* Determine the total Hit Dice of the "floor boss" monster. This in turn sets the Tier of the dungeon, per the Tier rules in the Player Guide.
+
+
 ### 3. The Dice
+
+(TBD)
+
 
 ### The Divining Dice
 
@@ -291,7 +300,7 @@ Room encounters consist of any encounters pre-stocked in new rooms that the adve
 
 If you're generating your encounters completely on the fly, then you'll need to do a bit of improvisation here. While the actual nature of the creatures themselves are entirely up to you and whatever lists and/or randomizers you are using, this text recommends sticking with the core HAMMERCRAWL! Tier system as an initial method of eyeballing the power level of the encounters.
 
-In mechanical terms, this means that since you should have already determined the "Tier" of the current dungeon level by way of the
+In mechanical terms, this means that since you should have already determined the "Tier" of the current dungeon level (by way of the initial dungeon setup), you should already have an eyeballed HD range for most of the common contents of the level. Once you know the intended HD range of the encounter, you can then use the results of the Divining Pool roll to potentially raise or lower it in accordance with the fluctuating threat levels of the adventure.
 
 
 ### Wandering Monsters
