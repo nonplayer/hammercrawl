@@ -480,6 +480,22 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Reaction Rolls
 
 
+## Step X: Roll Your Social Status (SOC)
+
+Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is essentially a seventh Stat (SOC), but rolled separately from the core six, and recorded with its own modifier. This modifier may apply from time to time in dealings within your game world's societies.
+
+| SOC (3d6) | Mod | Status           |
+|-----------|-----|------------------|
+| 3         | -3  | Wretched         |
+| 4-5       | -2  | Peasant          |
+| 6-8       | -1  | Poor             |
+| 9-12      | 0   | Middle Class     |
+| 13-15     | +1  | Lesser Nobility  |
+| 16-17     | +2  | Greater Nobility |
+| 18        | +3  | Royalty          |
+
+
+
 ## Step X: Roll Your Skills
 
 While your character is assumed to have many unwritten skills simply through their class and background, you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
