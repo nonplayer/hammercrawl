@@ -13,24 +13,32 @@ This document serves as a constantly growing guide to the "official" world of th
 (TBD)
 
 
-## The Really, Really Far Past
+## The Really, Really Far Past (aka "The Times of Legend")
 
-(TBD)
-
+* Filler
+* The **Great Arrival of Heedron** marks the definitive endpoint of the Times of Legend.
 
 ## The Somewhat But Not Really All That Far Past
 
+Most calendars use the term "CE" (for "Chaos Era") to date the current march of years in a post-Arrival world.
+
 Rough timeline:
 
+* Filler
 * The first **Lollafairuza** music festival is held in the **Land of 1997**
+* Filler
 * The great **Battle of Jiggleton**, a civil war in the land of Jiggleton
+* Filler
 
 
 ## Recent Times
 
 Rough timeline:
 
+* Filler
 * The **Unhappiness Purge of '07** in the land of Jiggleton, which resulted in a fourth of the town of Jigglesworth being ruined
+* Filler
+* Present Day
 
 
 # Geography
@@ -294,6 +302,13 @@ Everyone except the goblins knows that **The Great Goblin God of Goblins** is ac
 ### The Great Yellow Canary (Good)
 
 Clerics of the **Great Yellow Canary** are best known for the giant yellow-feathered bird suits they wear over their armor. Canary Clerics wander the lands, bringing education to children and warring against corporate product placement in dungeons far and wide. The highest-level clerics of the order often ride invisible elephants into battle against the enemies of education.
+
+
+### Heedron, God of Randomized Chaos (Chaos)
+
+Heedron is the omni-faced randomizer of the universe, great equalizer of the times, Jester at the Gates of Certainty.
+
+Heedron's arrival in this dimension firmly marks the end of "ancient" times, and the beginning of the current Crawling Era. Following the appearance of Heedron in the great cosmology, New Gods of Sudden Whim began to ascend, resulting in the increasingly-diminished reverance of the older pre-Heedron deities.
 
 
 ### John, the Really Cool Dude that Everyone Likes (Good)
