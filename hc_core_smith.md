@@ -5,6 +5,9 @@ created: 2019-01-11
 
 # The Basics of Hammersmithin'
 
+
+## Core Principles of the 'Smith
+
 Some basic principles to follow:
 
 * **Always tell the Players their Target Numbers!** Seriously, don't waste everyone's time with that pointlessly sneaky number-concealing bullshit. This game is meant to move fast, and hiding DCs and Targets just slows things down for the sole sake of forcing some stupid un-fun antiquated artificial anti-metagame crap on everyone. When they need to Save, tell them the target before they roll. When they commit to an attack, tell them the enemy's AC so they can just tell you if they hit and not wait for you to verify it. Quit that middling crap and step up your game.
@@ -13,14 +16,32 @@ Some basic principles to follow:
 * **Egg and Entice them!** Give them big red shiny buttons that say "do not push" and then watch them fight over who gets to push them. Place the most stupidly obvious traps in their way and watch them second-guess themselves. And cheer them on the whole time!
 
 
-## The Smith's Tools
+## Setting Up Your Side of the Table
 
-The 'Smith needs a set of Warhammer Fantasy Roleplay 3rd Edition dice to serve as a way to "divine" the results of the party's actions. I am currently looking into adapting this system to use the new Genesys Fantasy RPG Dice, as well.
+(TBD)
 
+Core things you'll need:
+
+1. Knowledge of the Rules
+2. A Dungeon
+3. Dice
+4. Helpful additional Randomizers
+
+
+### 1. The Rules
+
+Read these pages, and reap the rewards of knowledge.
+
+
+### 2. The Dungeon
+
+### 3. The Dice
 
 ### The Divining Dice
 
-HAMMERCRAWL! makes use of the special colorful dice from the Genesys RPG to help the 'Smith randomly generate threat and other ideas on the spur of the moment (most commonly when they move into the next room of the dungeon). For the purposes of HAMMERCRAWL! the dice are as follows:
+Okay, I'm assuming you know about gaming dice already and probably have dozens of them at least. So we're not gonna go into describing what they are and how to roll them. In short, you just need a standard set, consisting of a d4, d6, d8, d10, d%, d12, and d20. You may find it helpful to have multiple d20s, and a few extras of the d4, d6, and d8 as well.
+
+Additionally, HAMMERCRAWL! makes use of the special colorful dice from the Genesys RPG to help the 'Smith randomly generate threat and other ideas on the spur of the moment (most commonly when they move into the next room of the dungeon). For the purposes of HAMMERCRAWL! the dice are as follows:
 
 * **Red - The Difficulty Dice:** A fluctuating pool of dice that determine the ongoing base challenge against the PCs.
 * **Green - The Reward Dice:** A pool of dice that increase as the PCs delve onward, giving them greater treasures and rewards.
@@ -29,10 +50,10 @@ HAMMERCRAWL! makes use of the special colorful dice from the Genesys RPG to help
 * **Black - The Bad Fortune Dice:** Dice that represent chaos working against the PCs.
 * **Yellow - The Expert Dice:** Dice that come into play when the PCs have the right tool, spell, or hireling for the job.
 
-
-### The Generators
+### 4. The Additional Randomizers
 
 This game works best if you keep a handful of randomizers at hand at all times during play. There are a number of them linked in Appendix R of this document, but that list is by no means fully comprehensive. New tools of this sort seem to pop up every year, and as such it's a glorious time to be gaming and into RPG randomizers.
+
 
 
 # Specific Hammersmith Actions
@@ -63,15 +84,30 @@ Now, add any additional dice based on a variety of situational factors:
 * **Did anyone actually say "Huzzah!" when entering?** Add both one Blue and one Black die to the Pool.
 * **Other Mods:** Add more dice based on whim, nefarious plans, the "Scout Ahead" camp action results, cocky player complacency, shifting planes, stock market trends, and whatever else you feel makes sense.
 
+Additionally, depending on how you are generating your dungeon, you may need to add one or more "mundane" dice to the pool to build the encounter. See "Random Encounters" later in this document.
 
 ***With the pool assembled, Roll the Dice!***
 
 
 ### Determine Outcome
 
-All dice are counted in HAMMERCRAWL! - no symbols cancel any other symbols.
+Once rolled, the following symbols cancel each other out one for one:
 
-**Arrows:** (aka the "Advantage" symbol - Green, Blue, and Yellow) - For each Arrow rolled, add one to a temporary pool of expendable d20 die-roll advantages that *the PCs* can use at their discretion in the next room. Advantages must be described and feasible within the confines of the narrative. These advantages do not carry on to other rooms, and are lost as soon as the PCs move on.
+* Arrows vs Targets
+* Suns and Xs
+* Sun-Circles vs X-Circles
+
+
+#### Arrows vs Targets: Advantages
+
+These dice symbols set up advantages for one side of the following encounter.
+
+**Arrows:** (aka the "Advantage" symbol - Green, Blue, and Yellow) - For each net Arrow rolled, add one to a temporary pool of expendable d20 die-roll advantages that *the PCs* can use at their discretion in the next room. Advantages must be described and feasible within the confines of the narrative. These advantages do not carry on to other rooms, and are lost as soon as the PCs move on.
+
+**Targets:** (aka the "Threat" symbol - Red, Black, and Purple) - For each net Target rolled, add one to a temporary pool of expendable d20 die-roll disadvantages that *the Hammersmith* can use at his discretion in the next room, applying them to the PCs stated actions. Disadvantages must be described and feasible within the confines of the narrative. These disadvantages do not carry on to other rooms, and are lost as soon as the PCs move on.
+
+
+#### Suns vs Xs: Encounter Modification
 
 **Suns:** (aka the "Success" symbol - Green, Blue, and Yellow) - Each Sun represents a tangible benefit for the players in the next room. Example benefits:
 
@@ -81,14 +117,11 @@ All dice are counted in HAMMERCRAWL! - no symbols cancel any other symbols.
 * The party catches the room's encounter(s) by surprise.
 * The room contains an environmental feature that favors or protects the Party.
 * The room will function as a Safe Haven once cleared of encounters.
+* The party discovers a discarded cache of 1d6 basic supplies of the 'Smith's discretion (torches, water, rations, potions, etc).
 * The room is guaranteed to have some random treasure, regardless of monsters or challenges present.
 * One of the treasures they find is guaranteed to be Magical.
 
-Additionally, each Sun increases the PCs' potential XP rewards for the encounter by 1, but *only* if there is at least one X in the pool as well.
-
-**Sun with Circles:** (aka the "Triumph" symbol - Yellow only) - Counts as a regular Sun, plus it *decreases* by 1 the number of Difficulty Dice in all subsequent Divining Pools while in this Dungeon. This *can* reduce the number of Difficulty Dice to zero for a single room, potentially earning the party a temporary reprieve of danger in the next room. However, immediately after, subsequent Difficulty pools reset to one die, unless subsequent Circle-Stars similarly reduce them again.
-
-**Targets:** (aka the "Threat" symbol - Red, Black, and Purple) - For each Target rolled, add one to a temporary pool of expendable d20 die-roll disadvantages that *the Hammersmith* can use at his discretion in the next room, applying them to the PCs stated actions. Disadvantages must be described and feasible within the confines of the narrative. These disadvantages do not carry on to other rooms, and are lost as soon as the PCs move on.
+Additionally, each Sun increases the PCs' potential XP rewards for surviving the encounter by 1, but *only* if there is at least one X in the pool as well.
 
 **X:** (aka the "Failure" symbol - Red, Black, and Purple) - Each X represents a noteworthy threat against the PCs in the next room of the Dungeon. Example threats include:
 
@@ -98,9 +131,15 @@ Additionally, each Sun increases the PCs' potential XP rewards for the encounter
 * The occupants of the room catch the party by surprise.
 * The room contains an environmental feature that favors or protects the Enemies.
 * The room contains a dangerous trap that may or may not be concealed.
+* The party's supplies suffer unexpected loss or spoilage of 1d6 items (fresh rations rot, lights burn out, phials and flasks shatter, etc).
 * One of the treasures they find is guaranteed to be Cursed.
 
-Additionally, each X increases the PCs' potential XP rewards for the encounter by 1.
+Additionally, each X increases the PCs' potential XP rewards for surviving the encounter by 1.
+
+
+#### Sun-Circles vs X-Circles: Great Fortunes
+
+**Sun with Circles:** (aka the "Triumph" symbol - Yellow only) - Counts as a regular Sun, plus it *decreases* by 1 the number of Difficulty Dice in all subsequent Divining Pools while in this Dungeon. This *can* reduce the number of Difficulty Dice to zero for a single room, potentially earning the party a temporary reprieve of danger in the next room. However, immediately after, subsequent Difficulty pools reset to one die, unless subsequent Circle-Stars similarly reduce them again.
 
 **X with Circles:** (aka the "Threat" symbol - Red only) - Counts as a regular X, plus *increases* by 1 the number of Difficulty Dice in all subsequent Divining Pools while in this Dungeon. We recommend a limit of four Difficulty dice, but hey, it's your murder fantasy, so do what you will.
 
@@ -243,7 +282,42 @@ If the dungeon is not already populated, you'll need to put together an encounte
 
 ## Random Encounters
 
-TBD
+There are two generally-established types of encounters in most HAMMERCRAWL! games: room encounters and wandering monsters.
+
+
+### Room Encounters
+
+Room encounters consist of any encounters pre-stocked in new rooms that the adventurers explore. If you're running a pre-built dungeon then these will most likely be laid out for you already.
+
+If you're generating your encounters completely on the fly, then you'll need to do a bit of improvisation here. While the actual nature of the creatures themselves are entirely up to you and whatever lists and/or randomizers you are using, this text recommends sticking with the core HAMMERCRAWL! Tier system as an initial method of eyeballing the power level of the encounters.
+
+In mechanical terms, this means that since you should have already determined the "Tier" of the current dungeon level by way of the
+
+
+### Wandering Monsters
+
+While you're ultimately free to check for Wandering Monsters anywhere you damn well please, the most common times to do so are when the party is traveling through previously-explored rooms, or instead between Town and the Dungeon. These checks are mainly meant to give the local ecology at least some minor semblance of active life, and not so much instead to be ritual punishment for the party (although that's perfectly fine as well).
+
+The standard "check" for a Random Encounter is rolling a single d6, with an encounter occurring on a roll of 6. If you want to increase the chances, increase the die size to a d8 or more, with encounters occurring on a roll of 6 or higher. The frequency of these checks is up to you, or possibly specified by your dungeon (if you're using a pre-built one). We recommend a basic approach of checking twice-daily, in the morning and in the evening. You may also want to check each time the party returns to a previously-explored room of the dungeon.
+
+This document does not intend on providing lengthy random encounter tables. As of this time, the contents of your dungeon's encounter tables are up to you.
+
+
+### Encounter Reaction Checks
+
+When generating a random encounter, you may wish to also randomly determine the "reaction" of the encountered group to the arrival of the adventuring party (if you haven't decided already). Roll 2d6, and consult the following table.
+
+**Modifiers:** If the adventurers are attempting to be diplomatic, their spokesperson's CHA mod (positive or negative) may apply to this roll.
+
+| 2d6   | Reaction        |
+|-------|-----------------|
+| 2-3   | Open Hostility! |
+| 4-6   | Aggression      |
+| 7-9   | Wariness        |
+| 10-11 | Ambivalence     |
+| 12    | Friendliness    |
+
+The result determines the reaction type displayed by the encountered group. The divining pool results may further modify these at your discretion. Interpret these results however you like.
 
 
 ## Random Monsters
