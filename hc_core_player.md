@@ -1273,12 +1273,12 @@ In order to continue exploring the Dungeon, your party leader must tell the 'Smi
 When the heroes finally return to town (which likely involves first backtracking through the dungeon to their original exit), the following happens, in order:
 
 1. Restore all HP totals to Max, and relearn daily Spells and Powers.
-2. Restore their standard starting equipment list to full original capacity.
-3. The party divides up their loot and plunder as they see fit.
-4. Each player can choose to spend any amount of their loot to acquire better goods at the DM's allowance. This could take time, though, so you might want to skip it in Con and One-Shot games.
+2. The party divides up their loot and plunder as they see fit.
+3. Each player can choose to spend any amount of their loot to acquire better goods at the DM's allowance. This could take time, though, so you might want to skip it in Con and One-Shot games.
+4. Leftover party loot can be converted to XP. For every 1000 coins worth of unspent loot they choose to convert, the entire surviving party gains 1 XP. Loot converted in this fashion is lost, and cannot be used to purchase goods.
 5. If anyone has enough XP to level up, they follow the Leveling Up process.
 6. Role-play any town encounters or experiences you wish.
-7. Return to the Dungeons! Note that Risk and Reward pools reset to zero!
+7. Return to the Dungeons!
 
 
 ## Reactions (ref)
