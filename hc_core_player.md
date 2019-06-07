@@ -810,47 +810,19 @@ See "Experience"
 Given the depth involved in a combat encounter, the fighting mechanics have their own separate chapter. See "Combat and Fighting" further below.
 
 
-## Damage
+## Damage (ref)
 
-Your base damage with all weapons is equal to your Class Hit Die. Some weapons may have special modifiers to this, however.
-
-Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
+See "Hit Points and Death"
 
 
-### Zero Hit Points
+## Difficulty Mode (ref)
 
-When your adventurer is reduced to 0 Hit Points, you're not dead... *not yet*. First, any damage taken in excess of what would be needed to drop you to Zero hit points is immediately taken out of your CON score. This loss is *permanent* until magically restored (see below). Now if *that* reduces you to 0 CON, *then* you're dead. See the "Death" section for how to proceed.
-
-If you've still got CON score left after over, then you're still up! But you're now getting badly wounded, and each breath you take brings you one step closer to the doorway to the afterlife. On your turn, you can choose one of the following two options:
-
-* Lay Down and Call for Help
-* Fight On!
-
-If you choose to **Lay Down**, you drop to the ground prone. On this round and every round following it until you are healed, you must make a Death save. If you fail, you take an immediate point of permanent CON loss. If this drops you to Zero, you're dead. See the Death subsection, further below.
-
-If you choose to **Fight On**, you can take an action as normal! Resolve it, and at the end of your action you immediately take 1d4 permanent CON damage, no save allowed. If this drops you to Zero, you're dead. Repeat for each turn that you continue to Fight on.
-
-*In either case,* while your HP is zero, any further damage you may take from additional attacks or effects targeting you comes directly out of your CON score. Once your CON reaches Zero, you are Dead. See the Death subsection, further below.
+See "Hit Points and Death"
 
 
-### Magically Restoring Lost CON
+## Death (ref)
 
-If your CON has been permanently reduced due to taking damage below zero HP, then the only way to restore it is through advanced medical technology of 21st century or later (good luck finding that in your dirty-ass dungeon), or instead via a special alternate use of the Level 4 Cleric Spell *Cure Serious Wounds* spell (or similar potion or scroll). See the Magic Section for specific spell details.
-
-
-## Death
-
-TBD
-
-
-
-### Loot Survival
-
-When a character dies in a dungeon, there's a chance that some or all of their gear and loot might also be destroyed with them. Many lucky groups have salvaged all kinds of sweet loot from the bodies of their fallen comrades. Other more unlucky groups can find themselves trapped and hopeless when crucial plot-specific items were destroyed along with their dead friends. Such is the way of HAMMERCRAWL!
-
-To determine this, at the time of the character's death their player must make a Luck save for each and every Worn, Equipped, and Carried item, applying the now-dead character's Luck Save mod. For most items, the target is 10. For bags, make only one roll for the entire bag, using its "Save" score as the target.
-
-If an item fails its save, cross through it, for it is destroyed. If a bag fails, cross through it *and* all of its contents, for they are all destroyed. On the plus side, if a bag makes its save, there is no need to roll for any of its contents, as they all survive automatically.
+See "Hit Points and Death"
 
 
 ## Encounters (the Players' version)
@@ -994,7 +966,7 @@ When you attain the next level, the following things happen, in order:
 1. Your XP total resets to Zero. Any accrued XP over the amount needed to level up is erased.
 2. Your level increases by 1, to a maximum of 15.
 3. You gain an additional Hit Die based on your class.
-4. Reroll ALL of your Hit Dice, and apply your CON Mod to the total. The total becomes your new maximum Hit Points. If the total is less than your previous HP total, your new HP total is instead equal to the previous amount +1.
+4. Reroll ALL of your Hit Dice, and apply your CON Mod to the total. Your con mod only applies *once*, regardless of how many dice you are rolling. The total becomes your new maximum Hit Points. If the total is less than your previous HP total, your new HP total is instead equal to the previous amount +1.
 5. Acquire any new abilities as specific by your Class.
 6. Take note of any increases to your Saves.
 
@@ -1050,6 +1022,119 @@ Hirelings are subject to Morale, but it's handled a bit differently than it is f
 Hirelings prefer to keep their demanded work within the scope of the expertise they were hired for. When you push a hireling to act too often or intensely, or when a Hireling gets into danger far above its preferred safety level, the 'Smith may require you to make a Rally save in order to keep the hireling's current services. This is a check per normal Saves rules, using the difference between your relative Tiers to determine the target (making expensive higher-tier hirelings more difficult to hold onto after pissing them off!).
 
 If you succeed at the save, you keep your hireling for the time being, without changes to your contract. If you fail the save by 5 or less, they may choose to remain, but require double the daily cost. If you fail by more than 5, they quit your service immediately, possibly becoming hostile.
+
+
+## Hit Points and Death
+
+Your Hit Points are an abstract measurement of how close you are to taking a fatal blow in combat.
+
+
+### Game Difficulty Mode
+
+Before anything related to Hit Points is determined in your game, your 'Smith must first determine the current adventure's **Game Difficulty Mode**. This mainly just sets the expectations for what happens when a character reaches Zero hit points. The three difficulty modes are:
+
+* **HARDCORE** aka "Classic" aka "Tournament" mode. Upon reaching Zero HP, your character dies. This is best for one-shots, conventions, and other such meat-grinder experiences.
+* **ADVENTURE** aka "Campaign" mode. Upon reaching zero, you're dying but still in the fight, and you burn CON until you die. CON can only be restored magically. This is good for short campaigns and stories where the characters get to suffer a little longer.
+* **EXCITEMENT** aka "Safety" mode. As Adventure mode, but CON can also be restored through downtime rest. This is good for groups that want to tell a much longer story, or just want a bit more molly-coddling.
+
+
+### Determining Your Starting Hit Points
+
+Your character's starting HP at level 1 is equal to the maximum of their Hit Die, modified by their CON mod, with a minimum of 1 HP.
+
+
+### Improving Your Hit Points
+
+The primary method of long term character HP improvement is via increasing your experience level. Whenever you Level Up, you can increase your HP Max by a random amount. This is further explained in the "Experience" section, further above.
+
+
+### Temporary Hit Points
+
+Some spells or other effects can give you temporary additional hit points. Track these separate from your actual HPs. When you take damage, first subtract the damage from your temporary HPs, until that amount is depleted. Excess and further damage then comes out of your actual HPs.
+
+When temporary HPs expire, you *do not* have to "pay them back" in any fashion, unless the effect otherwise explicitly specifies.
+
+
+### Dealing Damage
+
+Whenever you would connect with a damaging attack or effect, roll the given amount of damage and apply it to your target, who "takes" said damage (see below).
+
+Your base damage with all weapons is equal to your Class Hit Die. Some weapons may have special modifiers to this, however. Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
+
+Your base damage with spells and other effects is determined by those individual effects.
+
+
+### Taking Damage
+
+Whenever you would "take" damage from an attack or effect, subtract the incoming amount from your current Hit Point total. If the newly-adjusted amount is greater than Zero, then your character is still up and active without further modification (unless otherwise specified).
+
+If the newly-adjusted total is less than zero, you are likely dead, or dying, depending on the adventure's Difficulty Mode. See "Zero Hit Points" further below.
+
+
+### Zero Hit Points
+
+What happens at Zero Hit Points depends on the game's selected Difficulty Mode.
+
+
+#### HARDCORE Mode
+
+In Hardcore mode, when your adventurer reaches zero hit points, they are dead. See Character Death, further below.
+
+
+#### ADVENTURE Mode
+
+In Adventure mode, when your adventurer is reduced to 0 Hit Points, they're not dead... *not yet*. First, any damage taken in excess of what would be needed to drop you to Zero hit points is immediately taken out of your CON score. This loss is *permanent* until magically restored (see below). Now if *that* reduces you to 0 CON, *then* you're dead. See the "Death" section for how to proceed.
+
+If you've still got CON score left after over, then you're still up! But you're now getting badly wounded, and each breath you take brings you one step closer to the doorway to the afterlife. On your turn, you can choose one of the following two options:
+
+* Lay Down and Call for Help
+* Fight On!
+
+If you choose to **Lay Down**, you drop to the ground prone. On this round and every round following it until you are healed, you must make a Death save. If you fail, you take an immediate point of permanent CON loss. If this drops you to Zero, you're dead. See the Death subsection, further below.
+
+If you choose to **Fight On**, you can take an action as normal! Resolve it, and at the end of your action you immediately take 1d4 permanent CON damage, no save allowed. If this drops you to Zero, you're dead. Repeat for each turn that you continue to Fight on.
+
+*In either case,* while your HP is zero, any further damage you may take from additional attacks or effects targeting you comes directly out of your CON score. Once your CON reaches Zero, you are Dead. See the Character Death subsection, further below.
+
+If your CON has been permanently reduced due to taking damage below zero HP, then the only way to restore it is through advanced medical technology of 21st century or later (good luck finding that in your dirty-ass dungeon), or instead via a special alternate use of the Level 4 Cleric Spell *Cure Serious Wounds* spell (or similar potion or scroll). See the Magic Section for specific spell details.
+
+
+#### EXCITEMENT Mode
+
+Excitement Mode is identical to Adventure mode, with the following update to recovering lost CON:
+
+In addition to magical recovery, lost points of CON can be restored through extended character rest. After returning to town, you can choose to stick around and take an extended rest. For each week of downtime, your character restores 1 point of lost CON.
+
+The financial cost for this rest is based on the character's social class (SOC). The character must be able to spend an amount of coins equal to their SOC Stat score every day of this recovery. This is exciting, right?
+
+Given that this could lay your character out for an extended amount of time, this is a prime opportunity to roll up a new fill-in character to join the rest of your party in their ongoing adventures during the rest period.
+
+
+### Healing Lost Hit Points
+
+Healing lost hit points can be done in the following methods:
+
+* **Spell Magic:** Several spells restore lost HPs, with results based on the spell. Clerics as such are valuable party members.
+* **Healing Potions:** These items are purchasable at most cities, and are detailed in the Equipment section of this document.
+* **Camp Actions:** Special Camp-specific Actions can allow characters to restore some of their lost HPs.
+* **Returning to Town:** Characters are restored to full HP maximum upon Returning to Town.
+* **Healing Skills and Backgrounds:** Some skills and character backgrounds may imply professional healing abilities. At the Smith's discretion, these can be used to restore one or more hit points, provided appropriate equipment is on hand and available.
+
+
+### Character Death
+
+Barring the existence and availability of resurrection magic, this is a permanent state of being. Time to roll up a new hero and feed them to the dungeon.
+
+At the time of a character's death, there's a chance that some or all of their loot will also be destroyed. See below.
+
+
+#### Loot Survival
+
+When a character dies in a dungeon, there's a chance that some or all of their gear and loot might also be destroyed with them. Many lucky groups have salvaged all kinds of sweet loot from the bodies of their fallen comrades. Other more unlucky groups can find themselves trapped and hopeless when crucial plot-specific items were destroyed along with their dead friends. Such is the way of HAMMERCRAWL!
+
+To determine this, at the time of the character's death their player must make a Luck save for each and every Worn, Equipped, and Carried item, applying the now-dead character's Luck Save mod. For most items, the target is 10. For bags, make only one roll for the entire bag, using its "Save" score as the target.
+
+If an item fails its save, cross through it, for it is destroyed. If a bag fails, cross through it *and* all of its contents, for they are all destroyed. On the plus side, if a bag makes its save, there is no need to roll for any of its contents, as they all survive automatically.
 
 
 ## Leveling Up (ref)
