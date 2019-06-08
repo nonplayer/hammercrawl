@@ -484,7 +484,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 
 Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is essentially a seventh Stat (SOC), but rolled separately from the core six, and recorded with its own modifier. This modifier may apply from time to time in dealings within your game world's societies.
 
-The "Coins" column determines your multiplier
+The "Coins" column determines your starting cash multiplier for buying initial equipment, explained further below.
 
 | SOC (3d6) | Mod | Coins | Status           |
 |-----------|-----|-------|------------------|
@@ -497,9 +497,69 @@ The "Coins" column determines your multiplier
 | 18        | +3  | 1000* | Royalty          |
 
 
+## Step X: Roll Your Background
+
+Think of your background profession like a special free skill, and then some. Your character is assumed to know how to do all manner of things reasonably contained within the narrative scope of their background. If there is a question related to that scope, consult your Hammersmith.
+
+To determine your character's background, roll 1d200 (figure it out) and consult the table below:
+
+| #  | Background     | #   | Background      |  | #   | Background     | #   | Background    |
+|----|----------------|-----|-----------------|--|-----|----------------|-----|---------------|
+| 1  | Accountant     | 51  | Coppersmith     |  | 101 | Laundress      | 151 | Ratcatcher    |
+| 2  | Acrobat        | 52  | Counterfeiter   |  | 102 | Lawyer         | 152 | Roofer        |
+| 3  | Actor          | 53  | Courier         |  | 103 | Lead smith     | 153 | Rope maker    |
+| 4  | Alchemist      | 54  | Courtesan       |  | 104 | Leather worker | 154 | Runner        |
+| 5  | Animal seller  | 55  | Courtier        |  | 105 | Librarian      | 155 | Saddler       |
+| 6  | Animal trainer | 56  | Custodian       |  | 106 | Linen maker    | 156 | Sail maker    |
+| 7  | Apiarist       | 57  | Demagogue       |  | 107 | Locksmith      | 157 | Sailor        |
+| 8  | Apothecary     | 58  | Doctor          |  | 108 | Maid           | 158 | Scavenger     |
+| 9  | Architect      | 59  | Engineer        |  | 109 | Marine         | 159 | Scholar       |
+| 10 | Armourer       | 60  | Engraver        |  | 110 | Mercenary      | 160 | Scout         |
+| 11 | Artillerist    | 61  | Exotic Dancer   |  | 111 | Merchant       | 161 | Scribe        |
+| 12 | Artist         | 62  | Explorer        |  | 112 | Midwife        | 162 | Sculptor      |
+| 13 | Astrologer     | 63  | Falconer        |  | 113 | Miller         | 163 | Servant       |
+| 14 | Author         | 64  | Farmer          |  | 114 | Miner          | 164 | Server        |
+| 15 | Baker          | 65  | Fence           |  | 115 | Minstrel       | 165 | Sharpener     |
+| 16 | Banker         | 66  | Fisher          |  | 116 | Moneylender    | 166 | Shepherd      |
+| 17 | Barber         | 67  | Fletcher        |  | 117 | Musician       | 167 | Shipwright    |
+| 18 | Barkeep        | 68  | Flower seller   |  | 118 | Navigator      | 168 | Shopkeeper    |
+| 19 | Beggar         | 69  | Food seller     |  | 119 | Net maker      | 169 | Silk trader   |
+| 20 | Blacksmith     | 70  | Forester        |  | 120 | Noble          | 170 | Silversmith   |
+| 21 | Boat builder   | 71  | Forger          |  | 121 | Nurse          | 171 | Soap maker    |
+| 22 | Bodyguard      | 72  | Fortune teller  |  | 122 | Official       | 172 | Soldier       |
+| 23 | Bookbinder     | 73  | Fruit seller    |  | 123 | Outfitter      | 173 | Spice trader  |
+| 24 | Bounty hunter  | 74  | Furniture maker |  | 124 | Page           | 174 | Squire        |
+| 25 | Bow maker      | 75  | Furrier         |  | 125 | Painter        | 175 | Stabler       |
+| 26 | Brewer         | 76  | Gambler         |  | 126 | Paper maker    | 176 | Stevedore     |
+| 27 | Builder        | 77  | Gamekeeper      |  | 127 | Pawnbroker     | 177 | Steward       |
+| 28 | Butcher        | 78  | Gardener        |  | 128 | Peasant        | 178 | Stonemason    |
+| 29 | Calligrapher   | 79  | General         |  | 129 | Peddler        | 179 | Student       |
+| 30 | Candle maker   | 80  | Glass maker     |  | 130 | Perfumer       | 180 | Tailor        |
+| 31 | Captain        | 81  | Goldsmith       |  | 131 | Pharmacist     | 181 | Tattooist     |
+| 32 | Caravan driver | 82  | Governess       |  | 132 | Photographer   | 182 | Tax collector |
+| 33 | Carpenter      | 83  | Grave digger    |  | 133 | Physician      | 183 | Taxidermist   |
+| 34 | Carpet maker   | 84  | Groom           |  | 134 | Pilgrim        | 184 | Teacher       |
+| 35 | Cart maker     | 85  | Guard           |  | 135 | Pilot          | 185 | Thief         |
+| 36 | Cartographer   | 86  | Guide           |  | 136 | Pimp           | 186 | Thug          |
+| 37 | Carver         | 87  | Haberdasher     |  | 137 | Pirate         | 187 | Tile maker    |
+| 38 | Cavalry        | 88  | Hatter          |  | 138 | Playwright     | 188 | Tinker        |
+| 39 | Cheese maker   | 89  | Healer          |  | 139 | Plumber        | 189 | Trader        |
+| 40 | Chef           | 90  | Herald          |  | 140 | Poacher        | 190 | Trapper       |
+| 41 | Clerk          | 91  | Horse trader    |  | 141 | Police         | 191 | Undertaker    |
+| 42 | Clock maker    | 92  | Hosteler        |  | 142 | Porter         | 192 | Vagrant       |
+| 43 | Cloth dyer     | 93  | Hunter          |  | 143 | Potter         | 193 | Veterinarian  |
+| 44 | Clothier       | 94  | Illustrator     |  | 144 | Priest         | 194 | Vintner       |
+| 45 | Clown          | 95  | Innkeeper       |  | 145 | Printer        | 195 | Water seller  |
+| 46 | Coach driver   | 96  | Jailer          |  | 146 | Professor      | 196 | Weaponsmith   |
+| 47 | Cobbler        | 97  | Jester          |  | 147 | Prospector     | 197 | Weaver        |
+| 48 | Composer       | 98  | Jeweller        |  | 148 | Prostitute     | 198 | Wheelwright   |
+| 49 | Cook           | 99  | Judge           |  | 149 | Purser         | 199 | Wine seller   |
+| 50 | Cooper         | 100 | Labourer        |  | 150 | Ranger         | 200 | Woodcutter    |
+
+
 ## Step X: Roll Your Skills
 
-While your character is assumed to have many unwritten skills simply through their class and background, you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
+While your character is assumed to have many unwritten skills simply through their class and background (see above), you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
 
 At creation, you begin with a base of 4 skills, modified by your INT mod. Thus if you have a -2 INT mod, then you only start with two skills. These are all you get. You will not automatically acquire more skills unless the Hammersmith and/or the whims of the game otherwise gift them to you.
 
@@ -532,14 +592,15 @@ If not, this section is pending until I get the lists converted from that code..
 
 ## Step X: Confirm and Note Important Sub-Stats
 
-* Experience Level (1) and associated Character Tier (1)
-* Hit Points = Your Maximum Hit Die, plus your Con Mod, minimum of 1.
-* Armor Class (AC) = 10 + DEX mod + AC mod from any Armour and Shields
-* Melee Attack Modifier = STR mod + any class mods
-* Melee Damage Modifier = STR mod
-* Missile Attack Modifier = DEX mod + any class mods
-* Movement Speed = determined by class (human base is 30)
-* Maximum Encumbrance (MaxEnc) = 1/2 your INT score (rounded down), plus your STR mod.
+* **Experience Level** (1) and associated **Character Tier** (1)
+* **Hit Die** = Determined by your Class
+* **Hit Points (HPs)** = Your Maximum Hit Die, plus your Con Mod, minimum of 1.
+* **Armor Class (AC)** = 10 + DEX mod + AC mod from any Armour and Shields
+* **Melee Attack Modifier** = STR mod + any class mods
+* **Melee Damage Modifier** = STR mod
+* **Missile Attack Modifier** = DEX mod + any class mods
+* **Movement Speed** = determined by class (human base is 30)
+* **Maximum Encumbrance (MaxEnc)** = 1/2 your INT score (rounded down), plus your STR mod.
 
 
 ### Step X: Randomize Your Character Traits
