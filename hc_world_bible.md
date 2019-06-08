@@ -91,7 +91,8 @@ Unsorted:
 * Hobgoblins, in turn, are all effectively Bro Teens.
 * Bugbears are all effectively swole gym rats.
 * Despite their personality issues, the goblins somehow have a massive banking network too, called the Goblin Bank of Wobbly Columns (a nod to comedian Brad Neely).
-* Goblins insert the word "Goblin" in front of all names and proper titles, such as "Goblin Clark, the Goblin Cleric of the Goblin God of Goblins"
+* Goblins insert the word "Goblin" in front of all names and proper titles, such as "Goblin Clark, the Goblin Cleric of the Goblin God of Goblins." This practice is known to goblins as "Goblin Recognizance."
+  - In recent times, one of the Great Goblin Kings known as "Goblin Hurkle the Goblin Conqueror of Goblinfoes" disastrously attempted to enforce that in all of goblinhood, the word "Goblin" was worthy of Double Goblin Recognizance. In response to this decree, the rest of the species decided that Enough Was Enough, and Goblin Hurkle's legacy was thankfully a short one.
 
 
 #### Ogres
