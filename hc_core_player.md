@@ -484,16 +484,17 @@ Each of the six core stats affects certain mechanics, as detailed below:
 
 Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is essentially a seventh Stat (SOC), but rolled separately from the core six, and recorded with its own modifier. This modifier may apply from time to time in dealings within your game world's societies.
 
-| SOC (3d6) | Mod | Status           |
-|-----------|-----|------------------|
-| 3         | -3  | Wretched         |
-| 4-5       | -2  | Peasant          |
-| 6-8       | -1  | Poor             |
-| 9-12      | 0   | Middle Class     |
-| 13-15     | +1  | Lesser Nobility  |
-| 16-17     | +2  | Greater Nobility |
-| 18        | +3  | Royalty          |
+The "Coins" column determines your multiplier
 
+| SOC (3d6) | Mod | Coins | Status           |
+|-----------|-----|-------|------------------|
+| 3         | -3  | x0*   | Scum             |
+| 4-5       | -2  | x10   | Peasantry        |
+| 6-8       | -1  | x20   | Poor             |
+| 9-12      | 0   | x20   | Middle Class     |
+| 13-15     | +1  | x20   | Lesser Nobility  |
+| 16-17     | +2  | x25   | Greater Nobility |
+| 18        | +3  | 1000* | Royalty          |
 
 
 ## Step X: Roll Your Skills
@@ -507,9 +508,24 @@ If you're using the character generator python tool, this is already handled for
 If not, this section is pending until I get the lists converted from that code...
 
 
-## Step X: Randomize Your Starting Equipment
+## Step Xa: Determine Your Starting Funds and Buy Equipment
 
-If you're using the character generator python tool, this is already handled for you!
+Multiply your SOC score by its associated multiplier, and that's how much money you have to spend. Use the Equipment section of this book to purchase anything you can afford.
+
+
+### Royalty
+
+You read that right, Royalty is rich as fuck and starts with 1000 coins. Enjoy the comforts of a shitload of money, buy all the things you want, and see how long that works out for you down there in that awful, horrible, no-good dungeon...
+
+
+### Scum
+
+If you are lucky enough to roll into Scum as your social status, do not dismay, for you may have just lucked out. Enjoy three completely random rolls on the 'Smith's magic items tables. These are guaranteed to not survive your character's final death, and as such cannot be looted from your body.
+
+
+## Step Xb: Randomize Your Starting Equipment
+
+Instead of buying equipment, you can roll it. If you're using the character generator python tool, this is already handled for you!
 
 If not, this section is pending until I get the lists converted from that code...
 
