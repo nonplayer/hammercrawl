@@ -750,6 +750,66 @@ How does your character dress usually? Roll 1d10:
 | 10   | Slovenly      |
 
 
+### Random Weird "Item"
+
+Roll 1d50 to determine what your random weird item is. Some of these may not make sense as items, but trust me, they are. Keep them wherever you like, they require no encumbrance, and they can be looted (sometimes unwillingly!) upon your death. Have fun with them.
+
+
+| Roll | Weird Item                                                                    |
+|------|-------------------------------------------------------------------------------|
+| 1    | crippling apathy                                                              |
+| 2    | twitchy eyes                                                                  |
+| 3    | a Certain "je ne sais quoi"                                                   |
+| 4    | a love of horrible puns                                                       |
+| 5    | a feeling of general loathing for everyone around you                         |
+| 6    | a case of the wiggles                                                         |
+| 7    | wanderlust in your heart                                                      |
+| 8    | an independent streak                                                         |
+| 9    | the first love letter anyone every wrote you                                  |
+| 10   | a sack full of bandit ears                                                    |
+| 11   | a regrettable haircut                                                         |
+| 12   | chronic silent but deadly gas                                                 |
+| 13   | curious pocket lint                                                           |
+| 14   | all of your nail clippings, ever                                              |
+| 15   | an irritable tabby cat                                                        |
+| 16   | a map to an island that doesn't exist                                         |
+| 17   | a pure white badger pelt                                                      |
+| 18   | a set of pornographic goblin trading cards                                    |
+| 19   | a single strip of slightly used sandpaper                                     |
+| 20   | a petrified dragon egg                                                        |
+| 21   | a lock of hair from your mother or father                                     |
+| 22   | a fake beard                                                                  |
+| 23   | rusted nipple clamps                                                          |
+| 24   | two weird puppets                                                             |
+| 25   | 1D6 commemorative plates                                                      |
+| 26   | a bottle of freshly-harvested llama milk                                      |
+| 27   | a free drink coupon for the Inn, but it expires soon...                       |
+| 28   | a tendency to insert yourself into conversations                              |
+| 29   | unsettling memories from last night                                           |
+| 30   | a strong distrust for the government                                          |
+| 31   | an unsettlingly sexy facial scar                                              |
+| 32   | a free spirit that cannot be shackled by despair                              |
+| 33   | an obviously fake accent                                                      |
+| 34   | a feeling like you forgot something very important before heading out...      |
+| 35   | a case of the wiggles                                                         |
+| 36   | a letter of recommendation from someone important                             |
+| 37   | a tourist brochure for the dungeon                                            |
+| 38   | a signed Maseym's Bears Base-Ball                                             |
+| 39   | an undislodgeable wedgie                                                      |
+| 40   | a very nice fitted suit                                                       |
+| 41   | a scrap of finely-groomed gnoll hair                                          |
+| 42   | a visible tattoo that you deeply regret                                       |
+| 43   | a massive debt of back rent                                                   |
+| 44   | an unbreakable padlock that can never be opened once clicked (currently open) |
+| 45   | shame, so much shame                                                          |
+| 46   | the constant doting of your parents                                           |
+| 47   | the knowledge that you recently betrayed someone in the party                 |
+| 48   | a conspicuously dead parrot                                                   |
+| 49   | a rock in a sock                                                              |
+| 50   | a student loan disbursement check (requires Bank)                             |
+
+
+
 ## Step X: Name Your Characters
 
 Now it's time to give the character a name. Thing is, *you* don't get to give it that name. Instead, pass your character sheet to the player (*not* the Smith) sitting to your left. *They* get to name your character, and they are encouraged to Go Wild.
