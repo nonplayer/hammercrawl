@@ -603,12 +603,12 @@ If not, this section is pending until I get the lists converted from that code..
 * **Maximum Encumbrance (MaxEnc)** = 1/2 your INT score (rounded down), plus your STR mod.
 
 
-## Step X: Randomize Your Character Traits
+## Step X: Randomize Your Miscellaneous Traits
 
 TBD (see generator program for now)
 
 
-### Random Character Traits
+### Random Character Tags
 
 Roll 1d400 (figure it out) once and consult the table below. If you're feeling adventurous, roll twice and keep both.
 
@@ -715,6 +715,39 @@ Roll 1d400 (figure it out) once and consult the table below. If you're feeling a
 | 98   | Dull          | 198  | Lazy          | 298  | Respectful    | 398  | Witty            |
 | 99   | Earthy        | 199  | Lethargic     | 299  | Responsible   | 399  | Youthful         |
 | 100  | Eccentric     | 200  | Lewd          | 300  | Restless      | 400  | Zealous          |
+
+
+### Random Age Table
+
+Roll 3d6 and check the table below:
+
+| Roll  | Age         |
+|-------|-------------|
+| 3     | Early Teens |
+| 4-5   | Late Teens  |
+| 6-8   | Young Adult |
+| 9-12  | Adult       |
+| 13-15 | Middle-Aged |
+| 16-17 | Elder       |
+| 18    | Ancient     |
+
+
+### Random Attire Style
+
+How does your character dress usually? Roll 1d10:
+
+| Roll | Attire        |
+|------|---------------|
+| 1    | Drab          |
+| 2    | Threadbare    |
+| 3    | Fancy         |
+| 4    | Filthy        |
+| 5    | Disguised     |
+| 6    | Common        |
+| 7    | Skivvies      |
+| 8    | Antiquated    |
+| 9    | Anachronistic |
+| 10   | Slovenly      |
 
 
 ## Step X: Name Your Characters
