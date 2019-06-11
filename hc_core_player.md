@@ -603,14 +603,118 @@ If not, this section is pending until I get the lists converted from that code..
 * **Maximum Encumbrance (MaxEnc)** = 1/2 your INT score (rounded down), plus your STR mod.
 
 
-### Step X: Randomize Your Character Traits
+## Step X: Randomize Your Character Traits
 
 TBD (see generator program for now)
 
 
-### Step X: Generate Your Starting Equipment
+### Random Character Traits
 
-TBD (see generator program for now)
+Roll 1d400 (figure it out) once and consult the table below. If you're feeling adventurous, roll twice and keep both.
+
+
+| Roll | Trait         | Roll | Trait         | Roll | Trait         | Roll | Trait            |
+|------|---------------|------|---------------|------|---------------|------|------------------|
+| 1    | Accusative    | 101  | Educated      | 201  | Liar          | 301  | Reverent         |
+| 2    | Active        | 102  | Elitist       | 202  | Likable       | 302  | Rigid            |
+| 3    | Adventurous   | 103  | Emotional     | 203  | Loud          | 303  | Risk-taking      |
+| 4    | Affable       | 104  | Enigmatic     | 204  | Loving        | 304  | Romantic         |
+| 5    | Affectionate  | 105  | Enthusiastic  | 205  | Loyal         | 305  | Rude             |
+| 6    | Aggressive    | 106  | Ethical       | 206  | Lucky         | 306  | Sadistic         |
+| 7    | Agreeable     | 107  | Excited       | 207  | Lust          | 307  | Sarcastic        |
+| 8    | Aloof         | 108  | Expressive    | 208  | Malicious     | 308  | Sardonic         |
+| 9    | Altruistic    | 109  | Extroverted   | 209  | Mean          | 309  | Sassy            |
+| 10   | Amazed        | 110  | Faithful      | 210  | Meddlesome    | 310  | Savage           |
+| 11   | Analytical    | 111  | Fanatical     | 211  | Melancholy    | 311  | Scared           |
+| 12   | Angry         | 112  | Fatalistic    | 212  | Melodramatic  | 312  | Scolding         |
+| 13   | Animated      | 113  | Fearful       | 213  | Merciless     | 313  | Secretive        |
+| 14   | Annoying      | 114  | Fearless      | 214  | Merry         | 314  | Seeker           |
+| 15   | Anxious       | 115  | Feisty        | 215  | Meticulous    | 315  | Self-destructive |
+| 16   | Apathetic     | 116  | Feral         | 216  | Mischievous   | 316  | Selfish          |
+| 17   | Apologetic    | 117  | Fierce        | 217  | Miscreant     | 317  | Selfless         |
+| 18   | Apprehensive  | 118  | Flamboyant    | 218  | Miserly       | 318  | Senile           |
+| 19   | Argumentative | 119  | Flippant      | 219  | Modest        | 319  | Sensible         |
+| 20   | Arrogant      | 120  | Flirtatious   | 220  | Moody         | 320  | Sensitive        |
+| 21   | Articulate    | 121  | Foolhardy     | 221  | Moralistic    | 321  | Sensual          |
+| 22   | Artistic      | 122  | Foppish       | 222  | Morbid        | 322  | Sentimental      |
+| 23   | Attentive     | 123  | Forgiving     | 223  | Morose        | 323  | Serene           |
+| 24   | Beautiful     | 124  | Friendly      | 224  | Mournful      | 324  | Serious          |
+| 25   | Bigoted       | 125  | Frightened    | 225  | Mousy         | 325  | Servile          |
+| 26   | Bitter        | 126  | Frivolous     | 226  | Mouthy        | 326  | Sexual           |
+| 27   | Blustering    | 127  | Frustrated    | 227  | Musical       | 327  | Shallow          |
+| 28   | Boastful      | 128  | Funny         | 228  | Mysterious    | 328  | Shameful         |
+| 29   | Bookish       | 129  | Furtive       | 229  | Mystical      | 329  | Shameless        |
+| 30   | Bossy         | 130  | Generous      | 230  | Naive         | 330  | Shifty           |
+| 31   | Braggart      | 131  | Genial        | 231  | Narrow-minded | 331  | Shrewd           |
+| 32   | Brash         | 132  | Gentle        | 232  | Needy         | 332  | Shy              |
+| 33   | Brave         | 133  | Gloomy        | 233  | Nefarious     | 333  | Sincere          |
+| 34   | Bullying      | 134  | Goofy         | 234  | Nervous       | 334  | Slanderous       |
+| 35   | Callous       | 135  | Gossip        | 235  | Neurotic      | 335  | Sly              |
+| 36   | Calm          | 136  | Graceful      | 236  | Nihilist      | 336  | Smug             |
+| 37   | Cantankerous  | 137  | Grave         | 237  | Noble         | 337  | Snobbish         |
+| 38   | Capricious    | 138  | Greasy        | 238  | Nonchalant    | 338  | Sober            |
+| 39   | Careful       | 139  | Greedy        | 239  | Nurturing     | 339  | Sociable         |
+| 40   | Careless      | 140  | Gregarious    | 240  | Obdurate      | 340  | Solemn           |
+| 41   | Caring        | 141  | Grouchy       | 241  | Obedient      | 341  | Solicitous       |
+| 42   | Casual        | 142  | Groveling     | 242  | Oblivious     | 342  | Solitary         |
+| 43   | Catty         | 143  | Gruff         | 243  | Obnoxious     | 343  | Sophisticated    |
+| 44   | Cautious      | 144  | Guilty        | 244  | Obsessive     | 344  | Spendthrift      |
+| 45   | Cavalier      | 145  | Gullible      | 245  | Obstinate     | 345  | Spiteful         |
+| 46   | Chaste        | 146  | Happy         | 246  | Obtuse        | 346  | Stern            |
+| 47   | Cheeky        | 147  | Hard working  | 247  | Odd           | 347  | Stingy           |
+| 48   | Cheerful      | 148  | Harsh         | 248  | Off-putting   | 348  | Stoic            |
+| 49   | Childish      | 149  | Hateful       | 249  | Optimistic    | 349  | Stubborn         |
+| 50   | Chivalrous    | 150  | Heartbroken   | 250  | Organized     | 350  | Stylish          |
+| 51   | Clueless      | 151  | Helpful       | 251  | Ornery        | 351  | Submissive       |
+| 52   | Clumsy        | 152  | Hoarder       | 252  | Orphan        | 352  | Sultry           |
+| 53   | Cocky         | 153  | Honest        | 253  | Ostentatious  | 353  | Superstitious    |
+| 54   | Comforting    | 154  | Hopeful       | 254  | Outgoing      | 354  | Surly            |
+| 55   | Communicative | 155  | Hostile       | 255  | Overbearing   | 355  | Suspicious       |
+| 56   | Complacent    | 156  | Humble        | 256  | Overconfident | 356  | Sycophantic      |
+| 57   | Condescending | 157  | Humorless     | 257  | Paranoid      | 357  | Sympathetic      |
+| 58   | Confident     | 158  | Humorous      | 258  | Passionate    | 358  | Taciturn         |
+| 59   | Conformist    | 159  | Hungry        | 259  | Pathological  | 359  | Tactful          |
+| 60   | Confused      | 160  | Idealistic    | 260  | Patient       | 360  | Tattooed         |
+| 61   | Conservative  | 161  | Idiosyncratic | 261  | Peaceful      | 361  | Tawdry           |
+| 62   | Contentious   | 162  | Ill           | 262  | Peacemaker    | 362  | Temperamental    |
+| 63   | Contrarian    | 163  | Imaginative   | 263  | Pensive       | 363  | Tempestuous      |
+| 64   | Controlling   | 164  | Imitative     | 264  | Pessimistic   | 364  | Thief            |
+| 65   | Conventional  | 165  | Impatient     | 265  | Philanderer   | 365  | Thorough         |
+| 66   | Cooperative   | 166  | Impetuous     | 266  | Philosophical | 366  | Thrifty          |
+| 67   | Courageous    | 167  | Implacable    | 267  | Phony         | 367  | Timid            |
+| 68   | Courteous     | 168  | Impractical   | 268  | Pious         | 368  | Tolerant         |
+| 69   | Cowardly      | 169  | Impulsive     | 269  | Playful       | 369  | Transparent      |
+| 70   | Coy           | 170  | Inattentive   | 270  | Pleasant      | 370  | Treacherous      |
+| 71   | Crabby        | 171  | Incoherent    | 271  | Poised        | 371  | Troublemaker     |
+| 72   | Cranky        | 172  | Indifferent   | 272  | Polite        | 372  | Trusting         |
+| 73   | Critical      | 173  | Indiscreet    | 273  | Pompous       | 373  | Truthful         |
+| 74   | Cruel         | 174  | Individualist | 274  | Pondering     | 374  | Understanding    |
+| 75   | Cultured      | 175  | Indolent      | 275  | Pontificating | 375  | Unfriendly       |
+| 76   | Curious       | 176  | Indomitable   | 276  | Practical     | 376  | Unhinged         |
+| 77   | Cynical       | 177  | Industrious   | 277  | Prejudiced    | 377  | Uninhibited      |
+| 78   | Daring        | 178  | Inexpressive  | 278  | Preoccupied   | 378  | Unpredictable    |
+| 79   | Deceptive     | 179  | Insecure      | 279  | Pretentious   | 379  | Unruly           |
+| 80   | Defensive     | 180  | Insensitive   | 280  | Promiscuous   | 380  | Unsupportive     |
+| 81   | Defiant       | 181  | Insomniac     | 281  | Proper        | 381  | Vague            |
+| 82   | Deliberate    | 182  | Instructive   | 282  | Proud         | 382  | Vain             |
+| 83   | Deluded       | 183  | Intolerant    | 283  | Prudent       | 383  | Vapid            |
+| 84   | Depraved      | 184  | Introverted   | 284  | Prudish       | 384  | Vengeful         |
+| 85   | Discreet      | 185  | Irreligious   | 285  | Prying        | 385  | Vigilant         |
+| 86   | Dishonest     | 186  | Irresponsible | 286  | Pugnacious    | 386  | Violent          |
+| 87   | Disingenuous  | 187  | Irreverent    | 287  | Punctual      | 387  | Vivacious        |
+| 88   | Disloyal      | 188  | Irritable     | 288  | Quiet         | 388  | Vulgar           |
+| 89   | Disrespectful | 189  | Jealous       | 289  | Quirky        | 389  | Wanderlust       |
+| 90   | Distant       | 190  | Joking        | 290  | Rascal        | 390  | Wanton           |
+| 91   | Distracted    | 191  | Jolly         | 291  | Rash          | 391  | Wasteful         |
+| 92   | Distraught    | 192  | Judgmental    | 292  | Realistic     | 392  | Weary            |
+| 93   | Docile        | 193  | Jumpy         | 293  | Rebellious    | 393  | Well-travelled   |
+| 94   | Dominating    | 194  | Kind          | 294  | Reckless      | 394  | Whimsical        |
+| 95   | Dramatic      | 195  | Know-it-all   | 295  | Refined       | 395  | Whiny            |
+| 96   | Drug-addled   | 196  | Lawful        | 296  | Repellent     | 396  | Wicked           |
+| 97   | Drunkard      | 197  | Layabout      | 297  | Reserved      | 397  | Wisecracking     |
+| 98   | Dull          | 198  | Lazy          | 298  | Respectful    | 398  | Witty            |
+| 99   | Earthy        | 199  | Lethargic     | 299  | Responsible   | 399  | Youthful         |
+| 100  | Eccentric     | 200  | Lewd          | 300  | Restless      | 400  | Zealous          |
 
 
 ## Step X: Name Your Characters
