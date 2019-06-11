@@ -568,22 +568,47 @@ If you're using the character generator python tool, this is already handled for
 If not, this section is pending until I get the lists converted from that code...
 
 
-## Step Xa: Determine Your Starting Funds and Buy Equipment
+## Step X: Determine Your Starting Funds and Equipment
+
+
+### Free Starting Gear
+
+All characters begin with the following for free:
+
+* a Satchel (S; Qualities: Bag [5], Fragile, Wearable), containing:
+* 1d4 fresh rations (S)
+* 1 Torch (S)
+
+Additionally, some classes begin with additional starting equipment:
+
+* **Dwarves**: 1 weapon of choice, and 1 small shield
+* **Elves**: 1 weapon of choice, and a Spellbook
+* **Halflings**: 1 weapon of choice, and a set of Thieves' Tools
+* **Half-Ogres**: 1 weapon of choice
+* **Human Clerics**: a Holy Symbol, and a Prayer Book
+* **Human Fighters**: 2 weapons of choice, or 1 weapon and 1 small shield
+* **Human Thieves**: a set of Thieves' Tools, and a Dagger
+* **Human Wizards**: a Spellbook, and a random wizard weapon (see "Wizard Weapons" in the "Gear" section of this document)
+
+Then determine your gear either through deliberate purchase or through random roll:
+
+
+### Option A: Purchasing Your Starting Gear
 
 Multiply your SOC score by its associated multiplier, and that's how much money you have to spend. Use the Equipment section of this book to purchase anything you can afford.
 
 
-### Royalty
+#### A Note on Royalty
 
 You read that right, Royalty is rich as fuck and starts with 1000 coins. Enjoy the comforts of a shitload of money, buy all the things you want, and see how long that works out for you down there in that awful, horrible, no-good dungeon...
 
 
-### Scum
+#### A Note on Scum
 
 If you are lucky enough to roll into Scum as your social status, do not dismay, for you may have just lucked out. Enjoy three completely random rolls on the 'Smith's magic items tables. These are guaranteed to not survive your character's final death, and as such cannot be looted from your body.
 
 
-## Step Xb: Randomize Your Starting Equipment
+### Option B: Randomizing Your Starting Gear
 
 Instead of buying equipment, you can roll it. If you're using the character generator python tool, this is already handled for you!
 
