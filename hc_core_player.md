@@ -882,16 +882,95 @@ The following sub-sections contain collections of extended descriptions of speci
 
 Be they weapons, armour, or various adventuring tools, all items of gear can be assigned some special qualities. The following list of qualities applies to all the items in this equipment section.
 
+**2H:** This melee weapon must be used with both hands at once. This can trigger certain class-specific combat abilities.
+
 **Bag:** This item adds additional encumbrance slots to the character's inventory.
 
 **Durable:** This item enjoys an advantage on all its saving throws.
 
 **Fragile:** This item suffers a disadvantage on all its saving throws.
 
+**Reach:** These melee weapons aren't functional within many tight dungeon corridors and spaces, but they provide superior reach in more open combat spaces. When applicable, they give their wielder advantage on melee combat attacks against enemies attacking with non-Reach melee weapons.
+
+**Thrown:** This melee weapon can be effectively used as a thrown weapon.
+
 **Wearable:** This item can be equipped directly to the character's person, not requiring encumbrance when worn.
 
 
-### Weapons
+### Weapons & Ammunition
+
+* **Name:**
+* **Size:**
+* **Type:**
+* **Cost:**
+* **Qualities:** Any special item qualities for the weapon
+* **Range:** If Missile or Thrown, shows Short/Medium/Long effective ranges
+
+**NOTE:** For any entry with an asterisk in its data, see the text section below the table for further details.
+
+| Name                    | Size | Type    | Cost | Qualities | Range      |
+|-------------------------|------|---------|------|-----------|------------|
+| Axe, Battle             | M    | Melee   | 10   |           |            |
+| Axe, Hand               | M    | Melee   | 10   | Thrown    | 10/20/30   |
+| Blackjack*              | M    | Melee   | 1    |           |            |
+| Blowgun*                | S    | Missile | 10   |           | 10/20/30   |
+| Bola*                   | M    | Missile | 10   |           |            |
+| Bow, Long               | L    | Missile | 10   |           |            |
+| Bow, Short              | M    | Missile | 10   |           |            |
+| Cestus                  | M    | Melee   | 10   |           |            |
+| Club                    | M    | Melee   | 10   |           |            |
+| Crossbow, Heavy         | L    | Missile | 10   |           | 80/160/240 |
+| Crowwbow, Light         | M    | Missile | 10   |           | 60/120/180 |
+| Dagger                  | S    | Melee   | 1    | Thrown    | 10/20/30   |
+| Dagger, punching        | S    | Melee   | 10   |           |            |
+| Flail, heavy            | L    | Melee   | 10   | 2H        |            |
+| Flail, light            | M    | Melee   | 10   |           |            |
+| Greatclub               | L    | Melee   | 10   | 2H        |            |
+| Greatmace               | L    | Melee   | 10   | 2H        |            |
+| Greatsword              | L    | Melee   | 10   | 2H        |            |
+| Hammer, Light           | M    | Melee   | 10   | Thrown    | 10/20/30   |
+| Hammer, War             | M    | Melee   | 10   |           |            |
+| Javelin                 | M    | Melee   | 10   | Thrown    | 20/40/60   |
+| Lance                   | L    | Melee   | 10   | 2H, Reach |            |
+| Mace, light             | M    | Melee   | 10   |           |            |
+| Military Fork           | L    | Melee   | 10   | 2H        |            |
+| Morningstar             | M    | Melee   | 10   |           |            |
+| Net*                    | M    | Special | 10   |           |            |
+| Pick, heavy             | L    | Melee   | 10   | 2H        |            |
+| Pick, light             | M    | Melee   | 10   |           |            |
+| Polearm, Glaive         | L    | Melee   | 100  | 2H, Reach |            |
+| Polearm, Guisarme       | L    | Melee   | 100  | 2H, Reach |            |
+| Polearm, Halberd        | L    | Melee   | 100  | 2H, Reach |            |
+| Polearm, Lucerne Hammer | L    | Melee   | 100  | 2H, Reach |            |
+| Polearm, Pike           | L    | Melee   | 100  | 2H, Reach |            |
+| Polearm, Pole axe       | L    | Melee   | 100  | 2H, Reach |            |
+| Polearm, Ranseur        | L    | Melee   | 100  | 2H, Reach |            |
+| Rapier                  | M    | Melee   | 10   |           |            |
+| Scimitar                | M    | Melee   | 10   |           |            |
+| Scythe                  | L    | Melee   | 10   | 2H        |            |
+| Shield, Dagger*         | M    | Melee   | 100  |           |            |
+| Shield, Horned*         | M    | Melee   | 100  |           |            |
+| Shield, Sword*          | M    | Melee   | 100  |           |            |
+| Shield, Tusked*         | M    | Melee   | 100  |           |            |
+| Sickle                  | M    | Melee   | 10   |           |            |
+| Sling*                  | S    | Missile | 10   |           |            |
+| Spear, short            | M    | Melee   | 10   | Thrown    | 10/20/30   |
+| Staff                   | M    | Melee   | 1    |           |            |
+| Sword, bastard          | L    | Melee   | 10   | 2H        |            |
+| Sword, broad            | M    | Melee   | 10   |           |            |
+| Sword, long             | M    | Melee   | 10   |           |            |
+| Sword, short            | M    | Melee   | 10   |           |            |
+| Trident                 | M    | Melee   | 10   |           |            |
+| Whip*                   | M    | Special | 10   |           |            |
+
+**Ammunition Note:** All ammo is purchased in units of 10.
+
+| Ammo           | Size | Cost |
+|----------------|------|------|
+| Arrows         | S    | 10   |
+| Crossbow Bolts | S    | 10   |
+| Sling Bullets  | T    | 10   |
+| Slingstones*   | T    | Free |
 
 **Blackjack:** Blackjacks can be used as regular melee weapons (doing regular damage), or instead as melee Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
 
@@ -901,7 +980,13 @@ Be they weapons, armour, or various adventuring tools, all items of gear can be 
 
 **Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield AC bonuses). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
 
+**Sling and Slingstones:** The base listed stats for the sling assume the user is equipped with actual slingstones as their choice of ammunition. A sling user can feasibly put any small hard object into the sling for use as ammunition: coins, marbles, stones off the ground, etc. Any of these items not specifically crafted as sling bullets is considered a "slingstone" for the purpose of mechanics. When using slingstones, reduce damage by -1 (to a minimum of 1) and reduce effective range by 10/20/30.
+
+**Sword, Bastard:** This sword can be used one-handed or two-handed. If used two-handed, it can make use of class-specific 2H bonuses.
+
 **Whip:** Whips are melee weapons which do no damage, instead serving as melee Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
+
+
 
 
 ### Armour & Shields
@@ -916,6 +1001,8 @@ Descriptors:
 * **Size:** Encumbrance requirement when not worn
 * **Cost:** In coins, to have crafted by an armoursmith of suitable skill (With a few exceptions, armour is rarely available for immediate purchase)
 * **Qualities:** Any special qualities possessed by the armour
+
+**NOTE:** For any entry with an asterisk in its data, see the text section below the table for further details.
 
 | Name         | Type  | AC | Size | Cost  | Qualities |
 |--------------|-------|----|------|-------|-----------|
@@ -959,6 +1046,7 @@ The main gear tables below use the following notations:
 
 **NOTE:** For any entry with an asterisk in its data, see the section below the table for further details.
 
+
 #### Common Gear Table
 
 | Name                      | Size | Cost |
@@ -970,6 +1058,7 @@ The main gear tables below use the following notations:
 | Candles (6)*              | S    | 1    |
 | Chalk (6 pieces)          | S    | 1    |
 | Cloak                     | M    | 1    |
+| Clothing, Simple*         | M    | 1    |
 | Cooking Pot, Iron         | L    | 1    |
 | Firewood (bundle)         | M    | 1    |
 | Flask                     | M    | 1    |
@@ -991,6 +1080,7 @@ The main gear tables below use the following notations:
 | Wine (bottle)             | M    | 1    |
 | Stakes, Wooden (4)        | S    | 1    |
 
+
 #### Rare Gear Table
 
 | Name                            | Size | Cost |
@@ -1000,6 +1090,7 @@ The main gear tables below use the following notations:
 | Belladona                       | S    | 10   |
 | Caltrops (2-pound bag)          | M    | 10   |
 | Chain (10 ft length)            | M    | 10   |
+| Clothing, Quality*              | M    | 10   |
 | Crowbar                         | M    | 10   |
 | Fishing Hook, Line, and Pole    | M    | 10   |
 | Fishing Net (25 sq ft)          | M    | 10   |
@@ -1017,17 +1108,20 @@ The main gear tables below use the following notations:
 | Wolvesbane                      | S    | 10   |
 | Writing Kit (ink, quill, paper) | M    | 10   |
 
+
 #### Specialty Gear Table
 
 | Name                            | Size | Cost |
 |---------------------------------|------|------|
 | Alchemist Fire (ceramic flask)* | S    | 100  |
+| Clothing, Fancy                 | M    | 100  |
 | Healing Potions (vial)*         | S    | 100  |
 | Holy Symbol, Silver             | S    | 100  |
 | Holy Water (vial)               | S    | 100  |
 | Mirror, Silver                  | M    | 100  |
 | Spyglass                        | M    | 100  |
 | Thieves' Tools                  | M    | 100  |
+
 
 #### Bags
 
@@ -1051,6 +1145,7 @@ The main gear tables below use the following notations:
 | Chest, Medium | L    | 100  | 10     | Bag, Durable           |
 | Chest, Small  | M    | 100  | 5      | Bag, Durable           |
 | Lantern Hook* | M    | 100  | 1      | Bag                    |
+| Quiver*       | M    | 10   | 2      | Bag, Wearable          |
 | Sack, Large*  | M/L  | 1    | 15     | Bag, Fragile           |
 | Sack, Small*  | S/M  | 1    | 5      | Bag, Fragile           |
 | Satchel       | S    | 10   | 5      | Bag, Fragile, Wearable |
@@ -1074,11 +1169,15 @@ Below are extended special details on the specially-noted items from the above l
 
 **Case, Scroll:** Scroll cases are specialized bag items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll, or up to five rolled-up maps or other documents.
 
+**Clothing:** Includes a small variety of items of the listed class of attire. Includes suitable shoes or boots. Usually required for social functions.
+
 **Healing Potion:** Requires a full round to consume, healing 1d6+1 HP.
 
 **Lantern:** Primarily used as a group bright light sources. Making use of a Lantern for this purpose requires the expenditure of one flask worth of lantern oil. A lit lantern lasts 24 Beats (4 hours), giving a 40-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter for further details.
 
 **Lantern Hook:** A special rigged hook that attaches to a backpack and curves over the character's head. Can mount (contain) a single lantern overhead, allowing an active light source without a dedicated hand to hold it. Adds significant height, and counts against the backpacks slots.
+
+**Quiver:** Quivers are specialized bag items designed solely for the purpose of safely transporting ammunition for Bows and Crossbows. Each "slot" in the bag can hold either arrows or bolts.
 
 **Rations, All:** Required for camping and a few other effects. Fresh rations are cheapest, but spoil quickly. Preserved rations are expensive, but resist spoilage in dungeons.
 
@@ -1305,14 +1404,14 @@ Additionally, every Hireling has a base Tier, which determines everything else a
 
 **Hireling Tier Table:**
 
-| Hireling Tier | Daily Cost | Expertise | Chance of Finding | Description                             |
-|---------------|------------|-----------|-------------------|-----------------------------------------|
-| 0             | 1 Ration   | 0         | 100 in 100        | Unskilled                               |
-| 1             | 1 cp       | 1         | 1 in 10           | Apprentice                              |
-| 2             | 2 sp       | 2         | 1 in 20           | Expert                                  |
-| 3             | 3 gp       | 3         | 1 in 100          | Master                                  |
-| 4             | 4 pp       | 4         | 1 in 1,000        | Best in their Field for the Present Day |
-| 5             | 5 XP!      | 5         | 1 in 10,000       | Best in their Field in all of History   |
+| Hireling Tier | Daily Cost | Expertise | Chance of Finding | Description                       |
+|---------------|------------|-----------|-------------------|-----------------------------------|
+| 0             | 1 Ration   | 0         | 100 in 100        | Unskilled                         |
+| 1             | 1 coin     | 1         | 1 in 10           | Apprentice                        |
+| 2             | 20 coins   | 2         | 1 in 20           | Expert                            |
+| 3             | 300 coins  | 3         | 1 in 100          | Master                            |
+| 4             | 4000 coins | 4         | 1 in 1,000        | Best in Field for the Present Day |
+| 5             | 5 XP!      | 5         | 1 in 10,000       | Best in all of History            |
 
 **Tier:** The Tier is used for all associated and relevant mechanics. It determines the base bonus to related abilities, and the number of hit dice the hireling has should they come into question.
 
