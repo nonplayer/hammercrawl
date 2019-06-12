@@ -568,6 +568,31 @@ If you're using the character generator python tool, this is already handled for
 If not, this section is pending until I get the lists converted from that code...
 
 
+## Step X: Roll Your Languages
+
+If you have an INT bonus of +1 or higher, you begin the game knowing that many additional bonus languages. Roll 1d30 for each, and consult the following table. If you roll a language twice, you speak that language as if you were born to it. If you roll it thrice, reroll.
+
+| Roll | Language         | Roll | Language         |
+|------|------------------|------|------------------|
+| 1    | Celestial (Law)  | 16   | Goblin           |
+| 2    | Dragon           | 17   | Grimlock         |
+| 3    | Drow             | 18   | Halfling         |
+| 4    | Druidic          | 19   | Infernal (Chaos) |
+| 5    | Dwarf            | 20   | Kobold           |
+| 6    | Elemental, Air   | 21   | Manticore        |
+| 7    | Elemental, Earth | 22   | Medusa           |
+| 8    | Elemental, Fire  | 23   | Naga             |
+| 9    | Elemental, Water | 24   | Ogre             |
+| 10   | Elf              | 25   | Ophidian         |
+| 11   | Esperanto        | 26   | Orc              |
+| 12   | Giant            | 27   | Pidgin (special) |
+| 13   | Gibberish        | 28   | Pigeon           |
+| 14   | Gnoll            | 29   | Sylvan           |
+| 15   | Gnome            | 30   | Teenager         |
+
+**Pidgin:** If you roll Pidgin, randomly roll two more languages (reroll if you get Pidgin or a language you already know). You now speak both of them very badly.
+
+
 ## Step X: Determine Your Starting Funds and Equipment
 
 
