@@ -920,7 +920,7 @@ Roll 1d50 to determine what your random weird item is. Some of these may not mak
 | 50   | a student loan disbursement check (requires Bank)                             |
 
 
-## Step 10: Determine Your Starting Funds and Equipment
+## Step 10: Determine Your Starting Funds, Equipment, and Spells
 
 
 ### Free Starting Gear
@@ -965,6 +965,13 @@ If you are lucky enough to roll into Scum as your social status, do not dismay, 
 Instead of buying equipment, you can roll it. If you're using the character generator python tool, this is already handled for you!
 
 If not, this section is pending until I get the lists converted from that code...
+
+
+### Starting Spells
+
+If you're a spellcaster character, part of your "gear" includes a book where you keep those spells or prayers. Now is the time to determine what is in there.
+
+Your class determines how many spells are in your starting spell or prayer book. If your Hammersmith is the generous sort, they may allow you to pick *one* of your spells. All other spells should be randomly rolled on the appropriate Level 1 spell list for your class. See the Magic section at the end of this document for class-based spell lists and descriptions.
 
 
 ## Step 11: Confirm and Note Important Sub-Stats
@@ -1262,16 +1269,16 @@ The main gear tables below use the following notations:
 | Writing Kit (ink, quill, paper) | M    | 10   |
 
 
-#### Specialty Gear Table
-
 | Name                            | Size | Cost |
 |---------------------------------|------|------|
 | Alchemist Fire (ceramic flask)* | S    | 100  |
-| Clothing, Fancy                 | M    | 100  |
+| Clothing, Fancy*                | M    | 100  |
 | Healing Potions (vial)*         | S    | 100  |
 | Holy Symbol, Silver             | S    | 100  |
 | Holy Water (vial)               | S    | 100  |
 | Mirror, Silver                  | M    | 100  |
+| Prayerbook                      | M    | 100  |
+| Spellbook                       | M    | 100  |
 | Spyglass                        | M    | 100  |
 | Thieves' Tools                  | M    | 100  |
 
@@ -2260,6 +2267,11 @@ You can cast any spell you have memorized. To do so, simply choose the spell and
 Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other memorized spells, provided their total level cost is equal to or greater than that of the spell that you just cast.
 
 
+### On Reversible Spells
+
+Although this game largely draws from the ol' Cyclopedia, there are no "Reversible" Spells in HAMMERCRAWL! Any reversible spells translated from older editions are done so as their two separate component spells. This at least somewhat cuts back on the power of casters, in light of their "cast anything!" abilities.
+
+
 ## Learning New Spells
 
 Spellcasters learn spells through leveling up and also by finding them as loot on scrolls. Each class has its own rules for gaining spells when leveling up.
@@ -2274,38 +2286,111 @@ This game text does not *yet* have extensive spell lists, but over time it will 
 
 ### Cleric Spell Lists
 
+
 #### Level 1
+
+1. Cause Fear
+2. Cause Light Wounds
+3. Cure Light Wounds
+4. Darkness
+5. Detect Evil
+6. Detect Magic
+7. Light
+8. Protection from Evil
+9. Purify Food and Water
+10. Remove Fear
+11. Resist Cold
+
 
 #### Level 2
 
+1. Bless
+2. Curse
+3. Find Traps
+4. Free Person
+5. Hide Alignment
+6. Hold Person
+7. Know Alignment
+8. Resist Fire
+9. Silence 15' Radius
+10. Snake Charm
+11. Speak with Animal
+
+
 #### Level 3
+
 
 #### Level 4
 
+
 #### Level 5
+
 
 #### Level 6
 
+
 #### Level 7
 
+
 #### Level 8
+
+Clerics have no 8th-level spells. It's sort of a trade-off for their ability to wear armour and all that other cool stuff they can do.
 
 
 ### Magic-User Spell Lists
 
+
 #### Level 1
+
+1. Analyse
+2. Charm Person
+3. Darkness
+4. Detect Magic
+5. Floating Disc
+6. Hold Portal
+7. Light
+8. Magic Missile
+9. Protection from Evil
+10. Read Languages
+11. Read Magic
+12. Shield
+13. Sleep
+14. Ventriloquism
+
 
 #### Level 2
 
+1. Continual Darkness
+2. Continual Light
+3. Detect Evil
+4. Detect Invisible
+5. Entangle
+6. ESP
+7. Invisibility
+8. Knock
+9. Levitate
+10. Locate Object
+11. Mindmask
+12. Mirror Image
+13. Phantasmal Force
+14. Web
+15. Wizard Lock
+
+
 #### Level 3
+
 
 #### Level 4
 
+
 #### Level 5
+
 
 #### Level 6
 
+
 #### Level 7
+
 
 #### Level 8
 
