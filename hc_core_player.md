@@ -480,7 +480,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Reaction Rolls
 
 
-## Step X: Roll Your Social Status (SOC)
+## Step 5: Roll Your Social Status (SOC)
 
 Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is essentially a seventh Stat (SOC), but rolled separately from the core six, and recorded with its own modifier. This modifier may apply from time to time in dealings within your game world's societies.
 
@@ -497,7 +497,7 @@ The "Coins" column determines your starting cash multiplier for buying initial e
 | 18        | +3  | 1000* | Royalty          |
 
 
-## Step X: Roll Your Background
+## Step 6: Roll Your Background
 
 Think of your background profession like a special free skill, and then some. Your character is assumed to know how to do all manner of things reasonably contained within the narrative scope of their background. If there is a question related to that scope, consult your Hammersmith.
 
@@ -557,7 +557,7 @@ To determine your character's background, roll 1d200 (figure it out) and consult
 | 50 | Cooper         | 100 | Labourer        |  | 150 | Ranger         | 200 | Woodcutter    |
 
 
-## Step X: Roll Your Skills
+## Step 7: Roll Your Skills
 
 While your character is assumed to have many unwritten skills simply through their class and background (see above), you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
 
@@ -690,9 +690,9 @@ If not, roll 1d20 + 1d100 for each skill, and consult the table below:
 | 120  | Weaving (DEX)                        |
 
 
-## Step X: Roll Your Languages
+## Step 8: Roll Your Languages
 
-If you have an INT bonus of +1 or higher, you begin the game knowing that many additional bonus languages. Roll 1d30 for each, and consult the following table. If you roll a language twice, you speak that language as if you were born to it. If you roll it thrice, reroll.
+In addition to whatever bonus languages you have from your Class, there's a chance you might have even more. If you have an INT bonus of +1 or higher, you begin the game knowing that many additional bonus languages. Roll 1d30 for each, and consult the following table. If you roll a language twice, you speak that language as if you were born to it. If you roll it thrice, reroll.
 
 | Roll | Language         | Roll | Language         |
 |------|------------------|------|------------------|
@@ -715,70 +715,9 @@ If you have an INT bonus of +1 or higher, you begin the game knowing that many a
 **Pidgin:** If you roll Pidgin, randomly roll two more languages (reroll if you get Pidgin or a language you already know). You now speak both of them very badly.
 
 
-## Step X: Determine Your Starting Funds and Equipment
+## Step 9: Randomize Your Miscellaneous Traits
 
-
-### Free Starting Gear
-
-All characters begin with the following for free:
-
-* a Satchel (S; Qualities: Bag [5], Fragile, Wearable), containing:
-* 1d4 fresh rations (S)
-* 1 Torch (S)
-
-Additionally, some classes begin with additional starting equipment:
-
-* **Dwarves**: 1 weapon of choice, and 1 small shield
-* **Elves**: 1 weapon of choice, and a Spellbook
-* **Halflings**: 1 weapon of choice, and a set of Thieves' Tools
-* **Half-Ogres**: 1 weapon of choice
-* **Human Clerics**: a Holy Symbol, and a Prayer Book
-* **Human Fighters**: 2 weapons of choice, or 1 weapon and 1 small shield
-* **Human Thieves**: a set of Thieves' Tools, and a Dagger
-* **Human Wizards**: a Spellbook, and a random wizard weapon (see "Wizard Weapons" in the "Gear" section of this document)
-
-Then determine your gear either through deliberate purchase or through random roll:
-
-
-### Option A: Purchasing Your Starting Gear
-
-Multiply your SOC score by its associated multiplier, and that's how much money you have to spend. Use the Equipment section of this book to purchase anything you can afford.
-
-
-#### A Note on Royalty
-
-You read that right, Royalty is rich as fuck and starts with 1000 coins. Enjoy the comforts of a shitload of money, buy all the things you want, and see how long that works out for you down there in that awful, horrible, no-good dungeon...
-
-
-#### A Note on Scum
-
-If you are lucky enough to roll into Scum as your social status, do not dismay, for you may have just lucked out. Enjoy three completely random rolls on the 'Smith's magic items tables. These are guaranteed to not survive your character's final death, and as such cannot be looted from your body.
-
-
-### Option B: Randomizing Your Starting Gear
-
-Instead of buying equipment, you can roll it. If you're using the character generator python tool, this is already handled for you!
-
-If not, this section is pending until I get the lists converted from that code...
-
-
-## Step X: Confirm and Note Important Sub-Stats
-
-* **Experience Level** (1) and associated **Character Tier** (1)
-* **Hit Die** = Determined by your Class
-* **Hit Points (HPs)** = Your Maximum Hit Die, plus your Con Mod, minimum of 1.
-* **Armor Class (AC)** = 10 + DEX mod + AC mod from any Armour and Shields
-* **Melee Attack Modifier** = STR mod + any class mods
-* **Melee Damage Modifier** = STR mod
-* **Missile Attack Modifier** = DEX mod + any class mods
-* **Movement Speed** = determined by class (human base is 30)
-* **Maximum Encumbrance (MaxEnc)** = 1/2 your INT score (rounded down), plus your STR mod.
-
-
-## Step X: Randomize Your Miscellaneous Traits
-
-TBD (see generator program for now)
-
+You now get to randomly roll various minor traits and aspects of your character.
 
 ### Random Character Tags
 
@@ -981,13 +920,72 @@ Roll 1d50 to determine what your random weird item is. Some of these may not mak
 | 50   | a student loan disbursement check (requires Bank)                             |
 
 
+## Step 10: Determine Your Starting Funds and Equipment
 
-## Step X: Name Your Characters
+
+### Free Starting Gear
+
+All characters begin with the following for free:
+
+* a Satchel (S; Qualities: Bag [5], Fragile, Wearable), containing:
+* 1d4 fresh rations (S)
+* 1 Torch (S)
+
+Additionally, some classes begin with additional starting equipment:
+
+* **Dwarves**: 1 weapon of choice, and 1 small shield
+* **Elves**: 1 weapon of choice, and a Spellbook
+* **Halflings**: 1 weapon of choice, and a set of Thieves' Tools
+* **Half-Ogres**: 1 weapon of choice
+* **Human Clerics**: a Holy Symbol, and a Prayer Book
+* **Human Fighters**: 2 weapons of choice, or 1 weapon and 1 small shield
+* **Human Thieves**: a set of Thieves' Tools, and a Dagger
+* **Human Wizards**: a Spellbook, and a random wizard weapon (see "Wizard Weapons" in the "Gear" section of this document)
+
+Then determine your gear either through deliberate purchase or through random roll:
+
+
+### Option A: Purchasing Your Starting Gear
+
+Multiply your SOC score by its associated multiplier, and that's how much money you have to spend. Use the Equipment section of this book to purchase anything you can afford.
+
+
+#### A Note on Royalty
+
+You read that right, Royalty is rich as fuck and starts with 1000 coins. Enjoy the comforts of a shitload of money, buy all the things you want, and see how long that works out for you down there in that awful, horrible, no-good dungeon...
+
+
+#### A Note on Scum
+
+If you are lucky enough to roll into Scum as your social status, do not dismay, for you may have just lucked out. Enjoy three completely random rolls on the 'Smith's magic items tables. These are guaranteed to not survive your character's final death, and as such cannot be looted from your body.
+
+
+### Option B: Randomizing Your Starting Gear
+
+Instead of buying equipment, you can roll it. If you're using the character generator python tool, this is already handled for you!
+
+If not, this section is pending until I get the lists converted from that code...
+
+
+## Step 11: Confirm and Note Important Sub-Stats
+
+* **Experience Level** (1) and associated **Character Tier** (1)
+* **Hit Die** = Determined by your Class
+* **Hit Points (HPs)** = Your Maximum Hit Die, plus your Con Mod, minimum of 1.
+* **Armor Class (AC)** = 10 + DEX mod + AC mod from any Armour and Shields
+* **Melee Attack Modifier** = STR mod + any class mods
+* **Melee Damage Modifier** = STR mod
+* **Missile Attack Modifier** = DEX mod + any class mods
+* **Movement Speed** = determined by class (human base is 30)
+* **Maximum Encumbrance (MaxEnc)** = 1/2 your INT score (rounded down), plus your STR mod.
+
+
+## Step 12: Name Your Characters
 
 Now it's time to give the character a name. Thing is, *you* don't get to give it that name. Instead, pass your character sheet to the player (*not* the Smith) sitting to your left. *They* get to name your character, and they are encouraged to Go Wild.
 
 
-## Step X: Determine Party (Player) Roles
+## Step 13: Determine Party (Player) Roles
 
 Hopefully the rest of your group has been making your characters alongside one another, and you've now all reached this point together. It's time to determine the party roles, which are mainly for administration and also for the use of the special new Party Actions.
 
@@ -999,7 +997,7 @@ Hopefully the rest of your group has been making your characters alongside one a
 * **Timekeeper:** The player tracks the passage of game Beats, and keeps track of who is carrying what light sources (and how much time is left on them).
 
 
-## Final Step: Take it All In
+## Now Take It All In
 
 Take a moment to think about the kind of person your character is. Think about their goals, their ambitions, their reasons for doing the things they do. And while you're at it, take a long hard moment to ponder exactly what kind of person they have to be in order to willingly leave everything behind and delve into terrifying and disgusting dungeons.
 
