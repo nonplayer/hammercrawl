@@ -2405,9 +2405,32 @@ Template:
 * **Target:**
 * **Range:**
 * **Duration:**
+* **Save:**
 * **Effect:**
 
+
 ### Spells C
+
+
+##### Cause Light Wounds
+
+* **Level** Cleric 1
+* **Target:** One living creature
+* **Range:** 5 ft'
+* **Duration:** Permanent
+* **Save:** None
+* **Effect:** When used on a target within melee range (no contact is necessary), the victim takes 1d6 + Caster Level in damage, doubled if the target is an enemy of the caster's faith.
+
+
+##### Cause Serious Wounds
+
+* **Level** Cleric 4
+* **Target:** One living creature
+* **Range:** 5 ft'
+* **Duration:** Permanent
+* **Save:** None
+* **Effect:** When used on a target within melee range (no contact is necessary), the victim takes 2d6 + Caster Level in damage, doubled if the target is an enemy of the caster's faith.
+
 
 ##### Cure Light Wounds
 
@@ -2415,6 +2438,7 @@ Template:
 * **Target:** One living creature
 * **Range:** Touch
 * **Duration:** Permanent
+* **Save:** Body (if unwilling)
 * **Effect:** If used on a target with HP less than max, target is restored 1d6 + Caster Level hit points.
 
 
@@ -2424,6 +2448,7 @@ Template:
 * **Target:** One living creature
 * **Range:** Touch
 * **Duration:** Permanent
+* **Save:** Body (if unwilling)
 * **Effect:** If used on a target with HP less than max but above zero, target is restored 2d6 + Caster Level hit points.
 
 If used on a target that is already below zero HP, instead restore 1d4 + Caster Level in lost CON stat points to the target. If this restores their CON to original value, any remainder on the roll is applied to restore HP. The caster can target themselves with this spell.
@@ -2437,6 +2462,7 @@ If used on a target that is already below zero HP, instead restore 1d4 + Caster 
 * **Target:** Self, 1 object, or 1 creature
 * **Range:** 30 ft.
 * **Duration:** 6 Beats (+1/caster level)
+* **Save:** Body (see below)
 * **Effect:** Light is a versatile spell, with effects depending on the target. If cast upon themself, a small fist-sized orb of light appears in the caster's hand. The orb provides a 15-foot radius of strong light. The caster cannot use their hand for other purposes, or the spell is canceled.
 
 If cast on an object, the object glows with the same strength of light, which lasts until the spell is done.
@@ -2444,7 +2470,6 @@ If cast on an object, the object glows with the same strength of light, which la
 If cast on a creature, the creature must make a Body Save or be blinded for the duration of the spell.
 
 In each case, the duration of the spell is the same, and the caster can cancel it at any time.
-
 
 
 ## Wait a Sec... What about Level 9 Spells?
