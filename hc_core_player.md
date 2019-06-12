@@ -385,9 +385,9 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 **Trapwise:** Thieves have advantage on all Saves against the effects of Traps.
 
 
-## Step 3: Choose Your Alignment
+## Step 3: Roll Your Alignment
 
-Choose from the following five: Chaotic, Evil, Good, Lawful, and Neutral.
+HAMMERCRAWL! uses the following five alignments: Chaotic, Evil, Good, Lawful, and Neutral. Roll a d5 to determine yours.
 
 
 ## Step 4: Roll Your Stats
