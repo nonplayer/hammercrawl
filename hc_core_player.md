@@ -1522,8 +1522,8 @@ In HAMMERCRAWL!, XP is only gained *after* overcoming challenges generated from 
 Hammersmiths may feel like rewarding some players with spontaneous experience boons when those players come up with good ideas or engage in captivating scenes of role-playing. I recommend keeping these to a minimum, and instead making players earn those valuable XPs through the expected core methods, but hey, it's your game, go buck wild. Use the following as a guideline, based on the occurrence that you feel deserves the reward:
 
 * Hah yeah, okay that was pretty cool: 1 XP
-* Whoah, that was awesome!: 3 XP
-* (table, players, and household all literally explode from the magnitude of sheer bodacious game fire): 5 XP
+* Whoah, that was awesome!: 2 XP
+* (table, players, and household all literally explode from the magnitude of sheer bodacious game fire): 3 XP
 
 
 ### Experience and Money
