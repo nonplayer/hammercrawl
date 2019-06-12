@@ -2414,23 +2414,23 @@ Template:
 ### Spells A
 
 
-Analyse
+##### Analyse
 
 
 ### Spells B
 
 
-Bless
+##### Bless
 
 
 ### Spells C
 
 
-Cause Fear
-Charm Person
-Continual Darkness
-Continual Light
-Curse
+##### Cause Fear
+##### Charm Person
+##### Continual Darkness
+##### Continual Light
+##### Curse
 
 
 ##### Cause Light Wounds
@@ -2478,25 +2478,25 @@ If used on a target that is already below zero HP, instead restore 1d4 + Caster 
 ### Spells D
 
 
-Darkness
-Detect Evil
-Detect Invisible
-Detect Magic
+##### Darkness
+##### Detect Evil
+##### Detect Invisible
+##### Detect Magic
 
 
 ### Spells E
 
 
-Entangle
-ESP
+##### Entangle
+##### ESP
 
 
 ### Spells F
 
 
-Find Traps
-Floating Disc
-Free Person
+##### Find Traps
+##### Floating Disc
+##### Free Person
 
 
 ### Spells G
@@ -2505,15 +2505,15 @@ Free Person
 ### Spells H
 
 
-Hide Alignment
-Hold Person
-Hold Portal
+##### Hide Alignment
+##### Hold Person
+##### Hold Portal
 
 
 ### Spells I
 
 
-Invisibility
+##### Invisibility
 
 
 ### Spells J
@@ -2522,15 +2522,15 @@ Invisibility
 ### Spells K
 
 
-Knock
-Know Alignment
+##### Knock
+##### Know Alignment
 
 
 ### Spells L
 
 
-Levitate
-Locate Object
+##### Levitate
+##### Locate Object
 
 
 ##### Light
@@ -2552,9 +2552,9 @@ In each case, the duration of the spell is the same, and the caster can cancel i
 ### Spells M
 
 
-Magic Missile
-Mindmask
-Mirror Image
+##### Magic Missile
+##### Mindmask
+##### Mirror Image
 
 
 ### Spells N
@@ -2566,9 +2566,9 @@ Mirror Image
 ### Spells P
 
 
-Phantasmal Force
-Protection from Evil
-Purify Food and Water
+##### Phantasmal Force
+##### Protection from Evil
+##### Purify Food and Water
 
 
 ### Spells Q
@@ -2577,21 +2577,21 @@ Purify Food and Water
 ### Spells R
 
 
-Read Languages
-Read Magic
-Remove Fear
-Resist Cold
-Resist Fire
+##### Read Languages
+##### Read Magic
+##### Remove Fear
+##### Resist Cold
+##### Resist Fire
 
 
 ### Spells S
 
 
-Shield
-Silence 15' Radius
-Sleep
-Snake Charm
-Speak with Animal
+##### Shield
+##### Silence 15' Radius
+##### Sleep
+##### Snake Charm
+##### Speak with Animal
 
 
 ### Spells T
@@ -2600,13 +2600,13 @@ Speak with Animal
 ### Spells V
 
 
-Ventriloquism
+##### Ventriloquism
 
 
 ### Spells W
 
-Web
-Wizard Lock
+##### Web
+##### Wizard Lock
 
 
 ## Wait a Sec... What about Level 9 Spells?
