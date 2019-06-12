@@ -565,7 +565,129 @@ At creation, you begin with a base of 4 skills, modified by your INT mod. Thus i
 
 If you're using the character generator python tool, this is already handled for you!
 
-If not, this section is pending until I get the lists converted from that code...
+If not, roll 1d20 + 1d100 for each skill, and consult the table below:
+
+| Roll | Skill (Stat)                         |
+|------|--------------------------------------|
+| 2    | Accounting (INT)                     |
+| 3    | Agriculture (INT)                    |
+| 4    | Animal Handling (INT)                |
+| 5    | Animal Training (INT)                |
+| 6    | Appraising (INT)                     |
+| 7    | Arcane Lore (INT)                    |
+| 8    | Armorer (STR)                        |
+| 9    | Art Criticism (INT)                  |
+| 10   | Artistic Ability (CHA)               |
+| 11   | Astrology (WIS)                      |
+| 12   | Balance (DEX)                        |
+| 13   | Ballet (DEX)                         |
+| 14   | Being Drunk Before Noon (CON)        |
+| 15   | Being Forgotten (CHA)                |
+| 16   | Birdwatching (WIS)                   |
+| 17   | Blacksmithing (STR)                  |
+| 18   | Blathering (CHA)                     |
+| 19   | Bluff (CHA)                          |
+| 20   | Bobsledding (STR)                    |
+| 21   | Bonsai (DEX)                         |
+| 22   | Bovine Husbandry (INT)               |
+| 23   | Bowyer/Fletcher (DEX)                |
+| 24   | Brewing (INT)                        |
+| 25   | Busking (CHA)                        |
+| 26   | Butchery (DEX)                       |
+| 27   | Caber Tossing (STR)                  |
+| 28   | Carpentry (STR)                      |
+| 29   | Cat Facts (INT)                      |
+| 30   | Charioteering (DEX)                  |
+| 31   | Chess (INT)                          |
+| 32   | Cobbling (DEX)                       |
+| 33   | Cooking (WIS)                        |
+| 34   | Dancing (DEX)                        |
+| 35   | Diplomacy (CHA)                      |
+| 36   | Direction Sense (WIS)                |
+| 37   | Disguise (WIS)                       |
+| 38   | Dog Grooming (DEX)                   |
+| 39   | Doomsaying (WIS)                     |
+| 40   | Engineering (INT)                    |
+| 41   | Equine Husbandry (INT)               |
+| 42   | Escape Artist (DEX)                  |
+| 43   | Etiquette (Choice of Culture) (CHA)  |
+| 44   | Feline Husbandry (INT)               |
+| 45   | Fire-building (DEX)                  |
+| 46   | First Aid (WIS)                      |
+| 47   | Fishing (WIS)                        |
+| 48   | Food Cart Management (INT)           |
+| 49   | Food Tasting (CON)                   |
+| 50   | Forgery (DEX)                        |
+| 51   | Freestyle Beats (CHA)                |
+| 52   | Funny Walks (DEX)                    |
+| 53   | Gambling (CHA)                       |
+| 54   | Gaming (INT)                         |
+| 55   | Gem-Cutting (DEX)                    |
+| 56   | Geography (INT)                      |
+| 57   | Getting Picked Last (CHA)            |
+| 58   | Gourmand (INT)                       |
+| 59   | Healing (INT)                        |
+| 60   | Heraldry (INT)                       |
+| 61   | Herbalism (INT)                      |
+| 62   | History, Ancient (INT)               |
+| 63   | History, Local (INT)                 |
+| 64   | Horsehair Braiding (DEX)             |
+| 65   | Hullabaloo (CHA)                     |
+| 66   | Hunting (WIS)                        |
+| 67   | Intimidation (STR or CHA)            |
+| 68   | Juggling (DEX)                       |
+| 69   | Jumping (STR)                        |
+| 70   | Landscaping (STR)                    |
+| 71   | Laws (Choice of Culture) (INT)       |
+| 72   | Leatherworking (DEX)                 |
+| 73   | Limericks (CHA)                      |
+| 74   | Lip Reading (WIS)                    |
+| 75   | Looking Conspicuous (CHA)            |
+| 76   | Magical Engineering (INT)            |
+| 77   | Milk (WIS)                           |
+| 78   | Mime (DEX)                           |
+| 79   | Miniature Equine Aficionado (INT)    |
+| 80   | Mining (INT)                         |
+| 81   | Mountaineering (WIS)                 |
+| 82   | Multi-Level Marketing (INT)          |
+| 83   | Musical Instrument (DEX)             |
+| 84   | Nature Lore (INT)                    |
+| 85   | Navigating (WIS)                     |
+| 86   | Painting (DEX)                       |
+| 87   | Performance (Choice of Medium) (CHA) |
+| 88   | Poison-Making (INT)                  |
+| 89   | Pottery (DEX)                        |
+| 90   | Pouting (CHA)                        |
+| 91   | Puppetry (DEX)                       |
+| 92   | Religious Lore (INT)                 |
+| 93   | Riding (Choose Animal) (DEX)         |
+| 94   | Rope Use (DEX)                       |
+| 95   | Running (CON)                        |
+| 96   | Seamanship (WIS)                     |
+| 97   | Seamstress/Tailor (DEX)              |
+| 98   | Selfies (CHA)                        |
+| 99   | Sense Motive (WIS)                   |
+| 100  | SEO (INT)                            |
+| 101  | Set Snares (DEX)                     |
+| 102  | Singing (CHA)                        |
+| 103  | Skiing (STR)                         |
+| 104  | Spotlight Stealing (CHA)             |
+| 105  | Squaredancing (DEX)                  |
+| 106  | Stonemasonry (STR)                   |
+| 107  | Stone-Skipping (DEX)                 |
+| 108  | Surfing (DEX)                        |
+| 109  | Survival (WIS)                       |
+| 110  | Swimming (STR)                       |
+| 111  | Sword-Swallowing (CON)               |
+| 112  | Tanning (CON)                        |
+| 113  | Tightrope-Walking (DEX)              |
+| 114  | Tumbling (DEX)                       |
+| 115  | Ursine Husbandry (CON)               |
+| 116  | Useless Card Tricks (DEX)            |
+| 117  | Ventriloquism (CHA)                  |
+| 118  | Weaponsmithing (STR)                 |
+| 119  | Weather Sense (WIS)                  |
+| 120  | Weaving (DEX)                        |
 
 
 ## Step X: Roll Your Languages
