@@ -1528,7 +1528,9 @@ Hammersmiths may feel like rewarding some players with spontaneous experience bo
 
 ### Experience and Money
 
-Unlike some older "classic" games, characters do not gain XP from money in HAMMERCRAWL! Instead, they gain it by exploring new rooms and defeating the challenges within, based on the results of the Divining Pool.
+Parties that make it back to town with a *lot* of excess money can choose to convert some of it to XP. In short, for every 1000 coins that they convert to XP (as in: they *can not* spend it on stuff), every surviving member of that dungeon run gains 1 XP.
+
+For more detail, see "Return to Town" in the "Party Meta-Actions" section.
 
 
 ### Leveling Up
