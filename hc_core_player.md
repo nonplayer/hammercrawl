@@ -1547,7 +1547,7 @@ When you attain the next level, the following things happen, in order:
 
 ## Healing (ref)
 
-See "Damage"
+See "Hit Points and Death"
 
 
 ## Hirelings and Henchmen
