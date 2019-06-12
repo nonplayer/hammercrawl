@@ -2414,10 +2414,23 @@ Template:
 ### Spells A
 
 
+Analyse
+
+
 ### Spells B
 
 
+Bless
+
+
 ### Spells C
+
+
+Cause Fear
+Charm Person
+Continual Darkness
+Continual Light
+Curse
 
 
 ##### Cause Light Wounds
@@ -2465,10 +2478,25 @@ If used on a target that is already below zero HP, instead restore 1d4 + Caster 
 ### Spells D
 
 
+Darkness
+Detect Evil
+Detect Invisible
+Detect Magic
+
+
 ### Spells E
 
 
+Entangle
+ESP
+
+
 ### Spells F
+
+
+Find Traps
+Floating Disc
+Free Person
 
 
 ### Spells G
@@ -2477,7 +2505,15 @@ If used on a target that is already below zero HP, instead restore 1d4 + Caster 
 ### Spells H
 
 
+Hide Alignment
+Hold Person
+Hold Portal
+
+
 ### Spells I
+
+
+Invisibility
 
 
 ### Spells J
@@ -2486,7 +2522,16 @@ If used on a target that is already below zero HP, instead restore 1d4 + Caster 
 ### Spells K
 
 
+Knock
+Know Alignment
+
+
 ### Spells L
+
+
+Levitate
+Locate Object
+
 
 ##### Light
 
@@ -2507,6 +2552,11 @@ In each case, the duration of the spell is the same, and the caster can cancel i
 ### Spells M
 
 
+Magic Missile
+Mindmask
+Mirror Image
+
+
 ### Spells N
 
 
@@ -2516,13 +2566,32 @@ In each case, the duration of the spell is the same, and the caster can cancel i
 ### Spells P
 
 
+Phantasmal Force
+Protection from Evil
+Purify Food and Water
+
+
 ### Spells Q
 
 
 ### Spells R
 
 
+Read Languages
+Read Magic
+Remove Fear
+Resist Cold
+Resist Fire
+
+
 ### Spells S
+
+
+Shield
+Silence 15' Radius
+Sleep
+Snake Charm
+Speak with Animal
 
 
 ### Spells T
@@ -2531,7 +2600,13 @@ In each case, the duration of the spell is the same, and the caster can cancel i
 ### Spells V
 
 
+Ventriloquism
+
+
 ### Spells W
+
+Web
+Wizard Lock
 
 
 ## Wait a Sec... What about Level 9 Spells?
