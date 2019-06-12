@@ -2411,6 +2411,12 @@ Template:
 * **Effect:**
 
 
+### Spells A
+
+
+### Spells B
+
+
 ### Spells C
 
 
@@ -2456,6 +2462,30 @@ Template:
 If used on a target that is already below zero HP, instead restore 1d4 + Caster Level in lost CON stat points to the target. If this restores their CON to original value, any remainder on the roll is applied to restore HP. The caster can target themselves with this spell.
 
 
+### Spells D
+
+
+### Spells E
+
+
+### Spells F
+
+
+### Spells G
+
+
+### Spells H
+
+
+### Spells I
+
+
+### Spells J
+
+
+### Spells K
+
+
 ### Spells L
 
 ##### Light
@@ -2472,6 +2502,36 @@ If cast on an object, the object glows with the same strength of light, which la
 If cast on a creature, the creature must make a Body Save or be blinded for the duration of the spell.
 
 In each case, the duration of the spell is the same, and the caster can cancel it at any time.
+
+
+### Spells M
+
+
+### Spells N
+
+
+### Spells O
+
+
+### Spells P
+
+
+### Spells Q
+
+
+### Spells R
+
+
+### Spells S
+
+
+### Spells T
+
+
+### Spells V
+
+
+### Spells W
 
 
 ## Wait a Sec... What about Level 9 Spells?
