@@ -200,6 +200,26 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the AC bonus of their shield when using the bash.
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 1      | 0    | 1     | 0    | 1    | 0    | 0     |
+| 2     | 2      | 0    | 2     | 0    | 2    | 1    | 1     |
+| 3     | 3      | 1    | 3     | 1    | 3    | 1    | 1     |
+| 4     | 4      | 1    | 4     | 1    | 4    | 2    | 2     |
+| 5     | 5      | 1    | 5     | 1    | 5    | 2    | 2     |
+| 6     | 6      | 2    | 6     | 2    | 6    | 3    | 3     |
+| 7     | 7      | 2    | 7     | 2    | 7    | 3    | 3     |
+| 8     | 8      | 2    | 8     | 2    | 8    | 4    | 4     |
+| 9     | 9      | 3    | 9     | 3    | 9    | 4    | 4     |
+| 10    | 10     | 3    | 10    | 3    | 10   | 5    | 5     |
+| 11    | 11     | 3    | 11    | 3    | 11   | 5    | 5     |
+| 12    | 12     | 4    | 12    | 4    | 12   | 6    | 6     |
+| 13    | 13     | 4    | 13    | 4    | 13   | 6    | 6     |
+| 14    | 14     | 4    | 14    | 4    | 14   | 7    | 7     |
+| 15    | 15     | 5    | 15    | 5    | 15   | 7    | 7     |
+
 
 ### Elf Exemplar (Hybrid)
 
@@ -228,6 +248,26 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **War Adept:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 0    | 1     | 1    | 0    | 0    | 0     |
+| 2     | 1      | 1    | 2     | 2    | 1    | 0    | 1     |
+| 3     | 1      | 1    | 3     | 3    | 1    | 1    | 1     |
+| 4     | 2      | 2    | 4     | 4    | 2    | 1    | 2     |
+| 5     | 2      | 2    | 5     | 5    | 2    | 1    | 2     |
+| 6     | 3      | 3    | 6     | 6    | 3    | 2    | 3     |
+| 7     | 3      | 3    | 7     | 7    | 3    | 2    | 3     |
+| 8     | 4      | 4    | 8     | 8    | 4    | 2    | 4     |
+| 9     | 4      | 4    | 9     | 9    | 4    | 3    | 4     |
+| 10    | 5      | 5    | 10    | 10   | 5    | 3    | 5     |
+| 11    | 5      | 5    | 11    | 11   | 5    | 3    | 5     |
+| 12    | 6      | 6    | 12    | 12   | 6    | 4    | 6     |
+| 13    | 6      | 6    | 13    | 13   | 6    | 4    | 6     |
+| 14    | 7      | 7    | 14    | 14   | 7    | 4    | 7     |
+| 15    | 7      | 7    | 15    | 15   | 7    | 5    | 7     |
+
 
 ### Halfling Burglar (Rogue)
 
@@ -253,6 +293,26 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 **Tactical Attacker:** Halflings roll with advantage on Tactical Attacks.
 
 **Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans. Additionally, all item encumbrance sizes are considered one step higher for the Halfling.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 1    | 1     | 1    | 1    | 1    | 1     |
+| 2     | 1      | 2    | 2     | 2    | 2    | 2    | 2     |
+| 3     | 1      | 3    | 3     | 3    | 3    | 3    | 3     |
+| 4     | 2      | 4    | 4     | 4    | 4    | 4    | 4     |
+| 5     | 2      | 5    | 5     | 5    | 5    | 5    | 5     |
+| 6     | 3      | 6    | 6     | 6    | 6    | 6    | 6     |
+| 7     | 3      | 7    | 7     | 7    | 7    | 7    | 7     |
+| 8     | 4      | 8    | 8     | 8    | 8    | 8    | 8     |
+| 9     | 4      | 9    | 9     | 9    | 9    | 9    | 9     |
+| 10    | 5      | 10   | 10    | 10   | 10   | 10   | 10    |
+| 11    | 5      | 11   | 11    | 11   | 11   | 11   | 11    |
+| 12    | 6      | 12   | 12    | 12   | 12   | 12   | 12    |
+| 13    | 6      | 13   | 13    | 13   | 13   | 13   | 13    |
+| 14    | 7      | 14   | 14    | 14   | 14   | 14   | 14    |
+| 15    | 7      | 15   | 15    | 15   | 15   | 15   | 15    |
 
 
 ### Half-ogre Berserker (Warrior)
@@ -286,6 +346,26 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 
 **Two-Hander:** When using a two-handed melee weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 1      | 0    | 1     | 0    | 1    | 0    | 0     |
+| 2     | 2      | 1    | 2     | 0    | 2    | 0    | 1     |
+| 3     | 3      | 1    | 3     | 1    | 3    | 1    | 1     |
+| 4     | 4      | 2    | 4     | 1    | 4    | 1    | 2     |
+| 5     | 5      | 2    | 5     | 1    | 5    | 1    | 2     |
+| 6     | 6      | 3    | 6     | 2    | 6    | 2    | 3     |
+| 7     | 7      | 3    | 7     | 2    | 7    | 2    | 3     |
+| 8     | 8      | 4    | 8     | 2    | 8    | 2    | 4     |
+| 9     | 9      | 4    | 9     | 3    | 9    | 3    | 4     |
+| 10    | 10     | 5    | 10    | 3    | 10   | 3    | 5     |
+| 11    | 11     | 5    | 11    | 3    | 11   | 3    | 5     |
+| 12    | 12     | 6    | 12    | 4    | 12   | 4    | 6     |
+| 13    | 13     | 6    | 13    | 4    | 13   | 4    | 6     |
+| 14    | 14     | 7    | 14    | 4    | 14   | 4    | 7     |
+| 15    | 15     | 7    | 15    | 5    | 15   | 5    | 7     |
+
 
 ### Human Cleric (Caster)
 
@@ -307,6 +387,26 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 At the start of play, a new Cleric can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
 **Turn Away the Unholy** Once per Day per Level of Experience, a Cleric can hold aloft the symbol of their righteous faith and turn back undead, devils, demons, and any others that the Hammersmith deems to be enemies of their faith. All such opponents must make Mind saves based on the difference in Level/HD Tiers. Targets who fail this save must cower, flee, or possibly even take damage or be destroyed.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 0    | 0     | 0    | 0    | 1    | 1     |
+| 2     | 1      | 0    | 1     | 1    | 1    | 2    | 2     |
+| 3     | 1      | 1    | 1     | 1    | 1    | 3    | 3     |
+| 4     | 2      | 1    | 2     | 2    | 2    | 4    | 4     |
+| 5     | 2      | 1    | 2     | 2    | 2    | 5    | 5     |
+| 6     | 3      | 2    | 3     | 3    | 3    | 6    | 6     |
+| 7     | 3      | 2    | 3     | 3    | 3    | 7    | 7     |
+| 8     | 4      | 2    | 4     | 4    | 4    | 8    | 8     |
+| 9     | 4      | 3    | 4     | 4    | 4    | 9    | 9     |
+| 10    | 5      | 3    | 5     | 5    | 5    | 10   | 10    |
+| 11    | 5      | 3    | 5     | 5    | 5    | 11   | 11    |
+| 12    | 6      | 4    | 6     | 6    | 6    | 12   | 12    |
+| 13    | 6      | 4    | 6     | 6    | 6    | 13   | 13    |
+| 14    | 7      | 4    | 7     | 7    | 7    | 14   | 14    |
+| 15    | 7      | 5    | 7     | 7    | 7    | 15   | 15    |
 
 
 ### Human Fighter (Warrior)
@@ -331,6 +431,26 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 **Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's AC bonus until the start of their next turn in combat.
 
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 1      | 0    | 1     | 0    | 1    | 0    | 1     |
+| 2     | 2      | 1    | 2     | 0    | 2    | 0    | 2     |
+| 3     | 3      | 1    | 3     | 1    | 3    | 1    | 3     |
+| 4     | 4      | 2    | 4     | 1    | 4    | 1    | 4     |
+| 5     | 5      | 2    | 5     | 1    | 5    | 1    | 5     |
+| 6     | 6      | 3    | 6     | 2    | 6    | 2    | 6     |
+| 7     | 7      | 3    | 7     | 2    | 7    | 2    | 7     |
+| 8     | 8      | 4    | 8     | 2    | 8    | 2    | 8     |
+| 9     | 9      | 4    | 9     | 3    | 9    | 3    | 9     |
+| 10    | 10     | 5    | 10    | 3    | 10   | 3    | 10    |
+| 11    | 11     | 5    | 11    | 3    | 11   | 3    | 11    |
+| 12    | 12     | 6    | 12    | 4    | 12   | 4    | 12    |
+| 13    | 13     | 6    | 13    | 4    | 13   | 4    | 13    |
+| 14    | 14     | 7    | 14    | 4    | 14   | 4    | 14    |
+| 15    | 15     | 7    | 15    | 5    | 15   | 5    | 15    |
 
 
 ### Human Magic-User (Caster)
@@ -360,6 +480,26 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 
 **Wizardly Weaponry:** Magic-users can make use of new special mage-only weapons: The Wand and The Staff. Be warned that actively using these tools will mark you as a magician, and likely increase your chances of becoming a target priority by smart enemies...
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 0    | 0     | 1    | 0    | 0    | 0     |
+| 2     | 0      | 0    | 0     | 2    | 0    | 1    | 0     |
+| 3     | 0      | 1    | 1     | 3    | 1    | 1    | 1     |
+| 4     | 0      | 1    | 1     | 4    | 1    | 2    | 1     |
+| 5     | 0      | 1    | 1     | 5    | 1    | 2    | 1     |
+| 6     | 0      | 2    | 2     | 6    | 2    | 3    | 2     |
+| 7     | 0      | 2    | 2     | 7    | 2    | 3    | 2     |
+| 8     | 0      | 2    | 2     | 8    | 2    | 4    | 2     |
+| 9     | 0      | 3    | 3     | 9    | 3    | 4    | 3     |
+| 10    | 0      | 3    | 3     | 10   | 3    | 5    | 3     |
+| 11    | 0      | 3    | 3     | 11   | 3    | 5    | 3     |
+| 12    | 0      | 4    | 4     | 12   | 4    | 6    | 4     |
+| 13    | 0      | 4    | 4     | 13   | 4    | 6    | 4     |
+| 14    | 0      | 4    | 4     | 14   | 4    | 7    | 4     |
+| 15    | 0      | 5    | 5     | 15   | 5    | 7    | 5     |
+
 
 ### Human Thief (Rogue)
 
@@ -383,6 +523,26 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 **Tactical Attacker:** Thieves roll with advantage on Tactical Attacks.
 
 **Trapwise:** Thieves have advantage on all Saves against the effects of Traps.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 1    | 0     | 0    | 0    | 1    | 0     |
+| 2     | 0      | 2    | 1     | 0    | 0    | 2    | 1     |
+| 3     | 1      | 3    | 1     | 1    | 1    | 3    | 1     |
+| 4     | 1      | 4    | 2     | 1    | 1    | 4    | 2     |
+| 5     | 1      | 5    | 2     | 1    | 1    | 5    | 2     |
+| 6     | 2      | 6    | 3     | 2    | 2    | 6    | 3     |
+| 7     | 2      | 7    | 3     | 2    | 2    | 7    | 3     |
+| 8     | 2      | 8    | 4     | 2    | 2    | 8    | 4     |
+| 9     | 3      | 9    | 4     | 3    | 3    | 9    | 4     |
+| 10    | 3      | 10   | 5     | 3    | 3    | 10   | 5     |
+| 11    | 3      | 11   | 5     | 3    | 3    | 11   | 5     |
+| 12    | 4      | 12   | 6     | 4    | 4    | 12   | 6     |
+| 13    | 4      | 13   | 6     | 4    | 4    | 13   | 6     |
+| 14    | 4      | 14   | 7     | 4    | 4    | 14   | 7     |
+| 15    | 5      | 15   | 7     | 5    | 5    | 15   | 7     |
 
 
 ## Step 3: Roll Your Alignment
