@@ -2237,7 +2237,7 @@ A combat round is roughly ten (10) seconds of action.
 
 ### Initiative
 
-At the top of each Round of combat, the designated leader of each side rolls initiative as follows: 1d10 + DEX mod + WIS mod. Highest roll wins initiative. Initiative Ties are resolved in the following order of determination:
+At the top of each Round of combat, the designated leader of each side rolls initiative as follows: 1d12 + DEX mod + WIS mod. Highest roll wins initiative. Initiative Ties are resolved in the following order of determination:
 
 1. Most numerous side wins
 2. Winner of last initiative wins
