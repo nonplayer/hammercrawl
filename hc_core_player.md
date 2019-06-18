@@ -2376,6 +2376,15 @@ In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - 
 Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to tactically employ two-weapon attacks on the regular are encouraged to instead consider incorporate them as description for Tactical Actions (see above).
 
 
+#### Unarmed Combat
+
+The Hit Die damage rules assume the use of any number of standard weapons. When fighting unarmed, the damage die is reduced by one step (i.e. from 1d8 to 1d6). If the combatant's base Hit Die is d4, then their damage is reduced to 1 point. Getting punched by a wizard is usually more of an annoyance than anything noteworthy.
+
+When fighting unarmed against an armed opponent, prepare for a massive beating. Unarmed combatants have disadvantage on melee attacks against armed opponents, and armed combatants also have advantage on attacks against unarmed opponents. Double whammy.
+
+Note that holding a shield and/or a missile weapon counts as being armed.
+
+
 ## After Combat
 
 
