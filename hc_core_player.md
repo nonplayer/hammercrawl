@@ -516,7 +516,20 @@ See below for a table of attack and save bonuses by level:
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
-**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering (INT), Lockpicking (DEX), Perception (WIS), Stealth (DEX), Thief-climbing (STR), Tracking (WIS), Trap-finding (INT), and Trap-breaking (DEX). At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These skills (and their base modifying stats) are:
+
+* Appraise & Identify (INT)
+* Break & Enter (DEX)
+* Climb & Leap (STR)
+* Find & Seek (WIS)
+* Forge & Decipher (INT)
+* Hide & Sneak (DEX)
+* Lie & Cheat (CHA)
+* Snatch & Grab (DEX)
+
+At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+
+At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with Disadvantage in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
 
 **Thiefy Expertise:** Once per adventure per experience level, the Thief can attempt to reroll a failed Thief Skill check. This count resets upon Returning to Town.
 
@@ -2094,44 +2107,39 @@ If the resulting modified total equals or exceeds the target number, the check s
 
 
 
-### Deciphering (INT)
-
-TBD
+### Appraise & Identify (INT)
 
 
-### Lockpicking (DEX)
+### Break & Enter (DEX)
 
-TBD
-
-
-### Perception (WIS)
-
-TBD
+Once the trap has been properly identified, the thief can then use this skill to disarm the mechanism that triggers it. A thief can also attempt to break a trap *without* first finding it, but suffers disadvantage to the roll. Additionally, if failed, they've sprung it!
 
 
-### Stealth (DEX)
-
-TBD
-
-
-### Thief-climbing (STR)
+### Climb & Leap (STR)
 
 While most characters can climb with rope and gear, Thieves have an almost supernatural ability to climb *sheer* walls and slick surfaces with grace and panache. Roll this skill when facing a climbing challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this.
 
 
-### Tracking (WIS)
-
-TBD
+### Find & Seek (WIS)
 
 
-### Trap-finding (INT)
-
-TBD
+### Forge & Decipher (INT)
 
 
-### Trap-breaking (DEX)
+### Hide & Sneak (DEX)
 
-Once the trap has been properly identified, the thief can then use this skill to disarm the mechanism that triggers it. A thief can also attempt to break a trap *without* first finding it, but suffers disadvantage to the roll. Additionally, if failed, they've sprung it!
+
+### Lie & Cheat (CHA)
+
+
+### Snatch & Grab (DEX)
+
+
+
+
+
+
+
 
 
 ## Tiers
