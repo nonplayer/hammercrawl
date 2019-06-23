@@ -1111,15 +1111,16 @@ All characters begin with the following for free:
 * a Satchel (S; Qualities: Bag [5], Fragile, Wearable), containing:
 * 1d4 fresh rations (S)
 * 1 Torch (S)
+* 1 set of basic clothes (M, Wearable)
 
 Additionally, some classes begin with additional starting equipment:
 
 * **Dwarves**: 1 weapon of choice, and 1 small shield
 * **Elves**: 1 weapon of choice, and a Spellbook
 * **Halflings**: 1 weapon of choice, and a set of Thieves' Tools
-* **Half-Ogres**: 1 weapon of choice
+* **Half-Ogres**: 1 melee weapon of choice
 * **Human Clerics**: a Holy Symbol, and a Prayer Book
-* **Human Fighters**: 2 weapons of choice, or 1 weapon and 1 small shield
+* **Human Fighters**: 3 weapons of choice, or 2 weapons and 1 small shield
 * **Human Thieves**: a set of Thieves' Tools, and a Dagger
 * **Human Wizards**: a Spellbook, and a random wizard weapon (see "Wizard Weapons" in the "Gear" section of this document)
 
