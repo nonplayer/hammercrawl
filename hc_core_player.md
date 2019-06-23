@@ -284,7 +284,15 @@ See below for a table of attack and save bonuses by level:
 
 **Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking (DEX), Perception (WIS), Stealth (DEX, with Advantage), Thief-Climbing (STR), and Trap-Finding (INT, with Disadvantage). These are used as per normal Thief Skill rules.
+**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills:
+
+* Break & Enter (DEX)
+* Climb & Leap (STR, with Disadvantage)
+* Find & Seek (WIS)
+* Hide & Sneak (DEX, with Advantage)
+* Snatch & Grab (DEX)
+
+These are used as per normal Thief Skill rules. Unlike Thieves, Halfling thiefskills do not evolve magically.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
@@ -527,7 +535,7 @@ See below for a table of attack and save bonuses by level:
 * Lie & Cheat (CHA)
 * Snatch & Grab (DEX)
 
-At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+At first level the Thief must randomly determine one Thief Skill to be their **Bailiwick**, and one to be their **Failing**. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
 
 At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with Disadvantage in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
 
@@ -2105,34 +2113,54 @@ If the resulting modified total equals or exceeds the target number, the check s
 | One Higher             | 18                |
 | Two or more Higher     | 21                |
 
+**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
+
 
 
 ### Appraise & Identify (INT)
+
+
+
+**Magical Evolution:** blah
 
 
 ### Break & Enter (DEX)
 
 Once the trap has been properly identified, the thief can then use this skill to disarm the mechanism that triggers it. A thief can also attempt to break a trap *without* first finding it, but suffers disadvantage to the roll. Additionally, if failed, they've sprung it!
 
+**Magical Evolution:** blah
+
 
 ### Climb & Leap (STR)
 
 While most characters can climb with rope and gear, Thieves have an almost supernatural ability to climb *sheer* walls and slick surfaces with grace and panache. Roll this skill when facing a climbing challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this.
 
+**Magical Evolution:** blah
+
 
 ### Find & Seek (WIS)
+
+**Magical Evolution:** blah
 
 
 ### Forge & Decipher (INT)
 
+**Magical Evolution:** blah
+
 
 ### Hide & Sneak (DEX)
+
+**Magical Evolution:** blah
 
 
 ### Lie & Cheat (CHA)
 
+**Magical Evolution:** blah
+
 
 ### Snatch & Grab (DEX)
+
+**Magical Evolution:** blah
 
 
 
