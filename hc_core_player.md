@@ -1026,7 +1026,7 @@ Roll 3d6 and check the table below:
 
 ### Random Attire Style
 
-How does your character dress usually? Roll 1d10:
+How does your character dress usually? This determines the style of your starting clothing. Roll 1d10:
 
 | Roll | Attire        |
 |------|---------------|
@@ -1111,7 +1111,7 @@ All characters begin with the following for free:
 * a Satchel (S; Qualities: Bag [5], Fragile, Wearable), containing:
 * 1d4 fresh rations (S)
 * 1 Torch (S)
-* 1 set of basic clothes (M, Wearable)
+* 1 set of clothes to match your rolled attire (M, Wearable)
 
 Additionally, some classes begin with additional starting equipment:
 
