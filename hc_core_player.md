@@ -1217,7 +1217,6 @@ Hopefully the rest of your group has been making your characters alongside one a
 
 * **Party Leader:** This player is responsible for choosing Initiative orders, and for informing the Hammersmith when the party moves on or takes any of the Party Actions.
 * **Mapper:** This player is responsible for translating the Hammersmith's descriptions to a map that the party can use, in whatever artistic fashion the player sees fit.
-* **Lootkeeper:** This player keeps a master list of all the loot discovered, so it can be fairly distributed by the party upon returning to town. It might not be wise to assign this role to the Thief...
 * **Timekeeper:** The player tracks the passage of game Beats, and keeps track of who is carrying what light sources (and how much time is left on them).
 
 
