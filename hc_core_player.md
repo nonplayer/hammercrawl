@@ -44,54 +44,6 @@ HAMMERCRAWL! is a fantasy dungeon-crawling role-playing game entirely derived fr
 This text won't try to introduce you to the hobby or explain the ideas of role-playing to a novice reader of the genre. If this is your first introduction to a game text, good god, Lemon, I hope you enjoy reading but a lot of the text may be confusing. Good luck, and god speed.
 
 
-## The Basics of Play
-
-HAMMERCRAWL! is an old-school dungeon crawl based game. One of you will take on the role of the Hammersmith (aka Dungeon Master, Game Master, Judge, or whatever you like), and guide the proceedings. The rest of you will take on the roles of Players, and in turn guide Adventurers through a deathtrap meat-grinder of a dungeon that the Hammersmith describes for you.
-
-**Player Roles and Expectations:**
-
-* Role-play the character you have created (or drawn).
-* Create Story by describing your Adventurer's actions, motivations, successes, and failures.
-* Go into the Dungeons described by the Hammersmith
-* Lead your Adventurer forth to Get Rich or Die Trying
-
-**Hammersmith Roles and Expectations:**
-
-* Arrange and master tools for spontaneous creation of play.
-* Improvise description of the world around the Adventurers, and the actions it takes against and in response to them.
-* Create Story by describing the dungeon environments that the Adventurers explore, and the perils and treasures that they encounter within.
-* Enhance the world with Non-Player Characters and other interesting denizens.
-
-Both the Hammersmith and the Players will work together to feed a group of Adventurers to a dungeon, and see who survives. Inside the dungeon, the heroes will encounter wicked monsters, insidious traps, maddening mazes, and hopefully gobs of amazing treasures. Those that fight bravely and/or wisely may just have what it takes to make it out of the dungeon, return to town, and level up to greater tiers of personal power and glory.
-
-
-## The Tenets of HAMMERCRAWL!
-
-**Tenet the First: Embrace Death** - You will die, frequently, and in hilarious ways. It's expected. Embrace it. There's no need to learn to "play better" and no need to "git gud" in this game. It's *meant* to be a brutally hilarious meat grinder. Enjoy the process of character divining, and even more so the churn of characters that replace your first ones, all of which will inevitably die memorably in the darkest of dungeons. And when they die, draw tombstones on the back of their sheets and give them amazing epitaphs, too!
-
-**Tenet the Second: Don't Take it Seriously** - Have fun, and don't get too attached to your characters. Develop awesome stories and personalities for them, but do it all for a laugh. Develop their wants and dreams and then relish when those hopes are destroyed forever by the spiked maul of a demonic bugbear. Ham it up as much as you can, and generally have a good time with it all.
-
-
-## Established Systemic Conventions
-
-If you're familiar with The OG and its many derivatives, the following should probably make sense to you. HAMMERCRAWL! is built with the following system assumptions:
-
-* **Roll High:** The system is tooled around all D20 rolls being targeted high. 20 is good, 1 is bad.
-* **Stat Rolls:** Class is determined first, then 3D6 stats in order, with highest two determined by the class.
-* **Race as Class:** Races are implemented as entirely separate character classes.
-* **Skills:** In addition to expectations based on class abilities and career backgrounds, every character gets 4 random skills they are somehow good at as well.
-* **Feats:** There are no "Feats" in this game, at least as codified by other derivatives of The OG.
-* **No Natural Darkvision:** No characters begin the game with natural low-light or darkvision. The management of light sources is a crucial part of play for every character in the party.
-* **Armor Class:** Base 10, Ascending.
-* **Time Tracking:** The "Beat" is the equivalent of the "Turn" in older editions (i.e. 10 minutes of in-game time). "Turn" is instead applied to Combat only. A Combat round is 10 seconds of time, thus there are 6 Rounds in a Minute. However, any single combat encounter *always* advances game time by one full Beat.
-* **Combat Initiative:** Side-based, then determined by Leaders.
-* **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
-* **Experience Levels:** 15 levels for all characters. To attain the next Experience Level, you need that level x10 in Experience Points (XP), and every time you gain a level your XP reserve resets to zero.
-* **Experience Points (XP):** XP is gained from exploring new locations and defeating the challenges within.
-* **Advantages and Disadvantages:** They're in here, and they're incremental.
-* **Consolidated Spellcasting:** Clerics and Magic-Users have much closer-aligned rules for spellcasting and memorization. This is to assist new/random drop-in players in having fun with playing these two classes, which have historically presented challenges for noobs.
-
-
 ## Materials of Play
 
 A game of HAMMERCRAWL! requires the following materials of play.
@@ -133,6 +85,89 @@ You may find the following useful as well:
 * [The Gamemaster's Apprentice series of card decks](http://www.drivethrurpg.com/product/213131/The-GameMasters-Apprentice-Fantasy-Deck)
 * [Monster Mod Cards](http://www.drivethrurpg.com/product/175652/Monster-Mod-Cards)
 * [Dungeonmorph Dice and Cards](http://dungeonmorphs.com/)
+
+
+## The Basics of Play
+
+HAMMERCRAWL! is an old-school dungeon crawl based game. One of you will take on the role of the Hammersmith (aka Dungeon Master, Game Master, Judge, or whatever you like), and guide the proceedings. The rest of you will take on the roles of Players, and in turn guide Adventurers through a deathtrap meat-grinder of a dungeon that the Hammersmith describes for you.
+
+**Player Roles and Expectations:**
+
+* Role-play the character you have created (or drawn).
+* Create Story by describing your Adventurer's actions, motivations, successes, and failures.
+* Go into the Dungeons described by the Hammersmith
+* Lead your Adventurer forth to Get Rich or Die Trying
+
+**Hammersmith Roles and Expectations:**
+
+* Arrange and master tools for spontaneous creation of play.
+* Improvise description of the world around the Adventurers, and the actions it takes against and in response to them.
+* Create Story by describing the dungeon environments that the Adventurers explore, and the perils and treasures that they encounter within.
+* Enhance the world with Non-Player Characters and other interesting denizens.
+
+Both the Hammersmith and the Players will work together to feed a group of Adventurers to a dungeon, and see who survives. Inside the dungeon, the heroes will encounter wicked monsters, insidious traps, maddening mazes, and hopefully gobs of amazing treasures. Those that fight bravely and/or wisely may just have what it takes to make it out of the dungeon, return to town, and level up to greater tiers of personal power and glory.
+
+
+## The Tenets of HAMMERCRAWL!
+
+**Tenet the First: Embrace Death** - You will die, frequently, and in hilarious ways. It's expected. Embrace it. There's no need to learn to "play better" and no need to "git gud" in this game. It's *meant* to be a brutally hilarious meat grinder. Enjoy the process of character divining, and even more so the churn of characters that replace your first ones, all of which will inevitably die memorably in the darkest of dungeons. And when they die, draw tombstones on the back of their sheets and give them amazing epitaphs, too!
+
+**Tenet the Second: Don't Take it Seriously** - Have fun, and don't get too attached to your characters. Develop awesome stories and personalities for them, but do it all for a laugh. Develop their wants and dreams and then relish when those hopes are destroyed forever by the spiked maul of a demonic bugbear. Ham it up as much as you can, and generally have a good time with it all.
+
+**Tenet the Third: Fail Forward** - One core focus of almost every die roll in the system is that failure isn't always final. In HAMMERCRAWL! you are encouraged to embrace "failed" rolls and push them even harder into success, via the principle of "Failing Forward." This is explained in detail immediately below, but the real short version is that a "failed" roll doesn't always mean a failed action, and instead can often mean that you succeed with consequences which make things worse than you had any good reason to expect. And by "worse" we mean "more fun!"
+
+
+### On Success, Failure, and Failing Forward
+
+In most single-die pass-fail RPGs spawned from the OG, when you roll a check (usually a d20 roll such as an attack, a save, or a skill attempt) and your total modified result doesn't equal or exceed the "target" or "difficulty" number, you fail at your check. This usually concludes the transaction, move along, next.
+
+In HAMMERCRAWL! we do things differently, embracing the spirit of "failing forward" on every such check. Should you roll a check in this game and score a "failure" result, you always have the option to choose to Fail Forward by declaring that you actually succeeded, but with unintended consequences.
+
+Narratively and mechanically, this means that you succeeded at accomplishing the core focus of your check: you won the footrace, you stabbed the goblin, you saved against the medusa's gaze, etc. However, in choosing to turn the failure into a success, you have consented to Pay the Price.
+
+"The Price" is whatever the Hammersmith deems an appropriate and/or interesting (and usually bad) consequence of your action. 'Smiths are advised to base the severity of the consequences on the difference in die roll needed to pass the check, but in truth they can do whatever they please as long as the story is made more awesome as a result. And the best part is that you (the player) must decide to use the Fail Forward option *before* the consequences are decided upon.
+
+Following the examples above, here are some suggested consequences:
+
+"You won the foortace..."
+
+* "...but victory was given to the Prince anyway, because the game was rigged."
+* "...but pushed yourself so hard that you threw up on the King during the award ceremony."
+
+"You stabbed the goblin..."
+
+* "...but they pulled out a grenade as a dying action, taking both of you in the blast."
+* "...but he was just a distraction so the bugbear could get a good shot, take 1d8 damage."
+
+"You saved against the medusa's gaze..."
+
+* "...because your brother stood between you at the last second. He's now the statue that you were supposed to be, I hope you appreciate his sacrifice."
+* "...because you accidentally panic-cast that Darkness spell upon yourself. You and everyone around you are fighting blind in the magical darkness, but hey, at least none of you can see the medusa now, right?"
+
+As evidenced, sometimes the cost is worse than the success, but that's the price. Be sure to make it fit the moment, and make it awesome.
+
+
+## Established Systemic Conventions
+
+If you're familiar with The OG and its many derivatives, the following should probably make sense to you. HAMMERCRAWL! is built with the following system assumptions:
+
+* **Roll High:** The system is tooled around all D20 rolls being targeted high. 20 is good, 1 is bad.
+* **Stat Rolls:** Class is determined first, then 3D6 stats in order, with highest two determined by the class.
+* **Race as Class:** Races are implemented as entirely separate character classes.
+* **Skills:** In addition to expectations based on class abilities and career backgrounds, every character gets 4 random skills they are somehow good at as well.
+* **Feats:** There are no "Feats" in this game, at least as codified by other derivatives of The OG.
+* **No Natural Darkvision:** No characters begin the game with natural low-light or darkvision. The management of light sources is a crucial part of play for every character in the party.
+* **Armor Class:** Base 10, Ascending.
+* **Time Tracking:** The "Beat" is the equivalent of the "Turn" in older editions (i.e. 10 minutes of in-game time). "Turn" is instead applied to Combat only. A Combat round is 10 seconds of time, thus there are 6 Rounds in a Minute. However, any single combat encounter *always* advances game time by one full Beat.
+* **Combat Initiative:** Side-based, then determined by Leaders.
+* **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
+* **Experience Levels:** 15 levels for all characters. To attain the next Experience Level, you need that level x10 in Experience Points (XP), and every time you gain a level your XP reserve resets to zero.
+* **Experience Points (XP):** XP is gained from exploring new locations and defeating the challenges within.
+* **Advantages and Disadvantages:** They're in here, and they're incremental.
+* **Consolidated Spellcasting:** Clerics and Magic-Users have much closer-aligned rules for spellcasting and memorization. This is to assist new/random drop-in players in having fun with playing these two classes, which have historically presented challenges for noobs.
+
+
+
 
 
 
@@ -2632,20 +2667,6 @@ Alphabetized for ease of reference.
 If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies advantage against them for the next round).
 
 If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
-
-
-#### Pain for Gain (aka "the Missing Sucks Rule")
-
-Combat by all means *should* be a quick and deadly endeavor for all involved. Nothing slows that down more than repeatedly whiffing on every roll, turn after turn, ad infinitum. That's why HAMMERCRAWL! features the special Pain for Gain rule.
-
-**Pain for Gain:** When you roll a miss on a combat attack, you can choose to push yourself extra harder and hit anyway. Doing so requires that you self-inflict an amount of damage equal to the difference between your total roll and the actual AC/target/etc needed to hit. If you choose this action, your attack hits, and you roll damage as normal. Your damage dealt happens simultaneous to your damage received.
-
-Exceptions:
-
-* You can take this choice even if you don't have enough HP left to survive it.
-* You can take this choice even if you roll a critical hit.
-* You *cannot* take this action if your attack was prevented by a magical spell (such as Shield blocking arrow attacks).
-* You *cannot* take this action if your enemy is wearing magically-boosted armor, unless you are using a magical weapon of equal or greater enhancement (i.e. a Sword +1 against Chain Armour +1).
 
 
 #### Ranged Attacks
