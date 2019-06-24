@@ -2632,6 +2632,15 @@ Template:
 
 ##### Analyse
 
+* **Level** Magic-User 1
+* **Target:** One item
+* **Range:** Touch
+* **Duration:** Instant
+* **Save:** None
+* **Effect:** The caster identifies if an item is magical, and if so, learns one magical property of the item. If there are more magical properties, the caster is told only that more properties remain, but not how many.
+
+Casting this spell requires the caster to physically handle the item. This may expose them to any curses or other touch-activated enchantments possessed by the item.
+
 
 ### Spells B
 
