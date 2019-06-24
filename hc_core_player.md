@@ -99,7 +99,7 @@ A game of HAMMERCRAWL! requires the following materials of play.
 ### The Basics
 
 * The game rules
-* Multiple sets of gaming dice, including: d4, d6, d8, d10, d12, d20, and at least one d30.
+* Multiple sets of gaming dice, including: d4, d6, d8, d10, d12, d20, and at least one d30. You may also find the other "funky" dice to be helpful on some random tables (d5, d14, d24, etc).
 * Various writing utensils
 * The spells and monsters from at least one other "classic" game (I tend to use *Dark Dungeons*, but YMMV).
 
@@ -200,6 +200,26 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the AC bonus of their shield when using the bash.
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 1      | 0    | 1     | 0    | 1    | 0    | 0     |
+| 2     | 2      | 0    | 2     | 0    | 2    | 1    | 1     |
+| 3     | 3      | 1    | 3     | 1    | 3    | 1    | 1     |
+| 4     | 4      | 1    | 4     | 1    | 4    | 2    | 2     |
+| 5     | 5      | 1    | 5     | 1    | 5    | 2    | 2     |
+| 6     | 6      | 2    | 6     | 2    | 6    | 3    | 3     |
+| 7     | 7      | 2    | 7     | 2    | 7    | 3    | 3     |
+| 8     | 8      | 2    | 8     | 2    | 8    | 4    | 4     |
+| 9     | 9      | 3    | 9     | 3    | 9    | 4    | 4     |
+| 10    | 10     | 3    | 10    | 3    | 10   | 5    | 5     |
+| 11    | 11     | 3    | 11    | 3    | 11   | 5    | 5     |
+| 12    | 12     | 4    | 12    | 4    | 12   | 6    | 6     |
+| 13    | 13     | 4    | 13    | 4    | 13   | 6    | 6     |
+| 14    | 14     | 4    | 14    | 4    | 14   | 7    | 7     |
+| 15    | 15     | 5    | 15    | 5    | 15   | 7    | 7     |
+
 
 ### Elf Exemplar (Hybrid)
 
@@ -228,6 +248,26 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **War Adept:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 0    | 1     | 1    | 0    | 0    | 0     |
+| 2     | 1      | 1    | 2     | 2    | 1    | 0    | 1     |
+| 3     | 1      | 1    | 3     | 3    | 1    | 1    | 1     |
+| 4     | 2      | 2    | 4     | 4    | 2    | 1    | 2     |
+| 5     | 2      | 2    | 5     | 5    | 2    | 1    | 2     |
+| 6     | 3      | 3    | 6     | 6    | 3    | 2    | 3     |
+| 7     | 3      | 3    | 7     | 7    | 3    | 2    | 3     |
+| 8     | 4      | 4    | 8     | 8    | 4    | 2    | 4     |
+| 9     | 4      | 4    | 9     | 9    | 4    | 3    | 4     |
+| 10    | 5      | 5    | 10    | 10   | 5    | 3    | 5     |
+| 11    | 5      | 5    | 11    | 11   | 5    | 3    | 5     |
+| 12    | 6      | 6    | 12    | 12   | 6    | 4    | 6     |
+| 13    | 6      | 6    | 13    | 13   | 6    | 4    | 6     |
+| 14    | 7      | 7    | 14    | 14   | 7    | 4    | 7     |
+| 15    | 7      | 7    | 15    | 15   | 7    | 5    | 7     |
+
 
 ### Halfling Burglar (Rogue)
 
@@ -244,7 +284,15 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills: Lockpicking (DEX), Perception (WIS), Stealth (DEX, with Advantage), Thief-Climbing (STR), and Trap-Finding (INT, with Disadvantage). These are used as per normal Thief Skill rules.
+**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills:
+
+* Break & Enter (DEX)
+* Climb & Leap (STR, with Disadvantage)
+* Find & Seek (WIS)
+* Hide & Sneak (DEX, with Advantage)
+* Snatch & Grab (DEX)
+
+These are used as per normal Thief Skill rules. Unlike Thieves, Halfling thiefskills do not evolve magically.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
@@ -253,6 +301,26 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 **Tactical Attacker:** Halflings roll with advantage on Tactical Attacks.
 
 **Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans. Additionally, all item encumbrance sizes are considered one step higher for the Halfling.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 1    | 1     | 1    | 1    | 1    | 1     |
+| 2     | 1      | 2    | 2     | 2    | 2    | 2    | 2     |
+| 3     | 1      | 3    | 3     | 3    | 3    | 3    | 3     |
+| 4     | 2      | 4    | 4     | 4    | 4    | 4    | 4     |
+| 5     | 2      | 5    | 5     | 5    | 5    | 5    | 5     |
+| 6     | 3      | 6    | 6     | 6    | 6    | 6    | 6     |
+| 7     | 3      | 7    | 7     | 7    | 7    | 7    | 7     |
+| 8     | 4      | 8    | 8     | 8    | 8    | 8    | 8     |
+| 9     | 4      | 9    | 9     | 9    | 9    | 9    | 9     |
+| 10    | 5      | 10   | 10    | 10   | 10   | 10   | 10    |
+| 11    | 5      | 11   | 11    | 11   | 11   | 11   | 11    |
+| 12    | 6      | 12   | 12    | 12   | 12   | 12   | 12    |
+| 13    | 6      | 13   | 13    | 13   | 13   | 13   | 13    |
+| 14    | 7      | 14   | 14    | 14   | 14   | 14   | 14    |
+| 15    | 7      | 15   | 15    | 15   | 15   | 15   | 15    |
 
 
 ### Half-ogre Berserker (Warrior)
@@ -286,6 +354,26 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 
 **Two-Hander:** When using a two-handed melee weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 1      | 0    | 1     | 0    | 1    | 0    | 0     |
+| 2     | 2      | 1    | 2     | 0    | 2    | 0    | 1     |
+| 3     | 3      | 1    | 3     | 1    | 3    | 1    | 1     |
+| 4     | 4      | 2    | 4     | 1    | 4    | 1    | 2     |
+| 5     | 5      | 2    | 5     | 1    | 5    | 1    | 2     |
+| 6     | 6      | 3    | 6     | 2    | 6    | 2    | 3     |
+| 7     | 7      | 3    | 7     | 2    | 7    | 2    | 3     |
+| 8     | 8      | 4    | 8     | 2    | 8    | 2    | 4     |
+| 9     | 9      | 4    | 9     | 3    | 9    | 3    | 4     |
+| 10    | 10     | 5    | 10    | 3    | 10   | 3    | 5     |
+| 11    | 11     | 5    | 11    | 3    | 11   | 3    | 5     |
+| 12    | 12     | 6    | 12    | 4    | 12   | 4    | 6     |
+| 13    | 13     | 6    | 13    | 4    | 13   | 4    | 6     |
+| 14    | 14     | 7    | 14    | 4    | 14   | 4    | 7     |
+| 15    | 15     | 7    | 15    | 5    | 15   | 5    | 7     |
+
 
 ### Human Cleric (Caster)
 
@@ -307,6 +395,26 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 At the start of play, a new Cleric can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
 **Turn Away the Unholy** Once per Day per Level of Experience, a Cleric can hold aloft the symbol of their righteous faith and turn back undead, devils, demons, and any others that the Hammersmith deems to be enemies of their faith. All such opponents must make Mind saves based on the difference in Level/HD Tiers. Targets who fail this save must cower, flee, or possibly even take damage or be destroyed.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 0    | 0     | 0    | 0    | 1    | 1     |
+| 2     | 1      | 0    | 1     | 1    | 1    | 2    | 2     |
+| 3     | 1      | 1    | 1     | 1    | 1    | 3    | 3     |
+| 4     | 2      | 1    | 2     | 2    | 2    | 4    | 4     |
+| 5     | 2      | 1    | 2     | 2    | 2    | 5    | 5     |
+| 6     | 3      | 2    | 3     | 3    | 3    | 6    | 6     |
+| 7     | 3      | 2    | 3     | 3    | 3    | 7    | 7     |
+| 8     | 4      | 2    | 4     | 4    | 4    | 8    | 8     |
+| 9     | 4      | 3    | 4     | 4    | 4    | 9    | 9     |
+| 10    | 5      | 3    | 5     | 5    | 5    | 10   | 10    |
+| 11    | 5      | 3    | 5     | 5    | 5    | 11   | 11    |
+| 12    | 6      | 4    | 6     | 6    | 6    | 12   | 12    |
+| 13    | 6      | 4    | 6     | 6    | 6    | 13   | 13    |
+| 14    | 7      | 4    | 7     | 7    | 7    | 14   | 14    |
+| 15    | 7      | 5    | 7     | 7    | 7    | 15   | 15    |
 
 
 ### Human Fighter (Warrior)
@@ -331,6 +439,26 @@ At the start of play, a new Cleric can only cast level 1 spells. This maximum sp
 **Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's AC bonus until the start of their next turn in combat.
 
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 1      | 0    | 1     | 0    | 1    | 0    | 1     |
+| 2     | 2      | 1    | 2     | 0    | 2    | 0    | 2     |
+| 3     | 3      | 1    | 3     | 1    | 3    | 1    | 3     |
+| 4     | 4      | 2    | 4     | 1    | 4    | 1    | 4     |
+| 5     | 5      | 2    | 5     | 1    | 5    | 1    | 5     |
+| 6     | 6      | 3    | 6     | 2    | 6    | 2    | 6     |
+| 7     | 7      | 3    | 7     | 2    | 7    | 2    | 7     |
+| 8     | 8      | 4    | 8     | 2    | 8    | 2    | 8     |
+| 9     | 9      | 4    | 9     | 3    | 9    | 3    | 9     |
+| 10    | 10     | 5    | 10    | 3    | 10   | 3    | 10    |
+| 11    | 11     | 5    | 11    | 3    | 11   | 3    | 11    |
+| 12    | 12     | 6    | 12    | 4    | 12   | 4    | 12    |
+| 13    | 13     | 6    | 13    | 4    | 13   | 4    | 13    |
+| 14    | 14     | 7    | 14    | 4    | 14   | 4    | 14    |
+| 15    | 15     | 7    | 15    | 5    | 15   | 5    | 15    |
 
 
 ### Human Magic-User (Caster)
@@ -360,6 +488,26 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 
 **Wizardly Weaponry:** Magic-users can make use of new special mage-only weapons: The Wand and The Staff. Be warned that actively using these tools will mark you as a magician, and likely increase your chances of becoming a target priority by smart enemies...
 
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 0    | 0     | 1    | 0    | 0    | 0     |
+| 2     | 0      | 0    | 0     | 2    | 0    | 1    | 0     |
+| 3     | 0      | 1    | 1     | 3    | 1    | 1    | 1     |
+| 4     | 0      | 1    | 1     | 4    | 1    | 2    | 1     |
+| 5     | 0      | 1    | 1     | 5    | 1    | 2    | 1     |
+| 6     | 0      | 2    | 2     | 6    | 2    | 3    | 2     |
+| 7     | 0      | 2    | 2     | 7    | 2    | 3    | 2     |
+| 8     | 0      | 2    | 2     | 8    | 2    | 4    | 2     |
+| 9     | 0      | 3    | 3     | 9    | 3    | 4    | 3     |
+| 10    | 0      | 3    | 3     | 10   | 3    | 5    | 3     |
+| 11    | 0      | 3    | 3     | 11   | 3    | 5    | 3     |
+| 12    | 0      | 4    | 4     | 12   | 4    | 6    | 4     |
+| 13    | 0      | 4    | 4     | 13   | 4    | 6    | 4     |
+| 14    | 0      | 4    | 4     | 14   | 4    | 7    | 4     |
+| 15    | 0      | 5    | 5     | 15   | 5    | 7    | 5     |
+
 
 ### Human Thief (Rogue)
 
@@ -376,13 +524,46 @@ At the start of play, a new Magic-User can safely cast level 1 spells. This maxi
 
 **Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
-**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These are: Deciphering (INT), Lockpicking (DEX), Perception (WIS), Stealth (DEX), Thief-climbing (STR), Tracking (WIS), Trap-finding (INT), and Trap-breaking (DEX). At first level the Thief must randomly determine one Thief Skill to be their Bailiwick, and one to be their Failing. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These skills (and their base modifying stats) are:
+
+* Appraise & Identify (INT)
+* Break & Enter (DEX)
+* Climb & Leap (STR)
+* Find & Seek (WIS)
+* Forge & Decipher (INT)
+* Hide & Sneak (DEX)
+* Lie & Cheat (CHA)
+* Snatch & Grab (DEX)
+
+At first level the Thief must randomly determine one Thief Skill to be their **Bailiwick**, and one to be their **Failing**. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+
+At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with Disadvantage in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
 
 **Thiefy Expertise:** Once per adventure per experience level, the Thief can attempt to reroll a failed Thief Skill check. This count resets upon Returning to Town.
 
 **Tactical Attacker:** Thieves roll with advantage on Tactical Attacks.
 
 **Trapwise:** Thieves have advantage on all Saves against the effects of Traps.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 1    | 0     | 0    | 0    | 1    | 0     |
+| 2     | 0      | 2    | 1     | 0    | 0    | 2    | 1     |
+| 3     | 1      | 3    | 1     | 1    | 1    | 3    | 1     |
+| 4     | 1      | 4    | 2     | 1    | 1    | 4    | 2     |
+| 5     | 1      | 5    | 2     | 1    | 1    | 5    | 2     |
+| 6     | 2      | 6    | 3     | 2    | 2    | 6    | 3     |
+| 7     | 2      | 7    | 3     | 2    | 2    | 7    | 3     |
+| 8     | 2      | 8    | 4     | 2    | 2    | 8    | 4     |
+| 9     | 3      | 9    | 4     | 3    | 3    | 9    | 4     |
+| 10    | 3      | 10   | 5     | 3    | 3    | 10   | 5     |
+| 11    | 3      | 11   | 5     | 3    | 3    | 11   | 5     |
+| 12    | 4      | 12   | 6     | 4    | 4    | 12   | 6     |
+| 13    | 4      | 13   | 6     | 4    | 4    | 13   | 6     |
+| 14    | 4      | 14   | 7     | 4    | 4    | 14   | 7     |
+| 15    | 5      | 15   | 7     | 5    | 5    | 15   | 7     |
 
 
 ## Step 3: Roll Your Alignment
@@ -845,7 +1026,7 @@ Roll 3d6 and check the table below:
 
 ### Random Attire Style
 
-How does your character dress usually? Roll 1d10:
+How does your character dress usually? This determines the style of your starting clothing. Roll 1d10:
 
 | Roll | Attire        |
 |------|---------------|
@@ -930,15 +1111,16 @@ All characters begin with the following for free:
 * a Satchel (S; Qualities: Bag [5], Fragile, Wearable), containing:
 * 1d4 fresh rations (S)
 * 1 Torch (S)
+* 1 set of clothes to match your rolled attire (M, Wearable)
 
 Additionally, some classes begin with additional starting equipment:
 
 * **Dwarves**: 1 weapon of choice, and 1 small shield
 * **Elves**: 1 weapon of choice, and a Spellbook
 * **Halflings**: 1 weapon of choice, and a set of Thieves' Tools
-* **Half-Ogres**: 1 weapon of choice
+* **Half-Ogres**: 1 melee weapon of choice
 * **Human Clerics**: a Holy Symbol, and a Prayer Book
-* **Human Fighters**: 2 weapons of choice, or 1 weapon and 1 small shield
+* **Human Fighters**: 3 weapons of choice, or 2 weapons and 1 small shield
 * **Human Thieves**: a set of Thieves' Tools, and a Dagger
 * **Human Wizards**: a Spellbook, and a random wizard weapon (see "Wizard Weapons" in the "Gear" section of this document)
 
@@ -1345,6 +1527,243 @@ Below are extended special details on the specially-noted items from the above l
 
 **Torch:** Primarily used as a small-group limited light source. A lit torch lasts 6 Beats (1 hour), giving a 20-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
+
+### Wizard Weapons
+
+Magic-Users (and *only* Magic-Users) have access to a special class of "common" magic items commonly referred to as **Wizard Weapons**. Owing mainly to their renowned squishiness in adventuring parties, wizards across the known world have developed specialist weapons that allow them a chance of contributing more to their adventures than just a handful of spells each day.
+
+There are two specific types of Wizard Weapons in HAMMERCRAWL!: battle wands and battle staves. A **Battle Wand** is a custom-crafted piece of short-range artillery that functions almost identical to a sling in basic combat mechanics. They are Medium one-handed weapons do 1d4 damage at 80/160 range, and use DEX as their attack modifier. They have effectively infinite ammo, but on an attack roll of natural 1 they fizzle out. To recharge a fizzled battle wand, the magic-user must "sacrifice" one of their currently-known spells to empower the wand, forgetting that spell until rememorized.
+
+A **Battle Staff** is meant as more of a defensive item. It functions as a basic Staff for purposes of combat attacks. If a magic-user spends his combat turn taking no action other than gripping the staff with both hands, their AC is raised by +2 until their next action. If hit by a natural 20 attack, the staff is drained of defensive power, and must be recharged using a method identical to that for charging battle wands.
+
+Each battle wand and staff is a unique item, from the base components of its crafting to the energy it exudes. Use the table below to randomly determine the properties of yours.
+
+**Note:** The base lists of options below were originally provided by Grey Knight on Google Plus (RIP), used with their permission (CC0).
+
+
+#### Random Wizard Weapons
+
+My wizard weapon is a:
+
+| 1d2 | type  |
+|-----|-------|
+| 1   | wand  |
+| 2   | staff |
+
+My weapon is made of:
+
+| 1d30 | components                  |
+|------|-----------------------------|
+| 1    | animal bone                 |
+| 2    | birch wood                  |
+| 3    | brass                       |
+| 4    | bronze                      |
+| 5    | copper                      |
+| 6    | delicious candy             |
+| 7    | gnarled vines               |
+| 8    | granite                     |
+| 9    | green glass                 |
+| 10   | hazel wood                  |
+| 11   | human bone                  |
+| 12   | iron                        |
+| 13   | ivory                       |
+| 14   | mahogany                    |
+| 15   | maple wood                  |
+| 16   | marble                      |
+| 17   | oak wood                    |
+| 18   | pine wood                   |
+| 19   | petrified wood              |
+| 20   | reforged blades             |
+| 21   | rowan wood                  |
+| 22   | rusted iron                 |
+| 23   | sandstone                   |
+| 24   | steel                       |
+| 25   | terracotta                  |
+| 26   | tin                         |
+| 27   | twisted and bound tentacles |
+| 28   | welded chains               |
+| 29   | wicker                      |
+| 30   | wrought iron                |
+
+
+My weapon is decorated with:
+
+| 1d20 | decorations   |
+|------|---------------|
+| 1    | boxes         |
+| 2    | bulbous lumps |
+| 3    | chains        |
+| 4    | curlicues     |
+| 5    | demonic faces |
+| 6    | dots          |
+| 7    | edging        |
+| 8    | flowers       |
+| 9    | hexagons      |
+| 10   | rings         |
+| 11   | runes         |
+| 12   | thin wires    |
+| 13   | scales        |
+| 14   | smooth panels |
+| 15   | spikes        |
+| 16   | spirals       |
+| 17   | stars         |
+| 18   | streaks       |
+| 19   | vanes         |
+| 20   | webs          |
+
+...which are made of:
+
+| 1d20 | materials       |
+|------|-----------------|
+| 1    | aluminium       |
+| 2    | amber           |
+| 3    | animal horn     |
+| 4    | coral           |
+| 5    | gold            |
+| 6    | jade            |
+| 7    | jasper          |
+| 8    | lead            |
+| 9    | mirrored glass  |
+| 10   | mother-of-pearl |
+| 11   | obsidian        |
+| 12   | onyx            |
+| 13   | platinum        |
+| 14   | porcelain       |
+| 15   | quartz          |
+| 16   | shell           |
+| 17   | silver          |
+| 18   | tortoise shell  |
+| 19   | titanium        |
+| 20   | zinc            |
+
+It is tipped with "feature" "type" (roll on both tables below):
+
+| 1d20 | tip_features       |
+|------|--------------------|
+| 1    | an agate           |
+| 2    | an amber           |
+| 3    | an amethyst        |
+| 4    | a brass            |
+| 5    | a clear glass      |
+| 6    | a diamond-studded  |
+| 7    | an emerald-studded |
+| 8    | a garnet-studded   |
+| 9    | a golden           |
+| 10   | an ivory           |
+| 11   | a jade             |
+| 12   | a mirrored         |
+| 13   | a mother-of-pearl  |
+| 14   | a pearly           |
+| 15   | a peridot          |
+| 16   | a porcelain        |
+| 17   | a rusty            |
+| 18   | a sapphire-studded |
+| 19   | a silver           |
+| 20   | a turquoise        |
+
+(type:)
+
+| 1d20 | tip_types          |
+|------|--------------------|
+| 1    | acorn              |
+| 2    | conch              |
+| 3    | cube               |
+| 4    | egg-shape          |
+| 5    | eyeball            |
+| 6    | fan                |
+| 7    | feather            |
+| 8    | fist               |
+| 9    | fork               |
+| 10   | geometric cage     |
+| 11   | grape-like cluster |
+| 12   | hand               |
+| 13   | orb                |
+| 14   | point              |
+| 15   | prism              |
+| 16   | pyramid            |
+| 17   | skull              |
+| 18   | snake              |
+| 19   | spiral             |
+| 20   | star               |
+
+When I hold it, I alone notice:
+
+| 1d24 | effects                            |
+|------|------------------------------------|
+| 1    | a burning smell                    |
+| 2    | a distant buzzing noise            |
+| 3    | a faint glow                       |
+| 4    | a goosing in your skin             |
+| 5    | a shimmering haze                  |
+| 6    | a slight vibration                 |
+| 7    | a soft murmur                      |
+| 8    | a tickle in your palm              |
+| 9    | an occasional popping noise        |
+| 10   | an occasional twitch               |
+| 11   | an oily sheen                      |
+| 12   | an unnatural feeling of arousal    |
+| 13   | intermittent puffs of smoke        |
+| 14   | it balances easily on its end      |
+| 15   | it is cold to the touch            |
+| 16   | it is damp to the touch            |
+| 17   | it is warm to the touch            |
+| 18   | it rotates slowly by itself        |
+| 19   | it writhes in your grip            |
+| 20   | the scent of minty herbs           |
+| 21   | the scent of old books             |
+| 22   | the scent of old leather           |
+| 23   | the smell of sulphur               |
+| 24   | the distant stink of rotting flesh |
+
+It attacks/defends with:
+
+| 1d20 | energy_forms     |
+|------|------------------|
+| 1    | a field          |
+| 2    | a wavefront      |
+| 3    | an intense point |
+| 4    | arcs             |
+| 5    | blasts           |
+| 6    | bolts            |
+| 7    | bursts           |
+| 8    | clouds           |
+| 9    | curling tendrils |
+| 10   | discs            |
+| 11   | forking lines    |
+| 12   | geometric lines  |
+| 13   | orbs             |
+| 14   | pulses           |
+| 15   | runic shapes     |
+| 16   | shooting stars   |
+| 17   | skull shapes     |
+| 18   | waves            |
+| 19   | webs             |
+| 20   | wisps            |
+
+which are made of:
+
+| 1d20 | energy_types       |
+|------|--------------------|
+| 1    | actinic sparks     |
+| 2    | arcane energy      |
+| 3    | burning plasma     |
+| 4    | choking sand       |
+| 5    | concussive force   |
+| 6    | crackling energy   |
+| 7    | dripping blood     |
+| 8    | eldritch goo       |
+| 9    | explosive flame    |
+| 10   | fearful darkness   |
+| 11   | flensing particles |
+| 12   | foul venom         |
+| 13   | freezing cold      |
+| 14   | frothing water     |
+| 15   | iridescent air     |
+| 16   | potent acid        |
+| 17   | rainbow light      |
+| 18   | spatial distortion |
+| 19   | throbbing sound    |
+| 20   | vibrant lifeforce  |
 
 
 # CHAPTER: Playing Your Character
@@ -1932,46 +2351,71 @@ If the resulting modified total equals or exceeds the target number, the check s
 | One Higher             | 18                |
 | Two or more Higher     | 21                |
 
+**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the thief must roll with a Disadvantage. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
 
 
-### Deciphering (INT)
 
-TBD
+### Appraise & Identify (INT)
 
+This skill allows a Thief to quickly determine an accurate selling value for any piece of loot, as well as to know important historical facts about it.
 
-### Lockpicking (DEX)
-
-TBD
+**Magical Evolution:** Starting at 9th level, a Thief can use this skill to identify magical properties of an item. Only one attempt is allowed per item. A success tells the thief one magical property, if any, but not how many more may remain undiscovered. If there are no magical properties, a success will impart this knowledge. Upon failure, the 'Smith is free to feed the thief false information.
 
 
-### Perception (WIS)
+### Break & Enter (DEX)
 
-TBD
+This is the Thief's ability to bypass security features and break into places they're not supposed to be. The most common uses are to bypass locks and disable traps, but other creative uses are also encouraged. Not that one must first *detect* a trap before one can attempt to disable it...
 
-
-### Stealth (DEX)
-
-TBD
+**Magical Evolution:** Starting at 9th level, a thief can use this skill to bypass magical security measures, such as wizard locks and magical traps.
 
 
-### Thief-climbing (STR)
+### Climb & Leap (STR)
 
-While most characters can climb with rope and gear, Thieves have an almost supernatural ability to climb *sheer* walls and slick surfaces with grace and panache. Roll this skill when facing a climbing challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this.
+Roll this skill when facing a climbing or leaping challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this. However, exceptionally-prepared thieves with excellent tools may receive an advantage, at the 'Smith's discretion.
 
-
-### Tracking (WIS)
-
-TBD
+**Magical Evolution:** Starting at 9th level, a thief can use this skill to climb magical walls and barriers. If these obstacles cause damage, the thief still takes said damage as normal as they climb.
 
 
-### Trap-finding (INT)
+### Find & Seek (WIS)
 
-TBD
+This skill allows a thief to find hidden nouns in the game world. They can follow the tracks of people, locate hidden rooms and secret doors, and detect concealed traps.
+
+**Magical Evolution:** Starting at 9th level, a thief can use this skill to detect magical concealment as well. This doesn't allow the thief to directly break said magical concealment, but it does let the thief know what kind is being used, and how powerful it is.
 
 
-### Trap-breaking (DEX)
+### Forge & Decipher (INT)
 
-Once the trap has been properly identified, the thief can then use this skill to disarm the mechanism that triggers it. A thief can also attempt to break a trap *without* first finding it, but suffers disadvantage to the roll. Additionally, if failed, they've sprung it!
+This skill allows a thief to both decipher unknown texts, and forge texts for purposes of deceit.
+
+**Magical Evolution:** Starting at 9th level, a thief can attempt to use this skill as a *Read Magic* spell, allowing them to cast scrolls. Failure on this may result in unintended consequences, at the 'Smith's discretion.
+
+
+### Hide & Sneak (DEX)
+
+This skill does what it says: it allows the Thief to hide and sneak around. This skill is effective for bypassing the scrutiny of guards, and for getting into place to set up Stabbity attacks. Being hidden may allow numerous advantages, at the 'Smith's discretion. All you need is a little bit of shadow, and something to hide behind...
+
+**Magical Evolution:** Starting at 9th level, the Thief is so good at being sneaky that they can fool magical detection. This can allow them to hide in plain sight as if invisible, or to fool spells that locate specific people, and so on. The usage of this is largely at the 'Smith's discretion.
+
+
+### Lie & Cheat (CHA)
+
+This skill allows a thief to tell amazingly convincing lies, and also to successfully cheat at every game and deal possible. Anyone can tell a lie or cheat at cards, but thieves are so good they can con the most skilled of investigators, and cheat at the most rigged game.
+
+**Magical Evolution:** Starting at 9th level, a thief's lies can sometimes even bypass magical scrutiny or defenses. This allows them to fool Truth spells, for instance, or to undermine magical conditioning or charms.
+
+
+### Snatch & Grab (DEX)
+
+This skill allows a thief to perform acts of complicated manual dexterity, such as sleight of hand and picking pockets.
+
+**Magical Evolution:** Starting at 9th level, a Thief can perform truly impossible acts with this skill, such as stealing an item too far away to reach ("It just leapt into my hand!"), stealing the straps out from inside an opponent's worn armor, and so on. The applications of this are up to the imagination of the player, and the discretion of the 'Smith.
+
+
+
+
+
+
+
 
 
 ## Tiers
@@ -2077,7 +2521,7 @@ A combat round is roughly ten (10) seconds of action.
 
 ### Initiative
 
-At the top of each Round of combat, the designated leader of each side rolls initiative as follows: 1d10 + DEX mod + WIS mod. Highest roll wins initiative. Initiative Ties are resolved in the following order of determination:
+At the top of each Round of combat, the designated leader of each side rolls initiative as follows: 1d12 + DEX mod + WIS mod. Highest roll wins initiative. Initiative Ties are resolved in the following order of determination:
 
 1. Most numerous side wins
 2. Winner of last initiative wins
@@ -2214,6 +2658,15 @@ Every missile and thrown weapon in the Gear section is given a Range stat, consi
 In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - this is entirely a matter of narrative description, and players are encouraged to go wild with their imaginations here. Elf Exemplars are the only characters that receive *specific* mechanical bonuses for attempting to do fight in that style.
 
 Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to tactically employ two-weapon attacks on the regular are encouraged to instead consider incorporate them as description for Tactical Actions (see above).
+
+
+#### Unarmed Combat
+
+The Hit Die damage rules assume the use of any number of standard weapons. When fighting unarmed, the damage die is reduced by one step (i.e. from 1d8 to 1d6). If the combatant's base Hit Die is d4, then their damage is reduced to 1 point. Getting punched by a wizard is usually more of an annoyance than anything noteworthy.
+
+When fighting unarmed against an armed opponent, prepare for a massive beating. Unarmed combatants have disadvantage on melee attacks against armed opponents, and armed combatants also have advantage on attacks against unarmed opponents. Double whammy.
+
+Note that holding a shield and/or a missile weapon counts as being armed.
 
 
 ## After Combat
@@ -2415,6 +2868,15 @@ Template:
 
 
 ##### Analyse
+
+* **Level** Magic-User 1
+* **Target:** One item
+* **Range:** Touch
+* **Duration:** Instant
+* **Save:** None
+* **Effect:** The caster identifies if an item is magical, and if so, learns one magical property of the item. If there are more magical properties, the caster is told only that more properties remain, but not how many.
+
+Casting this spell requires the caster to physically handle the item. This may expose them to any curses or other touch-activated enchantments possessed by the item.
 
 
 ### Spells B

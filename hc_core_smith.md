@@ -103,8 +103,9 @@ Additionally, depending on how you are generating your dungeon, you may need to 
 Once rolled, the following symbols cancel each other out one for one:
 
 * Arrows vs Targets
-* Suns and Xs
 * Sun-Circles vs X-Circles
+
+Suns and Xs *do not* cancel each other out, as they form the basis for all challenge and reward in this system of divination. 
 
 
 #### Arrows vs Targets: Advantages
