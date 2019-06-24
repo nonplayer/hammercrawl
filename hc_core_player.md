@@ -2114,54 +2114,64 @@ If the resulting modified total equals or exceeds the target number, the check s
 | One Higher             | 18                |
 | Two or more Higher     | 21                |
 
-**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
+**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the thief must roll with a Disadvantage. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
 
 
 
 ### Appraise & Identify (INT)
 
+This skill allows a Thief to quickly determine an accurate selling value for any piece of loot, as well as to know important historical facts about it.
 
-
-**Magical Evolution:** blah
+**Magical Evolution:** Starting at 9th level, a Thief can use this skill to identify magical properties of an item. Only one attempt is allowed per item. A success tells the thief one magical property, if any, but not how many more may remain undiscovered. If there are no magical properties, a success will impart this knowledge. Upon failure, the 'Smith is free to feed the thief false information.
 
 
 ### Break & Enter (DEX)
 
-Once the trap has been properly identified, the thief can then use this skill to disarm the mechanism that triggers it. A thief can also attempt to break a trap *without* first finding it, but suffers disadvantage to the roll. Additionally, if failed, they've sprung it!
+This is the Thief's ability to bypass security features and break into places they're not supposed to be. The most common uses are to bypass locks and disable traps, but other creative uses are also encouraged. Not that one must first *detect* a trap before one can attempt to disable it...
 
-**Magical Evolution:** blah
+**Magical Evolution:** Starting at 9th level, a thief can use this skill to bypass magical security measures, such as wizard locks and magical traps.
 
 
 ### Climb & Leap (STR)
 
-While most characters can climb with rope and gear, Thieves have an almost supernatural ability to climb *sheer* walls and slick surfaces with grace and panache. Roll this skill when facing a climbing challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this.
+Roll this skill when facing a climbing or leaping challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this. However, exceptionally-prepared thieves with excellent tools may receive an advantage, at the 'Smith's discretion.
 
-**Magical Evolution:** blah
+**Magical Evolution:** Starting at 9th level, a thief can use this skill to climb magical walls and barriers. If these obstacles cause damage, the thief still takes said damage as normal as they climb.
 
 
 ### Find & Seek (WIS)
 
-**Magical Evolution:** blah
+This skill allows a thief to find hidden nouns in the game world. They can follow the tracks of people, locate hidden rooms and secret doors, and detect concealed traps.
+
+**Magical Evolution:** Starting at 9th level, a thief can use this skill to detect magical concealment as well. This doesn't allow the thief to directly break said magical concealment, but it does let the thief know what kind is being used, and how powerful it is.
 
 
 ### Forge & Decipher (INT)
 
-**Magical Evolution:** blah
+This skill allows a thief to both decipher unknown texts, and forge texts for purposes of deceit.
+
+**Magical Evolution:** Starting at 9th level, a thief can attempt to use this skill as a *Read Magic* spell, allowing them to cast scrolls. Failure on this may result in unintended consequences, at the 'Smith's discretion.
 
 
 ### Hide & Sneak (DEX)
 
-**Magical Evolution:** blah
+This skill does what it says: it allows the Thief to hide and sneak around. This skill is effective for bypassing the scrutiny of guards, and for getting into place to set up Stabbity attacks. Being hidden may allow numerous advantages, at the 'Smith's discretion. All you need is a little bit of shadow, and something to hide behind...
+
+**Magical Evolution:** Starting at 9th level, the Thief is so good at being sneaky that they can fool magical detection. This can allow them to hide in plain sight as if invisible, or to fool spells that locate specific people, and so on. The usage of this is largely at the 'Smith's discretion.
 
 
 ### Lie & Cheat (CHA)
 
-**Magical Evolution:** blah
+This skill allows a thief to tell amazingly convincing lies, and also to successfully cheat at every game and deal possible. Anyone can tell a lie or cheat at cards, but thieves are so good they can con the most skilled of investigators, and cheat at the most rigged game.
+
+**Magical Evolution:** Starting at 9th level, a thief's lies can sometimes even bypass magical scrutiny or defenses. This allows them to fool Truth spells, for instance, or to undermine magical conditioning or charms.
 
 
 ### Snatch & Grab (DEX)
 
-**Magical Evolution:** blah
+This skill allows a thief to perform acts of complicated manual dexterity, such as sleight of hand and picking pockets.
+
+**Magical Evolution:** Starting at 9th level, a Thief can perform truly impossible acts with this skill, such as stealing an item too far away to reach ("It just leapt into my hand!"), stealing the straps out from inside an opponent's worn armor, and so on. The applications of this are up to the imagination of the player, and the discretion of the 'Smith.
 
 
 
