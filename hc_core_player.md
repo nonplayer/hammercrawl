@@ -2260,21 +2260,21 @@ The HAMMERCRAWL! rules add a set of special meta-actions to the mix, which the P
 
 ### Party Action: Camp
 
-The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the Hammersmith announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light and Rations, however. The Party Leader can activate a Camp action at any time while in a Safe Haven, provided the party has the required resources below:
+The party Leader can choose to take a Camp Action at any location deemed a **Safe Haven**. These are discovered when the Hammersmith announces them as such, usually through the roll of net Falcons in the Divining Pool. This requires Light, Rations, and potentially a Bedroll, however. The Party Leader can activate a Camp action at any time while in a Safe Haven, provided the party has the required resources below:
 
 * **Time:** The action takes a minimum of 6 Beats (1 hour; light is required and spent accordingly unless the *entire* party can somehow see in the dark)
 * **Food:** Each character must consume 1 Ration
 
 First, each character in the party gets the following action for free:
 
-* **Cleric, Magic-User:** Re-memorize 1 daily spell.
-* **Dwarf, Fighter, Halfling, Half-ogre, and Thief:** Recover half (round up) of currently-lost HPs.
-* **Elf:** Either re-memorize 1 daily spell *or* recover half (round up) of currently-lost HPs.
+* **Cleric, Magic-User:** Re-memorize 1 daily spell. **This requires access to an appropriate spellbook**.
+* **Dwarf, Fighter, Halfling, Half-ogre, and Thief:** Recover half (round up) of currently-lost HPs. **This requires a Bedroll or suitable substitute**.
+* **Elf:** Pick either of the above two options, provided suitable gear is available.
 
 Then, each player gets to pick one additional Camp Action to perform now:
 
-* **Rest:** Recover half (round up) of currently-lost HPs (or the second half, if doubling up from the free action above). **Requires Food:** Choosing this action consumes one additional Ration.
-* **Re-Memorize:** Recover one previously-spent daily spell use per character level.
+* **Rest:** Recover half (round up) of currently-lost HPs (or the second half, if doubling up from the free action above). **Requires a Bedroll and Food:** Choosing this action consumes one additional Ration, and requires an available Bedroll or suitable substitute.
+* **Re-Memorize:** Recover one previously-spent daily spell use per character level. **This requires an appropriate spellbook**
 * **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many stones for your sling.
 * **Level up!:** If the hero has enough XP to reach the next level, they can apply the effects of that level as a Camp Action. Follow the core process for Leveling Up. Note that it does not heal existing HP loss or restore used spells or abilities (those are separate Camp Actions, above).
 * **Stand Watch:** Add a Blue Die to the next room explored, and -1 to Smith's camp encounter roll (below).
