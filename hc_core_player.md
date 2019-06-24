@@ -99,7 +99,7 @@ A game of HAMMERCRAWL! requires the following materials of play.
 ### The Basics
 
 * The game rules
-* Multiple sets of gaming dice, including: d4, d6, d8, d10, d12, d20, and at least one d30.
+* Multiple sets of gaming dice, including: d4, d6, d8, d10, d12, d20, and at least one d30. You may also find the other "funky" dice to be helpful on some random tables (d5, d14, d24, etc).
 * Various writing utensils
 * The spells and monsters from at least one other "classic" game (I tend to use *Dark Dungeons*, but YMMV).
 
@@ -1527,6 +1527,243 @@ Below are extended special details on the specially-noted items from the above l
 
 **Torch:** Primarily used as a small-group limited light source. A lit torch lasts 6 Beats (1 hour), giving a 20-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
+
+### Wizard Weapons
+
+Magic-Users (and *only* Magic-Users) have access to a special class of "common" magic items commonly referred to as **Wizard Weapons**. Owing mainly to their renowned squishiness in adventuring parties, wizards across the known world have developed specialist weapons that allow them a chance of contributing more to their adventures than just a handful of spells each day.
+
+There are two specific types of Wizard Weapons in HAMMERCRAWL!: battle wands and battle staves. A **Battle Wand** is a custom-crafted piece of short-range artillery that functions almost identical to a sling in basic combat mechanics. They are Medium one-handed weapons do 1d4 damage at 80/160 range, and use DEX as their attack modifier. They have effectively infinite ammo, but on an attack roll of natural 1 they fizzle out. To recharge a fizzled battle wand, the magic-user must "sacrifice" one of their currently-known spells to empower the wand, forgetting that spell until rememorized.
+
+A **Battle Staff** is meant as more of a defensive item. It functions as a basic Staff for purposes of combat attacks. If a magic-user spends his combat turn taking no action other than gripping the staff with both hands, their AC is raised by +2 until their next action. If hit by a natural 20 attack, the staff is drained of defensive power, and must be recharged using a method identical to that for charging battle wands.
+
+Each battle wand and staff is a unique item, from the base components of its crafting to the energy it exudes. Use the table below to randomly determine the properties of yours.
+
+**Note:** The base lists of options below were originally provided by Grey Knight on Google Plus (RIP), used with their permission (CC0).
+
+
+#### Random Wizard Weapons
+
+My wizard weapon is a:
+
+| 1d2 | type  |
+|-----|-------|
+| 1   | wand  |
+| 2   | staff |
+
+My weapon is made of:
+
+| 1d30 | components                  |
+|------|-----------------------------|
+| 1    | animal bone                 |
+| 2    | birch wood                  |
+| 3    | brass                       |
+| 4    | bronze                      |
+| 5    | copper                      |
+| 6    | delicious candy             |
+| 7    | gnarled vines               |
+| 8    | granite                     |
+| 9    | green glass                 |
+| 10   | hazel wood                  |
+| 11   | human bone                  |
+| 12   | iron                        |
+| 13   | ivory                       |
+| 14   | mahogany                    |
+| 15   | maple wood                  |
+| 16   | marble                      |
+| 17   | oak wood                    |
+| 18   | pine wood                   |
+| 19   | petrified wood              |
+| 20   | reforged blades             |
+| 21   | rowan wood                  |
+| 22   | rusted iron                 |
+| 23   | sandstone                   |
+| 24   | steel                       |
+| 25   | terracotta                  |
+| 26   | tin                         |
+| 27   | twisted and bound tentacles |
+| 28   | welded chains               |
+| 29   | wicker                      |
+| 30   | wrought iron                |
+
+
+My weapon is decorated with:
+
+| 1d20 | decorations   |
+|------|---------------|
+| 1    | boxes         |
+| 2    | bulbous lumps |
+| 3    | chains        |
+| 4    | curlicues     |
+| 5    | demonic faces |
+| 6    | dots          |
+| 7    | edging        |
+| 8    | flowers       |
+| 9    | hexagons      |
+| 10   | rings         |
+| 11   | runes         |
+| 12   | thin wires    |
+| 13   | scales        |
+| 14   | smooth panels |
+| 15   | spikes        |
+| 16   | spirals       |
+| 17   | stars         |
+| 18   | streaks       |
+| 19   | vanes         |
+| 20   | webs          |
+
+...which are made of:
+
+| 1d20 | materials       |
+|------|-----------------|
+| 1    | aluminium       |
+| 2    | amber           |
+| 3    | animal horn     |
+| 4    | coral           |
+| 5    | gold            |
+| 6    | jade            |
+| 7    | jasper          |
+| 8    | lead            |
+| 9    | mirrored glass  |
+| 10   | mother-of-pearl |
+| 11   | obsidian        |
+| 12   | onyx            |
+| 13   | platinum        |
+| 14   | porcelain       |
+| 15   | quartz          |
+| 16   | shell           |
+| 17   | silver          |
+| 18   | tortoise shell  |
+| 19   | titanium        |
+| 20   | zinc            |
+
+It is tipped with "feature" "type" (roll on both tables below):
+
+| 1d20 | tip_features       |
+|------|--------------------|
+| 1    | an agate           |
+| 2    | an amber           |
+| 3    | an amethyst        |
+| 4    | a brass            |
+| 5    | a clear glass      |
+| 6    | a diamond-studded  |
+| 7    | an emerald-studded |
+| 8    | a garnet-studded   |
+| 9    | a golden           |
+| 10   | an ivory           |
+| 11   | a jade             |
+| 12   | a mirrored         |
+| 13   | a mother-of-pearl  |
+| 14   | a pearly           |
+| 15   | a peridot          |
+| 16   | a porcelain        |
+| 17   | a rusty            |
+| 18   | a sapphire-studded |
+| 19   | a silver           |
+| 20   | a turquoise        |
+
+(type:)
+
+| 1d20 | tip_types          |
+|------|--------------------|
+| 1    | acorn              |
+| 2    | conch              |
+| 3    | cube               |
+| 4    | egg-shape          |
+| 5    | eyeball            |
+| 6    | fan                |
+| 7    | feather            |
+| 8    | fist               |
+| 9    | fork               |
+| 10   | geometric cage     |
+| 11   | grape-like cluster |
+| 12   | hand               |
+| 13   | orb                |
+| 14   | point              |
+| 15   | prism              |
+| 16   | pyramid            |
+| 17   | skull              |
+| 18   | snake              |
+| 19   | spiral             |
+| 20   | star               |
+
+When I hold it, I alone notice:
+
+| 1d24 | effects                            |
+|------|------------------------------------|
+| 1    | a burning smell                    |
+| 2    | a distant buzzing noise            |
+| 3    | a faint glow                       |
+| 4    | a goosing in your skin             |
+| 5    | a shimmering haze                  |
+| 6    | a slight vibration                 |
+| 7    | a soft murmur                      |
+| 8    | a tickle in your palm              |
+| 9    | an occasional popping noise        |
+| 10   | an occasional twitch               |
+| 11   | an oily sheen                      |
+| 12   | an unnatural feeling of arousal    |
+| 13   | intermittent puffs of smoke        |
+| 14   | it balances easily on its end      |
+| 15   | it is cold to the touch            |
+| 16   | it is damp to the touch            |
+| 17   | it is warm to the touch            |
+| 18   | it rotates slowly by itself        |
+| 19   | it writhes in your grip            |
+| 20   | the scent of minty herbs           |
+| 21   | the scent of old books             |
+| 22   | the scent of old leather           |
+| 23   | the smell of sulphur               |
+| 24   | the distant stink of rotting flesh |
+
+It attacks/defends with:
+
+| 1d20 | energy_forms     |
+|------|------------------|
+| 1    | a field          |
+| 2    | a wavefront      |
+| 3    | an intense point |
+| 4    | arcs             |
+| 5    | blasts           |
+| 6    | bolts            |
+| 7    | bursts           |
+| 8    | clouds           |
+| 9    | curling tendrils |
+| 10   | discs            |
+| 11   | forking lines    |
+| 12   | geometric lines  |
+| 13   | orbs             |
+| 14   | pulses           |
+| 15   | runic shapes     |
+| 16   | shooting stars   |
+| 17   | skull shapes     |
+| 18   | waves            |
+| 19   | webs             |
+| 20   | wisps            |
+
+which are made of:
+
+| 1d20 | energy_types       |
+|------|--------------------|
+| 1    | actinic sparks     |
+| 2    | arcane energy      |
+| 3    | burning plasma     |
+| 4    | choking sand       |
+| 5    | concussive force   |
+| 6    | crackling energy   |
+| 7    | dripping blood     |
+| 8    | eldritch goo       |
+| 9    | explosive flame    |
+| 10   | fearful darkness   |
+| 11   | flensing particles |
+| 12   | foul venom         |
+| 13   | freezing cold      |
+| 14   | frothing water     |
+| 15   | iridescent air     |
+| 16   | potent acid        |
+| 17   | rainbow light      |
+| 18   | spatial distortion |
+| 19   | throbbing sound    |
+| 20   | vibrant lifeforce  |
 
 
 # CHAPTER: Playing Your Character
