@@ -2503,6 +2503,8 @@ The victims must make a Mind Save. The target is determined by comparing their H
 
 Thus an undead foe with HD 9 (tier 3) would roll against a target of 6 when turned by a Cleric of 2nd level (tier 1).
 
+**Note:** Intelligent opponents always enjoy advantage on saves against turning, unless otherwise specified.
+
 Success means the targets are not affected. With a failed save, the targets are affected as detailed in the third column of the table above, based again on the difference in the cleric's level
 
 The results are explained further below:
