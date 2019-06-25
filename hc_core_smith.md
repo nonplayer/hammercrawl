@@ -105,7 +105,7 @@ Once rolled, the following symbols cancel each other out one for one:
 * Arrows vs Targets
 * Sun-Circles vs X-Circles
 
-Suns and Xs *do not* cancel each other out, as they form the basis for all challenge and reward in this system of divination. 
+Suns and Xs *do not* cancel each other out, as they form the basis for all challenge and reward in this system of divination.
 
 
 #### Arrows vs Targets: Advantages
@@ -157,6 +157,15 @@ Additionally, each X increases the PCs' potential XP rewards for surviving the e
 ### Back to the Role-Playing
 
 With the results of the Divining Dice resolved, it's time to get back to the role-playing. Introduce the room and its challenges as normal. Let the party explore, fight, etc. Describe what happens, and move on with play!
+
+
+## The "Return to Town" Action
+
+When the adventuring party chooses to return to town, follow the instructions in the Player Guide and role-play the town experience. You can do this as programatically as you like, but we prefer using Town Time to catch up on favored local NPCs, plant new rumors of area happenings, and generally get to know the characters and their world a little better.
+
+When they eventually return to the dungeon, it's entirely possible that new monsters have moved into the dungeon rooms that the party previously cleared. This is entirely up to you and the nature of your dungeon, but we recommend adding in some new chance encounters there, or at least upping your random encounter rolls, to keep the party from getting too comfortable. I mean, this is HAMMERCRAWL! after all, we have a reputation to uphold.
+
+But regardless of how you choose to repopulate previous rooms, remember that these rooms *do not* grant any additional free Exploration XP when the party returns to them. They may earn XP from encounters within, but Exploration XP only comes from newly-Explored rooms.
 
 
 # RANDOMIZE ALL THE THINGS
