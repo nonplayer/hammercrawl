@@ -234,12 +234,12 @@ When combat ends, the survivors gain the might-gained right to loot the bodies o
 See "Hit Points and Death"
 
 
-## Difficulty Mode (ref)
+## Death (ref)
 
 See "Hit Points and Death"
 
 
-## Death (ref)
+## Difficulty Mode (ref)
 
 See "Hit Points and Death"
 
