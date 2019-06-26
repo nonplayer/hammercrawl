@@ -129,7 +129,7 @@ Narratively and mechanically, this means that you succeeded at accomplishing the
 
 Following the examples above, here are some suggested consequences:
 
-"You won the foortace..."
+"You won the footrace..."
 
 * "...but victory was given to the Prince anyway, because the game was rigged."
 * "...but pushed yourself so hard that you threw up on the King during the award ceremony."
