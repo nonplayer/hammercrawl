@@ -4,7 +4,22 @@ author: N. Phillip Cole
 created: 2018-03-22  
 
 
-# CHAPTER: Playing Your Character
+# The Basic Mechanic
+
+The core mechanic of the HAMMERCRAWL! game system is the pretty much classic, well-known **d20 Check**. This works as follows:
+
+Whenever you need to perform a Check, you first determine what Stat, Save, or other such character widget you are "testing" with this Check. Find and mentally note its associated **modifier** (it'll probably be on your character sheet), then roll a single **twenty-sided die**. When it settles, add said modifier to the topmost number shown on the resting die to determine your **Check Result**.
+
+Meanwhile, the Hammersmith will determine the **target** number you are trying to beat with your check result. This number is usually (but not always) determined by a comparison of associated character, dungeon, or monster **Tiers**.
+
+If your check result equals or exceeds the target, then the check is considered a **Success** and you get whatever the game rules and general common sense would expect for that outcome. If the result is less than the target, then the check is considered a **Failure**, which in turn commonly means that you have failed to meet the check's objective.
+
+Note, however, that **Failing Forward** is a major part of this game, and as such a "failure" result doesn't always have to mean a *complete* failure. This concept is explained in more detail in Book 1 of this game's documents, as it is a core tenet of play.
+
+That's the basic breakdown of the core mechanic. All other concepts of the rules are explained in greater detail below.
+
+
+# The Rest of the Mechanics, Alphabetized
 
 As a reference for Play, this section is sorted alphabetically by subject.
 
