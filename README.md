@@ -11,8 +11,12 @@ Any original text here is distributed by License: [BY-NC-SA](https://creativecom
 
 *  This is the new core game, fully compatible with other classic-inspired games currently popular with certain groups, and completely free. It is very much a work in progress, but all the basics are there to be played with.
 
-* **[Player's Guide](./hc_core_player.md):** Everything you need to play the game
-* **[Smith's Guide](./hc_core_smith.md):** Everything you need to run the game
+* **Player's Guide:** Everything you need to play the game, broken down into four sections:
+	- **[Game Concepts and Tenets](./hc_core_player_1_basics.md)**
+	- **[Character Creation and Equipment](./hc_core_player_2_creation.md)**
+	- **[Detailed Game Rules](./hc_core_player_3_rules.md)**
+	- **[Magic and Spells](./hc_core_player_4_magic.md)**
+* **[Smith's Guide](./hc_core_smith.md):** Everything the Hammersmith needs to run the game
 * **[Son of Hammer](./hc_son_of_hammer.md):** Extended house rules, optional classes, and more
 * **[Printable Helper Sheets](./sheets/)** for each of the core classes, designed to make play smoother and minimize mid-play rules checks.
 
