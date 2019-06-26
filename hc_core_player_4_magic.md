@@ -21,9 +21,13 @@ Unlike The OG and most of its derivatives, Clerics in HAMMERCRAWL! require spell
 Some more experienced players of The OG may call this change blasphemy, but in play we've found that brand new players at one-shot games find that it makes for a lot more approachable experience when playing a Cleric for the very first time.
 
 
-### Losing Spellbooks
+### Losing and Restoring Spellbooks
 
 TBD
+
+Ideas:
+
+* Can attempt to recreate a lost spellbook from astral fragments of previously-cast spells, permanently bound to the caster's soul by simple consequence of them having had the audacity to meddle with magic in the first place. Requires materials, costs, etc. Possibly Read Magic? Chance of recovery, of mishap, or of recovering a previously-unknown spell instead! Hmmm...
 
 
 ## Preparing and Memorizing Spells
