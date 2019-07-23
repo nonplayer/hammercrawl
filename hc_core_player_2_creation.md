@@ -1318,6 +1318,8 @@ The main gear tables below use the following notations:
 | Writing Kit (ink, quill, paper) | M    | 10   |
 
 
+#### Specialty Gear Table
+
 | Name                            | Size | Cost |
 |---------------------------------|------|------|
 | Alchemist Fire (ceramic flask)* | S    | 100  |
