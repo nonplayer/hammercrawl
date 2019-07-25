@@ -19,6 +19,17 @@ Note, however, that **Failing Forward** is a major part of this game, and as suc
 That's the basic breakdown of the core mechanic. All other concepts of the rules are explained in greater detail below.
 
 
+## Advantages and Disadvantages
+
+When a mechanical effect gives you an **Advantage** (aka an "add") on a die roll, you roll one extra die of the same type and keep the better of the two. Advantages can apply to any dice roll in the game, including d20 checks, damage rolls, and more. When rolling pools of dice with an advantage, just add one die of the base type to the pool, and then drop the lowest die after the roll.
+
+Similarly, a **Disadvantage** (aka a "disadd") on a die roll means you roll one extra die of the base type, and then count the *lowest* of the two. When adding disadvantage to a pool, roll the extra die alongside the pool, and then drop the *highest* roll from the result.
+
+Advantages and Disadvantages cancel each other out one for one. Additionally, multiple net adds and disadds can stack, adding multiple additional dice to the mix. In such a case, adjust the number of dice dropped or selected accordingly.
+
+For example, if you are rolling 2d6 base damage, and you gain two net advantages to the roll, then you should roll 4d6, then drop the lowest two. Conversely, if you are making a d20 saving throw and you have three net disadvantages (yikes!), then you should roll 4d20 and keep the lowest single die as your result.
+
+
 # The Rest of the Mechanics, Alphabetized
 
 As a reference for Play, this section is sorted alphabetically by subject.
