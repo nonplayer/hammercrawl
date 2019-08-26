@@ -676,9 +676,10 @@ The party Leader can choose to take a Camp Action at any location deemed a **Saf
 
 First, each character in the party gets the following action for free:
 
-* **Cleric, Magic-User:** Re-memorize 1 daily spell. **This requires access to an appropriate spellbook**.
+* **Cleric:** Re-memorize 1 daily spell or recover 1 use of Turn Unholy. **This requires access to an appropriate prayerbook**.
+* **Magic-User:** Re-memorize 1 daily spell. **This requires access to an appropriate spellbook**.
 * **Dwarf, Fighter, Halfling, Half-ogre, and Thief:** Recover half (round up) of currently-lost HPs. **This requires a Bedroll or suitable substitute**.
-* **Elf:** Pick either of the above two options, provided suitable gear is available.
+* **Elf:** Choose either the Magic-User or the Fighter options from above.
 
 Then, each player gets to pick one additional Camp Action to perform now:
 
