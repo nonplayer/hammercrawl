@@ -58,7 +58,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 * **Gear Restrictions:** Can use all weapons, shields, and armour except longbows.
 * **Bonus Languages:** Dwarf
 
-**Born in Armor:** Dwarves in Medium or heavier armour do not suffer AC penalties from low DEX mods. Heavy armour never reduces their movement speed.
+**Born in Armor:** Dwarves in heavy armour or plate do not suffer AC penalties from low DEX mods. Heavy and plate armour never reduces their movement speed.
 
 **Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a Beat searching.
 
