@@ -1099,7 +1099,7 @@ Be they weapons, armour, or various adventuring tools, all items of gear can be 
 
 **Thrown:** This melee weapon can be effectively used as a thrown weapon.
 
-**Wearable:** This item can be equipped directly to the character's person, not requiring encumbrance when worn.
+**Wearable:** This item can be equipped directly to the character's person, not requiring encumbrance when worn. Only one of any wearable item can be equipped at any time. For example a PC can equip a backpack and a satchel, but not two backpacks or two satchels. If there is question about this, check with the 'Smith.
 
 
 ### Weapons & Ammunition
@@ -1341,25 +1341,24 @@ The main gear tables below use the following notations:
 * **Name:** The name of the item
 * **Size:** How much base encumbrance is required to stow the bag itself.
 * **Cost:** How many coins the bag costs at a suitable vendor.
-* **Slots+:** The number of bonus Encumbrance slots provided.
+* **Slots+:** The number of bonus Encumbrance slots provided, and the maximum item size of a slot. If "Spec" see the full description.
 * **Qualities** Any special item qualities possessed by the bag.
 
 **For any entry with an asterisk in its data, see the section below the table for further details.**
 
 | Name          | Size | Cost | Slots+ | Qualities              |
 |---------------|------|------|--------|------------------------|
-| Backpack      | M    | 10   | 10     | Bag, Wearable          |
-| Bandoliers*   | M    | 10   | 3      | Bag, Wearable          |
-| Belt Purse    | S    | 1    | 1      | Bag, Wearable          |
-| Case, Scroll* | S    | 10   | 1-5    | Bag, Durable           |
-| Chest, Large  | H    | 100  | 15     | Bag, Durable           |
-| Chest, Medium | L    | 100  | 10     | Bag, Durable           |
-| Chest, Small  | M    | 100  | 5      | Bag, Durable           |
-| Lantern Hook* | M    | 100  | 1      | Bag                    |
-| Quiver*       | M    | 10   | 2      | Bag, Wearable          |
-| Sack, Large*  | M/L  | 1    | 15     | Bag, Fragile           |
-| Sack, Small*  | S/M  | 1    | 5      | Bag, Fragile           |
-| Satchel       | S    | 10   | 5      | Bag, Fragile, Wearable |
+| Backpack      | M    | 10   | 10-L   | Bag, Wearable          |
+| Bandoliers*   | M    | 10   | 3-S    | Bag, Wearable          |
+| Belt Purse    | S    | 1    | 1-S    | Bag, Wearable          |
+| Case, Scroll* | S    | 10   | 1-Spec | Bag, Durable           |
+| Chest, Large  | H    | 100  | 20-L   | Bag, Durable           |
+| Chest, Medium | L    | 50   | 10-M   | Bag, Durable           |
+| Chest, Small  | M    | 25   | 5-S    | Bag, Durable           |
+| Lantern Hook* | M    | 100  | 1-Spec | Bag                    |
+| Quiver*       | M    | 10   | 2-Spec | Bag, Wearable          |
+| Sack*         | M[S] | 1    | 5-M    | Bag, Fragile           |
+| Satchel       | S    | 1    | 5-M    | Bag, Fragile, Wearable |
 
 
 #### Gear Descriptions
@@ -1378,7 +1377,7 @@ Below are extended special details on the specially-noted items from the above l
 
 **Candle:** Primarily used as a single-person light source. A lit candle lasts 6 Beats, giving a 5-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
-**Case, Scroll:** Scroll cases are specialized bag items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll, or up to five rolled-up maps or other documents.
+**Case, Scroll:** Scroll cases are specialized bag items designed solely for the purpose of safely transporting paper. Each case can safely hold either a single spell scroll *or* up to five rolled-up maps or other non-spell documents.
 
 **Clothing:** Includes a small variety of items of the listed class of attire. Includes suitable shoes or boots. Usually required for social functions.
 
@@ -1392,7 +1391,9 @@ Below are extended special details on the specially-noted items from the above l
 
 **Rations, All:** Required for camping and a few other effects. Fresh rations are cheapest, but spoil quickly. Preserved rations are expensive, but resist spoilage in dungeons.
 
-**Sacks, All:** Sacks are handy bag items common to all adventuring lifestyles. Of special note, while empty, folded, and stowed away, sacks count as one size smaller. This is already shown on the bag table.
+**Sacks:** Sacks are handy bag items common to all adventuring lifestyles. Of special note, while empty, folded, and stowed away, sacks count as one size smaller. This is already shown on the bag table.
+
+**Satchel:** A satchel is a simple shoulder-slung tote useful for carrying the basics. Not the best quality, and every adventurer is assumed to being with one for free.
 
 **Torch:** Primarily used as a small-group limited light source. A lit torch lasts 6 Beats (1 hour), giving a 20-foot radius of weak light. See the "Light and Darkness" rules in the "Playing Your Character" chapter.
 
