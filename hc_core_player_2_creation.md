@@ -1228,11 +1228,13 @@ Descriptors:
 
 | Shield Type    | AC+ | Size | Cost |
 |----------------|-----|------|------|
-| Shield         | 1   | M    | 10   |
+| Shield, Small  | 1   | M    | 10   |
 | Shield, Weapon | 1*  | M    | 100  |
-| Shield, Tower  | 2   | L    | 100  |
+| Shield, Tower  | 2*  | L    | 100  |
 
 **Shield Weapons:** Shield Weapons can be used as either Shields or hand weapons. If used defensively, they provide standard shield bonuses (+1 to AC). If used offensively, they instead function as their attached weapons.
+
+**Tower Shields:** These are full-height portable bulwarks, and cannot be used with Shield Bash.
 
 
 ### Adventuring Gear

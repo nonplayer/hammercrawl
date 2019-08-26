@@ -157,7 +157,7 @@ This of course consumes your action for the round.
 
 ##### Shield Bash Action
 
-The **shield bash** is a special melee attack available to Dwarves and Fighters. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
+The **shield bash** is a special melee attack available to Dwarves and Fighters using any non-tower shield. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
 * The target is disarmed, and their weapon knocked beyond immediate melee reach.
 * The target is "dazed" until their next action, suffering combat disadvantage.
