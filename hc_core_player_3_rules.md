@@ -211,9 +211,16 @@ If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit**
 If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
 
 
+#### Missile Weapons in Melee Combat
+
+When using a missile weapon against a target that is in melee with you, your attacks have a disadvantage die.
+
+
 #### Ranged Attacks
 
 Every missile and thrown weapon in the Gear section is given a Range stat, consisting of two numbers divided by a slash. The first number is the **Effective Range** of that weapon, and the second number is the weapon's **Maximum Range**. Attacks at Effective range are made as normal, while attacks up to the Maximum range suffer a Disadvantage die.
+
+Melee weapons without a Thrown quality *can* be thrown, but the attack has a disadvantage die. Max range is equal to your Strength, effective range is half that.
 
 
 #### Two-Weapon Fighting
