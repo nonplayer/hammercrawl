@@ -331,7 +331,7 @@ See below for a table of attack and save bonuses by level:
 
 ### Human Magic-User (Caster)
 
-* **Prime Stats:** INT
+* **Prime Stats:** INT, SOC
 * **Hit Dice:** 1d4 per level, modified by CON mod.
 * **Attack Rank:** D: You have no level-based combat bonus to attacks.
 * **Base Movement:** 30
@@ -529,9 +529,9 @@ Each of the six core stats affects certain mechanics, as detailed below:
 * Reaction Rolls
 
 
-## Step 5: Roll Your Social Status (SOC)
+#### Social Status (SOC)
 
-Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is essentially a seventh Stat (SOC), but rolled separately from the core six, and recorded with its own modifier. This modifier may apply from time to time in dealings within your game world's societies.
+Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is a new **seventh** Stat (abbrev: SOC) for the HAMMERCRAWL! game system, recorded with its own modifier determined as usual. This modifier may apply from time to time in dealings within your game world's societies.
 
 The "Coins" column determines your starting cash multiplier for buying initial equipment, explained further below.
 
@@ -546,7 +546,13 @@ The "Coins" column determines your starting cash multiplier for buying initial e
 | 18        | +3  | 1000* | Royalty          |
 
 
-## Step 6: Roll Your Background
+**Modifies:**
+
+* Reaction Rolls within Society (at the 'Smith's discretion)
+* Starting Coins
+
+
+## Step 5: Roll Your Background
 
 Think of your background profession like a special free skill, and then some. Your character is assumed to know how to do all manner of things reasonably contained within the narrative scope of their background. If there is a question related to that scope, consult your Hammersmith.
 
@@ -606,7 +612,7 @@ To determine your character's background, roll 1d200 (figure it out) and consult
 | 50 | Cooper         | 100 | Labourer        |  | 150 | Ranger         | 200 | Woodcutter    |
 
 
-## Step 7: Roll Your Skills
+## Step 6: Roll Your Skills
 
 While your character is assumed to have many unwritten skills simply through their class and background (see above), you also begin the game with a few randomly determined skills that you somehow picked up during your pre-game life. Explanations for how you learned these skills are up to you.
 
@@ -739,7 +745,7 @@ If not, roll 1d20 + 1d100 for each skill, and consult the table below:
 | 120  | Weaving (DEX)                        |
 
 
-## Step 8: Roll Your Languages
+## Step 7: Roll Your Languages
 
 In addition to whatever bonus languages you have from your Class, there's a chance you might have even more. If you have an INT bonus of +1 or higher, you begin the game knowing that many additional bonus languages. Roll 1d30 for each, and consult the following table. If you roll a language twice, you speak that language as if you were born to it. If you roll it thrice, reroll.
 
@@ -764,7 +770,7 @@ In addition to whatever bonus languages you have from your Class, there's a chan
 **Pidgin:** If you roll Pidgin, randomly roll two more languages (reroll if you get Pidgin or a language you already know). You now speak both of them very badly.
 
 
-## Step 9: Randomize Your Miscellaneous Traits
+## Step 8: Randomize Your Miscellaneous Traits
 
 You now get to randomly roll various minor traits and aspects of your character.
 
@@ -969,7 +975,7 @@ Roll 1d50 to determine what your random weird item is. Some of these may not mak
 | 50   | a student loan disbursement check (requires Bank)                             |
 
 
-## Step 10: Determine Your Starting Funds, Equipment, and Spells
+## Step 9: Determine Your Starting Funds, Equipment, and Spells
 
 
 ### Free Starting Gear
@@ -997,7 +1003,7 @@ Then determine your gear either through deliberate purchase or through random ro
 
 ### Option A: Purchasing Your Starting Gear
 
-Multiply your SOC score by its associated multiplier, and that's how much money you have to spend. Use the Equipment section of this book to purchase anything you can afford.
+Multiply your rolled SOC score by its associated multiplier, and that's how much money you have to spend. Use the Equipment section of this book to purchase anything you can afford.
 
 
 #### A Note on Royalty
@@ -1024,7 +1030,7 @@ If you're a spellcaster character, part of your "gear" includes a book where you
 Your class determines how many spells are in your starting spell or prayer book. If your Hammersmith is the generous sort, they may allow you to pick *one* of your spells. All other spells should be randomly rolled on the appropriate Level 1 spell list for your class. See the Magic section at the end of this document for class-based spell lists and descriptions.
 
 
-## Step 11: Confirm and Note Important Sub-Stats
+## Step 10: Confirm and Note Important Sub-Stats
 
 * **Experience Level** (1) and associated **Character Tier** (1)
 * **Hit Die** = Determined by your Class
@@ -1037,12 +1043,12 @@ Your class determines how many spells are in your starting spell or prayer book.
 * **Maximum Encumbrance (MaxEnc)** = 1/2 your INT score (rounded down), plus your STR mod.
 
 
-## Step 12: Name Your Characters
+## Step 11: Name Your Characters
 
 Now it's time to give the character a name. Thing is, *you* don't get to give it that name. Instead, pass your character sheet to the player (*not* the Smith) sitting to your left. *They* get to name your character, and they are encouraged to Go Wild.
 
 
-## Step 13: Determine Party (Player) Roles
+## Step 12: Determine Party (Player) Roles
 
 Hopefully the rest of your group has been making your characters alongside one another, and you've now all reached this point together. It's time to determine the party roles, which are mainly for administration and also for the use of the special new Party Actions.
 
