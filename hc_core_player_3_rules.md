@@ -576,6 +576,11 @@ To determine this, at the time of the character's death their player must make a
 If an item fails its save, cross through it, for it is destroyed. If a bag fails, cross through it *and* all of its contents, for they are all destroyed. On the plus side, if a bag makes its save, there is no need to roll for any of its contents, as they all survive automatically.
 
 
+### NPCs, Monsters, and Damage
+
+Any characters and creatures controlled by the 'Smith use different damage rules, more geared toward easier management of multiple combatants. These rules are detailed in the 'Smith's guidebook.
+
+
 ## Leveling Up (ref)
 
 See "Experience"

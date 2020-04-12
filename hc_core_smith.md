@@ -382,7 +382,28 @@ I use the following roll table for traps. The basic names are cribbed directly f
 TBD
 
 
-# Converting Material from Other Games
+# NPCs and Monsters
+
+This section details additional information on how to manage the array of characters at your disposal. For ease of writeup, all 'Smith-controlled entities are referred to as simply NPCs in this section.
+
+
+## NPCs and Hit Points
+
+Instead of rolling and tracking multiple running hit point totals for all of your combatants, this game system uses a more simplified method of health tracking.
+
+When a PC successfully attacks a NPC, they must roll their damage as usual. The NPC must then make a special Death saving throw, with the PC's total damage roll as the difficulty target for this save. If the NPC is listed with any numerical modifier on their Hit Dice (such as "3HD+3"), then they apply that modifier to their Death save.
+
+If the NPC fails this save, they are inflicted with a Wound, or two if they rolled a natural 1. Each wound taken stacks, and once a NPC takes a number of wounds equal to or greater than their Hit Die total, that NPC is slain.
+
+If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, and for each Scratch the NPC suffers a Disadvantage on subsequent Death saves to resist wounds. Once a NPC fails a Death save and takes a wound, erase all of its current Scratches.
+
+If the total incoming damage from an attack is greater than the NPC could possibly roll on its Death save, it can only succeed at the roll by rolling a natural unmodified 20.
+
+For NPCs with Zero (or fewer!) Hit Dice, they need not make Death saving throws when hit. Instead, any hit for any amount of damage will dispatch them immediately, no Wounds required.
+
+
+
+# Appendix C: Converting Material from Other Games
 
 TBD
 
@@ -395,6 +416,8 @@ TBD
 ### Monsters
 
 Ignore any noted HD asterisks when calculating Tiers on Monsters and Dungeon Levels, instead using the base HD alone.
+
+Ignore any listed hit point totals, and use their HD instead to denote how many Wounds the monster can suffer in combat before being slain. Any listed HD modifiers (such as "3HD+3") are applied as a bonus to the monster's Death saves.
 
 
 ## From Edition the Fifth

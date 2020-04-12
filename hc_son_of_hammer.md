@@ -152,6 +152,11 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
 
+#### Human Crusader (Hybrid, alternate Human Cleric)
+
+
+
+
 #### Vulterran Scout (Warrior, alternate Half-ogre Berserker)
 
 Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in the lands of Humankind and its allies. The Northlands are largely seen as barbaric wilds by the "civilised" Kingdoms of Humans, but there are actually rich cultures with long-reaching histories, mostly unknown to all residents South of their harsh bounds. Vulterran Scouts range into the lands of Humans, seeking information, allies, and potential targets of eventual raid and conquest.
@@ -177,109 +182,3 @@ Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in 
 # Extended and Optional Rules of Play
 
 Some of these are here for playtesting for eventual main text inclusion, with others as options for alternate takes on play.
-
-
-## Death Saves and Vitality Thresholds in place of Hit Point Damage
-
-(Playtest in Progress)
-
-This is a new playtest alternative to the current classic "hit point damage" system. The general idea is basically:
-
-* "Hit Points" are replaced with "Vitality Thresholds" (VTs) which are similar, but much lower.
-* Combatants instead make Death saves when hit by damaging attacks. If you fail, you go down one VT. If you lose your last VT, the end is near!
-* Use Damage Rolls to set DCs for Death Saves
-* Combatants can coordinate their attacks to deal simultaneous damage and increase the save DC
-* Higher-HD/Level/Tier combatants have bonuses or advantages on saves against lower-level opponents, and vice-versa.
-
-
-### Test Stage 1: Apply Only to NPCs
-
-For the first stage of playtesting, apply this rule only to 'Smith-controlled NPCs (including Monsters). This allows the players of existing games to keep playing without making character changes.
-
-Vitality Thresholds (VTs):
-
-Vitality Thresholds (aka VTs) are a replacement for Hit Points common to most variants of The OG.
-
-
-Converting NPCs to use VTs:
-
-When converting monsters or NPCs from other sources, the formula is pretty simple.
-
-* **Tier:** 1/3 HD total, rounded up.
-* **Max VTs:** Tier +1
-
-
-
-
-New Combat Option: Coordinating Attacks:
-
-misc:
-
-- on the team's turn, they can choose to coordinate their attacks. this is as simple as declaring that we're going to coordinate. and it's done.
-
-
-
-
-Damaging the Opponent:
-
-If any of the attacker's dice score hits against the defender, they stand a chance of causing injury or even death. Multiply the damage die's roll by the number of successful scored hits. This total combined damage roll sets the target for the defender's Death Save. If the total damage somehow exceeds 18 by any amount, set the target at 18, and apply a disadvantage die to the defender's save roll.
-
-Multiple attackers can coordinate their attacks to deliver damage at the same time, with the goal of increasing the save target. Note that if there are different types of damage involved,
-
-The defender must now attempt a Death Save against the attack. This is a standard d20 roll, against the target number set by the attacker's damage roll. The opponent may have advantages, disadvantages, or other modifiers to this roll based on the following:
-
-* **HD/XP Tier:** If the defender's Tier is higher than the attacker's, they receive an advantage for each Tier of difference. Likewise if their tier is lower, they receive the same number of disadvantages.
-* **Tier Zero:** Tier Zero creatures don't get a save at all. On a successful hit with an attack that does any amount of non-immune damage, the creature is immediately dispatched.
-* **Strengths and Weaknesses:** If the defender is strong against or weak to any of the damage types in the combined damage payload, give them an additional save advantage or disadvantage respectively (but only one, there's no reason to nitpick this one).
-* **Immunities:** If the defender is immune to any of the damage types in the combined damage payload, ignore that particular damage contribution when calculating the save target.
-
-With all advantages and disadvantages added and the target number calculated, roll the save dice:
-
-**If a single die in the save pool meets the target, then the save roll succeeds.** The defender is unscathed, now continue combat.
-
-**If no dice meet the target, then the save roll fails.** The defender loses 1 VT for each failed die in their save pool. Note that suffering more than one VT loss in one save can only happen if the defender rolled their save with one or more disadvantages.
-
-
-Losing VTs:
-
-VT loss is primary a narrative effect. When a character or creature loses VTs, the player should suitably describe how their condition is worsening, how their actions are growing more desperate, how their wounds are tearing, and so on. Take into consideration their current remaining VTs when describing, as this can be a good narrative indicator of how close to death any particular creature is.
-
-When a character loses its last VT, it has crossed the threshold into Death. For NPCs and monsters, this usually means immediate death.
-
-For PCs, what happens next is determined by the Difficulty of the game session. We'll get to that more in Stage 2 of this playtest though.
-
-
-### Test Stage 2: Apply to PCs Alike
-
-(Currently mostly-unsorted ideas to be worked out later)
-
-* Death Saves now affected by Con bonus
-* PCs have a number of VT = their base hit die size. This does not increase each level.
-  - option: at creation, roll the hit die and keep that number. Each level, roll again, and only keep it if higher than the previous, otherwise keep the previous.
-* for PCs, Armor mod now affects Death save, INSTEAD of AC. For all converted NPCs and Monsters, the Smith an choose to apply this change if they wish or instead just leave original AC as-is.
-* New Class Abilities:
-  - Fighters can choose to divide their To-Hit bonus between Attack and Damage, but only before they roll to attack on their own turn.
-  - Dwarves can choose to divide their To-Hit bonus between Attack and Death Save Bonus, but only before they roll to attack on their own turn.
-  - Elves can choose to divide their To-Hit bonus between Attack and AC, but only before they roll to attack on their own turn.
-  - Half-Ogres can choose ALL to attack or ALL to damage, but not split.
-* on Adventure mode: when "downed" you lose one permanent CON point per hit against you, or per action you take. If no action, save each round or lose one more. 0 Con = Death.
-* Fighter "Not Today" change: when you would be taken to Zero, instead restore yourself to 1d4
-* Healing potion change: Use to do one of the following:
-  - heal 1d4 VTs, or:
-  - have advantage on all death saves for the next Beat of time (aka one combat encounter)
-* Cure Wounds spells:
-  - Light:
-  - Serious:
-* blah
-
-
-### Extended Thoughts
-
-Why give PCs more VTs than Monsters, on average? Mainly it's because of the basic expectations of how the game play should flow. There are a few contributing factors to this expectation, such as:
-
-* The dungeon crawl template usually assumes that in a single session the PCs should be able to move through more than one room, often with random "wandering" encounters in between.
-* Each room of the dungeon is expected to contain a number of monsters, which usually outnumber and sometimes outclass the PCs.
-* A combat encounter shouldn't take more than an hour of play time to resolve, and preferably much less than even that.
-* The PCs are expected to have *some* hopes of survival across multiple encounters without needing to rest and recover between each and every room of the dungeon.
-* Monsters converted from OSR-compatible sources often have attacks and abilities with significant damage output, that can eliminate parties pretty quickly.
-* Said monsters also often have very strong defenses and immunities, which can drag out the length of encounters.
