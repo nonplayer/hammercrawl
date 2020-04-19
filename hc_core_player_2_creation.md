@@ -339,7 +339,7 @@ See below for a table of attack and save bonuses by level:
   - **Good:** Mind = add your level to your roll.
   - **Okay:** Luck = add 1/2 your level (round down) to the roll.
   - **Bad:** Body, Area, Death, Rally = add 1/3 your level (round down) to the roll.
-* **Gear Restrictions:** Can not use two-handed weapons except staves. Can not wear heavy armour or use shields. Other armour can cause spell failure.
+* **Gear Restrictions:** Can not use two-handed melee weapons except staves. Can not wear heavy armour or use shields. Other armour can cause spell failure.
 * **Bonus Languages:** None
 
 **Armour-Inept:** Magic-users cannot wear Heavy armour, and suffer a chance of spell failure while wearing other armour. In Light armour, the chance is 50%, and in Medium armour the chance is 75%. Failed spells are forgotten per normal rules.
@@ -1176,7 +1176,7 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 | Sword, long             | M    | Melee +2 | 25   | Basic         |         |
 | Sword, short            | M    | Melee +1 | 10   | Basic         |         |
 | Trident                 | M    | Melee +2 | 25   | Basic         |         |
-| Whip*                   | M    | Special  | 10   | Tactical      |         | 
+| Whip*                   | M    | Special  | 10   | Tactical      |         |
 
 **Ammunition Table**
 
