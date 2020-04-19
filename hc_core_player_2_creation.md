@@ -1091,6 +1091,8 @@ Be they weapons, armour, or various adventuring tools, all items of gear can be 
 
 **2H:** This melee weapon must be used with both hands at once. This can trigger certain class-specific combat abilities.
 
+**Awesome:** This weapon is so well-suited to its purpose that it enjoys a functional bonus to both attack and damage rolls using it. If this is a ranged weapon, the bonus only applies to attacks within effective range.
+
 **Bag:** This item adds additional encumbrance slots to the character's inventory.
 
 **Basic:** This is a pretty standard weapon. No special rules, costs 10 coins (usually), and hurts things using your character's Hit Die. The name of the individual weapon is largely just a component to provide narrative color for your character and their combat actions.
@@ -1176,7 +1178,7 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 | Sword, long             | M    | Melee +2 | 25   | Basic                      |        |
 | Sword, short            | M    | Melee +1 | 10   | Basic                      |        |
 | Trident                 | M    | Melee +2 | 25   | Basic                      |        |
-| Whip*                   | M    | Special  | 10   | Tactical                   |        | 
+| Whip*                   | M    | Special  | 10   | Tactical                   |        |
 
 **Ammunition Table**
 
