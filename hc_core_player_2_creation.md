@@ -1125,34 +1125,34 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 
 | Name                    | Size | Type     | Cost | Qualities     | Range   |
 |-------------------------|------|----------|------|---------------|---------|
-| Axe, Battle             | M    | Melee +2 | 10   | Basic         |         |
+| Axe, Battle             | M    | Melee +2 | 25   | Basic         |         |
 | Axe, Throwing           | M    | Melee +1 | 10   | Thrown        | 15/30   |
 | Blackjack*              | M    | Melee +1 | 10   | Tactical      |         |
-| Blowgun*                | S    | Missile  | 10   | Tactical      | 15/30   |
-| Bola*                   | M    | Missile  | 10   | Tactical      | 30/60   |
-| Bow, Long               | L    | Missile  | 10   | Basic         | 105/210 |
+| Blowgun*                | S    | Missile  | 25   | Tactical      | 15/30   |
+| Bola*                   | M    | Missile  | 25   | Tactical      | 30/60   |
+| Bow, Long               | L    | Missile  | 50   | Basic         | 105/210 |
 | Bow, Short              | M    | Missile  | 10   | Basic         | 75/150  |
 | Cestus                  | M    | Melee +1 | 10   | Basic         |         |
-| Club                    | M    | Melee +2 | 10   | Basic         |         |
-| Crossbow, Heavy         | L    | Missile  | 10   | Basic         | 120/240 |
-| Crowwbow, Light         | M    | Missile  | 10   | Basic         | 90/180  |
-| Dagger                  | S    | Melee +1 | 10   | Thrown        | 10/20   |
+| Club                    | M    | Melee +2 | 25   | Basic         |         |
+| Crossbow, Heavy         | L    | Missile  | 100  | Basic         | 120/240 |
+| Crossbow, Light         | M    | Missile  | 25   | Basic         | 90/180  |
+| Dagger                  | S    | Melee +1 | 10   | Thrown        | 15/30   |
 | Dagger, punching        | S    | Melee +1 | 10   | Basic         |         |
-| Flail, heavy            | L    | Melee +3 | 10   | 2H            |         |
-| Flail, light            | M    | Melee +2 | 10   | Basic         |         |
-| Greatclub               | L    | Melee +3 | 10   | 2H            |         |
-| Greatmace               | L    | Melee +3 | 10   | 2H            |         |
-| Greatsword              | L    | Melee +3 | 10   | 2H            |         |
+| Flail, heavy            | L    | Melee +3 | 50   | 2H            |         |
+| Flail, light            | M    | Melee +2 | 25   | Basic         |         |
+| Greatclub               | L    | Melee +3 | 50   | 2H            |         |
+| Greatmace               | L    | Melee +3 | 50   | 2H            |         |
+| Greatsword              | L    | Melee +3 | 50   | 2H            |         |
 | Hammer, Light           | M    | Melee +1 | 10   | Thrown        | 15/30   |
-| Hammer, War             | M    | Melee +2 | 10   | Basic         |         |
-| Javelin                 | M    | Melee +1 | 10   | Thrown        | 30/60   |
-| Lance                   | L    | Melee +3 | 10   | 2H, Reach     |         |
-| Mace, light             | M    | Melee +2 | 10   | Basic         |         |
-| Military Fork           | L    | Melee +3 | 10   | 2H            |         |
-| Morningstar             | M    | Melee +2 | 10   | Basic         |         |
+| Hammer, War             | M    | Melee +2 | 25   | Basic         |         |
+| Javelin                 | M    | Melee +1 | 25   | Thrown        | 30/60   |
+| Lance                   | L    | Melee +3 | 100  | 2H, Reach     |         |
+| Mace, light             | M    | Melee +2 | 25   | Basic         |         |
+| Military Fork           | L    | Melee +3 | 50   | 2H            |         |
+| Morningstar             | M    | Melee +2 | 25   | Basic         |         |
 | Net*                    | M    | Special  | 10   | Tactical      |         |
-| Pick, heavy             | L    | Melee +3 | 10   | 2H            |         |
-| Pick, light             | M    | Melee +2 | 10   | Basic         |         |
+| Pick, heavy             | L    | Melee +3 | 50   | 2H            |         |
+| Pick, light             | M    | Melee +2 | 25   | Basic         |         |
 | Polearm, Glaive         | L    | Melee +3 | 100  | 2H, Reach     |         |
 | Polearm, Guisarme       | L    | Melee +3 | 100  | 2H, Reach     |         |
 | Polearm, Halberd        | L    | Melee +3 | 100  | 2H, Reach     |         |
@@ -1160,23 +1160,23 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 | Polearm, Pike           | L    | Melee +3 | 100  | 2H, Reach     |         |
 | Polearm, Pole axe       | L    | Melee +3 | 100  | 2H, Reach     |         |
 | Polearm, Ranseur        | L    | Melee +3 | 100  | 2H, Reach     |         |
-| Rapier                  | M    | Melee +2 | 10   | Basic         |         |
-| Scimitar                | M    | Melee +2 | 10   | Basic         |         |
-| Scythe                  | L    | Melee +3 | 10   | 2H            |         |
-| Shield, Dagger*         | M    | Melee +1 | 100  | Shield Weapon |         |
-| Shield, Horned*         | M    | Melee +1 | 100  | Shield Weapon |         |
-| Shield, Sword*          | M    | Melee +1 | 100  | Shield Weapon |         |
-| Shield, Tusked*         | M    | Melee +1 | 100  | Shield Weapon |         |
-| Sickle                  | M    | Melee +2 | 10   | Basic         |         |
+| Rapier                  | M    | Melee +2 | 25   | Basic         |         |
+| Scimitar                | M    | Melee +2 | 25   | Basic         |         |
+| Scythe                  | L    | Melee +3 | 50   | 2H            |         |
+| Shield, Dagger*         | M    | Melee +1 | 50   | Shield Weapon |         |
+| Shield, Horned*         | M    | Melee +1 | 50   | Shield Weapon |         |
+| Shield, Sword*          | M    | Melee +1 | 50   | Shield Weapon |         |
+| Shield, Tusked*         | M    | Melee +1 | 50   | Shield Weapon |         |
+| Sickle                  | M    | Melee +2 | 25   | Basic         |         |
 | Sling*                  | S    | Missile  | 10   | Basic         | 80/160  |
 | Spear, short            | M    | Melee +1 | 10   | Basic, Thrown | 15/30   |
 | Staff                   | M    | Melee +1 | 10   | Basic         |         |
-| Sword, bastard          | L    | Melee +3 | 10   | 2H            |         |
-| Sword, broad            | M    | Melee +2 | 10   | Basic         |         |
-| Sword, long             | M    | Melee +2 | 10   | Basic         |         |
+| Sword, bastard          | L    | Melee +3 | 100  | 2H            |         |
+| Sword, broad            | M    | Melee +2 | 25   | Basic         |         |
+| Sword, long             | M    | Melee +2 | 25   | Basic         |         |
 | Sword, short            | M    | Melee +1 | 10   | Basic         |         |
-| Trident                 | M    | Melee +2 | 10   | Basic         |         |
-| Whip*                   | M    | Special  | 10   | Tactical      |         |
+| Trident                 | M    | Melee +2 | 25   | Basic         |         |
+| Whip*                   | M    | Special  | 10   | Tactical      |         | 
 
 **Ammunition Table**
 
