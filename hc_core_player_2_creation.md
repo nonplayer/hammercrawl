@@ -1091,7 +1091,7 @@ Be they weapons, armour, or various adventuring tools, all items of gear can be 
 
 **2H:** This melee weapon must be used with both hands at once. This can trigger certain class-specific combat abilities.
 
-**Awesome:** This weapon is so well-suited to its purpose that it enjoys a functional bonus to both attack and damage rolls using it. If this is a ranged weapon, the bonus only applies to attacks within effective range.
+**Awesome X:** This weapon is so well-suited to its purpose that it enjoys a functional bonus of +X to both attack and damage rolls using it. If this is a ranged weapon, the bonus only applies to attacks within effective range.
 
 **Bag:** This item adds additional encumbrance slots to the character's inventory.
 
@@ -1102,6 +1102,8 @@ Be they weapons, armour, or various adventuring tools, all items of gear can be 
 **Fragile:** This item suffers a disadvantage on all its saving throws.
 
 **Reach:** These melee weapons aren't functional within many tight dungeon corridors and spaces, but they provide superior reach in more open combat spaces. When applicable, they give their wielder advantage on melee combat attacks against enemies attacking with non-Reach melee weapons.
+
+**Reload X:** This weapon must be reloaded between uses. The wielder must spend X full actions reloading in order to use the weapon again.
 
 **Tactical:** These weapons do not do normal Hit Die based damage. Instead, they can be used as tactical weapons, applying various "status" effects as seen appropriate by the player and the 'Smith. See "Tactical Attacks" in the combat section.
 
