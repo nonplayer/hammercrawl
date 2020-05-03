@@ -232,6 +232,11 @@ Misc notes on play:
 **Carob** creates an abundance of healthy, tasteless chalk-like food for all that would worship him. Carob is the sworn enemy of **Fireguy**.
 
 
+### Dungeon Oprah
+
+Created as an off-hand comment in a dungeon session, this Goddess remains to be defined.
+
+
 ### Fairuza Balk, Mistress of the Elements (Neutral)
 
 **Fairuza Balk** is the name given to the loving Goddess of the Elements, the primary chosen patron of angsty rebellious teenage girls who feel the calling of the clerical ways. Fairuza is an especially popular Goddess in the distant land of 1997, where the locals pay a grand annual tribute to her in the form of the Lollafairuza music festival.
