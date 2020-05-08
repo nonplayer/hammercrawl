@@ -182,3 +182,14 @@ Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in 
 # Extended and Optional Rules of Play
 
 Some of these are here for playtesting for eventual main text inclusion, with others as options for alternate takes on play.
+
+
+## Magic Rules
+
+### Extended Optional Spell Lists
+
+To add more spell variety to your games, I suggest using the _Tomes of the Magic of Mystara_ compiled for free on the [Vaults of Pandius website](http://www.pandius.com/mbarnabe.html). Each of the tomes has a set of compiled lists of each spell level, numbered and sorted in the appendices, which can be used to randomly roll spells. If you plan on using these lists, I recommend using the default HAMMERCRAWL! spell lists when creating first-level characters, then switching to these new lists when determining the contents of scrolls and books found in your adventures.
+
+Note that all of the spells on these new lists are specifially written for the BECMI version of The OG. While HAMMERCRAWL! is indeed heavily based on a number of BECMI concepts, you are encouraged to be judicious when bringing these into your game.
+
+Additionally, many of the spells on these new lists are duplicates of those already on the HAMMERCRAWL! default lists. When a duplicate spell is rolled, use the HAMMERCRAWL! version of the spell instead of the new versions in the Tomes.
