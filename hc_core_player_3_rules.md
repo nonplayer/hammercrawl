@@ -262,6 +262,18 @@ See "Hit Points and Death"
 See "Hit Points and Death"
 
 
+## Diseases
+
+(tbd)
+
+
+### Known Diseases of the HAMMERCRAWL! World
+
+#### Dungeon Cooties
+
+No one has discovered exactly what Dungeon Cooties do to a living creature, but everyone agrees that they are most likely "the worst."
+
+
 ## Encounters (the Players' version)
 
 Misc:
