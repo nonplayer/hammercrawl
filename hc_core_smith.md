@@ -186,10 +186,8 @@ Note that these dungeon creation method by default assume the classic "X number 
 
 **Required Materials:**
 
-* **REQ:** Appropriate randomizer dungeon tile cards or dice (see Appendix R for a few suggestions)
-* **REQ:** A standard set of RPG gaming dice
-* **OPT:** Plastic card sleeves
-* **OPT:** Dry Erase markers
+* **REQ:** Appropriate randomizer dungeon tile cards or dice (see Appendix R for a few suggestions); A standard set of RPG gaming dice
+* **OPT:** Plastic card sleeves; Dry Erase markers
 
 This method can be used either in advance of the game, or even on the fly while you play. It helps to have an area to lay all of your cards out, with some space so that you can draw connections between them.
 
