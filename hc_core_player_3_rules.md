@@ -785,13 +785,38 @@ Searching for Traps is handled by the Thief Skill. See Thief Skills, particularl
 
 All characters in HAMMERCRAWL! begin play with a variety of both explicit and assumed skills. Explicit skills include the four free random skills that each character gets at creation. Assumed skills are anything that one could reasonably assume the character has ability in due to their background and their class. Fighters and Elves are pretty athletic, obviously, while former Bankers and Accountants are assumed to know math and finances.
 
+**Important Note:** "Thief skills" are considered special abilities all of their own, and this section does not apply to their use. They are instead detailed in the "Thief Skills" section below.
+
+
+### Using Skills
+
 The Hammersmith is heavily encouraged to involve these skills as ways to move things along and give out information without relying upon the dice. The *vast* majority of the time, skills should be involved in play as purely narrative flavor. If a Banker is looking over a found ledger of an evil kingdom's accounts, they do not need to roll for anything, and the Hammersmith will give them special information that only they can glean from it. Similarly, a physically fit Elf adventurer should not need to make a check to climb a tree, leap a fence, or rappel down a ravine with proper tooling. In most cases, the 'Smith is encouraged to simply "give it to them" when they clearly have the right skill or assumed background for the situation.
 
-Still, the Hammersmith may *occasionally* feel that a roll of some sort should still be somehow involved, for behind the scenes reasons. Perhaps the aforementioned ledger is encoded in a strange cryptic cypher, or maybe the Elf is trying to climb that tree in the middle of an earthquake!
 
-In such cases, the Hammersmith may call for a test. The player will need to roll a d20 and add the modifier of whichever stat the 'Smith deems most appropriate. If the character has either an explicit or assumed skill in the matter, their target is 10. If not, their target is 15. And if it's something that the 'Smith deems to be vastly out of that character's repertoire of ability, the target is 20.
+### Skill Checks
 
-Thief skills are special, and detailed in the "Thief Skills" section below.
+The concept of a "skill check" dice-roll can also be used, when situations are particularly stressful or highly uncertain. The Golden Rule here is thus: **You should only call for a skill check when either the requested outcome is exceptional, or the skill's use is being opposed.** In all other cases, simply Having The Skill usually means that the adventurer can Do The Thing.
+
+If the 'Smith calls for a roll, the player will need to roll a d20 and add the modifier of whichever stat the 'Smith deems most appropriate. If the character has an explicit or assumed skill that fits the situation, the target for their roll is 15. If the character has *two or more* such relevant skills, the target is only 10. If the 'Smith deems there are any other contributing factors to or against the character's chances of success, they should take the form of one or more 'vantages.
+
+Below are some examples of when a skill check is not needed:
+
+* The Accountant needs to make sense of a series of transactions recorded in her own language.
+* The Elf is trying to climb a tree in the middle of a forest on an overcast day.
+* The Athlete is trying to out-run an out of shape watchman.
+* The Con Artist is trying to sell scam insurance to a gullible merchant who has been mugged before.
+
+Below are some examples of when the Hammersmith might require you to attempt a skill check:
+
+* The Accountant needs to read a ledger that was written in a cryptic cypher.
+* The Elf is trying to climb a tree in the middle of a forest during an earthquake.
+* The Athlete is trying to beat a rival in a climb to reach a magic sword.
+* The Con Artist is trying to sell a fake magic sword to an avowed pacifist.
+
+
+### Skill Viability
+
+I've added this specification to better clarify the scope of what skills can accomplish in this game. Having an explicit or implied skill *does not* mean that your character can use it to do anything she wants with it as long as she rolls well. In order to make use of the skill, the character must be reasonably able to apply it to the situation to achieve realistic results. For example, having a Jumping skill does not mean you can easily jump 50-foot chasms just because you rolled for it. Likewise, having skill in Persuasion does not mean you can convince someone to do anything you want them to without also having some sort of leverage.
 
 
 ## Spells and Spellcasting (ref)
