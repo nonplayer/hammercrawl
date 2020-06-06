@@ -112,9 +112,9 @@ Suns and Xs *do not* cancel each other out, as they form the basis for all chall
 
 These dice symbols set up advantages for one side of the following encounter.
 
-**Arrows:** (aka the "Advantage" symbol - Green, Blue, and Yellow) - For each net Arrow rolled, add one to a temporary pool of expendable d20 die-roll advantages that *the PCs* can use at their discretion in the next room. Advantages must be described and feasible within the confines of the narrative. These advantages do not carry on to other rooms, and are lost as soon as the PCs move on.
+**Arrows:** (aka the "Advantage" symbol - Green, Blue, and Yellow) - For each net Arrow rolled, add one to a temporary pool of expendable die-roll advantages that *the PCs* can use at their discretion in the next room. Advantages must be described and feasible within the confines of the narrative. These advantages do not carry on to other rooms, and are lost as soon as the PCs move on.
 
-**Targets:** (aka the "Threat" symbol - Red, Black, and Purple) - For each net Target rolled, add one to a temporary pool of expendable d20 die-roll disadvantages that *the Hammersmith* can use at his discretion in the next room, applying them to the PCs stated actions. Disadvantages must be described and feasible within the confines of the narrative. These disadvantages do not carry on to other rooms, and are lost as soon as the PCs move on.
+**Targets:** (aka the "Threat" symbol - Red, Black, and Purple) - For each net Target rolled, add one to a temporary pool of expendable die-roll disadvantages that *the Hammersmith* can use at his discretion in the next room, applying them to the PCs stated actions. Disadvantages must be described and feasible within the confines of the narrative. These disadvantages do not carry on to other rooms, and are lost as soon as the PCs move on.
 
 
 #### Suns vs Xs: Encounter Modification
@@ -393,7 +393,7 @@ When a PC successfully attacks a NPC, they must roll their damage as usual. The 
 
 If the NPC fails this save, they are inflicted with a Wound, or two if they rolled a natural 1. Each wound taken stacks, and once a NPC takes a number of wounds equal to or greater than their Hit Die total, that NPC is slain.
 
-If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, and for each Scratch the NPC suffers a Disadvantage on subsequent Death saves to resist wounds. Once a NPC fails a Death save and takes a wound, erase all of its current Scratches.
+If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, and for each Scratch the NPC suffers a disadvantage on subsequent Death saves to resist wounds. Once a NPC fails a Death save and takes a wound, erase all of its current Scratches.
 
 If the total incoming damage from an attack is greater than the NPC could possibly roll on its Death save, it can only succeed at the roll by rolling a natural unmodified 20.
 

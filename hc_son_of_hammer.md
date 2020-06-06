@@ -68,7 +68,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 * **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
 * **Base Movement:** 20
 * **Saving Throws:**
-  - **Good:** Area (Advantage), Luck
+  - **Good:** Area (with an advantage), Luck
   - **Okay:** Rally, Death
   - **Bad:** Mind, Body
 * **Gear Restrictions:** ???

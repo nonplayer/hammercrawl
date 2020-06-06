@@ -64,7 +64,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Dwarf Battlemaster:** Dwarves have a bonus melee-only attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Dwarven Resilience:** Dwarves have advantage on all of their Good saves.
+**Dwarven Resilience:** Dwarves have an advantage on all of their Good saves.
 
 **Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the AC bonus of their shield when using the bash.
 
@@ -155,9 +155,9 @@ See below for a table of attack and save bonuses by level:
 **Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills:
 
 * Break & Enter (DEX)
-* Climb & Leap (STR, with Disadvantage)
+* Climb & Leap (STR, with a Disadvantage)
 * Find & Seek (WIS)
-* Hide & Sneak (DEX, with Advantage)
+* Hide & Sneak (DEX, with an Advantage)
 * Snatch & Grab (DEX)
 
 These are used as per normal Thief Skill rules. Unlike Thieves, Halfling thiefskills do not evolve magically.
@@ -166,7 +166,7 @@ These are used as per normal Thief Skill rules. Unlike Thieves, Halfling thiefsk
 
 **Sudden Inner Strength:** A Halfling can draw from their inner strength for a sudden display of unexpected fierceness. By spending 1 Hit Point before they roll their attacks, they can increase the damage die size for their attacks this round by one step.
 
-**Tactical Attacker:** Halflings roll with advantage on Tactical Attacks.
+**Tactical Attacker:** Halflings receive an advantage on Tactical Attacks.
 
 **Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans. Additionally, all item encumbrance sizes are considered one step higher for the Halfling.
 
@@ -302,7 +302,7 @@ See below for a table of attack and save bonuses by level:
 
 **Not Today!:** At first level and each level after, the Fighter gains a single use of "Not Today!" When a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can spend a use and instead remain at 1 HP and negate the rest of the damage from that attack. These uses accumulate with each level, but each use is permanently lost upon spending.
 
-**Primary Tank:** Fighters have advantage on all Hit Dice rolls, *and* reroll all 1s on Hit Dice.
+**Primary Tank:** Fighters receive an advantage on all Hit Dice rolls, *and* reroll all 1s on Hit Dice.
 
 **Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's AC bonus until the start of their next turn in combat.
 
@@ -390,7 +390,7 @@ See below for a table of attack and save bonuses by level:
 * **Gear Restrictions:** Thieves can use any weapons and armour that the Hammersmith deems to be suitably sneaky.
 * **Bonus Languages:** Thieves' Cant
 
-**Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has attack advantage or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
+**Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has net attack advantages or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
 **Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These skills (and their base modifying stats) are:
 
@@ -403,15 +403,15 @@ See below for a table of attack and save bonuses by level:
 * Lie & Cheat (CHA)
 * Snatch & Grab (DEX)
 
-At first level the Thief must randomly determine one Thief Skill to be their **Bailiwick**, and one to be their **Failing**. The thief gets advantage on checks related to their Bailiwick, and disadvantage on checks related to their Failing.
+At first level the Thief must randomly determine one Thief Skill to be their **Bailiwick**, and one to be their **Failing**. The thief receives an advantage on checks related to their Bailiwick, and a disadvantage on checks related to their Failing.
 
-At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with Disadvantage in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
+At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with a disadvantage in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
 
 **Thiefy Expertise:** Once per adventure per experience level, the Thief can attempt to reroll a failed Thief Skill check. This count resets upon Returning to Town.
 
-**Tactical Attacker:** Thieves roll with advantage on Tactical Attacks.
+**Tactical Attacker:** Thieves receive an advantage on Tactical Attacks.
 
-**Trapwise:** Thieves have advantage on all Saves against the effects of Traps.
+**Trapwise:** Thieves receive an advantage on all Saves against the effects of Traps.
 
 See below for a table of attack and save bonuses by level:
 
@@ -1101,7 +1101,7 @@ Be they weapons, armour, or various adventuring tools, all items of gear can be 
 
 **Fragile:** This item suffers a disadvantage on all its saving throws.
 
-**Reach:** These melee weapons aren't functional within many tight dungeon corridors and spaces, but they provide superior reach in more open combat spaces. When applicable, they give their wielder advantage on melee combat attacks against enemies attacking with non-Reach melee weapons.
+**Reach:** These melee weapons aren't functional within many tight dungeon corridors and spaces, but they provide superior reach in more open combat spaces. When applicable, they give their wielder an advantage on melee combat attacks against enemies attacking with non-Reach melee weapons.
 
 **Reload X:** This weapon must be reloaded between uses. The wielder must spend X full actions reloading in order to use the weapon again.
 
@@ -1383,7 +1383,7 @@ Below are extended special details on the specially-noted items from the above l
 
 **Alchemist Fire:** When used as a thrown grenade weapon, deals 2d6 initial acid damage to a single target, and 1d6 acid splash damage to all targets within 5 feet of the impact. The initial target takes an additional 1d6 acid damage each round for 1d6 additional rounds.
 
-**Antitoxin:** When consumed, you gain advantage on Body saves vs poison effects for the next hour. If you are already poisoned, consuming antitoxin allows you to immediately attempt a new save.
+**Antitoxin:** When consumed, you gain an advantage on Body saves vs poison effects for the next hour. If you are already poisoned, consuming antitoxin allows you to immediately attempt a new save.
 
 **Bandoliers:** When worn, these provide three gear slots which can hold nothing larger than Small in size. This effectively allows for up to 30 identical small items, or 300 identical tiny items.
 

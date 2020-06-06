@@ -19,15 +19,13 @@ Note, however, that **Failing Forward** is a major part of this game, and as suc
 That's the basic breakdown of the core mechanic. All other concepts of the rules are explained in greater detail below.
 
 
-## Advantages and Disadvantages
+## Advantages and Disadvantages (aka adds, disadds, and 'vantages)
 
-When a mechanical effect gives you an **Advantage** (aka an "add") on a die roll, you roll one extra die of the same type and keep the better of the two. Advantages can apply to any dice roll in the game, including d20 checks, damage rolls, and more. When rolling pools of dice with an advantage, just add one die of the base type to the pool, and then drop the lowest die after the roll.
+HAMMERCRAWL! uses a system of **Advantages** (aka "adds") and **Disadvantages** (aka "disadds") as its preferred method for approximating various affects that can affect a character's ability to succeed at standard tasks. Adds give the character bonus dice to add to their roll totals, while disadds similarly give them penalty dice to subtract from their roll totals. Adds and disadds cancel each other out one for one, and are also cumulative to a limit of six (6) total net adds or disadds. For example, if a PC is attempting a roll in which they have three disadds and one add, then their net total is two disadds.
 
-Similarly, a **Disadvantage** (aka a "disadd") on a die roll means you roll one extra die of the base type, and then count the *lowest* of the two. When adding disadvantage to a pool, roll the extra die alongside the pool, and then drop the *highest* roll from the result.
+With net advantages, the character rolls an extra die (called the **'vantage die**) during the check, adding its result to the base die's total. Similarly with net disadvantages, the character rolls an extra die but instead *subtracts* its result from the total. The size of the 'vantage die depends on the net total of applicable 'vantages. With one (1) net 'vantage, the die is a d4. With two (2) it's a d6, three (3) get a d8, four (4) get a d10, and five (5) get a d12, ending with six (6) or more total net 'vantages getting an entire d20. Any net 'vantages over six are ignored.
 
-Advantages and Disadvantages cancel each other out one for one. Additionally, multiple net adds and disadds can stack, adding multiple additional dice to the mix. In such a case, adjust the number of dice dropped or selected accordingly.
-
-For example, if you are rolling 2d6 base damage, and you gain two net advantages to the roll, then you should roll 4d6, then drop the lowest two. Conversely, if you are making a d20 saving throw and you have three net disadvantages (yikes!), then you should roll 4d20 and keep the lowest single die as your result.
+'Vantages as described here apply to all possible dice rolls, including d20 checks and d100 checks. In all cases, the effects are the same as detailed above, using a d4 through d20 additive or subtractive modifier die.
 
 
 # The Rest of the Mechanics, Alphabetized
@@ -160,8 +158,8 @@ This of course consumes your action for the round.
 The **shield bash** is a special melee attack available to Dwarves and Fighters using any non-tower shield. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
 * The target is disarmed, and their weapon knocked beyond immediate melee reach.
-* The target is "dazed" until their next action, suffering combat disadvantage.
-* The target is knocked to the ground, and the next ally that attacks them gains advantage on one of their dice.
+* The target is "dazed" until their next action, suffering a combat disadvantage.
+* The target is knocked to the ground, and the next ally that attacks them gains an advantage on one of their dice.
 
 Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
 
@@ -184,7 +182,7 @@ TBD
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
-These attacks never do damage, but can instead set up temporary advantages and disadvantages. Any character can attempt a tactical attack, although Thieves and Halflings have advantages to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
+These attacks never do damage, but can instead set up temporary advantages and disadvantages. Any character can attempt a tactical attack, although Thieves and Halflings receive advantages to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
 
 The target must make the relevant Save. If the attacker was using a special **Tactical Weapon** (such as a bola, whip, blowgun, etc), they make this save with a disadvantage.
 
@@ -206,7 +204,7 @@ Alphabetized for ease of reference.
 
 #### Critical Hits and Fumbles
 
-If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies advantage against them for the next round).
+If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies an advantage against them for the next round).
 
 If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
 
@@ -218,9 +216,9 @@ When using a missile weapon against a target that is in melee with you, your att
 
 #### Ranged Attacks
 
-Every missile and thrown weapon in the Gear section is given a Range stat, consisting of two numbers divided by a slash. The first number is the **Effective Range** of that weapon, and the second number is the weapon's **Maximum Range**. Attacks at Effective range are made as normal, while attacks up to the Maximum range suffer a Disadvantage die.
+Every missile and thrown weapon in the Gear section is given a Range stat, consisting of two numbers divided by a slash. The first number is the **Effective Range** of that weapon, and the second number is the weapon's **Maximum Range**. Attacks at Effective range are made as normal, while attacks up to the Maximum range suffer a disadvantage.
 
-Melee weapons without a Thrown quality *can* be thrown, but the attack has a disadvantage die. Max range is equal to your Strength, effective range is half that.
+Melee weapons without a Thrown quality *can* be thrown, but the attack receives a disadvantage. Max range is equal to your Strength, effective range is half that.
 
 
 #### Two-Weapon Fighting
@@ -234,7 +232,7 @@ Particularly generous Hammersmiths may choose to award all characters occasional
 
 The Hit Die damage rules assume the use of any number of standard weapons. When fighting unarmed, the damage die is reduced by one step (i.e. from 1d8 to 1d6). If the combatant's base Hit Die is d4, then their damage is reduced to 1 point. Getting punched by a wizard is usually more of an annoyance than anything noteworthy.
 
-When fighting unarmed against an armed opponent, prepare for a massive beating. Unarmed combatants have disadvantage on melee attacks against armed opponents, and armed combatants also have advantage on attacks against unarmed opponents. Double whammy.
+When fighting unarmed against an armed opponent, prepare for a massive beating. Unarmed combatants receive a disadvantage on melee attacks against armed opponents, and armed combatants also receive a advantage on attacks against unarmed opponents. Double whammy.
 
 Note that holding a shield and/or a missile weapon counts as being armed.
 
@@ -608,9 +606,9 @@ As none of the base classes in HAMMERCRAWL! can see in the dark, having a source
 There are five types of lighting:
 
 * **Darkness:** Complete loss of visual perception, must rely on other senses if available. See deeper description further below.
-* **Weak Light:** Good enough for basic visibility, but apply disadvantage to deeper visual perception-based rolls at the 'Smith's discretion.
+* **Weak Light:** Good enough for basic visibility, but apply a disadvantage to deeper visual perception-based rolls at the 'Smith's discretion.
 * **Strong Light:** Good light for human vision, no light-specific penalties applied.
-* **Blinding Light:** Without adequate eye protection, suffer disadvantage to visual perception-based rolls. Continued exposure can lead to temporary or even permanent loss of vision at the 'Smith's discretion.
+* **Blinding Light:** Without adequate eye protection, suffer a disadvantage to visual perception-based rolls. Continued exposure can lead to temporary or even permanent loss of vision at the 'Smith's discretion.
 
 
 ### Common Light Sources
@@ -642,8 +640,8 @@ When a character is acting under the effects of darkness, the following mechanic
 * Their Combat Attack Dice pool is reduced by one. If this reduces it to Zero, they cannot effectively attack.
 * They can not perform Critical Hits on natural rolls of 20. Such rolls are treated as normal 20s instead, without the usual double damage effect.
 * Their Damage Hit Die is treated as one die size lower than it would normally be.
-* They roll with Disadvantage on Skill rolls, Area Saves.
-* They roll with double Disadvantage on all rolls involving visual perception (if the 'Smith even allows them at all).
+* They roll with three (!!!) disadvantages on Skill rolls, Area Saves.
+* They roll with six (!!!!!!) disadvantages on all rolls involving visual perception (if the 'Smith even allows them at all).
 
 As you can see, being in complete darkness is very much Not Good, so you are advised to keep fresh light sources handy at all times.
 
@@ -838,7 +836,7 @@ If the resulting modified total equals or exceeds the target number, the check s
 | One Higher             | 18                |
 | Two or more Higher     | 21                |
 
-**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the thief must roll with a Disadvantage. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
+**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the thief must roll with a disadvantage. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
 
 
 
@@ -956,13 +954,13 @@ The victims must make a Mind Save. The target is determined by comparing their H
 
 Thus an undead foe with HD 9 (tier 3) would roll against a target of 6 when turned by a Cleric of 2nd level (tier 1).
 
-**Note:** Intelligent opponents always enjoy advantage on saves against turning, unless otherwise specified.
+**Note:** Intelligent opponents always enjoy an advantage on saves against turning and cannot be destroyed by it, unless otherwise specified.
 
 Success means the targets are not affected. With a failed save, the targets are affected as detailed in the third column of the table above, based again on the difference in the cleric's level
 
 The results are explained further below:
 
-**Dazed:** The victim is dazed for the stated duration, suffering disadvantage on all actions.
+**Dazed:** The victim is dazed for the stated duration, suffering a disadvantage on all actions.
 
 **Cower in Fear:** The victim cowers in place paralyzed in fear. The victim loses all of its actions for the stated duration.
 
