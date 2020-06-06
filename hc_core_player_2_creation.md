@@ -411,7 +411,7 @@ At first level, the Thief's skills only work on a "mundane" level. At ninth leve
 
 **Tactical Attacker:** Thieves receive an advantage on Tactical Attacks.
 
-**Trapwise:** Thieves receive an advantage on all Saves against the effects of Traps.
+**Trapwise:** Thieves receive an advantage on all Saves against the effects of Traps. This increases to two adds at level 4, three adds at level 9, and four adds at level 13.
 
 See below for a table of attack and save bonuses by level:
 
