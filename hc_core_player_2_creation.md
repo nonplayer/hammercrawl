@@ -208,17 +208,23 @@ See below for a table of attack and save bonuses by level:
 
 **Large and in the Way:** Half-ogres stand around 7 feet tall or more, and are built like icehouses. All armour must be custom made for them at increased costs and time, and only Halfling-sized creatures or smaller can move through their occupied space if minis and a battlemat are in use. Additionally, they can stow Huge items in gear for 3 encumbrance slots each.
 
-**Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they have advantage on melee and thrown damage dice rolls, immunity to critical fumbles, and disadvantage on all saves except Body and Death. On their turn, they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
+**Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they receive the following adjustments:
+
+* they have two (1) additional attack dice,
+* they have immunity to critical fumbles,
+* they have two (2) disadvantages on all saves except Body and Death.
+
+While in their Rage, on their turn in combat they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
 
 * Melee Attack the strongest-looking enemy within immediate striking range.
 * Move to the strongest-looking enemy within charging range and Melee Attack them.
 * Thrown (Missile) attach the strongest-looking enemy within Thrown Range.
 * Melee Attack the strongest-looking *standing* living creature (friend or foe) within immediate striking range (Mind Save DC 12 each time to avoid attacking an ally).
-* Mind Save (target: 15) to break out of rage: if successful you mind clears and you spend the round panting, if failed you Collapse to the ground unconscious (remain unconscious for 3d6 minutes)
+* Mind Save (target: 15) to break out of rage: if successful the Berserker's mind clears and they spend the round panting, if failed they Collapse to the ground unconscious (remain unconscious for 3d6 minutes).
 
 A Berserker can choose to voluntarily fail either save and willingly let the rage overtake them and/or knock them unconscious afterward. They can also trigger it on their own by causing themselves 1 point of damage with a weapon.
 
-**Savage Warrior:** Berserkers have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Berserker declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Savage Warrior:** Berserkers gain a bonus attack die at levels 5, 10, and 15. These dice are cumulative with those acquired from their rage. When attacking, a Berserker declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Two-Hander:** When using a two-handed melee weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
