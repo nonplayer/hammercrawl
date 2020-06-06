@@ -48,7 +48,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 ### Dwarf Defender (Warrior)
 
 * **Prime Stats:** STR, CON
-* **Hit Dice:** 1d8 per level, modified by CON mod.
+* **Hit Die:** 1d8
 * **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 25
 * **Saving Throws:**
@@ -92,7 +92,7 @@ See below for a table of attack and save bonuses by level:
 ### Elf Exemplar (Hybrid)
 
 * **Prime Stats:** DEX, INT
-* **Hit Dice:** 1d8 per level, modified by CON mod.
+* **Hit Die:** 1d8
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -140,7 +140,7 @@ See below for a table of attack and save bonuses by level:
 ### Halfling Burglar (Rogue)
 
 * **Prime Stats:** DEX, CHA
-* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Hit Die:** 1d6
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 20
 * **Saving Throws:**
@@ -194,7 +194,7 @@ See below for a table of attack and save bonuses by level:
 ### Half-ogre Berserker (Warrior)
 
 * **Prime Stats:** STR, CON
-* **Hit Dice:** 1d10 per level, modified by CON mod.
+* **Hit Die:** 1d10
 * **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -246,7 +246,7 @@ See below for a table of attack and save bonuses by level:
 ### Human Cleric (Caster)
 
 * **Prime Stats:** WIS, CHA
-* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Hit Die:** 1d6
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -288,7 +288,7 @@ See below for a table of attack and save bonuses by level:
 ### Human Fighter (Warrior)
 
 * **Prime Stats:** STR, CON
-* **Hit Dice:** 1d8 per level, modified by CON mod.
+* **Hit Die:** 1d8
 * **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -302,7 +302,7 @@ See below for a table of attack and save bonuses by level:
 
 **Not Today!:** At first level and each level after, the Fighter gains a single use of "Not Today!" When a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can spend a use and instead remain at 1 HP and negate the rest of the damage from that attack. These uses accumulate with each level, but each use is permanently lost upon spending.
 
-**Primary Tank:** Fighters receive an advantage on all Hit Dice rolls, *and* reroll all 1s on Hit Dice.
+**Primary Tank:** Fighters add 3x their Death Save bonus to their Hit Points total, instead of 1x.
 
 **Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's AC bonus until the start of their next turn in combat.
 
@@ -332,7 +332,7 @@ See below for a table of attack and save bonuses by level:
 ### Human Magic-User (Caster)
 
 * **Prime Stats:** INT, SOC
-* **Hit Dice:** 1d4 per level, modified by CON mod.
+* **Hit Die:** 1d4
 * **Attack Rank:** D: You have no level-based combat bonus to attacks.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -380,7 +380,7 @@ See below for a table of attack and save bonuses by level:
 ### Human Thief (Rogue)
 
 * **Prime Stats:** DEX, INT
-* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Hit Die:** 1d6
 * **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -1034,7 +1034,7 @@ Your class determines how many spells are in your starting spell or prayer book.
 
 * **Experience Level** (1) and associated **Character Tier** (1)
 * **Hit Die** = Determined by your Class
-* **Hit Points (HPs)** = Your Maximum Hit Die, plus your Con Mod, minimum of 1.
+* **Hit Points (HPs)** = Your CON score, plus your XP level, plus your Death Save modifier if any.
 * **Armor Class (AC)** = 10 + DEX mod + AC mod from any Armour and Shields
 * **Melee Attack Modifier** = STR mod + any class mods
 * **Melee Damage Modifier** = STR mod

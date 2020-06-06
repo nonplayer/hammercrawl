@@ -414,10 +414,9 @@ When you attain the next level, the following things happen, in order:
 
 1. Your XP total resets to Zero. Any accrued XP over the amount needed to level up is erased.
 2. Your level increases by 1, to a maximum of 15.
-3. You gain an additional Hit Die based on your class.
-4. Reroll ALL of your Hit Dice, and apply your CON Mod to the total. Your con mod only applies *once*, regardless of how many dice you are rolling. The total becomes your new maximum Hit Points. If the total is less than your previous HP total, your new HP total is instead equal to the previous amount +1.
-5. Acquire any new abilities as specific by your Class.
-6. Take note of any increases to your Saves.
+3. Increase your maximum hit points by 1. If your Death Save bonus increases this level, your maximum Hit Points also increase the same.
+4. Acquire any new abilities as specific by your Class.
+5. Take note of any increases to your Saves.
 
 
 ## Healing (ref)

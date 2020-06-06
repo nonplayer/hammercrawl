@@ -34,7 +34,7 @@ What you'll find within:
 #### Dwarf Battle Cleric (Hybrid, alternate Dwarf Defender)
 
 * **Prime Stats:** ???
-* **Hit Dice:** 1d8 per level, modified by CON mod.
+* **Hit Die:** 1d8
 * **Attack Rank:** ???
 * **Base Movement:** 20
 * **Saving Throws:**
@@ -48,7 +48,7 @@ What you'll find within:
 #### Gnome Alchemist (Caster, alternate Halfling Burglar)
 
 * **Prime Stats:** ???
-* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Hit Die:** 1d6
 * **Attack Rank:** ???
 * **Base Movement:** 20
 * **Saving Throws:**
@@ -64,7 +64,7 @@ What you'll find within:
 Traveling goblin acrobats are an increasingly common spectacle in the frontier lands, and they are even just now starting to occasionally make their way to the bigger cities of the Civilised Lands. Your character is actually *three* such skilled acrobats, for while a single goblin may be too weak and unmotivated to be an adventurer, they can be much more capable in numbers.
 
 * **Prime Stats:** DEX
-* **Hit Dice:** 1d4 and Special (See below)
+* **Hit Die:** 1d4 and Special (See below)
 * **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
 * **Base Movement:** 20
 * **Saving Throws:**
@@ -79,7 +79,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 
 * **Stat Rolls:** Each of the three goblins rolls a single 1d6 for each of its six stats. Assign the highest to DEX, and then the rest in order of their rolls. It helps to write them in a 3 columns by 6 rows grid.
 * **Basic Actions:** The goblins can act together or separately. An individual goblin uses its own low base stats (and likewise low stat mods). When they work together, they combine their stats directly and then use the combined totals to determine the final derived mods.
-* **Hit Dice, Hit Points, and Death:** The Trio's base HD is a d4, and their combined Hit Points are modified by the final derived CON mod. This total applies whether they are together or separated, and covers the entire Trio at once.
+* **Hit Die, Hit Points, and Death:** The Trio's base HD is a d4, and their combined Hit Points are modified by the final total CON. This total applies whether they are together or separated, and covers the entire Trio at once.
 * **Combat Actions:** On their Combat turn, the Trio gets only a single action
 
 **Goblin Sticks:** A Goblin Stick looks like a simple, frail, 1-foot-long stick, carved with runes. Only goblins have the ability to give them a good shake and extend them to their full shillelagh-like size and length. At full length, they are worthwhile one-handed clubs that jingle when they shake, and leave glittering dust when they impact.
@@ -121,7 +121,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 #### Half-elf Bard (Hybrid, alternate Elf Exemplar)
 
 * **Prime Stats:** ???
-* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Hit Die:** 1d6 per level, modified by CON mod.
 * **Attack Rank:** ???
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -135,7 +135,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 #### Halfling Tourist (Rogue, alternate Half-ogre Berserker)
 
 * **Prime Stats:** CHA
-* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Hit Die:** 1d6 per level, modified by CON mod.
 * **Attack Rank:** D: You have no level-based combat bonus to attacks.
 * **Base Movement:** 20
 * **Saving Throws:**
@@ -162,7 +162,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in the lands of Humankind and its allies. The Northlands are largely seen as barbaric wilds by the "civilised" Kingdoms of Humans, but there are actually rich cultures with long-reaching histories, mostly unknown to all residents South of their harsh bounds. Vulterran Scouts range into the lands of Humans, seeking information, allies, and potential targets of eventual raid and conquest.
 
 * **Prime Stats:** STR, DEX
-* **Hit Dice:** 1d6 per level, modified by CON mod.
+* **Hit Die:** 1d6 per level, modified by CON mod.
 * **Attack Rank:** ???
 * **Base Movement:** 30 bipedal, 45 quadrupedal
 * **Saving Throws:**
