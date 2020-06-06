@@ -1034,7 +1034,7 @@ Your class determines how many spells are in your starting spell or prayer book.
 
 * **Experience Level** (1) and associated **Character Tier** (1)
 * **Hit Die** = Determined by your Class
-* **Hit Points (HPs)** = Your CON score, plus your XP level, plus your Death Save modifier if any.
+* **Hit Points (HPs)** = Your CON score, plus your XP level, plus your base Hit Die maximum, plus your Death Save modifier if any.
 * **Armor Class (AC)** = 10 + DEX mod + AC mod from any Armour and Shields
 * **Melee Attack Modifier** = STR mod + any class mods
 * **Melee Damage Modifier** = STR mod
