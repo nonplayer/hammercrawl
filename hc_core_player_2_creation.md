@@ -210,7 +210,7 @@ See below for a table of attack and save bonuses by level:
 
 **Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they receive the following adjustments:
 
-* they have two (1) additional attack dice,
+* they have one (1) additional attack dice (this increases to two at level 7, and three at level 14),
 * they have immunity to critical fumbles,
 * they have two (2) disadvantages on all saves except Body and Death.
 
