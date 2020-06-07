@@ -345,6 +345,19 @@ In each case, the duration of the spell is the same, and the caster can cancel i
 
 
 ##### Magic Missile
+
+* **Level** Magic-User 1
+* **Target:** 1 or more creatures
+* **Range:** 150 ft.
+* **Duration:** Instant or up to 6 Beats (+1/caster level)
+* **Save:** None
+* **Effect:** When cast, this spell creates one or more glowing (or shimmering, etc) missiles of pure force, appearing in a shape declared by the caster (if undeclared, arrows are a suitable default), perpetually hovering within a few feet of the caster for up to the spell's duration or until used. A _Dispel Magic_ effect can prematurely end the spell's duraction.
+
+At the time of casting, the magician can choose to immediately launch some or all of the missiles at one or more targets. If the caster chooses to keep any of them in reserve, any number of them can be launched later as a combat action. When launched, a missile flies unerringly to a target that the caster can see (the caster can choose multiple targets if launching multiple missiles). Active _Shield_ spells block all _Magic Missiles_ cast upon a target that round before dissipating. Upon connecting, each missile does exactly 5 points of damage.
+
+At first level the caster can create a single missile. At every two levels above 1st (3rd, 5th, 7th, etc.) the caster learns to create an additional missile, to a total of 8 missiles at level 15.
+
+
 ##### Mindmask
 ##### Mirror Image
 
