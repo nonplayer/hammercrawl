@@ -161,7 +161,7 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters 
 * The target is "dazed" until their next action, suffering a combat disadvantage.
 * The target is knocked to the ground, and the next ally that attacks them gains an advantage on one of their dice.
 
-Fighters who Shield Bash as one of their attack dice lose the shield's AC bonus until their next combat turn. Dwarves do not suffer this setback.
+Fighters who Shield Bash as one of their attack dice lose the shield's Defense bonus until their next combat turn. Dwarves do not suffer this setback.
 
 
 ##### Swap Gear Action
