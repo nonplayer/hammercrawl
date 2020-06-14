@@ -116,44 +116,57 @@ Once both sides have completed their turns, it is time to roll initiative for a 
 On your turn, you can Move and then Act, or instead Act and then Move. You cannot split that up unless rules specifically tell you otherwise.
 
 
-#### Moving
+### Moving
 
 Your movement options are as follows:
 
 * **Stay Put:** By standing your ground and not moving, you still get to act afterward in the proper order this round. You additionally enjoy a +1 readiness bonus to any one rolled die (of any size) during that action.
 * **Move Near:** You can choose to move no further than your Speed, and still take an action this round.
-* **Move Far:** You can choose to rush, moving up to double your Speed. You can not both Move Far and Take an Action in the same round.
+* **Move Far (aka "Double Move"):** You can choose to rush, moving up to double your Speed. You can not both Move Far and Take an Action in the same round.
 
 
-#### Taking Actions
-
-TBD
-
-
-##### Basic Attack Action
+### Taking Actions
 
 TBD
 
 
-##### Cast Spell Action
+#### Basic Attack Action
+
+TBD
+
+Roll d20 and add your relevant attack modifiers.
+
+
+##### Attack Dice Explained
+
+
+##### Applying Damage
+
+In most cases (and yes there are exceptions) a successful attack causes damage against your enemy. Most damage applied in combat will generally come from three main sources: melee attacks, missile attacks, and spell attacks. With Melee and Missile attacks, the damage applied is based on whether your attack was true, glancing, or a miss. **On a true hit** the damage is as follows:
+
+* **Melee Attacks:** Your max Hit Die, plus your STR mod, plus any applicable specific mods
+* **Missile Attacks:** Your max Hit Die, plus your weapon's Awesome mod (if any), plus any applicable specific mods
+
+**On a glancing hit** the damage is one-half (rounded down) the damage that would have been dealt on a true hit.
+
+**Spell Attacks** are special cases, with each spell's damage depending on the nature of the spell; some do melee or ranged damage as described above, others apply their own specific effects. See spell descriptions for more information.
+
+For rules on what happens when you get hurt and/or die, see the "Hit Points and Death" section of this chapter.
+
+
+#### Cast Spell Action
 
 TBD
 
 
-##### Defensive Action
+#### Defensive Action
 
-You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position."
+You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position." To do so, on your turn you must not take any other actions (although you can move normally), and declare you are executing a Defensive Action. Then you must describe how your character is specifically focusing on defense in the current moment.
 
-To do so, you must first wait until the "Misc" phase of your side's combat round, and then declare you are executing a Defensive Action.
-
-Then you must describe how your character is specifically focusing on defense in the current moment.
-
-When done, you are in a Defensive state, and all attacks taken against you *that you can see coming* suffer a Disadvantage die until your next combat turn. Attacks that come from unawares do not suffer this penalty.
-
-This of course consumes your action for the round.
+When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a a number of disadvantages equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single disadd, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
 
 
-##### Shield Bash Action
+#### Shield Bash Action
 
 The **shield bash** is a special melee attack available to Dwarves and Fighters using any non-tower shield. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
@@ -161,10 +174,10 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters 
 * The target is "dazed" until their next action, suffering a combat disadvantage.
 * The target is knocked to the ground, and the next ally that attacks them gains an advantage on one of their dice.
 
-Fighters who Shield Bash as one of their attack dice lose the shield's Defense bonus until their next combat turn. Dwarves do not suffer this setback.
+Fighters who Shield Bash as one of their attack dice lose the shield's Defense 'vantages until their next combat turn. Dwarves do not suffer this setback.
 
 
-##### Swap Gear Action
+#### Swap Gear Action
 
 On your Turn, you can freely swap between any gear that you are holding or carrying in your immediate Personal Inventory. This does not cost an action, but does require it to be your active turn.
 
@@ -173,12 +186,12 @@ For an action, you can swap between held/carried items and items inside your car
 Wearable items cannot normally be swapped out mid-combat without explicit allowances by the 'Smith.
 
 
-##### Tactical Action
+#### Tactical Action
 
 TBD
 
 
-##### Tactical Attack
+#### Tactical Attack
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
@@ -314,7 +327,7 @@ Aside from adding more bags, **characters simply can not exceed their encumbranc
 
 ### Bags: How to Track Your Gear
 
-Characters' gear lists should be tracked as separate bag-based lists. The first so-called "bag" is all of the character's **Worn and Equipped Items**. This includes anything held directly in their hands (weapons, shields, torches, etc) and anything specifically worn via the "Wearable" quality (armor, clothing, backpacks, etc). These items do not count against Encumbrance. The only limit here is one of narrative sensibility: you can generally only wear one piece or armor, one necklace, one cloak, ten rings, and so on. And most standard characters are assumed to have at most two functioning hands with which to hold things. Different anatomies and states of being will drastically impact this, so in the end it's up to the Player and the 'Smith.
+Characters' gear lists should be tracked as separate bag-based lists. The first so-called "bag" is all of the character's **Worn and Equipped Items**. This includes anything held directly in their hands (weapons, shields, torches, etc) and anything specifically worn via the "Wearable" quality (armour, clothing, backpacks, etc). These items do not count against Encumbrance. The only limit here is one of narrative sensibility: you can generally only wear one piece or armour, one necklace, one cloak, ten rings, and so on. And most standard characters are assumed to have at most two functioning hands with which to hold things. Different anatomies and states of being will drastically impact this, so in the end it's up to the Player and the 'Smith.
 
 Next, every character has a default **Personal Inventory** with a number of slots equal to the character's Maximum Encumbrance. These are all the items they are stowing on their person, but not necessarily holding or wearing. All equipment on their sheet that is *not* worn on the body must be either carried in their Personal Inventory, or stowed into a carried bag within that Inventory. It is important to note that **items inside bags do not count against the character's base Encumbrance!** Only the bag's own base size counts against the Personal limit. That's why bags are great.
 
@@ -488,12 +501,17 @@ Before anything related to Hit Points is determined in your game, your 'Smith mu
 
 ### Determining Your Starting Hit Points
 
-Your character's starting HP at level 1 is equal to the maximum of their Hit Die, modified by their CON mod, with a minimum of 1 HP.
+Your character's starting HP at level 1 is equal to the sum of all of the following:
+
+* Your characters base CON score
+* The maximum value of your character's class Hit Die
+* Your character's experience level
+* Your character's Death Save modifier, if any
 
 
 ### Improving Your Hit Points
 
-The primary method of long term character HP improvement is via increasing your experience level. Whenever you Level Up, you can increase your HP Max by a random amount. This is further explained in the "Experience" section, further above.
+The primary method of long term character HP improvement is via increasing your experience level. Whenever you Level Up, your Hit Points total is increased by 1, and also any new increases to your Death Save total as well (if applicable). This is further explained in the "Experience" section, further above.
 
 
 ### Temporary Hit Points
@@ -892,7 +910,7 @@ This skill allows a thief to tell amazingly convincing lies, and also to success
 
 This skill allows a thief to perform acts of complicated manual dexterity, such as sleight of hand and picking pockets.
 
-**Magical Evolution:** Starting at 9th level, a Thief can perform truly impossible acts with this skill, such as stealing an item too far away to reach ("It just leapt into my hand!"), stealing the straps out from inside an opponent's worn armor, and so on. The applications of this are up to the imagination of the player, and the discretion of the 'Smith.
+**Magical Evolution:** Starting at 9th level, a Thief can perform truly impossible acts with this skill, such as stealing an item too far away to reach ("It just leapt into my hand!"), stealing the straps out from inside an opponent's worn armour, and so on. The applications of this are up to the imagination of the player, and the discretion of the 'Smith.
 
 
 

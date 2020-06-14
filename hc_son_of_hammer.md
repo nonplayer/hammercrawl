@@ -169,7 +169,7 @@ Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in 
   - **Good:** Luck, Rally = add your level to your roll.
   - **Okay:** Mind, Body, Death = add 1/2 your level (round down) to the roll.
   - **Bad:** Area = add 1/3 your level (round down) to the roll.
-* **Gear Restrictions:** Can use all weapons except crossbows. All armor and clothing must be crafted to fit a large canine.
+* **Gear Restrictions:** Can use all weapons except crossbows. All armour and clothing must be crafted to fit a large canine.
 * **Bonus Languages:** Vulterran
 
 **A Visceral Combination:**

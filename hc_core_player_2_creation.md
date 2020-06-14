@@ -58,7 +58,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 * **Gear Restrictions:** Can use all weapons, shields, and armour except longbows.
 * **Bonus Languages:** Dwarf
 
-**Born in Armor:** Dwarves in heavy armour or plate do not suffer Defense penalties from low DEX mods. Heavy and plate armour never reduces their movement speed.
+**Born in Armour:** Dwarves wearing heavy armour or plate do not suffer the armour's usual penalties to DEX-based skills. Heavy and plate armour never reduces their movement speed.
 
 **Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a Beat searching.
 
@@ -66,7 +66,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Dwarven Resilience:** Dwarves have an advantage on all of their Good saves.
 
-**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the Defense bonus of their shield when using the bash.
+**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the Defense 'vantages of their shield when using the bash.
 
 See below for a table of attack and save bonuses by level:
 
@@ -310,7 +310,7 @@ See below for a table of attack and save bonuses by level:
 
 **Primary Tank:** Fighters add 3x their Death Save bonus to their Hit Points total, instead of 1x.
 
-**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense bonus until the start of their next turn in combat.
+**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense 'vantages until the start of their next turn in combat.
 
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 
@@ -496,7 +496,7 @@ Each of the six core stats affects certain mechanics, as detailed below:
 **Modifies:**
 
 * Area Save Rolls
-* Defense
+* Defense (DEX score = base Defense)
 * Initiative Rolls
 * Missile Attack Rolls
 
@@ -636,7 +636,7 @@ If not, roll 1d20 + 1d100 for each skill, and consult the table below:
 | 5    | Animal Training (INT)                |
 | 6    | Appraising (INT)                     |
 | 7    | Arcane Lore (INT)                    |
-| 8    | Armorer (STR)                        |
+| 8    | Armourer (STR)                       |
 | 9    | Art Criticism (INT)                  |
 | 10   | Artistic Ability (CHA)               |
 | 11   | Astrology (WIS)                      |
@@ -1041,7 +1041,9 @@ Your class determines how many spells are in your starting spell or prayer book.
 * **Experience Level** (1) and associated **Character Tier** (1)
 * **Hit Die** = Determined by your Class
 * **Hit Points (HPs)** = Your CON score, plus your XP level, plus your base Hit Die maximum, plus your Death Save modifier if any.
-* **Defense** = 10 + DEX mod + Defense mod from any Armour and Shields
+* **Defense** = Your DEX score
+* **Defense 'Vantages** = Based on your Shield, if any.
+* **Armour Soak** = Based on your worn Armour, if any.
 * **Melee Attack Modifier** = STR mod + any class mods
 * **Melee Damage Modifier** = STR mod
 * **Missile Attack Modifier** = DEX mod + any class mods
@@ -1207,7 +1209,7 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 
 **Net:** Nets are "close-ranged missile" tactical weapons, designed to be held in one hand (or attached at the hip) and thrown with the other, entangling a nearby opponent to either capture them or immobilize them for better attacking. They function as "missile" type weapons, using DEX-modified attacks, but have a melee-only range. Nets do not do damage, instead serving as ranged Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
 
-**Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield Defense bonuses). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
+**Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield Defense 'vantages). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
 
 **Sling and Slingstones:** The base listed stats for the sling assume the user is equipped with actual crafted sling bullets as their choice of ammunition. However, in a pinch a sling user can feasibly put any small hard object into the sling for use as ammunition: coins, marbles, stones off the ground, etc. Any of these items not specifically crafted as sling bullets is considered a "slingstone" for the purpose of mechanics. When using slingstones, reduce damage by -1 (to a minimum of 1) and reduce base range by half (i.e. 40/80).
 
@@ -1224,35 +1226,39 @@ Descriptors:
 
 * **Name:** The name of the armour
 * **Type:** Whether the armour is Light, Heavy, or Plate
-* **Defense:** The character's Defense while wearing the armour
+* **Soak:** The number of Soaks the armour provides to its wearer
+* **DVs:** The number of Defense 'vantages the shield provides
 * **Size:** Encumbrance requirement when not worn
 * **Cost:** In coins, to have crafted by an armoursmith of suitable skill (With a few exceptions, armour is rarely available for immediate purchase)
 * **Qualities:** Any special qualities possessed by the armour
 
 **NOTE:** For any entry with an asterisk in its data, see the text section below the table for further details.
 
-| Name         | Type  | Defense | Size | Cost  | Qualities |
-|--------------|-------|---------|------|-------|-----------|
-| Padded       | Light | 11      | M    | 1     | Wearable  |
-| Leather      | Light | 12      | M    | 10    | Wearable  |
-| Studded      | Light | 13      | M    | 25    | Wearable  |
-| Scale        | Heavy | 14      | L    | 50    | Wearable  |
-| Chain        | Heavy | 15      | L    | 100   | Wearable  |
-| Splint       | Heavy | 16      | L    | 500   | Wearable  |
-| Platemail    | Heavy | 17      | H    | 1000  | Wearable  |
-| Plate Armour | Plate | 18      | H    | 10000 | Wearable  |
+| Name         | Type  | Soak | Size | Cost  | Qualities |
+|--------------|-------|------|------|-------|-----------|
+| Padded       | Light | 2    | M    | 1     | Wearable  |
+| Leather      | Light | 4    | M    | 10    | Wearable  |
+| Studded      | Light | 6    | M    | 25    | Wearable  |
+| Scale        | Heavy | 8    | L    | 50    | Wearable  |
+| Chain        | Heavy | 10   | L    | 100   | Wearable  |
+| Splint       | Heavy | 12   | L    | 500   | Wearable  |
+| Platemail    | Heavy | 14   | H    | 1000  | Wearable  |
+| Plate Armour | Plate | 16   | H    | 10000 | Wearable  |
 
 **Shields Table**
 
-| Shield Type    | Def | Size | Cost |
-|----------------|-----|------|------|
-| Shield, Small  | 1   | M    | 10   |
-| Shield, Weapon | 1*  | M    | 100  |
-| Shield, Tower  | 2*  | L    | 100  |
+| Shield Type      | DVs | Size | Cost |
+|------------------|-----|------|------|
+| Shield, Buckler  | 1   | M    | 1    |
+| Shield, Small    | 2   | M    | 10   |
+| Shield, Weapon   | 2*  | M    | 100  |
+| Shield, Tower    | 3*  | L    | 100  |
 
-**Shield Weapons:** Shield Weapons can be used as either Shields or hand weapons. If used defensively, they provide standard shield bonuses (+1 to Defense). If used offensively, they instead function as their attached weapons.
+**Shields, Buckler/Small:** Basic shields come in two sizes: Buckler and Small. Buckler shields apply one disadvantage to any attacks the wielder can see coming, while small shields apply two.
 
-**Tower Shields:** These are full-height portable bulwarks, and cannot be used with Shield Bash.
+**Shield Weapons:** Shield Weapons can be used as either Small Shields or hand weapons. If used defensively, they provide standard small shield Defense 'vantages. If used offensively, they instead function as their attached weapons.
+
+**Tower Shields:** These are full-height portable bulwarks, and cannot be used with Shield Bash. Tower shields apply three disadds to any attacks the wielder can see coming.
 
 
 ### Adventuring Gear
@@ -1424,7 +1430,7 @@ Magic-Users (and *only* Magic-Users) have access to a special class of "common" 
 
 There are two specific types of Wizard Weapons in HAMMERCRAWL!: battle wands and battle staves. A **Battle Wand** is a custom-crafted piece of short-range artillery that functions almost identical to a sling in basic combat mechanics. They are Medium one-handed weapons do 1d4 damage at 80/160 range, and use DEX as their attack modifier. They have effectively infinite ammo, but on an attack roll of natural 1 they fizzle out. To recharge a fizzled battle wand, the magic-user must "sacrifice" one of their currently-known spells to empower the wand, forgetting that spell until rememorized.
 
-A **Battle Staff** is meant as more of a defensive item. It functions as a basic Staff for purposes of combat attacks. If a magic-user spends his combat turn taking no action other than gripping the staff with both hands, their Defense is raised by +2 until their next action. If hit by a natural 20 attack, the staff is drained of defensive power, and must be recharged using a method identical to that for charging battle wands.
+A **Battle Staff** is meant as more of a defensive item. It functions as a basic Staff for purposes of combat attacks. If a magic-user spends his combat turn taking no action other than gripping the staff with both hands, their Defense is raised by their current XP level until their next action. If hit by a natural 20 attack, the staff is drained of defensive power, and must be recharged using a method identical to that for charging battle wands.
 
 Each battle wand and staff is a unique item, from the base components of its crafting to the energy it exudes. Use the table below to randomly determine the properties of yours.
 

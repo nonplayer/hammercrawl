@@ -157,7 +157,7 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **Skills:** In addition to expectations based on class abilities and career backgrounds, every character gets 4 random skills they are somehow good at as well.
 * **Feats:** There are no "Feats" in this game, at least as codified by other derivatives of The OG.
 * **No Natural Darkvision:** No characters begin the game with natural low-light or darkvision. The management of light sources is a crucial part of play for every character in the party.
-* **Armor Class:** is called "Defense" and is Base 10, Ascending.
+* **Armour Class:** is called "Defense" and is based on your DEX score. Higher is better.
 * **Time Tracking:** The "Beat" is the equivalent of the "Turn" in older editions (i.e. 10 minutes of in-game time). "Turn" is instead applied to Combat only. A Combat round is 10 seconds of time, thus there are 6 Rounds in a Minute. However, any single combat encounter *always* advances game time by one full Beat.
 * **Combat Initiative:** Side-based, then determined by Leaders.
 * **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
