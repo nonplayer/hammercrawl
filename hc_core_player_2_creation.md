@@ -1152,6 +1152,7 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 | Dagger, punching        | S    | Melee +1 | 10   | Basic                      |        |
 | Flail, heavy            | L    | Melee +3 | 50   | 2H                         |        |
 | Flail, light            | M    | Melee +2 | 25   | Basic                      |        |
+| Greataxe                | L    | Melee +3 | 50   | 2H                         |        |
 | Greatclub               | L    | Melee +3 | 50   | 2H                         |        |
 | Greatmace               | L    | Melee +3 | 50   | 2H                         |        |
 | Greatsword              | L    | Melee +3 | 50   | 2H                         |        |
@@ -1251,7 +1252,6 @@ Descriptors:
 |------------------|-----|------|------|
 | Shield, Buckler  | 1   | M    | 1    |
 | Shield, Small    | 2   | M    | 10   |
-| Shield, Weapon   | 2*  | M    | 100  |
 | Shield, Tower    | 3*  | L    | 100  |
 
 **Shields, Buckler/Small:** Basic shields come in two sizes: Buckler and Small. Buckler shields apply one disadvantage to any attacks the wielder can see coming, while small shields apply two.
