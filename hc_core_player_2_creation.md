@@ -64,9 +64,9 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Dwarf Battlemaster:** Dwarves have a bonus melee-only attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Dwarven Resilience:** Dwarves have an advantage on all of their Good saves.
+**Dwarven Resilience:** Dwarves have a Boon on all of their Good saves.
 
-**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the Defense 'vantages of their shield when using the bash.
+**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the Defense Beans of their shield when using the bash.
 
 See below for a table of attack and save bonuses by level:
 
@@ -155,9 +155,9 @@ See below for a table of attack and save bonuses by level:
 **Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills:
 
 * Break & Enter (DEX)
-* Climb & Leap (STR, with a Disadvantage)
+* Climb & Leap (STR, with a Bane)
 * Find & Seek (WIS)
-* Hide & Sneak (DEX, with an Advantage)
+* Hide & Sneak (DEX, with a Boon)
 * Snatch & Grab (DEX)
 
 These are used as per normal Thief Skill rules. Unlike Thieves, Halfling thiefskills do not evolve magically.
@@ -166,7 +166,7 @@ These are used as per normal Thief Skill rules. Unlike Thieves, Halfling thiefsk
 
 **Sudden Inner Strength:** A Halfling can draw from their inner strength for a sudden display of unexpected fierceness. By spending 1 Hit Point before they roll their attacks, they can increase the damage die size for their attacks this round by one step.
 
-**Tactical Attacker:** Halflings receive an advantage on Tactical Attacks.
+**Tactical Attacker:** Halflings receive a Boon on Tactical Attacks.
 
 **Wee:** Halfling size limits a few of their combat options. They cannot use polearms, long bows, heavy crossbows, or any other weapons that require two hands for humans. Additionally, all item encumbrance sizes are considered one step higher for the Halfling.
 
@@ -212,7 +212,7 @@ See below for a table of attack and save bonuses by level:
 
 * they have one (1) additional attack dice (this increases to two at level 7, and three at level 14),
 * they have immunity to critical fumbles,
-* they have two (2) disadvantages on all saves except Body and Death.
+* they have two (2) Banes on all saves except Body and Death.
 
 While in their Rage, on their turn in combat they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
 
@@ -310,7 +310,7 @@ See below for a table of attack and save bonuses by level:
 
 **Primary Tank:** Fighters add 3x their Death Save bonus to their Hit Points total, instead of 1x.
 
-**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense 'vantages until the start of their next turn in combat.
+**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense Beans until the start of their next turn in combat.
 
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 
@@ -396,7 +396,7 @@ See below for a table of attack and save bonuses by level:
 * **Gear Restrictions:** Thieves can use any weapons and armour that the Hammersmith deems to be suitably sneaky.
 * **Bonus Languages:** Thieves' Cant
 
-**Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has net attack advantages or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
+**Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has net attack Boons or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
 
 **Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These skills (and their base modifying stats) are:
 
@@ -409,15 +409,15 @@ See below for a table of attack and save bonuses by level:
 * Lie & Cheat (CHA)
 * Snatch & Grab (DEX)
 
-At first level the Thief must randomly determine one Thief Skill to be their **Bailiwick**, and one to be their **Failing**. The thief receives an advantage on checks related to their Bailiwick, and a disadvantage on checks related to their Failing.
+At first level the Thief must randomly determine one Thief Skill to be their **Bailiwick**, and one to be their **Failing**. The thief receives a Boon on checks related to their Bailiwick, and a Bane on checks related to their Failing.
 
-At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with a disadvantage in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
+At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with a Bane in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
 
 **Thiefy Expertise:** Once per adventure per experience level, the Thief can attempt to reroll a failed Thief Skill check. This count resets upon Returning to Town.
 
-**Tactical Attacker:** Thieves receive an advantage on Tactical Attacks.
+**Tactical Attacker:** Thieves receive a Boon on Tactical Attacks.
 
-**Trapwise:** Thieves receive an advantage on all Saves against the effects of Traps. This increases to two adds at level 4, three adds at level 9, and four adds at level 13.
+**Trapwise:** Thieves receive a Boon on all Saves against the effects of Traps. This increases to two Boons at level 4, three Boons at level 9, and four Boons at level 13.
 
 See below for a table of attack and save bonuses by level:
 
@@ -1042,7 +1042,7 @@ Your class determines how many spells are in your starting spell or prayer book.
 * **Hit Die** = Determined by your Class
 * **Hit Points (HPs)** = Your CON score, plus your XP level, plus your base Hit Die maximum, plus your Death Save modifier if any.
 * **Defense** = Your DEX score
-* **Defense 'Vantages** = Based on your Shield, if any.
+* **Defense Beans** = Based on your Shield, if any.
 * **Armour Soak** = Based on your worn Armour, if any.
 * **Melee Attack Modifier** = STR mod + any class mods
 * **Melee Damage Modifier** = STR mod
@@ -1105,11 +1105,11 @@ Be they weapons, armour, or various adventuring tools, all items of gear can be 
 
 **Basic:** This is a pretty standard weapon. No special rules, costs 10 coins (usually), and hurts things using your character's Hit Die. The name of the individual weapon is largely just a component to provide narrative color for your character and their combat actions.
 
-**Durable:** This item enjoys an advantage on all its saving throws.
+**Durable:** This item enjoys a Boon on all its saving throws.
 
-**Fragile:** This item suffers a disadvantage on all its saving throws.
+**Fragile:** This item suffers a Bane on all its saving throws.
 
-**Reach:** These melee weapons aren't functional within many tight dungeon corridors and spaces, but they provide superior reach in more open combat spaces. When applicable, they give their wielder an advantage on melee combat attacks against enemies attacking with non-Reach melee weapons.
+**Reach:** These melee weapons aren't functional within many tight dungeon corridors and spaces, but they provide superior reach in more open combat spaces. When applicable, they give their wielder a Boon on melee combat attacks against enemies attacking with non-Reach melee weapons.
 
 **Reload X:** This weapon must be reloaded between uses. The wielder must spend X full actions reloading in order to use the weapon again.
 
@@ -1210,7 +1210,7 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 
 **Net:** Nets are "close-ranged missile" tactical weapons, designed to be held in one hand (or attached at the hip) and thrown with the other, entangling a nearby opponent to either capture them or immobilize them for better attacking. They function as "missile" type weapons, using DEX-modified attacks, but have a melee-only range. Nets do not do damage, instead serving as ranged Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
 
-**Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield Defense 'vantages). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
+**Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield Defense Beans). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
 
 **Sling and Slingstones:** The base listed stats for the sling assume the user is equipped with actual crafted sling bullets as their choice of ammunition. However, in a pinch a sling user can feasibly put any small hard object into the sling for use as ammunition: coins, marbles, stones off the ground, etc. Any of these items not specifically crafted as sling bullets is considered a "slingstone" for the purpose of mechanics. When using slingstones, reduce damage by -1 (to a minimum of 1) and reduce base range by half (i.e. 40/80).
 
@@ -1228,7 +1228,7 @@ Descriptors:
 * **Name:** The name of the armour
 * **Type:** Whether the armour is Light, Heavy, or Plate
 * **Soak:** The number of Soaks the armour provides to its wearer
-* **DVs:** The number of Defense 'vantages the shield provides
+* **DVs:** The number of Defense Beans the shield provides
 * **Size:** Encumbrance requirement when not worn
 * **Cost:** In coins, to have crafted by an armoursmith of suitable skill (With a few exceptions, armour is rarely available for immediate purchase)
 * **Qualities:** Any special qualities possessed by the armour
@@ -1254,11 +1254,11 @@ Descriptors:
 | Shield, Small    | 2   | M    | 10   |
 | Shield, Tower    | 3*  | L    | 100  |
 
-**Shields, Buckler/Small:** Basic shields come in two sizes: Buckler and Small. Buckler shields apply one disadvantage to any attacks the wielder can see coming, while small shields apply two.
+**Shields, Buckler/Small:** Basic shields come in two sizes: Buckler and Small. Buckler shields apply one Bane to any attacks the wielder can see coming, while small shields apply two.
 
-**Shield Weapons:** Shield Weapons can be used as either Small Shields or hand weapons. If used defensively, they provide standard small shield Defense 'vantages. If used offensively, they instead function as their attached weapons.
+**Shield Weapons:** Shield Weapons can be used as either Small Shields or hand weapons. If used defensively, they provide standard small shield Defense Beans. If used offensively, they instead function as their attached weapons.
 
-**Tower Shields:** These are full-height portable bulwarks, and cannot be used with Shield Bash. Tower shields apply three disadds to any attacks the wielder can see coming.
+**Tower Shields:** These are full-height portable bulwarks, and cannot be used with Shield Bash. Tower shields apply three Banes to any attacks the wielder can see coming.
 
 
 ### Adventuring Gear
@@ -1395,7 +1395,7 @@ Below are extended special details on the specially-noted items from the above l
 
 **Alchemist Fire:** When used as a thrown grenade weapon, deals 2d6 initial acid damage to a single target, and 1d6 acid splash damage to all targets within 5 feet of the impact. The initial target takes an additional 1d6 acid damage each round for 1d6 additional rounds.
 
-**Antitoxin:** When consumed, you gain an advantage on Body saves vs poison effects for the next hour. If you are already poisoned, consuming antitoxin allows you to immediately attempt a new save.
+**Antitoxin:** When consumed, you gain a Boon on Body saves vs poison effects for the next hour. If you are already poisoned, consuming antitoxin allows you to immediately attempt a new save.
 
 **Bandoliers:** When worn, these provide three gear slots which can hold nothing larger than Small in size. This effectively allows for up to 30 identical small items, or 300 identical tiny items.
 

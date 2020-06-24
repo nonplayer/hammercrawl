@@ -68,7 +68,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 * **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
 * **Base Movement:** 20
 * **Saving Throws:**
-  - **Good:** Area (with an advantage), Luck
+  - **Good:** Area (with a Boon), Luck
   - **Okay:** Rally, Death
   - **Bad:** Mind, Body
 * **Gear Restrictions:** ???
@@ -90,7 +90,7 @@ Traveling goblin acrobats are an increasingly common spectacle in the frontier l
 
 **Strength in Numbers:** TBD
 
-**Goblin Death:** When the Trio's HP total is reduced to Zero, one of the Goblins of the Trio has unfortunately been killed. Either choose the most logical Goblin based on the circumstances of the damage, or roll randomly. The remaining goblins flee immediately, scattering away until 1d10 rounds after the combat ends. Upon returning, the trio's stats are permanently reduced as such, and they suffer a disadvantage on all actions until they find a replacement.
+**Goblin Death:** When the Trio's HP total is reduced to Zero, one of the Goblins of the Trio has unfortunately been killed. Either choose the most logical Goblin based on the circumstances of the damage, or roll randomly. The remaining goblins flee immediately, scattering away until 1d10 rounds after the combat ends. Upon returning, the trio's stats are permanently reduced as such, and they suffer a Bane on all actions until they find a replacement.
 
 **Replacing a Dead Goblin:** Replacing a lost goblin requires access to a goblin community,
 

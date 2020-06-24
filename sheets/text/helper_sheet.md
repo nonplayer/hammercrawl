@@ -9,7 +9,7 @@ created: 2019-02-24
 
 Special actions to consider:
 
-* **Defensive Stance:** All incoming attacks you can see have disadvantage
+* **Defensive Stance:** All incoming attacks you can see suffer a Bane
 * **Shield Bash:** Dwarf/Fighter can attempt to daze/disarm/knockdown opponent
 * **Tactical Action:** Make the opponent save vs Mind/Body, cause temporary tactical boon
 

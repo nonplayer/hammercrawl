@@ -19,13 +19,13 @@ Note, however, that **Failing Forward** is a major part of this game, and as suc
 That's the basic breakdown of the core mechanic. All other concepts of the rules are explained in greater detail below.
 
 
-## Advantages and Disadvantages (aka adds, disadds, and 'vantages)
+## Beans, Boons and Banes
 
-HAMMERCRAWL! uses a system of **Advantages** (aka "adds") and **Disadvantages** (aka "disadds") as its preferred method for approximating various affects that can affect a character's ability to succeed at standard tasks. Adds give the character bonus dice to add to their roll totals, while disadds similarly give them penalty dice to subtract from their roll totals. Adds and disadds cancel each other out one for one, and are also cumulative to a limit of six (6) total net adds or disadds. For example, if a PC is attempting a roll in which they have three disadds and one add, then their net total is two disadds.
+HAMMERCRAWL! uses a system of **Boons** and **Banes** (sometimes collectively referred to as **Beans**) as its preferred method for approximating various affects that can affect a character's ability to succeed at standard tasks. Boons give the character bonus dice to add to their roll totals, while Banes similarly give them penalty dice to subtract from their roll totals. Boons and Banes cancel each other out one for one, and are also cumulative to a limit of six (6) total net Boons or Banes. For example, if a PC is attempting a roll in which they have three Banes and one add, then their net total is two Banes.
 
-With net advantages, the character rolls an extra die (called the **'vantage die**) during the check, adding its result to the base die's total. Similarly with net disadvantages, the character rolls an extra die but instead *subtracts* its result from the total. The size of the 'vantage die depends on the net total of applicable 'vantages. With one (1) net 'vantage, the die is a d4. With two (2) it's a d6, three (3) get a d8, four (4) get a d10, and five (5) get a d12, ending with six (6) or more total net 'vantages getting an entire d20. Any net 'vantages over six are ignored.
+With net Boons, the character rolls an extra die (called the **Bean die**) during the check, adding its result to the base die's total. Similarly with net Banes, the character rolls an extra die but instead *subtracts* its result from the total. The size of the Bean die depends on the net total of applicable Beans. With one (1) net Bean, the die is a d4. With two (2) it's a d6, three (3) get a d8, four (4) get a d10, and five (5) get a d12, ending with six (6) or more total net Beans getting an entire d20. Any net Beans over six are ignored.
 
-'Vantages as described here apply to all possible dice rolls, including d20 checks and d100 checks. In all cases, the effects are the same as detailed above, using a d4 through d20 additive or subtractive modifier die.
+Beans as described here apply to all possible dice rolls, including d20 checks and d100 checks. In all cases, the effects are the same as detailed above, using a d4 through d20 additive or subtractive modifier die.
 
 
 # The Rest of the Mechanics, Alphabetized
@@ -163,7 +163,7 @@ TBD
 
 You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position." To do so, on your turn you must not take any other actions (although you can move normally), and declare you are executing a Defensive Action. Then you must describe how your character is specifically focusing on defense in the current moment.
 
-When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a a number of disadvantages equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single disadd, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
+When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a a number of Banes equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single Bane, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
 
 
 #### Shield Bash Action
@@ -171,10 +171,10 @@ When done, you are in a Defensive state until the beginning of your next turn, a
 The **shield bash** is a special melee attack available to Dwarves and Fighters using any non-tower shield. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
 * The target is disarmed, and their weapon knocked beyond immediate melee reach.
-* The target is "dazed" until their next action, suffering a combat disadvantage.
-* The target is knocked to the ground, and the next ally that attacks them gains an advantage on one of their dice.
+* The target is "dazed" until their next action, suffering a combat Bane.
+* The target is knocked to the ground, and the next ally that attacks them gains a Boon on one of their dice.
 
-Fighters who Shield Bash as one of their attack dice lose the shield's Defense 'vantages until their next combat turn. Dwarves do not suffer this setback.
+Fighters who Shield Bash as one of their attack dice lose the shield's Defense Beans until their next combat turn. Dwarves do not suffer this setback.
 
 
 #### Swap Gear Action
@@ -193,16 +193,16 @@ TBD
 
 #### Tactical Attack
 
-The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical advantages for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
+The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical Boons for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
-These attacks never do damage, but can instead set up temporary advantages and disadvantages. Any character can attempt a tactical attack, although Thieves and Halflings receive advantages to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
+These attacks never do damage, but can instead set up temporary Boons and Banes. Any character can attempt a tactical attack, although Thieves and Halflings receive Boons to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
 
-The target must make the relevant Save. If the attacker was using a special **Tactical Weapon** (such as a bola, whip, blowgun, etc), they make this save with a disadvantage.
+The target must make the relevant Save. If the attacker was using a special **Tactical Weapon** (such as a bola, whip, blowgun, etc), they make this save with a Bane.
 
 If failed, the Hammersmith chooses one of the following based on the description and the beat of the moment:
 
-* The target suffers a disadvantage on their next action
-* The next action against the target gains an advantage
+* The target suffers a Bane on their next action
+* The next action against the target gains a Boon
 * The target loses their next action
 * The target is temporarily incapacitated
 * Any other effect that seems appropriate
@@ -217,21 +217,21 @@ Alphabetized for ease of reference.
 
 #### Critical Hits and Fumbles
 
-If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies an advantage against them for the next round).
+If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies a Boon against them for the next round).
 
 If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
 
 
 #### Missile Weapons in Melee Combat
 
-When using a missile weapon against a target that is in melee with you, your attacks have a disadvantage die.
+When using a missile weapon against a target that is in melee with you, your attacks have a Bane die.
 
 
 #### Ranged Attacks
 
-Every missile and thrown weapon in the Gear section is given a Range stat, consisting of two numbers divided by a slash. The first number is the **Effective Range** of that weapon, and the second number is the weapon's **Maximum Range**. Attacks at Effective range are made as normal, while attacks up to the Maximum range suffer a disadvantage.
+Every missile and thrown weapon in the Gear section is given a Range stat, consisting of two numbers divided by a slash. The first number is the **Effective Range** of that weapon, and the second number is the weapon's **Maximum Range**. Attacks at Effective range are made as normal, while attacks up to the Maximum range suffer a Bane.
 
-Melee weapons without a Thrown quality *can* be thrown, but the attack receives a disadvantage. Max range is equal to your Strength, effective range is half that.
+Melee weapons without a Thrown quality *can* be thrown, but the attack receives a Bane. Max range is equal to your Strength, effective range is half that.
 
 
 #### Two-Weapon Fighting
@@ -245,7 +245,7 @@ Particularly generous Hammersmiths may choose to award all characters occasional
 
 The Hit Die damage rules assume the use of any number of standard weapons. When fighting unarmed, the damage die is reduced by one step (i.e. from 1d8 to 1d6). If the combatant's base Hit Die is d4, then their damage is reduced to 1 point. Getting punched by a wizard is usually more of an annoyance than anything noteworthy.
 
-When fighting unarmed against an armed opponent, prepare for a massive beating. Unarmed combatants receive a disadvantage on melee attacks against armed opponents, and armed combatants also receive a advantage on attacks against unarmed opponents. Double whammy.
+When fighting unarmed against an armed opponent, prepare for a massive beating. Unarmed combatants receive a Bane on melee attacks against armed opponents, and armed combatants also receive a Boon on attacks against unarmed opponents. Double whammy.
 
 Note that holding a shield and/or a missile weapon counts as being armed.
 
@@ -623,9 +623,9 @@ As none of the base classes in HAMMERCRAWL! can see in the dark, having a source
 There are five types of lighting:
 
 * **Darkness:** Complete loss of visual perception, must rely on other senses if available. See deeper description further below.
-* **Weak Light:** Good enough for basic visibility, but apply a disadvantage to deeper visual perception-based rolls at the 'Smith's discretion.
+* **Weak Light:** Good enough for basic visibility, but apply a Bane to deeper visual perception-based rolls at the 'Smith's discretion.
 * **Strong Light:** Good light for human vision, no light-specific penalties applied.
-* **Blinding Light:** Without adequate eye protection, suffer a disadvantage to visual perception-based rolls. Continued exposure can lead to temporary or even permanent loss of vision at the 'Smith's discretion.
+* **Blinding Light:** Without adequate eye protection, suffer a Bane to visual perception-based rolls. Continued exposure can lead to temporary or even permanent loss of vision at the 'Smith's discretion.
 
 
 ### Common Light Sources
@@ -657,8 +657,8 @@ When a character is acting under the effects of darkness, the following mechanic
 * Their Combat Attack Dice pool is reduced by one. If this reduces it to Zero, they cannot effectively attack.
 * They can not perform Critical Hits on natural rolls of 20. Such rolls are treated as normal 20s instead, without the usual double damage effect.
 * Their Damage Hit Die is treated as one die size lower than it would normally be.
-* They roll with three (!!!) disadvantages on Skill rolls, Area Saves.
-* They roll with six (!!!!!!) disadvantages on all rolls involving visual perception (if the 'Smith even allows them at all).
+* They roll with three (!!!) Banes on Skill rolls, Area Saves.
+* They roll with six (!!!!!!) Banes on all rolls involving visual perception (if the 'Smith even allows them at all).
 
 As you can see, being in complete darkness is very much Not Good, so you are advised to keep fresh light sources handy at all times.
 
@@ -812,7 +812,7 @@ The Hammersmith is heavily encouraged to involve these skills as ways to move th
 
 The concept of a "skill check" dice-roll can also be used, when situations are particularly stressful or highly uncertain. The Golden Rule here is thus: **You should only call for a skill check when either the requested outcome is exceptional, or the skill's use is being opposed.** In all other cases, simply Having The Skill usually means that the adventurer can Do The Thing.
 
-If the 'Smith calls for a roll, the player will need to roll a d20 and add the modifier of whichever stat the 'Smith deems most appropriate. If the character has an explicit or assumed skill that fits the situation, the target for their roll is 15. If the character has *two or more* such relevant skills, the target is only 10. If the 'Smith deems there are any other contributing factors to or against the character's chances of success, they should take the form of one or more 'vantages.
+If the 'Smith calls for a roll, the player will need to roll a d20 and add the modifier of whichever stat the 'Smith deems most appropriate. If the character has an explicit or assumed skill that fits the situation, the target for their roll is 15. If the character has *two or more* such relevant skills, the target is only 10. If the 'Smith deems there are any other contributing factors to or against the character's chances of success, they should take the form of one or more Beans.
 
 Below are some examples of when a skill check is not needed:
 
@@ -853,7 +853,7 @@ If the resulting modified total equals or exceeds the target number, the check s
 | One Higher             | 18                |
 | Two or more Higher     | 21                |
 
-**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the thief must roll with a disadvantage. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
+**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the thief must roll with a Bane. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
 
 
 
@@ -873,7 +873,7 @@ This is the Thief's ability to bypass security features and break into places th
 
 ### Climb & Leap (STR)
 
-Roll this skill when facing a climbing or leaping challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this. However, exceptionally-prepared thieves with excellent tools may receive an advantage, at the 'Smith's discretion.
+Roll this skill when facing a climbing or leaping challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this. However, exceptionally-prepared thieves with excellent tools may receive a Boon, at the 'Smith's discretion.
 
 **Magical Evolution:** Starting at 9th level, a thief can use this skill to climb magical walls and barriers. If these obstacles cause damage, the thief still takes said damage as normal as they climb.
 
@@ -894,7 +894,7 @@ This skill allows a thief to both decipher unknown texts, and forge texts for pu
 
 ### Hide & Sneak (DEX)
 
-This skill does what it says: it allows the Thief to hide and sneak around. This skill is effective for bypassing the scrutiny of guards, and for getting into place to set up Stabbity attacks. Being hidden may allow numerous advantages, at the 'Smith's discretion. All you need is a little bit of shadow, and something to hide behind...
+This skill does what it says: it allows the Thief to hide and sneak around. This skill is effective for bypassing the scrutiny of guards, and for getting into place to set up Stabbity attacks. Being hidden may allow numerous Boons, at the 'Smith's discretion. All you need is a little bit of shadow, and something to hide behind...
 
 **Magical Evolution:** Starting at 9th level, the Thief is so good at being sneaky that they can fool magical detection. This can allow them to hide in plain sight as if invisible, or to fool spells that locate specific people, and so on. The usage of this is largely at the 'Smith's discretion.
 
@@ -963,7 +963,7 @@ The victims must make a Mind Save. The target is determined by comparing their H
 
 | Cleric's Level Tier is… | Target | Results of Failed Save |
 |-------------------------|--------|------------------------|
-| Two or more Lower       | 6      | Dazed for 1d4 rounds (disadvantage) |
+| Two or more Lower       | 6      | Dazed for 1d4 rounds (Bane) |
 | One Lower               | 9      | Cower in Fear for 1d4 rounds |
 | Equal                   | 12     | Flee for 2d4 rounds |
 | One Higher              | 15     | Flee for 2d4 rounds, take damage (Xd8) |
@@ -971,13 +971,13 @@ The victims must make a Mind Save. The target is determined by comparing their H
 
 Thus an undead foe with HD 9 (tier 3) would roll against a target of 6 when turned by a Cleric of 2nd level (tier 1).
 
-**Note:** Intelligent opponents always enjoy an advantage on saves against turning and cannot be destroyed by it, unless otherwise specified.
+**Note:** Intelligent opponents always enjoy a Boon on saves against turning and cannot be destroyed by it, unless otherwise specified.
 
 Success means the targets are not affected. With a failed save, the targets are affected as detailed in the third column of the table above, based again on the difference in the cleric's level
 
 The results are explained further below:
 
-**Dazed:** The victim is dazed for the stated duration, suffering a disadvantage on all actions.
+**Dazed:** The victim is dazed for the stated duration, suffering a Bane on all actions.
 
 **Cower in Fear:** The victim cowers in place paralyzed in fear. The victim loses all of its actions for the stated duration.
 
