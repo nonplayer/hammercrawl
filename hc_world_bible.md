@@ -102,6 +102,13 @@ Unsorted:
 * For some reasons, ogres are secretly fetishized in the more remote of Human lands (this is probably due to a certain old pornographer's art zines being distributed to dungeon raiding parties in the Province of Doom). This tends to lead to a number of awkward and ultimately doomed human-ogre romances started via casual encounter scrolls posted on Greg's Listing-boards. These trysts have resulted in a distressing number of single ogre moms and deadbeat human dads, and more than a handful of half-ogre Base Ball teams.
 
 
+## Organizations
+
+### International Brotherhood of Garlic Pilferers (IBGF)
+
+This organized guild of vegetable thieves is one of the most fearsome and powerful thieving collectives in all of the known world. There are secret chapterhouses in every major city, and many of the smaller towns and villages too. A single offense against their trade is a promise of a lifetime of enmity.
+
+
 
 ## Polities
 
@@ -128,10 +135,15 @@ The distant land of **1997** is known for its diverse colleges and it's plethora
 
 The denizens of 1997 harbor a particular enmity with the denizens of neighboring kingdom 1996.
 
-Known Locations:
+Known Settlements:
 
-* The **Black Lair of the Vampire Count**, a dungeon
-* The **Pit of Tenebrous Worms**, a dungeon
+* Bee Town
+
+Known Dungeons:
+
+* The **Black Lair of the Vampire Count**
+* The **Forsaken Chambers of the Vampire Count**
+* The **Pit of Tenebrous Worms**
 
 Known Personages:
 
@@ -142,7 +154,7 @@ Known Personages:
 * **Travel Ossa-Tee** is a group of honorable wandering adventurers that help safely guide other adventuring parties to their destinations.
 
 
-### The Province of Doom
+### Doom, the Province of
 
 Far, far, far to the north lies the dismal and cold **Province of Doom**.
 
@@ -155,9 +167,9 @@ Known Locations:
 **Important note:** "Doom" in the ancient languages just means "snow"
 
 
-#### The Town of Doom
+#### Doom (Town)
 
-Built at the **Crossroads of Doom**. Home of the **Gatharbar**, where many adventurers gather to begin their doomy expeditions
+The Town of Doom is built at the **Crossroads of Doom**. Home of the **Gatharbar**, where many adventurers gather to begin their doomy expeditions
 
 
 ### Jiggleton
@@ -176,7 +188,7 @@ Some notes:
 
 
 
-### The Province of Ted
+### Ted, the Province of
 
 Known Locations:
 
@@ -186,9 +198,9 @@ Known Locations:
 * The **Dread Barrow of Evil**, a dungeon
 
 
-#### The Town of Testament
+#### Testament
 
-Located in the Provice of Ted. Key notes:
+Testament is a town located in the Provice of Ted. Key notes:
 
 This town is most known in the local Legend of **Pabrycyg**, a local minor deific figure. Pabrycyg was a husky puppy that sacrificed itself to save some families or something like that. His petrified body is on display in town as a statue of great local fame and respect.
 
@@ -198,6 +210,22 @@ Known Personages:
 * **Yelp** the town crier, named as such because he is literally unable to speak softly.
 
 
+### Wetfailing, Kingdom of
+
+Known settlements:
+
+* Eelgrove village, rival town to Fishwood
+* Fishwood Village, rival town to Eelgrove
+
+Known regions:
+
+* Razorfin Hills
+
+Known dungeons:
+
+* The **Dread Tunnels of Ruin**, aka the Tax Offices of Fishwood, ruled by the dreaded Supreme Clerk "Trinkleshy Dangermuscles" and her two Hench-Clerks, "Obsidian Gash" and "Pipes Cloverhaze."
+* The **Temple of Cruel Devastation**, a dungeon in the Razorfin hills which offers limited-issue day passes so groups don't over-crowd it.
+
 
 ### Other Places
 
@@ -206,8 +234,15 @@ Known Personages:
 
 ## Cultural Notes
 
+### Music
 
-### Base-Ball
+A few popular bands from the times:
+
+* **Scumbeard Beetlesquawk and the Demon Prince Obscenities** were a popular Under-Ground Rocks band about 200 years ago.
+
+### Sports
+
+#### Base-Ball
 
 Base-Ball is the most popular sport in the lands.
 
@@ -234,7 +269,12 @@ Misc notes on play:
 
 ### Dungeon Oprah
 
-Created as an off-hand comment in a dungeon session, this Goddess remains to be defined.
+Created as an off-hand comment in a dungeon session, this Goddess remains to be defined. I heard she likes bees...
+
+
+### Elf Saint Laurent, God of High Fashion
+
+A haughty and snooty deity who sends his loyal clerics into dungeons to divine new fashion styles from the damned souls of the ancient dead.
 
 
 ### Fairuza Balk, Mistress of the Elements (Neutral)
@@ -334,9 +374,19 @@ Local Gods, Folk Deities, etc.
 A legendary local husky puppy that sacrificed itself to save human lives. There’s a statue to it in town that some folks pray at. The statue of course is of the horrible burned and mutilated dead body of the dog, because that’s what you do.
 
 
+# Ecology
+
+A collection of details on some of the more interesting and unique flora and fauna of the HAMMERCRAWL! game world.
+
+
 # Dungeonography
 
-(TBD)
+A collection of details on the more notable dungeons of the world.
+
+
+## The Distant Dungeons of the Deep Crawl (aka "The 3D Crawl")
+
+A new mega-dungeon found in a distant land, waiting to be plundered of its riches...
 
 
 ## The Wagoncrawl
