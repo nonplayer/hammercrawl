@@ -397,7 +397,7 @@ If the NPC succeeds at this save, they instead take a Scratch. Scratches also ac
 
 If the total incoming damage from an attack is greater than the NPC could possibly roll on its Death save, it can only succeed at the roll by rolling a natural unmodified 20.
 
-For NPCs with Zero (or fewer!) Hit Dice, they need not make Death saving throws when hit. Instead, any hit for any amount of damage will dispatch them immediately, no Wounds required.
+For NPCs with Zero (or fewer!) Hit Dice - including weak NPCs given only a small handful of HPs in lieu of HD - they need not make Death saving throws when hit. Instead, any hit for any amount of damage will dispatch them immediately, no Wounds required.
 
 
 
