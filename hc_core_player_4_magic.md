@@ -232,7 +232,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 * **Range:** 5 ft'
 * **Duration:** Permanent
 * **Save:** None
-* **Effect:** When used on a target within melee range (no contact is necessary), the victim takes 1d6 + Caster Level in damage, doubled if the target is an enemy of the caster's faith.
+* **Effect:** When used on a target within melee range (no contact is necessary), the victim takes 7 + Caster Level in damage, doubled if the target is an enemy of the caster's faith.
 
 
 ##### Cause Serious Wounds
@@ -242,7 +242,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 * **Range:** 5 ft'
 * **Duration:** Permanent
 * **Save:** None
-* **Effect:** When used on a target within melee range (no contact is necessary), the victim takes 2d6 + Caster Level in damage, doubled if the target is an enemy of the caster's faith.
+* **Effect:** When used on a target within melee range (no contact is necessary), the victim takes 14 + Caster Level in damage, doubled if the target is an enemy of the caster's faith.
 
 
 ##### Cure Light Wounds
@@ -252,7 +252,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 * **Range:** Touch
 * **Duration:** Permanent
 * **Save:** Body (if unwilling)
-* **Effect:** If used on a target with HP less than max, target is restored 1d6 + Caster Level hit points.
+* **Effect:** If used on a target with HP less than max, target is restored 7 + Caster Level hit points. If the target is an avowed member of the Cleric's faithful congregation, the effect is doubled.
 
 
 ##### Cure Serious Wounds
@@ -262,9 +262,9 @@ Casting this spell requires the caster to physically handle the item. This may e
 * **Range:** Touch
 * **Duration:** Permanent
 * **Save:** Body (if unwilling)
-* **Effect:** If used on a target with HP less than max but above zero, target is restored 2d6 + Caster Level hit points.
+* **Effect:** If used on a target with HP less than max but above zero, target is restored 14 + Caster Level hit points. If the target is an avowed member of the Cleric's faithful congregation, the effect is doubled.
 
-If used on a target that is already below zero HP, instead restore 1d4 + Caster Level in lost CON stat points to the target. If this restores their CON to original value, any remainder on the roll is applied to restore HP. The caster can target themselves with this spell.
+If used on a target that is already below zero HP, instead restore 4 + Caster Level in lost CON stat points to the target (double if they are of the faith). If this restores their CON to original value, any remainder on the roll is applied to restore HP. The caster can target themselves with this spell.
 
 
 ### Spells D
@@ -334,11 +334,7 @@ If used on a target that is already below zero HP, instead restore 1d4 + Caster 
 * **Save:** Body (see below)
 * **Effect:** Light is a versatile spell, with effects depending on the target. If cast upon themself, a small fist-sized orb of light appears in the caster's hand. The orb provides a 15-foot radius of strong light. The caster cannot use their hand for other purposes, or the spell is canceled.
 
-If cast on an object, the object glows with the same strength of light, which lasts until the spell is done.
-
-If cast on a creature, the creature must make a Body Save or be blinded for the duration of the spell.
-
-In each case, the duration of the spell is the same, and the caster can cancel it at any time.
+If cast on an object, the object glows with the same strength of light, which lasts until the spell is done. If cast on a creature, the creature must make a Body Save or be blinded for the duration of the spell. In each case, the duration of the spell is the same, and the caster can cancel it at any time.
 
 
 ### Spells M
@@ -353,7 +349,7 @@ In each case, the duration of the spell is the same, and the caster can cancel i
 * **Save:** None
 * **Effect:** When cast, this spell creates one or more glowing (or shimmering, etc) missiles of pure force, appearing in a shape declared by the caster (if undeclared, arrows are a suitable default), perpetually hovering within a few feet of the caster for up to the spell's duration or until used. A _Dispel Magic_ effect can prematurely end the spell's duration.
 
-At the time of casting, the magician can choose to immediately launch some or all of the missiles at one or more targets. If the caster chooses to keep any of them in reserve, any number of them can be launched later as a combat action. When launched, a missile flies unerringly to a target that the caster can see (the caster can choose multiple targets if launching multiple missiles). Active _Shield_ spells block all _Magic Missiles_ cast upon a target that round before dissipating. Upon connecting, each missile does exactly 5 points of damage.
+At the time of casting, the magician can choose to immediately launch some or all of the missiles at one or more targets. If the caster chooses to keep any of them in reserve, any number of them can be launched later as a combat action. When launched, a missile flies unerringly to a target that the caster can see (the caster can choose multiple targets if launching multiple missiles). Active _Shield_ spells block all _Magic Missiles_ cast upon a target that round before dissipating. Upon connecting, each missile does exactly 7 points of damage.
 
 At first level the caster can create a single missile. At every two levels above 1st (3rd, 5th, 7th, etc.) the caster learns to create an additional missile, to a total of 8 missiles at level 15.
 
