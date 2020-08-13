@@ -165,6 +165,8 @@ You can choose to dedicate your turn's action to avoiding damage entirely by usi
 
 When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a a number of Banes equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single Bane, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
 
+If you are attacked on a turn in which you have not already acted, you can choose to declare a defensive action at that time. The same effects apply, but you give up your action that turn.
+
 
 #### Shield Bash Action
 
