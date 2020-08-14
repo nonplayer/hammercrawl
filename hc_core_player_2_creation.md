@@ -1221,6 +1221,17 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 
 ### Armour & Shields
 
+**Armour** and **shields** are valuable defensive gear that all capable adventurers should consider wearing to increase their survivability.
+
+
+#### Armour
+
+The primary purpose of armour is to allow its wearer to soak (and thus prevent) damage from incoming attacks. When the wearer is hit by an attack, they can choose to spend a **Soak** and absorb all of that attack's damage. If the attack scored a critical hit, then each multiple of damage scored requires a Soak to absorb.
+
+Lost Soak can be repaired either as a Camp action, or by spending coins in town. Repairing Light Armour costs 1 coin per lost Soak, while Heavy Armour costs 10 coins per Soak restored, and Plate Armour costs 100 coins per Soak restored. Yes, this does mean that certain suits are more expensive to repair than to buy anew.
+
+Armour comes in three basic types: Light, Heavy, and Plate. Light armour has low Soak and is generally accessible to all character classes. Heavy and Plate armour are more restricted by classes. They have much higher Soak, but are also cumbersome and a bit unwieldy. Heavy and Plate Armours apply Banes to their wearer's Area saves, as well as any other Dex-based skills or actions that the 'Smith deems affected.
+
 **Armour Table**
 
 Descriptors:
@@ -1228,35 +1239,51 @@ Descriptors:
 * **Name:** The name of the armour
 * **Type:** Whether the armour is Light, Heavy, or Plate
 * **Soak:** The number of Soaks the armour provides to its wearer
-* **DVs:** The number of Defense Beans the shield provides
 * **Size:** Encumbrance requirement when not worn
+* **Banes:** The number of Banes this armour applies to certain physical actions. Heavy Armour applies 1 Bane, while Plate Armour applies 2.
 * **Cost:** In coins, to have crafted by an armoursmith of suitable skill (With a few exceptions, armour is rarely available for immediate purchase)
 * **Qualities:** Any special qualities possessed by the armour
 
 **NOTE:** For any entry with an asterisk in its data, see the text section below the table for further details.
 
-| Name         | Type  | Soak | Size | Cost  | Qualities |
-|--------------|-------|------|------|-------|-----------|
-| Padded       | Light | 2    | M    | 1     | Wearable  |
-| Leather      | Light | 4    | M    | 10    | Wearable  |
-| Studded      | Light | 6    | M    | 25    | Wearable  |
-| Scale        | Heavy | 8    | L    | 50    | Wearable  |
-| Chain        | Heavy | 10   | L    | 100   | Wearable  |
-| Splint       | Heavy | 12   | L    | 500   | Wearable  |
-| Platemail    | Heavy | 14   | H    | 1000  | Wearable  |
-| Plate Armour | Plate | 16   | H    | 10000 | Wearable  |
+| Name         | Type  | Soak | Size | Banes | Cost  | Qualities |
+|--------------|-------|------|------|-------|-------|-----------|
+| Padded       | Light | 2    | M    |  -    | 1     | Wearable  |
+| Leather      | Light | 4    | M    |  -    | 10    | Wearable  |
+| Studded      | Light | 6    | M    |  -    | 25    | Wearable  |
+| Scale        | Heavy | 8    | L    | 1     | 50    | Wearable  |
+| Chain        | Heavy | 10   | L    | 1     | 100   | Wearable  |
+| Splint       | Heavy | 12   | L    | 1     | 500   | Wearable  |
+| Platemail    | Heavy | 14   | H    | 1     | 1000  | Wearable  |
+| Plate Armour | Plate | 16   | H    | 2     | 10000 | Wearable  |
+
+
+#### Shields
+
+Shields on the other hand (hah! a pun!) function as deflection tools, reducing the chances of the wielder being hit in the first place. Depending on its size, a shield adds one or more Banes to all incoming attack rolls that the wielder can see. This is a valuable method of reducing attack rolls to zero or less, and thus potentially eliminating all incoming damage.
 
 **Shields Table**
 
-| Shield Type      | DVs | Size | Cost |
-|------------------|-----|------|------|
-| Shield, Buckler  | 1   | M    | 1    |
-| Shield, Small    | 2   | M    | 10   |
-| Shield, Tower    | 3*  | L    | 100  |
+Descriptors:
 
-**Shields, Buckler/Small:** Basic shields come in two sizes: Buckler and Small. Buckler shields apply one Bane to any attacks the wielder can see coming, while small shields apply two.
+* **Name:** The name of the shield
+* **Banes:** The number of Defense Banes the shield applies to attackers
+* **Size:** Encumbrance requirement when not worn
+* **Cost:** In coins, to purchase from a smith or armourer (unlike armour, shields are relatively easy to find for sale)
 
-**Shield Weapons:** Shield Weapons can be used as either Small Shields or hand weapons. If used defensively, they provide standard small shield Defense Beans. If used offensively, they instead function as their attached weapons.
+**NOTE:** For any entry with an asterisk in its data, see the text section below the table for further details.
+
+| Shield Type      | Banes | Size | Cost |
+|------------------|-------|------|------|
+| Shield, Buckler* | 1     | M    | 1    |
+| Shield, Small    | 2     | M    | 10   |
+| Shield, Tower*   | 3     | L    | 100  |
+
+**Shield, Buckler:** Buckler shields are super cheap, but only apply a Bane to any _melee_ attacks the wielder can see coming, while being ineffective against missiles. A buckler may optionally be strapped to its wielder's arm, leaving that hand empty and available for other combat purposes, however it loses its defensive Banes if that hand is used to attack in a round. Bucklers _may_ be used to Shield Bash.
+
+**Shield, Small:** Small Shields are the basic all-purpose universal shields. They come in many shapes and styles, but all have the same basic stats.
+
+**Shield Weapons:** Described in the previous Weapons section, Shield Weapons can be used as either Small Shields or hand weapons. If used defensively, they provide standard small shield Defense Beans. If used offensively, they instead function as their attached weapons.
 
 **Tower Shields:** These are full-height portable bulwarks, and cannot be used with Shield Bash. Tower shields apply three Banes to any attacks the wielder can see coming.
 

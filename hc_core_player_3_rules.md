@@ -136,6 +136,10 @@ TBD
 
 Roll d20 and add your relevant attack modifiers.
 
+beat the opponent's Defense (based on actual DEX score).
+
+Shields apply one or more Banes to the attacker.
+
 
 ##### Attack Dice Explained
 
@@ -719,8 +723,9 @@ Then, each player gets to pick one additional Camp Action to perform now:
 
 * **Rest:** Recover half (round up) of currently-lost HPs (or the second half, if doubling up from the free action above). **Requires a Bedroll and Food:** Choosing this action consumes one additional Ration, and requires an available Bedroll or suitable substitute.
 * **Re-Memorize:** Recover one previously-spent daily spell use per character level. **This requires an appropriate spellbook**
-* **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many stones for your sling.
-* **Level up!:** If the hero has enough XP to reach the next level, they can apply the effects of that level as a Camp Action. Follow the core process for Leveling Up. Note that it does not heal existing HP loss or restore used spells or abilities (those are separate Camp Actions, above).
+* **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many sling stones.
+* **Repair Armour:** Restore your XP Level in lost Soak points to your armour or another PC's. If you have a relevant skill, double the amount restored. If you have two or more relevant skills, triple the amount restored.
+* **Level up!:** If your hero has enough XP to reach the next level, they can apply the effects of that level as a Camp Action. Follow the core process for Leveling Up. Note that it does not heal existing HP loss or restore used spells or abilities (those are separate Camp Actions, above).
 * **Stand Watch:** Add a Blue Die to the next room explored, and -1 to Smith's camp encounter roll (below).
 * **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add that many Black dice instead.
 
