@@ -130,7 +130,7 @@ Your movement options are as follows:
 TBD
 
 
-#### Basic Attack Action
+### Attack Actions
 
 TBD
 
@@ -138,13 +138,27 @@ Roll d20 and add your relevant attack modifiers.
 
 beat the opponent's Defense (based on actual DEX score).
 
-Shields apply one or more Banes to the attacker.
+
+The *main* distinctions between Melee and Missile/Ranged attacks are:
+
+* Melee attacks add STR mods to damage, but are at close range and thus in reach of the enemy.
+* Missile attacks have no stat mods to damage, but can be used at longer ranges.
+
+As always, some weapons and attacks add exception to these assumptions.
 
 
-##### Attack Dice Explained
+Missile attacks, also called Ranged attacks, are those that happen at a distance greater than basic melee range. These include everything from bows and crossbows to thrown daggers and axes.
+
+Every missile and thrown weapon in the Gear section is given a Range stat, consisting of two numbers divided by a slash. The first number is the **Effective Range** of that weapon, and the second number is the weapon's **Maximum Range**. Attacks at Effective range are made as normal, while attacks up to the Maximum range suffer a Bane.
+
+Melee weapons without a Thrown quality *can* be thrown, but the attack receives a Bane. Max range is equal to your Strength, effective range is half that.
 
 
-##### Applying Damage
+#### Attack Dice Explained
+
+
+
+#### Applying Damage
 
 In most cases (and yes there are exceptions) a successful attack causes damage against your enemy. Most damage applied in combat will generally come from three main sources: melee attacks, missile attacks, and spell attacks. With Melee and Missile attacks, the damage applied is based on whether your attack was true, glancing, or a miss. **On a true hit** the damage is as follows:
 
@@ -158,18 +172,11 @@ In most cases (and yes there are exceptions) a successful attack causes damage a
 For rules on what happens when you get hurt and/or die, see the "Hit Points and Death" section of this chapter.
 
 
-#### Cast Spell Action
+#### Critical Hits and Fumbles
 
-TBD
+If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies a Boon against them for the next round).
 
-
-#### Defensive Action
-
-You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position." To do so, on your turn you must not take any other actions (although you can move normally), and declare you are executing a Defensive Action. Then you must describe how your character is specifically focusing on defense in the current moment.
-
-When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a a number of Banes equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single Bane, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
-
-If you are attacked on a turn in which you have not already acted, you can choose to declare a defensive action at that time. The same effects apply, but you give up your action that turn.
+If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
 
 
 #### Shield Bash Action
@@ -182,22 +189,7 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters 
 
 Fighters who Shield Bash as one of their attack dice lose the shield's Defense Beans until their next combat turn. Dwarves do not suffer this setback.
 
-
-#### Swap Gear Action
-
-On your Turn, you can freely swap between any gear that you are holding or carrying in your immediate Personal Inventory. This does not cost an action, but does require it to be your active turn.
-
-For an action, you can swap between held/carried items and items inside your carried Bags. This requires an action, because you have to stop what you're doing, open the bags, dig around in them, and so on.
-
-Wearable items cannot normally be swapped out mid-combat without explicit allowances by the 'Smith.
-
-
-#### Tactical Action
-
-TBD
-
-
-#### Tactical Attack
+#### Tactical Attacks
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical Boons for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
@@ -216,16 +208,45 @@ If failed, the Hammersmith chooses one of the following based on the description
 Tactical Actions are great for setting an opportunity for a Thief's Stabbity attack.
 
 
-### Special Combat Rules
+### Non-Attack Actions
+
+
+#### Cast Spell Action
+
+TBD
+
+
+#### Defensive Action
+
+You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position." To do so, on your turn you must not take any other actions (although you can move normally), and declare you are executing a Defensive Action. Then you must describe how your character is specifically focusing on defense in the current moment.
+
+When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a a number of Banes equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single Bane, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
+
+If you are attacked on a turn in which you have not already acted, you can choose to declare a defensive action at that time. The same effects apply, but you give up your action that turn.
+
+
+#### Swap Gear Action
+
+On your Turn, you can freely swap between any gear that you are holding or carrying in your immediate Personal Inventory. This does not cost an action, but does require it to be your active turn.
+
+For an action, you can swap between held/carried items and items inside your carried Bags. This requires an action, because you have to stop what you're doing, open the bags, dig around in them, and so on.
+
+Wearable items cannot normally be swapped out mid-combat without explicit allowances by the 'Smith.
+
+
+#### Tactical Action
+
+TBD
+
+
+### Special Combat Rules and Notes
 
 Alphabetized for ease of reference.
 
 
-#### Critical Hits and Fumbles
+#### Armour
 
-If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies a Boon against them for the next round).
-
-If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
+Wearing armour does not make you harder to hit (unlike in the OG). Instead it allows you to "Soak" damage. See further below.
 
 
 #### Missile Weapons in Melee Combat
@@ -233,11 +254,9 @@ If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** resul
 When using a missile weapon against a target that is in melee with you, your attacks have a Bane die.
 
 
-#### Ranged Attacks
+#### Shields
 
-Every missile and thrown weapon in the Gear section is given a Range stat, consisting of two numbers divided by a slash. The first number is the **Effective Range** of that weapon, and the second number is the weapon's **Maximum Range**. Attacks at Effective range are made as normal, while attacks up to the Maximum range suffer a Bane.
-
-Melee weapons without a Thrown quality *can* be thrown, but the attack receives a Bane. Max range is equal to your Strength, effective range is half that.
+Shields apply one or more Banes to the attacker, making it more likely that the attack will do less damage or miss entirely. Unlike armour, shields are not degraded over time, and as such do not carry the risk of "running out" during a battle.
 
 
 #### Two-Weapon Fighting

@@ -226,7 +226,7 @@ A Berserker can choose to voluntarily fail either save and willingly let the rag
 
 **Savage Warrior:** Berserkers gain a bonus attack die at levels 5, 10, and 15. These dice are cumulative with those acquired from their rage. When attacking, a Berserker declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Two-Hander:** When using a two-handed melee weapon, Berserkers roll d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
+**Two-Hander:** When using a two-handed melee weapon, Berserkers use d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
 See below for a table of attack and save bonuses by level:
 
@@ -440,16 +440,11 @@ See below for a table of attack and save bonuses by level:
 | 15    | 5      | 15   | 7     | 5    | 5    | 15   | 7     |
 
 
-## Step 3: Roll Your Alignment
+## Step 3: Roll Your Stats
 
-HAMMERCRAWL! uses the following five alignments: Chaotic, Evil, Good, Lawful, and Neutral. Roll a d5 to determine yours.
+Now roll 3d6 seven times, and write them down in order.
 
-
-## Step 4: Roll Your Stats
-
-Now roll 3d6 six times, and write them down in order.
-
-*Example: Darla rolls 3d6 six times and writes them down in the order she rolled them: 9, 14, 11, 10, 5, and 17.*
+*Example: Darla rolls 3d6 seven times and writes them down in the order she rolled them: 9, 14, 11, 10, 5, 17, and 6.*
 
 **First** assign your highest rolls *in order of their rolling* to the Prime Stats of your character class. Most classes should have two Prime Stats, some only one, and maybe others three. However many, take the highest rolls from your set in the order they were rolled, and assign them to the Prime Stats in the order they appear on the character sheet.
 
@@ -457,7 +452,7 @@ Now roll 3d6 six times, and write them down in order.
 
 **Next** assign the remaining rolls *in order of their rolling* to the remaining empty stats on your character sheet.
 
-*Example: Darla's remaining rolls are 9, 11, 10, and 5. She assigns them in order to her Fighter's remaining stats, which results in a final spread of: STR 14, DEX 9, CON 17, INT 11, WIS 10, CHA 5.*
+*Example: Darla's remaining rolls are 9, 11, 10, and 5. She assigns them in order to her Fighter's remaining stats, which results in a final spread of: STR 14, DEX 9, CON 17, INT 11, WIS 10, CHA 5, SOC 6.*
 
 **Finally** record the stat mods next to each one, using the following table:
 
@@ -476,9 +471,9 @@ Stats are explained in further detail immediately below.
 
 ### Basics of Stats
 
-There are six core stats: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). Each stat has a Base Score and a Derived Modifier. The **Base Score** is determined by the initial 3D6 roll. These initial scores are not used much outside of their initial purpose of determining the Stats' derived modifiers. The **Modifier** is a number from -3 to +3, determined by the table above. This number is most commonly used to modify a character's relevant active dice rolls when attempting actions during play.
+There are ***seven*** core stats: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), Charisma (CHA), and Social Status (SOC). Each stat has a Base Score and a Derived Modifier. The **Base Score** is determined by the initial 3D6 roll. These initial scores are not used much outside of their initial purpose of determining the Stats' derived modifiers. The **Modifier** is a number from -3 to +3, determined by the table above. This number is most commonly used to modify a character's relevant active dice rolls when attempting actions during play.
 
-Each of the six core stats affects certain mechanics, as detailed below:
+Each of the seven core stats affects certain mechanics, as detailed below:
 
 
 #### Strength (STR)
@@ -539,23 +534,18 @@ Each of the six core stats affects certain mechanics, as detailed below:
 
 Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is a new **seventh** Stat (abbrev: SOC) for the HAMMERCRAWL! game system, recorded with its own modifier determined as usual. This modifier may apply from time to time in dealings within your game world's societies.
 
-The "Coins" column determines your starting cash multiplier for buying initial equipment, explained further below.
 
-| SOC (3d6) | Mod | Coins | Status           |
-|-----------|-----|-------|------------------|
-| 3         | -3  | x0*   | Scum             |
-| 4-5       | -2  | x10   | Peasantry        |
-| 6-8       | -1  | x20   | Poor             |
-| 9-12      | 0   | x20   | Middle Class     |
-| 13-15     | +1  | x20   | Lesser Nobility  |
-| 16-17     | +2  | x25   | Greater Nobility |
-| 18        | +3  | 1000* | Royalty          |
 
 
 **Modifies:**
 
 * Reaction Rolls within Society (at the 'Smith's discretion)
 * Starting Coins
+
+
+## Step 4: Roll Your Alignment
+
+HAMMERCRAWL! uses the following five alignments: Chaotic, Evil, Good, Lawful, and Neutral. Roll a d5 to determine yours.
 
 
 ## Step 5: Roll Your Background
@@ -1010,6 +1000,16 @@ Then determine your gear either through deliberate purchase or through random ro
 ### Option A: Purchasing Your Starting Gear
 
 Multiply your rolled SOC score by its associated multiplier, and that's how much money you have to spend. Use the Equipment section of this book to purchase anything you can afford.
+
+| SOC (3d6) | Coins | Status           |
+|-----------|-------|------------------|
+| 3         | x0*   | Scum             |
+| 4-5       | x10   | Peasantry        |
+| 6-8       | x15   | Poor             |
+| 9-12      | x20   | Middle Class     |
+| 13-15     | x25   | Lesser Nobility  |
+| 16-17     | x30   | Greater Nobility |
+| 18        | 1000* | Royalty          |
 
 
 #### A Note on Royalty
