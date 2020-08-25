@@ -395,9 +395,24 @@ If the NPC fails this save, they are inflicted with a Wound, or two if they roll
 
 If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, and for each Scratch the NPC suffers a Bane on subsequent Death saves to resist wounds. Once a NPC fails a Death save and takes a wound, erase all of its current Scratches.
 
+Keeping track of scratches and remaining HD can be done with simple use of a small die (such as a d6) counting scratches, and a larger die (such as d12 or higher) counting down the NPC's remaining HD. It can be handy to keep a d30 on hand for the more powerful boss monsters, when needed.
+
 If the total incoming damage from an attack is greater than the NPC could possibly roll on its Death save, it can only succeed at the roll by rolling a natural unmodified 20.
 
 For NPCs with Zero (or fewer!) Hit Dice - including weak NPCs given only a small handful of HPs in lieu of HD - they need not make Death saving throws when hit. Instead, any hit for any amount of damage will dispatch them immediately, no Wounds required.
+
+
+## New Monsters for HAMMERCRAWL!
+
+
+### Goblin, Flesh
+
+(first appearance: Hooni's Hammers in the kingdom of 1997)
+
+
+### Mimic Worm
+
+(first appearance: HAMMERCRAWL! 3D Episode 1)
 
 
 
@@ -415,7 +430,7 @@ TBD
 
 Ignore any noted HD asterisks when calculating Tiers on Monsters and Dungeon Levels, instead using the base HD alone.
 
-Ignore any listed hit point totals, and use their HD instead to denote how many Wounds the monster can suffer in combat before being slain. Any listed HD modifiers (such as "3HD+3") are applied as a bonus to the monster's Death saves.
+Ignore any listed hit point totals, and use their HD instead to denote how many Wounds the monster can suffer in combat before being slain. Any listed HD modifiers (such as "3HD+3") are applied as a flat bonus to the monster's Death saves.
 
 
 ## From Edition the Fifth
