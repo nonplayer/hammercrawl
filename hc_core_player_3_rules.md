@@ -989,11 +989,11 @@ The victims must make a Mind Save. The target is determined by comparing their H
 
 | Cleric's Level Tier is… | Target | Results of Failed Save |
 |-------------------------|--------|------------------------|
-| Two or more Lower       | 6      | Dazed for 1d4 rounds (Bane) |
-| One Lower               | 9      | Cower in Fear for 1d4 rounds |
-| Equal                   | 12     | Flee for 2d4 rounds |
-| One Higher              | 15     | Flee for 2d4 rounds, take damage (Xd8) |
-| Two or more Higher      | 18     | Destroyed |
+| Two or more Lower       | 9      | Dazed for 1d4 rounds (Bane) |
+| One Lower               | 12     | Cower in Fear for 1d4 rounds |
+| Equal                   | 15     | Flee for 2d4 rounds |
+| One Higher              | 18     | Flee for 2d4 rounds, take damage (Xd8) |
+| Two or more Higher      | 21     | Destroyed |
 
 Thus an undead foe with HD 9 (tier 3) would roll against a target of 6 when turned by a Cleric of 2nd level (tier 1).
 
