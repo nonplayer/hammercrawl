@@ -249,9 +249,24 @@ Base-Ball is the most popular sport in the lands.
 Misc notes on play:
 
 * Two teams play against each other.
-* Each time has two Murder Pillars, upon which climbs a Murder Lizard.
-* The main defender is known as the Short-Stop. This is because they are bound by rules to only go after the shortest currently-active player on the opposing team. This has led to teams padding their ranks with "token dwarves" in order to keep their opponents' Short-Stops busy.
+* Each team has two Murder Pillars, upon which climbs a Murder Lizard, which is chained to the pillar.
 * Slam Dunking is popular with the larger players.
+* Only the shortest player of any team is allowed to actively tackle during a defensive play. This highly controversial rule is held over from the earliest days of the sport, and although no one remembers why it was written that way, it is still enforced today by purists who refuse to alter the "sacred tenets" of the first players.
+* The shortest-defender rule was eventually modified after years of bickering and argument, due to increased loophole abuse, which ultimately led to the infamous "halfling packing" scandal of '55. Following that terrible season, officials ruled that each team was allowed only *one* "token dwarf" player, designated as a "Short-Stop" position. All other players would from then on be required to conform to minimum height standards of exactly 6 feet 3 inches.
+
+
+Known player positions:
+
+* The Short-Stop. This is because they are bound by rules to only go after the shortest currently-active player on the opposing team. This has led to teams padding their ranks with "token dwarves" in order to keep their opponents' Short-Stops busy.
+* The Bob-Sledder: You get pulled on a sled to safe bases by a guy named Bob.
+* Kill Angel: Undefined
+
+Notes of History:
+
+* There was a season-killing "halfling packing" scandal in '55, resulting in rules updates requiring minimum heights and the new "token dwarf" Short-Stop position.
+* There was a "boulder juicing" scandal in '72.
+
+
 
 
 ## Deities and Religions
@@ -384,7 +399,7 @@ A collection of details on some of the more interesting and unique flora and fau
 A collection of details on the more notable dungeons of the world.
 
 
-## The Distant Dungeons of the Deep Crawl (aka "The 3D Crawl")
+## The Distant Dungeons of the Deepcrawl (aka "The 3D Crawl")
 
 A new mega-dungeon found in a distant land, waiting to be plundered of its riches...
 
