@@ -939,13 +939,6 @@ This skill allows a thief to perform acts of complicated manual dexterity, such 
 **Magical Evolution:** Starting at 9th level, a Thief can perform truly impossible acts with this skill, such as stealing an item too far away to reach ("It just leapt into my hand!"), stealing the straps out from inside an opponent's worn armour, and so on. The applications of this are up to the imagination of the player, and the discretion of the 'Smith.
 
 
-
-
-
-
-
-
-
 ## Tiers
 
 A number of effects in the game use the "Tier" mechanic as a rough relative comparison of power between two or more entities within the fiction. For example, gaining XP from challenges is determined by the relative tiers of the Party and their Opponents, and similarly the targets for Saving Throws against harmful effects are based on Tier comparison.
