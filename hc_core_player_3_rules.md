@@ -70,31 +70,41 @@ TBD
 TBD
 
 
-### Combat Process
+#### Combat Time and Flow
+
+A combat Round is roughly ten (10) seconds of action. During a Round, the flow is broken into Sides, of which there are almost always two (2). Each Side gets a Turn, which is broken down into three (3) Phases. During each Phase of a Turn, each character on that Side gets a Movement and an Action, all of which are resolved in a specific order. Once each Side has taken its Turn, that Round is over, and a new Round may possibly begin.
+
+
+
+#### Combat Structure
 
 1. Check for Surprise
 2. COMBAT ROUNDS
   * Leaders roll Initiative to determine which side goes first.
   * SIDES:
-    - Leaders determine who takes first Turn.
-    - Afterward, leader determines who takes the next Turn.
-    - Repeat until the side has fully acted.
+    - MORALE: (Usually only NPCs) If anyone has reason to check their courage, do so now. Any failures cower, surrender, or run away.
+    - MOVEMENT: Anyone who wishes to move before taking their action does so now.
+    - ACTIONS: Everyone gets one action:
+      - MISSILE actions are resolved first.
+      - MELEE actions are resolved second.
+      - MAGIC actions are resolved third.
+      - MISCELLANEOUS actions are resolved last.
     - If the other side hasn't acted yet, they now get to do so as above.
   * After both sides are complete, if there is still a fight to resolve, return to Initiative.
 3. LOOT TIME!
 
 
-### Surprise
+### Surprise Check
 
 TBD
 
 
 ### Combat Rounds
 
-A combat round is roughly ten (10) seconds of action.
+TBD
 
 
-### Initiative
+#### Initiative
 
 At the top of each Round of combat, the designated leader of each side rolls initiative as follows: 1d12 + DEX mod + WIS mod. Highest roll wins initiative. Initiative Ties are resolved in the following order of determination:
 
@@ -102,21 +112,16 @@ At the top of each Round of combat, the designated leader of each side rolls ini
 2. Winner of last initiative wins
 3. Roll off
 
-After Initiative is determined, the winning side gets to take all of their actions first, followed by the losing side. In the unusual case of three-plus side competing against each other, each side acts in the order they rolled.
+After Initiative is determined, the winning side gets to take all of their actions first, followed by the losing side. In the unusual case of three-plus side competing against each other, each side acts in the order they rolled. Each side's turn uses the same flow of phases (known as the "6 Ms"), described below.
 
-When the players' side acts, the Leader designates who goes first. After that player's action is done, the Leader again designates who goes next. This repeats until everyone has taken a Turn.
-
-When the 'Smith's side acts, they are allowed to choose in what order their minions act, as they act, and resolve them one at a time accordingly.
-
-Once both sides have completed their turns, it is time to roll initiative for a new round of combat. Repeat these rounds until one side is the victor, or another suitable outcome is reached.
+Once both sides have completed their phases and turns, it is time to roll initiative for a new round of combat. Repeat these rounds until one side is the victor, or another suitable outcome is reached.
 
 
-### Your Turn
+#### 1. Morale Phase
 
-On your turn, you can Move and then Act, or instead Act and then Move. You cannot split that up unless rules specifically tell you otherwise.
+#### 2. Movement Phase
 
 
-### Moving
 
 Your movement options are as follows:
 
@@ -125,19 +130,43 @@ Your movement options are as follows:
 * **Move Far (aka "Double Move"):** You can choose to rush, moving up to double your Speed. You can not both Move Far and Take an Action in the same round.
 
 
-### Taking Actions
 
-TBD
+#### 3. Actions Phase
+
+Everyone then gets to perform a single Action of their choosing from the following five categories:
+
+* **Missile Attacks** are any ranged attacks, such as with bows, slings, thrown weapons, and so on. This includes "ranged tactical" attacks.
+* **Melee Attacks** are any attacks involving close-range hand-to-hand combat, usually with weapons such as swords, axes, tentacles, claws, and bare hands. This includes "melee tactical" attacks.
+* **Magic Actions** are those involving the casting of spells or the use of spell-like powers and items.
+* **Move Actions** are declared when a character wants to spend their action moving _again_ after already moving during the Movement Phase.
+* **Miscellaneous Actions** are those that involve non-attack, non-movement action, such as taking a defensive position, performing a non-attack tactical action, digging through backpacks for stowed items, and so on. This is a catch-all for any actions that don't fit the other categories.
+
+When it's time to take actions, characters perform and resolve them in the following order:
+
+1. **First: Missile Attacks** - Any character planning to make a missile attack does so first. Roll them now and resolve their outcomes.
+2. **Second: Melee Attacks** - After missiles are resolved, anyone planning a melee attack rolls and resolves it next.
+3. **Third: Magic Use** - With all attacks resolved, then anyone using magic spells, items, or powers can resolve them.
+4. **Fourth: Movement (Again)** - After Magic is resolved, anyone choosing to spend their action doing nothing but continuing their previous movement does so now.
+5. **Fifth: Miscellaneous Actions** - Finally, all other miscellaneous actions that the 'Smith deems sufficiently time-taking occur at the end of the Action Phase (and thus the end of the side's Combat Turn).
+
+See further below for extended detail on resolving the different types of actions.
+
+
+#### Combat Turn End
+
+After all characters on the initiative-winning side have had a chance to move and take an action, it then becomes the other side's Turn to do the same. Once all sides have completed their Turns, it's time to re-roll initiative and begin a new Round of combat.
 
 
 ### Attack Actions
 
 TBD
 
-Roll d20 and add your relevant attack modifiers.
-
 beat the opponent's Defense (based on actual DEX score).
 
+Roll d20 and add your relevant attack modifiers.
+
+
+#### Attack Ranges: Melee vs Missile
 
 The *main* distinctions between Melee and Missile/Ranged attacks are:
 
@@ -145,7 +174,6 @@ The *main* distinctions between Melee and Missile/Ranged attacks are:
 * Missile attacks have no stat mods to damage, but can be used at longer ranges.
 
 As always, some weapons and attacks add exception to these assumptions.
-
 
 Missile attacks, also called Ranged attacks, are those that happen at a distance greater than basic melee range. These include everything from bows and crossbows to thrown daggers and axes.
 
@@ -155,7 +183,6 @@ Melee weapons without a Thrown quality *can* be thrown, but the attack receives 
 
 
 #### Attack Dice Explained
-
 
 
 #### Applying Damage
@@ -189,6 +216,7 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters 
 
 Fighters who Shield Bash as one of their attack dice lose the shield's Defense Beans until their next combat turn. Dwarves do not suffer this setback.
 
+
 #### Tactical Attacks
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical Boons for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
@@ -205,7 +233,7 @@ If failed, the Hammersmith chooses one of the following based on the description
 * The target is temporarily incapacitated
 * Any other effect that seems appropriate
 
-Tactical Actions are great for setting an opportunity for a Thief's Stabbity attack.
+Tactical Attacks are great for setting an opportunity for a Thief's Stabbity attack.
 
 
 ### Non-Attack Actions
