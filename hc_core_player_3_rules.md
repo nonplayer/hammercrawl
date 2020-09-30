@@ -115,8 +115,6 @@ Note that this of course *assumes* that this situation has already been decided 
 
 ### The Combat Round
 
-TBD
-
 
 #### Initiative
 
