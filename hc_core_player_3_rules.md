@@ -62,15 +62,21 @@ See "Experience"
 
 ## Combat
 
-TBD
+...or "The Book of Violence: A CRAWLer's Guide to Dungeon Murder"
+
+In this section, you will learn how to kill, and also how to not be killed.
 
 
 ### Combat Stats and Details
 
-TBD
+You'll need to know the following basic terms. There are more to follow, but these will get you started:
 
-* Defense:
-* Damage:
+* **Attack Dice:** How many D20s you can roll in attempts to cause damage to your opponent.
+* **Damage:** An abstract currency of applied murder, caused by weapons being used for their primary purposes.
+* **Defense:** Provided mainly by armour, this is the target number for attacks against you.
+* **Hit Die:** Your Class's core damage die, used to determine hit points and also to cause damage.
+* **Hit Points:** How much damage you can take before you die.
+* **Initiative:** A die roll to determine who gets to kill first.
 
 
 #### Combat Time and Flow
