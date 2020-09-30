@@ -157,11 +157,11 @@ If you're familiar with The OG and its many derivatives, the following should pr
 * **Skills:** In addition to expectations based on class abilities and career backgrounds, every character gets 4 random skills they are somehow good at as well.
 * **Feats:** There are no "Feats" in this game, at least as codified by other derivatives of The OG.
 * **No Natural Darkvision:** No characters begin the game with natural low-light or darkvision. The management of light sources is a crucial part of play for every character in the party.
-* **Armour Class:** is called "Defense" and is based on your DEX score. Higher is better.
+* **Armour Class:** is called **Defense** and starts at 10, ascending.
 * **Time Tracking:** The "Beat" is the equivalent of the "Turn" in older editions (i.e. 10 minutes of in-game time). "Turn" is instead applied to Combat only. A Combat round is 10 seconds of time, thus there are 6 Rounds in a Minute. However, any single combat encounter *always* advances game time by one full Beat.
-* **Combat Initiative:** Side-based, then determined by Leaders.
+* **Combat Initiative:** Side-based, flowing in phases (Morale, Movement, Melee, etc.).
 * **Damage:** Weapon damage is based on the Hit Die of the character using the weapon.
 * **Experience Levels:** 15 levels for all characters. To attain the next Experience Level, you need that level x10 in Experience Points (XP), and every time you gain a level your XP reserve resets to zero.
-* **Experience Points (XP):** XP is gained from exploring new locations and defeating the challenges within.
+* **Experience Points (XP):** XP is gained from exploring new locations and defeating the challenges within. The scale is very small.
 * **Advantages:** Made popular by the fifth edition of the OG, HAMMERCRAWL! uses a similar concept to Advantages, but with a different implementation called "Beans."
 * **Consolidated Spellcasting:** Clerics and Magic-Users have much closer-aligned rules for spellcasting and memorization. This is to assist new/random drop-in players in having fun with playing these two classes, which have historically presented challenges for noobs.

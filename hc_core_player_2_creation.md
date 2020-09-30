@@ -211,16 +211,16 @@ See below for a table of attack and save bonuses by level:
 **Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they receive the following adjustments:
 
 * they have one (1) additional attack dice (this increases to two at level 7, and three at level 14),
-* they have immunity to critical fumbles,
-* they have two (2) Banes on all saves except Body and Death.
+* they gain temporary hit points = 1/2 their HP total (rounded up),
+* they have two (2) Banes on all saves except Body and Death, which both receive two (2) Boons.
 
 While in their Rage, on their turn in combat they must take action according to the following priority chain - higher-listed actions are mandatory if possible:
 
 * Melee Attack the strongest-looking enemy within immediate striking range.
 * Move to the strongest-looking enemy within charging range and Melee Attack them.
-* Thrown (Missile) attach the strongest-looking enemy within Thrown Range.
+* Thrown (Missile) attack the strongest-looking enemy within Thrown Range.
 * Melee Attack the strongest-looking *standing* living creature (friend or foe) within immediate striking range (Mind Save DC 12 each time to avoid attacking an ally).
-* Mind Save (target: 15) to break out of rage: if successful the Berserker's mind clears and they spend the round panting, if failed they Collapse to the ground unconscious (remain unconscious for 3d6 minutes).
+* Mind Save (target: 15) as the rage runs out: if successful the Berserker's mind clears and they spend the round panting, if failed they Collapse to the ground unconscious (remain unconscious for 3d6 minutes).
 
 A Berserker can choose to voluntarily fail either save and willingly let the rage overtake them and/or knock them unconscious afterward. They can also trigger it on their own by causing themselves 1 point of damage with a weapon.
 
@@ -308,7 +308,7 @@ See below for a table of attack and save bonuses by level:
 
 **Not Today!:** At first level and each level after, the Fighter gains a single use of "Not Today!" When a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can spend a use and instead remain at 1 HP and negate the rest of the damage from that attack. These uses accumulate with each level, but each use is permanently lost upon spending.
 
-**Primary Tank:** Fighters add 3x their Death Save bonus to their Hit Points total, instead of 1x.
+**Primary Tank:** When leveling up, Fighters reroll their Hit Points twice, and keep the best result.
 
 **Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense Beans until the start of their next turn in combat.
 
@@ -1040,10 +1040,9 @@ Your class determines how many spells are in your starting spell or prayer book.
 
 * **Experience Level** (1) and associated **Character Tier** (1)
 * **Hit Die** = Determined by your Class
-* **Hit Points (HPs)** = Your CON score, plus your XP level, plus your base Hit Die maximum, plus your Death Save modifier if any.
-* **Defense** = Your DEX score
+* **Hit Points (HPs)** = Your Hit Die maximum plus your CON mod, if any.
+* **Defense** = Base of 10, plus your DEX mod, plus your Armour's Defense.
 * **Defense Beans** = Based on your Shield, if any.
-* **Armour Soak** = Based on your worn Armour, if any.
 * **Melee Attack Modifier** = STR mod + any class mods
 * **Melee Damage Modifier** = STR mod
 * **Missile Attack Modifier** = DEX mod + any class mods

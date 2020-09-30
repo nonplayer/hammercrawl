@@ -69,11 +69,13 @@ TBD
 
 TBD
 
+* Defense:
+* Damage:
+
 
 #### Combat Time and Flow
 
-A combat Round is roughly ten (10) seconds of action. During a Round, the flow is broken into Sides, of which there are almost always two (2). Each Side gets a Turn, which is broken down into three (3) Phases. During each Phase of a Turn, each character on that Side gets a Movement and an Action, all of which are resolved in a specific order. Once each Side has taken its Turn, that Round is over, and a new Round may possibly begin.
-
+Combat is played through a sequence of consecutive **Rounds**. A combat Round is roughly ten (10) seconds of action. During a Round, the flow is broken into **Sides**, of which there are almost always two (2). Each Side gets a **Turn**, which is broken down into three (3) **Phases**. During each Phase of a Turn, each character on that Side gets a **Movement** and an **Action**, all of which are resolved in a specific order. Once each Side has taken its Turn, that Round is over, and a new Round may possibly begin.
 
 
 #### Combat Structure
@@ -99,7 +101,7 @@ A combat Round is roughly ten (10) seconds of action. During a Round, the flow i
 TBD
 
 
-### Combat Rounds
+### The Combat Round
 
 TBD
 
@@ -119,9 +121,10 @@ Once both sides have completed their phases and turns, it is time to roll initia
 
 #### 1. Morale Phase
 
+TBD
+
+
 #### 2. Movement Phase
-
-
 
 Your movement options are as follows:
 
@@ -170,8 +173,8 @@ Roll d20 and add your relevant attack modifiers.
 
 The *main* distinctions between Melee and Missile/Ranged attacks are:
 
-* Melee attacks add STR mods to damage, but are at close range and thus in reach of the enemy.
-* Missile attacks have no stat mods to damage, but can be used at longer ranges.
+* **Melee attacks** add STR mods to damage, but are at close range and thus in reach of the enemy.
+* **Missile attacks** have no stat mods to damage, but can be used at longer ranges.
 
 As always, some weapons and attacks add exception to these assumptions.
 
@@ -184,26 +187,34 @@ Melee weapons without a Thrown quality *can* be thrown, but the attack receives 
 
 #### Attack Dice Explained
 
+Many characters may have one or more **Attack Dice** granted by their Class. Level 1 Fighters, for example, begin the game with two Attack Dice, while Magic-Users start with only one (and never gain more). In HAMMERCRAWL! these dice represent "chances to do damage" during your Turn in combat.
 
-#### Applying Damage
+When you decide to take an Attack action on your combat Turn, first take note of how many Attack Dice are available to you. These would be granted to you by your Class; unless specified, you only have one Attack Die. Some classes also have restrictions on how their bonus dice can be used. For example, Elves and Fighters can use their Attack Dice however they choose, while Dwarves can only use their bonus dice for melee attacks. In any such case, your base die can always be used however you like.
 
-In most cases (and yes there are exceptions) a successful attack causes damage against your enemy. Most damage applied in combat will generally come from three main sources: melee attacks, missile attacks, and spell attacks. With Melee and Missile attacks, the damage applied is based on whether your attack was true, glancing, or a miss. **On a true hit** the damage is as follows:
+Once you know your total Attack Dice, declare what weapon(s) you are using. You will only be able to use the weapons you are holding at the start of your attack, and you are not able to swap weapons once you've rolled the dice.
 
-* **Melee Attacks:** Your max Hit Die, plus your STR mod, plus any applicable specific mods
-* **Missile Attacks:** Your max Hit Die, plus your weapon's Awesome mod (if any), plus any applicable specific mods
+With the weapons declared, it's time to roll all of your Attack Dice, along with your class Hit Die (also called the "damage die"). Regardless of how many Attack Dice you have, you still only roll a single Hit Die. You can then assign the dice as you see fit between basic attacks and special attacks (shield bash, tactical attacks, etc), provided they all involve weapons you are currently equipped with. Resolve each of those attacks in any order you see fit, against any targets that are valid.
 
-**On a glancing hit** the damage is one-half (rounded down) the damage that would have been dealt on a true hit.
+You can think of them as separate physical attacks if you like, but they don't have to be, as they are simply additional chances to re-apply your damage die. Four attack dice can represent four separate swings of a sword, or one big mega-awesome single stab, or any combination in between.
 
-**Spell Attacks** are special cases, with each spell's damage depending on the nature of the spell; some do melee or ranged damage as described above, others apply their own specific effects. See spell descriptions for more information.
 
-For rules on what happens when you get hurt and/or die, see the "Hit Points and Death" section of this chapter.
+#### Basic Attacks
+
+The basic attack action involves using a weapon to hit an enemy, with the goal of applying damage to that enemy and eventually defeating them. Most damage applied in combat will generally come from three main sources: melee attacks, missile attacks, and spell attacks. Spell attacks will always depend on the spell, so this section will only focus on Melee and Missile attacks.
+
+Any of your Attack Dice that equal or exceed your opponent's Defense can be declared successful "hits" with your currently-held weapon. Each successful hit causes damage against your enemy, determined by the result of your rolled damage:
+
+* **Melee Attacks:** The result of your damage die, plus your STR mod, plus any applicable specific mods
+* **Missile Attacks:** The result of your damage die, plus your weapon's Awesome mod (if any), plus any applicable specific mods
+
+If you score multiple hits, you apply the same amount of damage that many times. For rules on what happens when you get hurt and/or die, see the "Hit Points and Death" section of this chapter.
 
 
 #### Critical Hits and Fumbles
 
-If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! On a Critical Hit, total your damage dice (based on Hit Die) and all associated bonuses, double that total, and then apply that much damage. Alternately, instead of doubling the damage you can choose to apply a cool narrative or tactical effect, such as pushing your target into a pit, or insulting their lineage so heinously that they cringe in shame (giving your allies a Boon against them for the next round).
+If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! Critical hits (also known as "Crits") multiply your rolled damage by theoretically infinite amounts. When the "nat 20" is rolled, your damage multiplier increases to x2. Then you must roll a Luck Save, per normal rules. If successful, your multiplier increases to x3, and you get to attempt *another* Luck Save. For each consecutive Luck Save that you pass, increase the multiplier +1 and repeat. If you fail a Luck Save, the chain ends. Multiply your total damage rolled (including base mods) by the final multiplier, and apply that to your enemy.
 
-If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die.
+If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die. Currently there are no extended fumble rules written up, as the author has been defaulting to old WFRP1E fumble tables. If folks want to see them here, maybe that can happen in the future.
 
 
 #### Shield Bash Action
@@ -215,6 +226,8 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters 
 * The target is knocked to the ground, and the next ally that attacks them gains a Boon on one of their dice.
 
 Fighters who Shield Bash as one of their attack dice lose the shield's Defense Beans until their next combat turn. Dwarves do not suffer this setback.
+
+If you Crit with a Shield Bash, each "multiplier" increase instead lets you add and/or stack another effect.
 
 
 #### Tactical Attacks
@@ -233,18 +246,20 @@ If failed, the Hammersmith chooses one of the following based on the description
 * The target is temporarily incapacitated
 * Any other effect that seems appropriate
 
-Tactical Attacks are great for setting an opportunity for a Thief's Stabbity attack.
+If you Crit with a Shield Bash, each "multiplier" increase instead adds and/or stacks another effect.
 
 
 ### Non-Attack Actions
 
 
-#### Cast Spell Action
+#### Cast Spell (Magic)
 
 TBD
 
+**Spell Attacks** are special cases, with each spell's damage depending on the nature of the spell; some do melee or ranged damage as described above, others apply their own specific effects. See spell descriptions for more information.
 
-#### Defensive Action
+
+#### Defensive Action (Misc)
 
 You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position." To do so, on your turn you must not take any other actions (although you can move normally), and declare you are executing a Defensive Action. Then you must describe how your character is specifically focusing on defense in the current moment.
 
@@ -253,18 +268,13 @@ When done, you are in a Defensive state until the beginning of your next turn, a
 If you are attacked on a turn in which you have not already acted, you can choose to declare a defensive action at that time. The same effects apply, but you give up your action that turn.
 
 
-#### Swap Gear Action
+#### Swap Gear (Misc)
 
 On your Turn, you can freely swap between any gear that you are holding or carrying in your immediate Personal Inventory. This does not cost an action, but does require it to be your active turn.
 
 For an action, you can swap between held/carried items and items inside your carried Bags. This requires an action, because you have to stop what you're doing, open the bags, dig around in them, and so on.
 
 Wearable items cannot normally be swapped out mid-combat without explicit allowances by the 'Smith.
-
-
-#### Tactical Action
-
-TBD
 
 
 ### Special Combat Rules and Notes
@@ -294,11 +304,15 @@ In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - 
 Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to tactically employ two-weapon attacks on the regular are encouraged to instead consider incorporate them as description for Tactical Actions (see above).
 
 
-#### Unarmed Combat
+#### Unarmed Attacks
 
-The Hit Die damage rules assume the use of any number of standard weapons. When fighting unarmed, the damage die is reduced by one step (i.e. from 1d8 to 1d6). If the combatant's base Hit Die is d4, then their damage is reduced to 1 point. Getting punched by a wizard is usually more of an annoyance than anything noteworthy.
+Unless circumstances otherwise interfere, a standard adventurer is always considered to have access to their hands, feet, and other body parts as last-resort weapons. If your hands are empty of weapons (including shields and bows), then you are considered **unarmed**. When you attack unarmed, you treat the attacks as if they are Basic attacks for all purposes of the rules, with the following additional modifications:
 
-When fighting unarmed against an armed opponent, prepare for a massive beating. Unarmed combatants receive a Bane on melee attacks against armed opponents, and armed combatants also receive a Boon on attacks against unarmed opponents. Double whammy.
+* If you are attacking to cause damage, then your damage is halved, rounded down.
+* If your opponent is armed, your attack roll receives a Bane, unless it is a Tactical Attack.
+
+Even if you are wielding actual weapons, you can still make use of your off-hand and your feet as extra weapons when applying your Attack Dice.
+
 
 Note that holding a shield and/or a missile weapon counts as being armed.
 
@@ -554,17 +568,12 @@ Before anything related to Hit Points is determined in your game, your 'Smith mu
 
 ### Determining Your Starting Hit Points
 
-Your character's starting HP at level 1 is equal to the sum of all of the following:
-
-* Your characters base CON score
-* The maximum value of your character's class Hit Die
-* Your character's experience level
-* Your character's Death Save modifier, if any
+Your character's starting HP at level 1 is equal to the maximum of your class Hit Die, plus your CON mod, if any.
 
 
 ### Improving Your Hit Points
 
-The primary method of long term character HP improvement is via increasing your experience level. Whenever you Level Up, your Hit Points total is increased by 1, and also any new increases to your Death Save total as well (if applicable). This is further explained in the "Experience" section, further above.
+The primary method of long term character HP improvement is via increasing your experience level. In HAMMERCRAWL! you must reroll your entire Hit Points total with every new level, but fortunately you can never end up with fewer than you previously had. Whenever you Level Up, roll a number of dice equal to your new XP level, and add your CON mod to each die. If the new total is greater than your previous HP total, keep it. If it is not, instead keep the previous total +1.
 
 
 ### Temporary Hit Points
@@ -578,9 +587,9 @@ When temporary HPs expire, you *do not* have to "pay them back" in any fashion, 
 
 Whenever you would connect with a damaging attack or effect, roll the given amount of damage and apply it to your target, who "takes" said damage (see below).
 
-Your base damage with all weapons is equal to your Class Hit Die. Some weapons may have special modifiers to this, however. Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
+Your base damage with all weapons is determined by your Class Hit Die, which you roll alongside the rest of your Attack Dice. Some weapons may have special modifiers to this, however. Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
 
-Your base damage with spells and other effects is determined by those individual effects.
+Extended combat and damage rules are found in the Combat section. Your base damage with spells and other effects is determined by those individual effects (see the Magic chapter).
 
 
 ### Taking Damage
