@@ -396,6 +396,19 @@ I use the following roll table for traps. The basic names are cribbed directly f
 | 20 | Teleporter Trap                                                                         |
 
 
+### On the Subject of Traps...
+
+TBD
+
+(undeveloped notes on their use in play)
+
+Dangerous traps with saving throws are fine, but you should always make sure that there are ways that the players can discover to bypass them (and thus not have to roll a save). A skilled 'Smith learns to subtly telegraph their existence with simple clues given to players who wisely choose to investigate their surroundings. This shouldn't even require a Thief in the party, although the presence of one can greatly assist.
+
+Similarly, *any* player character can attempt to disable a trap they discover, with no need for a roll. If they figure out the trap's mechanism through exploration and role-playing, and then discover the method to disable it, then they should be allowed to simply do so - provided the physical act is within their realm of possibility. For example, if they find the hidden lever that disables a trap, they can then use that lever without having to roll for it. If that lever is out of reach on the other side of a gate, however, they will need to develop other solutions.
+
+Thus I recommend that you encourage the players to not rely on their Thief, and in fact to consider the Thief something of a last resort, a kind of super-powered dungeon specialist that is called upon to save the day when all other options have failed.
+
+
 ## Random Treasure
 
 TBD
