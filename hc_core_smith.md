@@ -334,7 +334,28 @@ When generating a random encounter, you may wish to also randomly determine the 
 | 10-11 | Ambivalence     |
 | 12    | Friendliness    |
 
-The result determines the reaction type displayed by the encountered group. The divining pool results may further modify these at your discretion. Interpret these results however you like.
+The result determines the reaction type displayed by the encountered group. The divining pool results may further modify these at your discretion. Most of these results allow the possibility of **Parley**, detailed further below.
+
+**Open Hostility:** The group is immediately hostile! If they consider the party to be a beatable challenge, they immediately attack (move to Combat rules). If they feel significantly weaker than the party, they may flee or even surrender. It's your call, but either way they will not engage in Parley.
+
+**Aggression:** The group will not immediately attack, but chances are likely that they will move to Open Hostility unless the PCs change the situation somehow. Aggressive groups may be willing to Parley with the PCs, but this will be difficult. If the 'Smith requires a check, add a Bane.
+
+**Wariness:** The group will not immediately attack, but will still respond to the PCs with suspicion and possible challenges. Wary groups may be willing to Parley with the PCs, and the 'Smith may require a check for this to succeed.
+
+**Ambivalence:** The group is more or less neutral to the PCs, responding to them without any hostility, but likewise without any overt amity either. Ambivalent groups may be willing to Parley with the PCs; if the 'Smith requires a check, add a Boon.
+
+**Friendliness:** The group is immediately welcoming to the PCs, displaying no signs of hostility. Friendly groups will always be willing to Parley without requiring a check.
+
+
+### Parley
+
+Although the HAMMERCRAWL! system tends to assume that combat is an inevitable conclusion when two parties meet in a dungeon, it doesn't always have to go that way. In fact, if the players wish to survive to their next levels, they should probably make a habit of engaging in friendly discussion with new groups whenever feasible. If they encounter a new group and wish to keep things social, then you can call for the **Parley** rules described here.
+
+If the encountered group's Reaction was less than Friendly, you may require that the chosen spokesperson for the party must first succeed at a "Parley Check" in order to continue the encounter without moving to combat. To do this, they must role-play their greeting, and then roll a Rally Save, with the target based on the tier difference between the two groups. Some of the Reactions may apply Boons or Banes to this. Additionally, if the encountered group is of a nature to care about the party's societal status, you may apply one of more of the PCs' Social stat mods to this result as well, at your discretion.
+
+If the Parley check succeeds, then the groups have agreed to converse. Keep the game play focused in general role-playing and Beat-based time-keeping, and do not initiate combat unless (or until?) the situation takes an unexpected turn towards violence.
+
+If the check fails, the encountered group either outright attacks, departs, or otherwise demands that the PCs themselves leave, at your decision. If required, begin Combat rounds and time-tracking.
 
 
 ## Random Monsters
