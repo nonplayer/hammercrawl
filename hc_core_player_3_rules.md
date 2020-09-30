@@ -98,7 +98,13 @@ Combat is played through a sequence of consecutive **Rounds**. A combat Round is
 
 ### Surprise Check
 
-TBD
+Before every Combat sequence, there may be a chance that one side of the encounter surprises the other, and gets the proverbial drop on their opponents. The easiest way to handle this is for the 'Smith to make a call based on their greater assessment of the situation. In this case, he declares that one or more of the combatants are **surprised** and thus cannot take actions in the first round of combat.
+
+If the involved parties at the table cannot agree to this and feel that it absolutely must be decided mechanically, then have all of the "surprised" characters roll Rally saves. Anyone who passes can act in the first round of combat.
+
+If two groups happen upon each other simultaneously and *both* are surprised, role-play a round of everyone gawking at one another incredulously, and then roll initiative as per normal combat.
+
+Note that this of course *assumes* that this situation has already been decided to be one that focuses on violence and murder (aka Combat). If groups surprise one another outside of a combat-focused situation, just handle it however you damn well please and move on with your game.
 
 
 ### The Combat Round
@@ -121,17 +127,22 @@ Once both sides have completed their phases and turns, it is time to roll initia
 
 #### 1. Morale Phase
 
-TBD
+At the start of each side's Turn, any Morale and/or fear-based effects are resolved. **Morale** is a mechanic that most likely only affects NPCs (monters, hirelings, etc). The really short version is that as things go sour, less stalwart non-player combatants are increasingly likely to pack up and get the hell out of Dodge in order to save their own skins.
+
+At the top of each side's Turn, the 'Smith can require a Morale check from any NPCs that he feels have a chance of being sufficiently frightened by the events of the situation thus far. If the NPC is a party hireling, the PC in charge of them must make a Rally save (as detailed in the Hirelings section). If failed, the Hireling departs, fleeing for the nearest escape to safety.
+
+If the NPC is under the 'Smith's control, they can either attempt a Rally save (if they're custom-statted) or a classic 2d6 Morale check (if they are imported from another game book). In the former case, use the standard Rally save rules. In the latter case, roll 2d6, and if the roll is *greater than* their Morale score, they, too, run the hell away.
+
+Additionally, any characters affected by Fear magic or such must resolve the associated actions here. For example, any characters that are compelled to run away (such as via fear spells or a cleric's Turn Unholy power) must do so now, before all other phases on their side's turn.
 
 
 #### 2. Movement Phase
 
 Your movement options are as follows:
 
-* **Stay Put:** By standing your ground and not moving, you still get to act afterward in the proper order this round. You additionally enjoy a +1 readiness bonus to any one rolled die (of any size) during that action.
+* **Stay Put:** By standing your ground and not moving, you still get to act afterward in the proper order this round. You additionally enjoy a +1 readiness bonus to any one rolled die (of any size or purpose) during that action. Five bucks says you'll forget this rule.
 * **Move Near:** You can choose to move no further than your Speed, and still take an action this round.
 * **Move Far (aka "Double Move"):** You can choose to rush, moving up to double your Speed. You can not both Move Far and Take an Action in the same round.
-
 
 
 #### 3. Actions Phase
@@ -162,11 +173,7 @@ After all characters on the initiative-winning side have had a chance to move an
 
 ### Attack Actions
 
-TBD
-
-beat the opponent's Defense (based on actual DEX score).
-
-Roll d20 and add your relevant attack modifiers.
+In this section, we define the basic rules of applied violence.
 
 
 #### Attack Ranges: Melee vs Missile
@@ -225,7 +232,7 @@ The **shield bash** is a special melee attack available to Dwarves and Fighters 
 * The target is "dazed" until their next action, suffering a combat Bane.
 * The target is knocked to the ground, and the next ally that attacks them gains a Boon on one of their dice.
 
-Fighters who Shield Bash as one of their attack dice lose the shield's Defense Beans until their next combat turn. Dwarves do not suffer this setback.
+Fighters who Shield Bash as one of their attack dice lose the shield's Defense bonus until their next combat turn. Dwarves do not suffer this setback.
 
 If you Crit with a Shield Bash, each "multiplier" increase instead lets you add and/or stack another effect.
 
@@ -246,10 +253,12 @@ If failed, the Hammersmith chooses one of the following based on the description
 * The target is temporarily incapacitated
 * Any other effect that seems appropriate
 
-If you Crit with a Shield Bash, each "multiplier" increase instead adds and/or stacks another effect.
+If you Crit with a Tactical Attack, each "multiplier" increase instead adds and/or stacks another effect.
 
 
 ### Non-Attack Actions
+
+Not all actions in combat are violent. Here are some other options you may wish to consider.
 
 
 #### Cast Spell (Magic)
@@ -263,7 +272,7 @@ TBD
 
 You can choose to dedicate your turn's action to avoiding damage entirely by using a Defensive Action - sometimes called "taking a defensive position." To do so, on your turn you must not take any other actions (although you can move normally), and declare you are executing a Defensive Action. Then you must describe how your character is specifically focusing on defense in the current moment.
 
-When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a a number of Banes equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single Bane, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
+When done, you are in a Defensive state until the beginning of your next turn, and all attacks taken against you *that you can see coming* suffer a number of Banes equivalent to the same as would match your Hit Die in the basic dice step. For example, if your Hit Die is a d4 then that's a single Bane, while HD of d6 applies two, d8 applies three, and d10 applies four. Attacks that come from unawares do not suffer this penalty.
 
 If you are attacked on a turn in which you have not already acted, you can choose to declare a defensive action at that time. The same effects apply, but you give up your action that turn.
 
@@ -282,9 +291,11 @@ Wearable items cannot normally be swapped out mid-combat without explicit allowa
 Alphabetized for ease of reference.
 
 
-#### Armour
+#### Armour and Shields
 
-Wearing armour does not make you harder to hit (unlike in the OG). Instead it allows you to "Soak" damage. See further below.
+Wearing armour and carrying shields is the most common method of raising Defense for most adventurers. Typically the heavier the armour and the bigger the shield, the better the defense boost, but there are some exceptions out there.
+
+Shields primarily exist to provide additional Defense bonuses, but they can also be used as versatile melee weapons. Some "shield weapons" can be used as either offensive or defensive tools, providing double the function with minimal fuss. In addition, specially-trained warriors (namely Dwarves and Fighters) can use shields in conjunction with a special "Shield Bash" attack for additional effect. This is described above, in the Attacks section.
 
 
 #### Missile Weapons in Melee Combat
@@ -292,16 +303,11 @@ Wearing armour does not make you harder to hit (unlike in the OG). Instead it al
 When using a missile weapon against a target that is in melee with you, your attacks have a Bane die.
 
 
-#### Shields
-
-Shields apply one or more Banes to the attacker, making it more likely that the attack will do less damage or miss entirely. Unlike armour, shields are not degraded over time, and as such do not carry the risk of "running out" during a battle.
-
-
 #### Two-Weapon Fighting
 
-In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - this is entirely a matter of narrative description, and players are encouraged to go wild with their imaginations here. Elf Exemplars are the only characters that receive *specific* mechanical bonuses for attempting to do fight in that style.
+In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - this is entirely a matter of narrative description and character style, and players are encouraged to go wild with their imaginations here. Elf Exemplars are the only characters that receive *specific* mechanical bonuses for attempting to do fight in that style.
 
-Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to tactically employ two-weapon attacks on the regular are encouraged to instead consider incorporate them as description for Tactical Actions (see above).
+Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to employ two-weapon attacks on the regular are encouraged to instead consider incorporating them as descriptive flair for Tactical Attacks (see above).
 
 
 #### Unarmed Attacks
@@ -311,13 +317,12 @@ Unless circumstances otherwise interfere, a standard adventurer is always consid
 * If you are attacking to cause damage, then your damage is halved, rounded down.
 * If your opponent is armed, your attack roll receives a Bane, unless it is a Tactical Attack.
 
-Even if you are wielding actual weapons, you can still make use of your off-hand and your feet as extra weapons when applying your Attack Dice.
-
-
-Note that holding a shield and/or a missile weapon counts as being armed.
+Even if you are wielding actual weapons, you can still make use of your off-hand and your feet as extra weapons when applying your Attack Dice. This is most useful as a descriptive coloring of Tactical Attacks (give them a good kick to knock them down, etc).
 
 
 ### After Combat
+
+TBD
 
 
 #### Loot Time!
@@ -342,7 +347,7 @@ See "Hit Points and Death"
 
 ## Diseases
 
-(tbd)
+TBD
 
 
 ### Known Diseases of the HAMMERCRAWL! World
@@ -353,6 +358,8 @@ No one has discovered exactly what Dungeon Cooties do to a living creature, but 
 
 
 ## Encounters (the Players' version)
+
+TBD
 
 Misc:
 
@@ -780,7 +787,6 @@ Then, each player gets to pick one additional Camp Action to perform now:
 * **Rest:** Recover half (round up) of currently-lost HPs (or the second half, if doubling up from the free action above). **Requires a Bedroll and Food:** Choosing this action consumes one additional Ration, and requires an available Bedroll or suitable substitute.
 * **Re-Memorize:** Recover one previously-spent daily spell use per character level. **This requires an appropriate spellbook**
 * **Craft Ammo:** Add 2d4 normal arrows for your bow/crossbow, or collect as many sling stones.
-* **Repair Armour:** Restore your XP Level in lost Soak points to your armour or another PC's. If you have a relevant skill, double the amount restored. If you have two or more relevant skills, triple the amount restored.
 * **Level up!:** If your hero has enough XP to reach the next level, they can apply the effects of that level as a Camp Action. Follow the core process for Leveling Up. Note that it does not heal existing HP loss or restore used spells or abilities (those are separate Camp Actions, above).
 * **Stand Watch:** Add a Blue Die to the next room explored, and -1 to Smith's camp encounter roll (below).
 * **Scout Ahead:** Roll Search (or other system-appropriate check). If successful, add one Yellow die to next 1d4 new rooms explored. If failed, add that many Black dice instead.

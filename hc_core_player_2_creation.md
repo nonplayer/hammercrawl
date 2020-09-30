@@ -66,7 +66,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Dwarven Resilience:** Dwarves have a Boon on all of their Good saves.
 
-**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the Defense Beans of their shield when using the bash.
+**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the Defense bonus of their shield when using the bash.
 
 See below for a table of attack and save bonuses by level:
 
@@ -310,7 +310,7 @@ See below for a table of attack and save bonuses by level:
 
 **Primary Tank:** When leveling up, Fighters reroll their Hit Points twice, and keep the best result.
 
-**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense Beans until the start of their next turn in combat.
+**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense bonus until the start of their next turn in combat.
 
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 
@@ -1041,8 +1041,7 @@ Your class determines how many spells are in your starting spell or prayer book.
 * **Experience Level** (1) and associated **Character Tier** (1)
 * **Hit Die** = Determined by your Class
 * **Hit Points (HPs)** = Your Hit Die maximum plus your CON mod, if any.
-* **Defense** = Base of 10, plus your DEX mod, plus your Armour's Defense.
-* **Defense Beans** = Based on your Shield, if any.
+* **Defense** = Base of 10, plus your DEX mod, plus your Armour and Shield Defense bonus.
 * **Melee Attack Modifier** = STR mod + any class mods
 * **Melee Damage Modifier** = STR mod
 * **Missile Attack Modifier** = DEX mod + any class mods
@@ -1063,7 +1062,8 @@ Hopefully the rest of your group has been making your characters alongside one a
 
 * **Party Leader:** This player is responsible for choosing Initiative orders, and for informing the Hammersmith when the party moves on or takes any of the Party Actions.
 * **Mapper:** This player is responsible for translating the Hammersmith's descriptions to a map that the party can use, in whatever artistic fashion the player sees fit.
-* **Timekeeper:** The player tracks the passage of game Beats, and keeps track of who is carrying what light sources (and how much time is left on them).
+* **Timekeeper:** This player tracks the passage of game Beats, and keeps track of who is carrying what light sources (and how much time is left on them).
+* **Lootkeeper:** This player records all the loot found on the adventure. You probably don't want the Thief to be the Lootkeeper, but hey, you only live once.
 
 
 ## Now Take It All In
@@ -1209,7 +1209,7 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 
 **Net:** Nets are "close-ranged missile" tactical weapons, designed to be held in one hand (or attached at the hip) and thrown with the other, entangling a nearby opponent to either capture them or immobilize them for better attacking. They function as "missile" type weapons, using DEX-modified attacks, but have a melee-only range. Nets do not do damage, instead serving as ranged Tactical Weapons. See **Tactical Attacks** in the Combat Chapter.
 
-**Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (giving shield Defense Beans). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
+**Shield Weapons:** Some shields have special attached weaponry, such as horns, knives, swords, and tusks. In mechanical terms, these are versatile weapons, which can be used either offensively (as their attached weapons) or defensively (providing a Defense bonus). The player using it must decide each round how they are using it, applying the result until their next subsequent round. See also "Armour & Shields," below.
 
 **Sling and Slingstones:** The base listed stats for the sling assume the user is equipped with actual crafted sling bullets as their choice of ammunition. However, in a pinch a sling user can feasibly put any small hard object into the sling for use as ammunition: coins, marbles, stones off the ground, etc. Any of these items not specifically crafted as sling bullets is considered a "slingstone" for the purpose of mechanics. When using slingstones, reduce damage by -1 (to a minimum of 1) and reduce base range by half (i.e. 40/80).
 
@@ -1225,11 +1225,7 @@ Weapons are divided into three core types: Melee weapons, Missile weapons, and S
 
 #### Armour
 
-The primary purpose of armour is to allow its wearer to soak (and thus prevent) damage from incoming attacks. When the wearer is hit by an attack, they can choose to spend a **Soak** and absorb all of that attack's damage. If the attack scored a critical hit, then each multiple of damage scored requires a Soak to absorb.
-
-Lost Soak can be repaired either as a Camp action, or by spending coins in town. Repairing Light Armour costs 1 coin per lost Soak, while Heavy Armour costs 10 coins per Soak restored, and Plate Armour costs 100 coins per Soak restored. Yes, this does mean that certain suits are more expensive to repair than to buy anew.
-
-Armour comes in three basic types: Light, Heavy, and Plate. Light armour has low Soak and is generally accessible to all character classes. Heavy and Plate armour are more restricted by classes. They have much higher Soak, but are also cumbersome and a bit unwieldy. Heavy and Plate Armours apply Banes to their wearer's Area saves, as well as any other Dex-based skills or actions that the 'Smith deems affected.
+The primary purpose of armour is to increase the Defense score of its wearer. Armour comes in three basic types: Light, Heavy, and Plate. Light armour has low Defense and is generally accessible to all character classes. Heavy and Plate armour are more restricted by classes. They have much higher Defense, but are also cumbersome and a bit unwieldy. Heavy and Plate Armours apply Banes to their wearer's Area saves, as well as any other Dex-based skills or actions that the 'Smith deems affected.
 
 **Armour Table**
 
@@ -1237,7 +1233,7 @@ Descriptors:
 
 * **Name:** The name of the armour
 * **Type:** Whether the armour is Light, Heavy, or Plate
-* **Soak:** The number of Soaks the armour provides to its wearer
+* **Defense:** The bonus to Defense that the armour provides to its wearer
 * **Size:** Encumbrance requirement when not worn
 * **Banes:** The number of Banes this armour applies to certain physical actions. Heavy Armour applies 1 Bane, while Plate Armour applies 2.
 * **Cost:** In coins, to have crafted by an armoursmith of suitable skill (With a few exceptions, armour is rarely available for immediate purchase)
@@ -1245,46 +1241,46 @@ Descriptors:
 
 **NOTE:** For any entry with an asterisk in its data, see the text section below the table for further details.
 
-| Name         | Type  | Soak | Size | Banes | Cost  | Qualities |
-|--------------|-------|------|------|-------|-------|-----------|
-| Padded       | Light | 2    | M    |  -    | 1     | Wearable  |
-| Leather      | Light | 4    | M    |  -    | 10    | Wearable  |
-| Studded      | Light | 6    | M    |  -    | 25    | Wearable  |
-| Scale        | Heavy | 8    | L    | 1     | 50    | Wearable  |
-| Chain        | Heavy | 10   | L    | 1     | 100   | Wearable  |
-| Splint       | Heavy | 12   | L    | 1     | 500   | Wearable  |
-| Platemail    | Heavy | 14   | H    | 1     | 1000  | Wearable  |
-| Plate Armour | Plate | 16   | H    | 2     | 10000 | Wearable  |
+| Name         | Type  | Defense | Size | Banes | Cost  | Qualities |
+|--------------|-------|---------|------|-------|-------|-----------|
+| Padded       | Light | 1       | M    |  -    | 1     | Wearable  |
+| Leather      | Light | 2       | M    |  -    | 10    | Wearable  |
+| Studded      | Light | 3       | M    |  -    | 25    | Wearable  |
+| Scale        | Heavy | 4       | L    | 1     | 50    | Wearable  |
+| Chain        | Heavy | 5       | L    | 1     | 100   | Wearable  |
+| Splint       | Heavy | 6       | L    | 1     | 500   | Wearable  |
+| Platemail    | Heavy | 7       | H    | 1     | 1000  | Wearable  |
+| Plate Armour | Plate | 8       | H    | 2     | 10000 | Wearable  |
 
 
 #### Shields
 
-Shields on the other hand (hah! a pun!) function as deflection tools, reducing the chances of the wielder being hit in the first place. Depending on its size, a shield adds one or more Banes to all incoming attack rolls that the wielder can see. This is a valuable method of reducing attack rolls to zero or less, and thus potentially eliminating all incoming damage.
+Shields are special *weapons* that primarily function as defensive tools. Depending on its size, a shield increases its wielder's Defense score by one (1) or more points. They can be used as offensive weapons as well, a function more deeply detailed in the Combat rules. Note that some special "weapon" shields also exist as more versatile offensive tools, too.
 
 **Shields Table**
 
 Descriptors:
 
 * **Name:** The name of the shield
-* **Banes:** The number of Defense Banes the shield applies to attackers
+* **Bonus:** The increase to the wielder's Defense granted by the shield
 * **Size:** Encumbrance requirement when not worn
 * **Cost:** In coins, to purchase from a smith or armourer (unlike armour, shields are relatively easy to find for sale)
 
 **NOTE:** For any entry with an asterisk in its data, see the text section below the table for further details.
 
-| Shield Type      | Banes | Size | Cost |
+| Shield Type      | Bonus | Size | Cost |
 |------------------|-------|------|------|
 | Shield, Buckler* | 1     | M    | 1    |
 | Shield, Small    | 2     | M    | 10   |
 | Shield, Tower*   | 3     | L    | 100  |
 
-**Shield, Buckler:** Buckler shields are super cheap, but only apply a Bane to any _melee_ attacks the wielder can see coming, while being ineffective against missiles. A buckler may optionally be strapped to its wielder's arm, leaving that hand empty and available for other combat purposes, however it loses its defensive Banes if that hand is used to attack in a round. Bucklers _may_ be used to Shield Bash.
+**Shield, Buckler:** Buckler shields are super cheap, but only apply a Bane to any _melee_ attacks the wielder can see coming, while being ineffective against missiles. A buckler may optionally be strapped to its wielder's arm, leaving that hand empty and available for other combat purposes, however it loses its defensive bonus if that hand is used to attack in a round. Bucklers _may_ be used to Shield Bash.
 
 **Shield, Small:** Small Shields are the basic all-purpose universal shields. They come in many shapes and styles, but all have the same basic stats.
 
-**Shield Weapons:** Described in the previous Weapons section, Shield Weapons can be used as either Small Shields or hand weapons. If used defensively, they provide standard small shield Defense Beans. If used offensively, they instead function as their attached weapons.
+**Shield Weapons:** Described in the previous Weapons section, Shield Weapons can be used as either Small Shields or melee weapons. If used defensively, they provide standard small shield Defense bonus. If used offensively, they instead function as their attached weapons.
 
-**Tower Shields:** These are full-height portable bulwarks, and cannot be used with Shield Bash. Tower shields apply three Banes to any attacks the wielder can see coming.
+**Tower Shields:** These are full-height portable bulwarks, providing the greatest bonus, but they cannot be used with the Shield Bash attack.
 
 
 ### Adventuring Gear
