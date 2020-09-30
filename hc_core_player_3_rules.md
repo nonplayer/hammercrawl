@@ -215,7 +215,7 @@ The basic attack action involves using a weapon to hit an enemy, with the goal o
 
 Any of your Attack Dice that equal or exceed your opponent's Defense can be declared successful "hits" with your currently-held weapon. Each successful hit causes damage against your enemy, determined by the result of your rolled damage:
 
-* **Melee Attacks:** The result of your damage die, plus your STR mod, plus any applicable specific mods
+* **Melee Attacks:** The result of your damage die, plus your STR mod, plus your weapon's Melee type mod, plus any applicable specific mods
 * **Missile Attacks:** The result of your damage die, plus your weapon's Awesome mod (if any), plus any applicable specific mods
 
 If you score multiple hits, you apply the same amount of damage that many times. For rules on what happens when you get hurt and/or die, see the "Hit Points and Death" section of this chapter.
