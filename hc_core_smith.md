@@ -419,9 +419,9 @@ TBD
 This section details additional information on how to manage the array of characters at your disposal. For ease of writeup, all 'Smith-controlled entities are referred to as simply NPCs in this section.
 
 
-## NPCs and Hit Points
+## Managing NPC Hit Points: Damage Saves
 
-Instead of rolling and tracking multiple running hit point totals for all of your combatants, this game system uses a more simplified method of health tracking.
+Instead of rolling and tracking multiple running hit point totals for all of your combatants, this game system suggests using a more simplified method of health tracking. Heavy HP bookkeeping is exchanged for light token-flipping and damage save rolls.
 
 When a PC successfully attacks a NPC, they must roll their damage as usual. The NPC must then make a special Death saving throw, with the PC's total damage roll as the difficulty target for this save. If the NPC is listed with any numerical modifier on their Hit Dice (such as "3HD+3"), then they apply that modifier to their Death save.
 
@@ -429,7 +429,7 @@ If the NPC fails this save, they are inflicted with a Wound, or two if they roll
 
 If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, and for each Scratch the NPC suffers a Bane on subsequent Death saves to resist wounds. Once a NPC fails a Death save and takes a wound, erase all of its current Scratches.
 
-Keeping track of scratches and remaining HD can be done with simple use of a small die (such as a d6) counting scratches, and a larger die (such as d12 or higher) counting down the NPC's remaining HD. It can be handy to keep a d30 on hand for the more powerful boss monsters, when needed.
+Keeping track of scratches and remaining HD can be done with simple use of a small die (such as a d6) counting scratches, and a larger die (such as d12 or higher) counting down the NPC's remaining HD. It can be handy to keep a d30 on hand for the more powerful boss monsters, when needed. Alternately, a bowl of different-colored tokens can be used, with one color representing Scratches, and the other representing Wounds.
 
 If the total incoming damage from an attack is greater than the NPC could possibly roll on its Death save, it can only succeed at the roll by rolling a natural unmodified 20.
 
