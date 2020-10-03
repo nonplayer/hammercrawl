@@ -337,7 +337,7 @@ See below for a table of attack and save bonuses by level:
 
 ### Human Magic-User (Caster)
 
-* **Prime Stats:** INT, SOC
+* **Prime Stats:** INT (only)
 * **Hit Die:** 1d4
 * **Attack Rank:** D: You have no level-based combat bonus to attacks.
 * **Base Movement:** 30
@@ -533,9 +533,6 @@ Each of the seven core stats affects certain mechanics, as detailed below:
 #### Social Status (SOC)
 
 Your character's social status is inherited at birth. Some embrace it, some reject it - it's up to you. This is a new **seventh** Stat (abbrev: SOC) for the HAMMERCRAWL! game system, recorded with its own modifier determined as usual. This modifier may apply from time to time in dealings within your game world's societies.
-
-
-
 
 **Modifies:**
 
