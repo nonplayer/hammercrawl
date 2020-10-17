@@ -74,17 +74,18 @@ This game text does not *yet* have extensive spell lists, but over time it will 
 
 #### Level 1
 
-1. Cause Fear
-2. Cause Light Wounds
-3. Cure Light Wounds
-4. Darkness
-5. Detect Evil
-6. Detect Magic
-7. Light
-8. Protection from Evil
-9. Purify Food and Water
-10. Remove Fear
-11. Resist Cold
+1. Befoul Food and Water
+2. Cause Fear
+3. Cause Light Wounds
+4. Cure Light Wounds
+5. Darkness
+6. Detect Evil
+7. Detect Magic
+8. Light
+9. Protection from Evil
+10. Purify Food and Water
+11. Remove Fear
+12. Resist Cold
 
 
 #### Level 2
@@ -137,10 +138,9 @@ Clerics have no 8th-level spells. It's sort of a trade-off for their ability to 
 8. Magic Missile
 9. Protection from Evil
 10. Read Languages
-11. Read Magic
-12. Shield
-13. Sleep
-14. Ventriloquism
+11. Shield
+12. Sleep
+13. Ventriloquism
 
 
 #### Level 2
