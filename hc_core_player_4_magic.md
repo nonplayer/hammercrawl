@@ -180,6 +180,83 @@ Clerics have no 8th-level spells. It's sort of a trade-off for their ability to 
 #### Level 8
 
 
+### Combined Spell List
+
+
+#### Level 1
+
+1. Analyse
+2. Befoul Food and Water
+3. Cause Fear
+4. Cause Light Wounds
+5. Charm Person
+6. Cure Light Wounds
+7. Darkness
+8. Detect Evil
+9. Detect Magic
+10. Floating Disc
+11. Hold Portal
+12. Light
+13. Magic Missile
+14. Protection from Evil
+15. Purify Food and Water
+16. Read Languages
+17. Red Magic
+18. Remove Fear
+19. Resist Cold
+20. Shield
+21. Sleep
+22. Ventriloquism
+
+
+#### Level 2
+
+1. Bless
+2. Continual Darkness
+3. Continual Light
+4. Curse
+5. Detect Evil
+6. Detect Invisible
+7. Entangle
+8. ESP
+9. Find Traps
+10. Free Person
+11. Hide Alignment
+12. Hold Person
+13. Invisibility
+14. Knock
+15. Know Alignment
+16. Levitate
+17. Locate Object
+18. Mindmask
+19. Mirror Image
+20. Phantasmal Force
+21. Resist Fire
+22. Silence 15' Radius
+23. Snake Charm
+24. Speak with Animal
+25. Web
+26. Wizard Lock
+
+
+#### Level 3
+
+
+#### Level 4
+
+
+#### Level 5
+
+
+#### Level 6
+
+
+#### Level 7
+
+
+#### Level 8
+
+
 ## Spells Detailed
 
 The growing collection of detailed spells is below, sorted alphabetically
@@ -379,7 +456,11 @@ At first level the caster can create a single missile. At every two levels above
 
 
 ##### Read Languages
-##### Read Magic
+##### Red Magic
+
+Yes, Red Magic. No, that is not a typo.
+
+
 ##### Remove Fear
 ##### Resist Cold
 ##### Resist Fire
