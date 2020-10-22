@@ -307,11 +307,15 @@ Shields primarily exist to provide additional Defense bonuses, but they can also
 When using a missile weapon against a target that is in melee with you, your attacks have a Bane die.
 
 
-#### Two-Weapon Fighting
+#### Dual-Wielding aka Two-Weapon Fighting
 
-In a HAMMERCRAWL! game, any character can choose to wield two weapons at once - this is entirely a matter of narrative description and character style, and players are encouraged to go wild with their imaginations here. Elf Exemplars are the only characters that receive *specific* mechanical bonuses for attempting to do fight in that style.
+In a HAMMERCRAWL! game, many characters can choose to wield two weapons at once - this is largely little more than a matter of narrative description and character style, and players are encouraged to go wild with their imaginations here.
 
-Particularly generous Hammersmiths may choose to award all characters occasional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability. Non-Elf characters that wish to employ two-weapon attacks on the regular are encouraged to instead consider incorporating them as descriptive flair for Tactical Attacks (see above).
+Unless specified as a class restriction, *any* character can choose to use a separate *melee* weapon in each hand for mechanical benefit. This does not add any additional attacks or combat dice. Instead, the second weapon simply adds its Melee bonus to damage output of successful melee hits, in addition to that of the primary weapon. For example, when wielding a Long Sword (Melee+2) in your main hand and a Dagger (Melee+1) in your other, you would receive a total weapon damage bonus of +3.
+
+Note that Elf Exemplars receive additional mechanical bonuses for when dual-wielding. Generous 'Smiths may choose to award all characters occasional additional one-off bonuses for clever use of off-hand tools and weaponry, as long as it is done so in a way that doesn't diminish the value of the Elf's unique ability.
+
+**Remember:** Dual-wielding requires that both hands be holding weapons. This prevents the use of otherwise valuable items such as shields, scrolls, spellbooks, holy symbols, and torches.
 
 
 #### Unarmed Attacks

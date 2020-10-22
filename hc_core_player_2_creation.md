@@ -110,7 +110,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Armoured Spellcaster:** Elves are better at casting in armour than humans. Elves suffer no chance of spell failure in Light armour, and a 25%/50%/75% chance when wearing medium/heavy/plate armours, respectively. Failed spells are forgotten per normal rules.
 
-**Blade Dancer:** Elves are skilled at fighting with two weapons at once. When wielding two one-handed weapons, Elves roll one extra attack die, but lower their damage die by one step (to a d6) for the entire assault. At level 9, this increases to two extra attack dice.
+**Blade Dancer:** Elves are skilled at fighting with two weapons at once. When dual-wielding, Elves increase their melee-only Defense by the melee damage bonus of their off-hand weapon.
 
 **Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a Beat searching.
 
