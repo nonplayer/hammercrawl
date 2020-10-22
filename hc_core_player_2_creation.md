@@ -33,9 +33,9 @@ First and foremost, you must randomly determine your new character's Class. Roll
 \*If human, roll 1d4 to determine your actual class:
 
 1. Cleric
-2. Fighter
-3. Magic-User
-4. Thief
+2. Explorer
+3. Fighter
+4. Magic-User
 
 **Note:** These tables are for a primarily humanocentric fantasy setting, such as that established in The OG. Adjust these as needed for your campaign setting.
 
@@ -152,7 +152,7 @@ See below for a table of attack and save bonuses by level:
 
 **Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
-**Backup Thief:** Halflings can also function as thieves of a sort, in a pinch. They have the following Thief Skills:
+**Backup Explorer:** Halflings have the following Dungeon Skills:
 
 * Break & Enter (DEX)
 * Climb & Leap (STR, with a Bane)
@@ -160,7 +160,7 @@ See below for a table of attack and save bonuses by level:
 * Hide & Sneak (DEX, with a Boon)
 * Snatch & Grab (DEX)
 
-These are used as per normal Thief Skill rules. Unlike Thieves, Halfling thiefskills do not evolve magically.
+These are used as per normal Dungeon Skill rules. Unlike Explorers, Halfling Dungeon Skills do not evolve magically.
 
 **Often Overlooked:** Unless their actions indicate them to be an obvious threat, or their opponents are otherwise specifically predisposed against them, a halfling is always attacked last.
 
@@ -291,6 +291,63 @@ See below for a table of attack and save bonuses by level:
 | 15    | 7      | 5    | 7     | 7    | 7    | 15   | 15    |
 
 
+### Human Explorer (Rogue)
+
+* **Prime Stats:** DEX, INT
+* **Hit Die:** 1d6
+* **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
+* **Base Movement:** 30
+* **Saving Throws:**
+  - **Good:** Area, Luck = add your level to your roll.
+  - **Okay:** Death, Rally = add 1/2 your level (round down) to the roll.
+  - **Bad:** Mind, Body = add 1/3 your level (round down) to the roll.
+* **Gear Restrictions:** Explorers can use all missile weapons, and all 1-handed melee weapons. They can use light armour, bucklers, and small shields.
+* **Bonus Languages:** Underworld
+
+**Dungeon Skills:** Explorers have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. Many of these may seem like common skills anyone can have, but Explorers just happen to be almost superhuman with them. These skills (and their base modifying stats) are:
+
+* Appraise & Identify (INT)
+* Break & Enter (DEX)
+* Climb & Leap (STR)
+* Find & Seek (WIS)
+* Forge & Decipher (INT)
+* Hide & Sneak (DEX)
+* Lie & Cheat (CHA)
+* Snatch & Grab (DEX)
+
+At first level the Explorer must randomly determine one Dungeon Skill to be their **Bailiwick**, and one to be their **Failing**. The Explorer receives a Boon on checks related to their Bailiwick, and a Bane on checks related to their Failing.
+
+At first level, the Explorer's skills only work on a "mundane" level. At ninth level, the Explorer's skills evolve to function on a magical level as well, albeit with a Bane in such circumstances. Dungeon Skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
+
+**Dungeon-wise:** Once per adventure per experience level, the Explorer can attempt to reroll a failed Dungeon Skill check. This count resets upon Returning to Town.
+
+**Opportunist:** When an Explorer is using a melee weapon to attack a foe against which the Explorer either has net attack Boons or is hidden from perception, the Explorer doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
+
+**Tactical Attacker:** Explorers receive a Boon on Tactical Attacks.
+
+**Trapwise:** Explorers receive a Boon on all Saves against the effects of Traps. This increases to two Boons at level 4, three Boons at level 9, and four Boons at level 13.
+
+See below for a table of attack and save bonuses by level:
+
+| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
+|-------|--------|------|-------|------|------|------|-------|
+| 1     | 0      | 1    | 0     | 0    | 0    | 1    | 0     |
+| 2     | 0      | 2    | 1     | 0    | 0    | 2    | 1     |
+| 3     | 1      | 3    | 1     | 1    | 1    | 3    | 1     |
+| 4     | 1      | 4    | 2     | 1    | 1    | 4    | 2     |
+| 5     | 1      | 5    | 2     | 1    | 1    | 5    | 2     |
+| 6     | 2      | 6    | 3     | 2    | 2    | 6    | 3     |
+| 7     | 2      | 7    | 3     | 2    | 2    | 7    | 3     |
+| 8     | 2      | 8    | 4     | 2    | 2    | 8    | 4     |
+| 9     | 3      | 9    | 4     | 3    | 3    | 9    | 4     |
+| 10    | 3      | 10   | 5     | 3    | 3    | 10   | 5     |
+| 11    | 3      | 11   | 5     | 3    | 3    | 11   | 5     |
+| 12    | 4      | 12   | 6     | 4    | 4    | 12   | 6     |
+| 13    | 4      | 13   | 6     | 4    | 4    | 13   | 6     |
+| 14    | 4      | 14   | 7     | 4    | 4    | 14   | 7     |
+| 15    | 5      | 15   | 7     | 5    | 5    | 15   | 7     |
+
+
 ### Human Fighter (Warrior)
 
 * **Prime Stats:** STR, CON
@@ -381,63 +438,6 @@ See below for a table of attack and save bonuses by level:
 | 13    | 0      | 4    | 4     | 13   | 4    | 6    | 4     |
 | 14    | 0      | 4    | 4     | 14   | 4    | 7    | 4     |
 | 15    | 0      | 5    | 5     | 15   | 5    | 7    | 5     |
-
-
-### Human Thief (Rogue)
-
-* **Prime Stats:** DEX, INT
-* **Hit Die:** 1d6
-* **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
-* **Base Movement:** 30
-* **Saving Throws:**
-  - **Good:** Area, Luck = add your level to your roll.
-  - **Okay:** Death, Rally = add 1/2 your level (round down) to the roll.
-  - **Bad:** Mind, Body = add 1/3 your level (round down) to the roll.
-* **Gear Restrictions:** Thieves can use any weapons and armour that the Hammersmith deems to be suitably sneaky.
-* **Bonus Languages:** Thieves' Cant
-
-**Stabbity!:** When a Thief is using a melee weapon to attack a foe against which the Thief either has net attack Boons or is hidden from perception, the thief doubles their damage against that foe on a successful hit. This multiple increases by +1 at levels 3, 6, 9, 12, and 15.
-
-**Thief Skills:** Thieves have access to a special array of professional skills which can allow them special unique methods to assess and even bypass dangers. These skills (and their base modifying stats) are:
-
-* Appraise & Identify (INT)
-* Break & Enter (DEX)
-* Climb & Leap (STR)
-* Find & Seek (WIS)
-* Forge & Decipher (INT)
-* Hide & Sneak (DEX)
-* Lie & Cheat (CHA)
-* Snatch & Grab (DEX)
-
-At first level the Thief must randomly determine one Thief Skill to be their **Bailiwick**, and one to be their **Failing**. The thief receives a Boon on checks related to their Bailiwick, and a Bane on checks related to their Failing.
-
-At first level, the Thief's skills only work on a "mundane" level. At ninth level, the thief's skills evolve to function on a magical level as well, albeit with a Bane in such circumstances. Thief skills and their uses are explained in greater detail in the "Playing Your Character" chapter of this document.
-
-**Thiefy Expertise:** Once per adventure per experience level, the Thief can attempt to reroll a failed Thief Skill check. This count resets upon Returning to Town.
-
-**Tactical Attacker:** Thieves receive a Boon on Tactical Attacks.
-
-**Trapwise:** Thieves receive a Boon on all Saves against the effects of Traps. This increases to two Boons at level 4, three Boons at level 9, and four Boons at level 13.
-
-See below for a table of attack and save bonuses by level:
-
-| Level | Attack | Area | Death | Mind | Body | Luck | Rally |
-|-------|--------|------|-------|------|------|------|-------|
-| 1     | 0      | 1    | 0     | 0    | 0    | 1    | 0     |
-| 2     | 0      | 2    | 1     | 0    | 0    | 2    | 1     |
-| 3     | 1      | 3    | 1     | 1    | 1    | 3    | 1     |
-| 4     | 1      | 4    | 2     | 1    | 1    | 4    | 2     |
-| 5     | 1      | 5    | 2     | 1    | 1    | 5    | 2     |
-| 6     | 2      | 6    | 3     | 2    | 2    | 6    | 3     |
-| 7     | 2      | 7    | 3     | 2    | 2    | 7    | 3     |
-| 8     | 2      | 8    | 4     | 2    | 2    | 8    | 4     |
-| 9     | 3      | 9    | 4     | 3    | 3    | 9    | 4     |
-| 10    | 3      | 10   | 5     | 3    | 3    | 10   | 5     |
-| 11    | 3      | 11   | 5     | 3    | 3    | 11   | 5     |
-| 12    | 4      | 12   | 6     | 4    | 4    | 12   | 6     |
-| 13    | 4      | 13   | 6     | 4    | 4    | 13   | 6     |
-| 14    | 4      | 14   | 7     | 4    | 4    | 14   | 7     |
-| 15    | 5      | 15   | 7     | 5    | 5    | 15   | 7     |
 
 
 ## Step 3: Roll Your Stats
@@ -984,11 +984,11 @@ Additionally, some classes begin with additional starting equipment:
 
 * **Dwarves**: 1 weapon of choice, and 1 small shield
 * **Elves**: 1 weapon of choice, and a Spellbook
-* **Halflings**: 1 weapon of choice, and a set of Thieves' Tools
+* **Halflings**: 1 weapon of choice, and a set of Dungeoneering Tools
 * **Half-Ogres**: 1 melee weapon of choice
 * **Human Clerics**: a Holy Symbol, and a Prayer Book
+* **Human Explorers**: a set of Dungeoneering Tools, and a Dagger
 * **Human Fighters**: 3 weapons of choice, or 2 weapons and 1 small shield
-* **Human Thieves**: a set of Thieves' Tools, and a Dagger
 * **Human Wizards**: a Spellbook, and a random wizard weapon (see "Wizard Weapons" in the "Gear" section of this document)
 
 Then determine your gear either through deliberate purchase or through random roll:
@@ -1060,7 +1060,7 @@ Hopefully the rest of your group has been making your characters alongside one a
 * **Party Leader:** This player is responsible for choosing Initiative orders, and for informing the Hammersmith when the party moves on or takes any of the Party Actions.
 * **Mapper:** This player is responsible for translating the Hammersmith's descriptions to a map that the party can use, in whatever artistic fashion the player sees fit.
 * **Timekeeper:** This player tracks the passage of game Beats, and keeps track of who is carrying what light sources (and how much time is left on them).
-* **Lootkeeper:** This player records all the loot found on the adventure. You probably don't want the Thief to be the Lootkeeper, but hey, you only live once.
+* **Lootkeeper:** This player records all the loot found on the adventure.
 
 
 ## Now Take It All In
@@ -1376,7 +1376,7 @@ The main gear tables below use the following notations:
 | Prayerbook                      | M    | 100  |
 | Spellbook                       | M    | 100  |
 | Spyglass                        | M    | 100  |
-| Thieves' Tools                  | M    | 100  |
+| Dungeoneering Tools             | M    | 100  |
 
 
 #### Bags

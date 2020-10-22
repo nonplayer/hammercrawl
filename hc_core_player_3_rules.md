@@ -245,7 +245,7 @@ If you Crit with a Shield Bash, each "multiplier" increase instead lets you add 
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical Boons for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
-These attacks never do damage, but can instead set up temporary Boons and Banes. Any character can attempt a tactical attack, although Thieves and Halflings receive Boons to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
+These attacks never do damage, but can instead set up temporary Boons and Banes. Any character can attempt a tactical attack, although Explorers and Halflings receive Boons to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
 
 The target must make the relevant Save. If the attacker was using a special **Tactical Weapon** (such as a bola, whip, blowgun, etc), they make this save with a Bane.
 
@@ -363,6 +363,79 @@ TBD
 #### Dungeon Cooties
 
 No one has discovered exactly what Dungeon Cooties do to a living creature, but everyone agrees that they are most likely "the worst."
+
+
+## Dungeon Skills (ref)
+
+Explorers (and to a lesser extent Halflings) have access to special skills which always require rolls. To attempt a Dungeon Skill, the player must first have the skill in question as a class feature. These rolls are performed by rolling a d20, adding the associated Stat Mod for the skill being tested, and comparing it to a target number. The target number is determined by comparing the Explorer's experience Tier to the Tier of the current Dungeon Level, which is based on the level Boss's HD (see Tiers, further below).
+
+If the resulting modified total equals or exceeds the target number, the check succeeds. Otherwise, the check fails. Each skill has its own details on the results of success and failure.
+
+| Dungeon Level Tier is… | Skill Target |
+|------------------------|--------------|
+| Two or more Lower      | 9            |
+| One Lower              | 12           |
+| Equal                  | 15           |
+| One Higher             | 18           |
+| Two or more Higher     | 21           |
+
+**Magical Evolution:** Explorers (and only Explorers) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of an Explorer's special Dungeon Skills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the Explorer must roll with a Bane. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
+
+
+### Appraise & Identify (INT)
+
+This skill allows an Explorer to quickly determine an accurate selling value for any piece of loot, as well as to know important historical facts about it.
+
+**Magical Evolution:** Starting at 9th level, an Explorer can use this skill to identify magical properties of an item. Only one attempt is allowed per item. A success tells the Explorer one magical property, if any, but not how many more may remain undiscovered. If there are no magical properties, a success will impart this knowledge. Upon failure, the 'Smith is free to feed the Explorer false information.
+
+
+### Break & Enter (DEX)
+
+This is the Explorer's ability to bypass security features and break into places they're not supposed to be. The most common uses are to bypass locks and disable traps, but other creative uses are also encouraged. Not that one must first *detect* a trap before one can attempt to disable it...
+
+**Magical Evolution:** Starting at 9th level, an Explorer can use this skill to bypass magical security measures, such as wizard locks and magical traps.
+
+
+### Climb & Leap (STR)
+
+Roll this skill when facing a climbing or leaping challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - Explorers are just that bloody good at this. However, exceptionally-prepared Explorers with excellent tools may receive a Boon, at the 'Smith's discretion.
+
+**Magical Evolution:** Starting at 9th level, an Explorer can use this skill to climb magical walls and barriers. If these obstacles cause damage, the Explorer still takes said damage as normal as they climb.
+
+
+### Find & Seek (WIS)
+
+This skill allows an Explorer to find hidden nouns in the game world. They can follow the tracks of people, locate hidden rooms and secret doors, and detect concealed traps.
+
+**Magical Evolution:** Starting at 9th level, an Explorer can use this skill to detect magical concealment as well. This doesn't allow the Explorer to directly break said magical concealment, but it does let the Explorer know what kind is being used, and how powerful it is.
+
+
+### Forge & Decipher (INT)
+
+This skill allows an Explorer to both decipher unknown texts, and forge texts for purposes of deceit.
+
+**Magical Evolution:** Starting at 9th level, an Explorer can attempt to use this skill as a *Read Magic* spell, allowing them to cast scrolls. Failure on this may result in unintended consequences, at the 'Smith's discretion.
+
+
+### Hide & Sneak (DEX)
+
+This skill does what it says: it allows the Explorer to hide and sneak around. This skill is effective for bypassing the scrutiny of guards, and for getting into place to set up an Explorer's Opportunist attacks. Being hidden may allow numerous Boons, at the 'Smith's discretion. All you need is a little bit of shadow, and something to hide behind...
+
+**Magical Evolution:** Starting at 9th level, the Explorer is so good at being sneaky that they can fool magical detection. This can allow them to hide in plain sight as if invisible, or to fool spells that locate specific people, and so on. The usage of this is largely at the 'Smith's discretion.
+
+
+### Lie & Cheat (CHA)
+
+This skill allows an Explorer to tell amazingly convincing lies, and also to successfully cheat at every game and deal possible. Anyone can tell a lie or cheat at cards, but Explorers are so good they can con the most skilled of investigators, and cheat at the most rigged game.
+
+**Magical Evolution:** Starting at 9th level, an Explorer's lies can sometimes even bypass magical scrutiny or defenses. This allows them to fool Truth spells, for instance, or to undermine magical conditioning or charms.
+
+
+### Snatch & Grab (DEX)
+
+This skill allows an Explorer to perform acts of complicated manual dexterity, such as sleight of hand and picking pockets.
+
+**Magical Evolution:** Starting at 9th level, an Explorer can perform truly impossible acts with this skill, such as stealing an item too far away to reach ("It just leapt into my hand!"), stealing the straps out from inside an opponent's worn armour, and so on. The applications of this are up to the imagination of the player, and the discretion of the 'Smith.
 
 
 ## Encounters (the Players' version)
@@ -787,7 +860,7 @@ First, each character in the party gets the following action for free:
 
 * **Cleric:** Re-memorize 1 daily spell or recover 1 use of Turn Unholy. **This requires access to an appropriate prayerbook**.
 * **Magic-User:** Re-memorize 1 daily spell. **This requires access to an appropriate spellbook**.
-* **Dwarf, Fighter, Halfling, Half-ogre, and Thief:** Recover half (round up) of currently-lost HPs. **This requires a Bedroll or suitable substitute**.
+* **Dwarf, Fighter, Halfling, Half-ogre, and Explorer:** Recover half (round up) of currently-lost HPs. **This requires a Bedroll or suitable substitute**.
 * **Elf:** Choose either the Magic-User or the Fighter options from above.
 
 Then, each player gets to pick one additional Camp Action to perform now:
@@ -870,14 +943,14 @@ Note that a successful search result still won't find any hidden secrets if ther
 
 ### Searching for Traps (ref)
 
-Searching for Traps is handled by the Thief Skill. See Thief Skills, particularly "Trap-Finding."
+Searching for Traps is handled by the Dungeon Skill. See Dungeon Skills, particularly "Trap-Finding."
 
 
 ## Skills
 
 All characters in HAMMERCRAWL! begin play with a variety of both explicit and assumed skills. Explicit skills include the four free random skills that each character gets at creation. Assumed skills are anything that one could reasonably assume the character has ability in due to their background and their class. Fighters and Elves are pretty athletic, obviously, while former Bankers and Accountants are assumed to know math and finances.
 
-**Important Note:** "Thief skills" are considered special abilities all of their own, and this section does not apply to their use. They are instead detailed in the "Thief Skills" section below.
+**Important Note:** "Dungeon Skills" are considered special abilities all of their own, and this section does not apply to their use. They are instead detailed in the "Dungeon Skills" section of this document.
 
 
 ### Using Skills
@@ -914,80 +987,6 @@ I've added this specification to better clarify the scope of what skills can acc
 ## Spells and Spellcasting (ref)
 
 Given the mechanical depth of the magical arts, the magic rules have their own separate chapter. See "Magic and Spellcasting" further below.
-
-
-## Thief Skills (ref)
-
-Thieves (and to a lesser extent Halflings) have access to special skills which always require rolls. To attempt a Thief Skill, the player must first have the skill in question as a class feature. These rolls are performed by rolling a d20, adding the associated Stat Mod for the skill being tested, and comparing it to a target number. The target number is determined by comparing the Thief's experience Tier to the Tier of the current Dungeon Level, which is based on the level Boss's HD (see Tiers, further below).
-
-If the resulting modified total equals or exceeds the target number, the check succeeds. Otherwise, the check fails. Each skill has its own details on the results of success and failure.
-
-| Dungeon Level Tier is… | Thiefskill Target |
-|------------------------|-------------------|
-| Two or more Lower      | 9                 |
-| One Lower              | 12                |
-| Equal                  | 15                |
-| One Higher             | 18                |
-| Two or more Higher     | 21                |
-
-**Magical Evolution:** Thieves (and only thieves) eventually master their skills to the point that they go beyond the mundane world with in their scope. At their 9th experience level, all of a Thief's special Thiefskills evolve to affect both the mundane and the magical. When attempting to affect magical targets, the thief must roll with a Bane. In each of the skill descriptions below, the "Magical Evolution" sections detail these new abilities.
-
-
-
-### Appraise & Identify (INT)
-
-This skill allows a Thief to quickly determine an accurate selling value for any piece of loot, as well as to know important historical facts about it.
-
-**Magical Evolution:** Starting at 9th level, a Thief can use this skill to identify magical properties of an item. Only one attempt is allowed per item. A success tells the thief one magical property, if any, but not how many more may remain undiscovered. If there are no magical properties, a success will impart this knowledge. Upon failure, the 'Smith is free to feed the thief false information.
-
-
-### Break & Enter (DEX)
-
-This is the Thief's ability to bypass security features and break into places they're not supposed to be. The most common uses are to bypass locks and disable traps, but other creative uses are also encouraged. Not that one must first *detect* a trap before one can attempt to disable it...
-
-**Magical Evolution:** Starting at 9th level, a thief can use this skill to bypass magical security measures, such as wizard locks and magical traps.
-
-
-### Climb & Leap (STR)
-
-Roll this skill when facing a climbing or leaping challenge that would stymie even a well-prepared adventurer. No rope required, in most cases - thieves are just that bloody good at this. However, exceptionally-prepared thieves with excellent tools may receive a Boon, at the 'Smith's discretion.
-
-**Magical Evolution:** Starting at 9th level, a thief can use this skill to climb magical walls and barriers. If these obstacles cause damage, the thief still takes said damage as normal as they climb.
-
-
-### Find & Seek (WIS)
-
-This skill allows a thief to find hidden nouns in the game world. They can follow the tracks of people, locate hidden rooms and secret doors, and detect concealed traps.
-
-**Magical Evolution:** Starting at 9th level, a thief can use this skill to detect magical concealment as well. This doesn't allow the thief to directly break said magical concealment, but it does let the thief know what kind is being used, and how powerful it is.
-
-
-### Forge & Decipher (INT)
-
-This skill allows a thief to both decipher unknown texts, and forge texts for purposes of deceit.
-
-**Magical Evolution:** Starting at 9th level, a thief can attempt to use this skill as a *Read Magic* spell, allowing them to cast scrolls. Failure on this may result in unintended consequences, at the 'Smith's discretion.
-
-
-### Hide & Sneak (DEX)
-
-This skill does what it says: it allows the Thief to hide and sneak around. This skill is effective for bypassing the scrutiny of guards, and for getting into place to set up Stabbity attacks. Being hidden may allow numerous Boons, at the 'Smith's discretion. All you need is a little bit of shadow, and something to hide behind...
-
-**Magical Evolution:** Starting at 9th level, the Thief is so good at being sneaky that they can fool magical detection. This can allow them to hide in plain sight as if invisible, or to fool spells that locate specific people, and so on. The usage of this is largely at the 'Smith's discretion.
-
-
-### Lie & Cheat (CHA)
-
-This skill allows a thief to tell amazingly convincing lies, and also to successfully cheat at every game and deal possible. Anyone can tell a lie or cheat at cards, but thieves are so good they can con the most skilled of investigators, and cheat at the most rigged game.
-
-**Magical Evolution:** Starting at 9th level, a thief's lies can sometimes even bypass magical scrutiny or defenses. This allows them to fool Truth spells, for instance, or to undermine magical conditioning or charms.
-
-
-### Snatch & Grab (DEX)
-
-This skill allows a thief to perform acts of complicated manual dexterity, such as sleight of hand and picking pockets.
-
-**Magical Evolution:** Starting at 9th level, a Thief can perform truly impossible acts with this skill, such as stealing an item too far away to reach ("It just leapt into my hand!"), stealing the straps out from inside an opponent's worn armour, and so on. The applications of this are up to the imagination of the player, and the discretion of the 'Smith.
 
 
 ## Tiers
