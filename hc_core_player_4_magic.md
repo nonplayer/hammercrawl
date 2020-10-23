@@ -467,4 +467,17 @@ As for how to find them? Well, dear adventurer, that's why you must always go as
 
 ## Magic Items
 
+**Author's Note:** Magic Items are very much a work in progress. Most often I default to using the amazing *Encyclopedia Magica* books from The OG when I run HAMMERCRAWL! for my friends. However, over time certain items have become canon to the game and its world, and as this happens they will be added here.
+
+
+### Magic Armours
+
+
+#### Elven Armour
+
+Elven Armour is specially made with the combat caster in mind. Authentic elven-crafted magic armour significantly reduces its wearer's spellcasting penalties. Elven heavy armour has only a 5% spell failure rate, while Elven plate armour has only a 15% spell failure rate.
+
+
+### Magic Weapons
+
 TBD
