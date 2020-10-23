@@ -92,7 +92,7 @@ See below for a table of attack and save bonuses by level:
 ### Elf Exemplar (Hybrid)
 
 * **Prime Stats:** DEX, INT
-* **Hit Die:** 1d8
+* **Hit Die:** 1d6
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -108,7 +108,7 @@ See below for a table of attack and save bonuses by level:
 
 At the start of play, a new Elf can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
-**Armoured Spellcaster:** Elves are better at casting in armour than humans. Elves suffer no chance of spell failure in Light armour, and a 50%/75% chance when wearing heavy/plate armours, respectively. Failed spells are forgotten per normal rules.
+**Armoured Spellcaster:** Elves are better at casting in armour than humans. Elves suffer no chance of spell failure in Light armour, and a 25%/50% chance when wearing heavy/plate armours, respectively. Failed spells are forgotten per normal rules.
 
 **Blade Dancer:** Elves are skilled at fighting with two weapons at once. When dual-wielding, Elves increase their melee-only Defense by the melee damage bonus of their off-hand weapon.
 
