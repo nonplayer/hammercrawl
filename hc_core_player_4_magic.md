@@ -481,3 +481,11 @@ Elven Armour is specially made with the combat caster in mind. Authentic elven-c
 ### Magic Weapons
 
 TBD
+
+
+### Magic Miscellany
+
+
+#### Amulet, Boob Plocket
+
+The Boob Plocket is an amulet that is magically invisible when worn. It gives the wearer an extra worn Bag with three Small slots in an extradimensional space. When the wearer attempts to retrieve an item they have stored in the Boob Plocket, they must first succeed at a target 15 Mind Save. If failed, the wearer forgets that they have placed it there and must first look through every other Bag (and nook and cranny of their current location) before remembering it. (*Inspired by ThrowTheGnome*)
