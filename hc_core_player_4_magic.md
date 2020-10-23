@@ -9,19 +9,22 @@ created: 2018-03-22
 Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. While Clerics have access to a different "divine" spell list than Elves and Magic-Users, unlike most other derivatives of The OG, that is where their spellcasting differences end. Spell lists aside, all spellcasting classes use the same rules for memorizing and casting spells.
 
 
-## Maintaining Spellbooks
+## Spellcasting
 
 TBD
 
 
-### Clerics Use Spellbooks Too!
+### Spellbooks
+
+
+#### Clerics Use Spellbooks Too!
 
 Unlike The OG and most of its derivatives, Clerics in HAMMERCRAWL! require spellbooks too! In opposition to how a lot of other games implement them, Clerics *do not* immediately have access to the entire Clerical spell list upon attaining the requisite experience levels. Instead, Clerics must collect and learn spells exactly as Elves and Magic-users, only their are drawn from Holy Writ. Clerics call their tomes "Prayerbooks" but otherwise follow all the core spellbook rules. Clerical spells care commonly called "prayers" and they can learn from holy scrolls exactly the same as Magic-users learn from wizardly scrolls.
 
 Some more experienced players of The OG may call this change blasphemy, but in play we've found that brand new players at one-shot games find that it makes for a lot more approachable experience when playing a Cleric for the very first time.
 
 
-### Losing and Restoring Spellbooks
+#### Losing and Restoring Spellbooks
 
 TBD
 
@@ -30,7 +33,7 @@ Ideas:
 * Can attempt to recreate a lost spellbook from astral fragments of previously-cast spells, permanently bound to the caster's soul by simple consequence of them having had the audacity to meddle with magic in the first place. Requires materials, costs, etc. Possibly Read Magic? Chance of recovery, of mishap, or of recovering a previously-unknown spell instead! Hmmm...
 
 
-## Preparing and Memorizing Spells
+### Preparing and Memorizing Spells
 
 Upon the start of a new day, Clerics and Elves are considered to have memorized every spell in their currently-possessed spellbooks for the levels that they are allowed to cast, even newly-discovered ones. Magic-Users (only) are considered to have memorized *every* spell in their spellbooks, regardless of level.
 
@@ -45,34 +48,31 @@ At the beginning of a new day of adventuring, and following a good long restful 
 Spells are usually forgotten upon casting. Spells can be re-memorized by resting or returning to town.
 
 
-## Casting Spells
+### Casting Spells
 
 You can cast any spell you have memorized. To do so, simply choose the spell and follow the rules of that spell. Many spells won't require the caster to make any dice rolls, although many will have saving throws that the target must make in order to resist the effects.
 
 Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other memorized spells, provided their total level cost is equal to or greater than that of the spell that you just cast.
 
 
-### On Reversible Spells
+#### On Reversible Spells
 
 Although this game largely draws from the ol' Cyclopedia, there are no "Reversible" Spells in HAMMERCRAWL! Any reversible spells translated from older editions are done so as their two separate component spells. This at least somewhat cuts back on the power of casters, in light of their "cast anything!" abilities.
 
 
-## Learning New Spells
+### Learning New Spells
 
 Spellcasters learn spells through leveling up and also by finding them as loot on scrolls. Each class has its own rules for gaining spells when leveling up.
 
 Whenever a spellcaster acquires a new spell from an external source that is compatible with their spell list, they can transcribe it into their spellbook. If the source is a scroll or other such scrap, the source is destroyed in the process. If the source is another spellbook, the spell remains in the source.
 
 
-## Spell Lists
+### Spell Lists
 
 This game text does not *yet* have extensive spell lists, but over time it will certainly grow them out. In the meantime, I recommend you use whichever B/X or BECMI compatible spell list that you prefer. I find that the *Dark Dungeons* list is pretty comprehensive, and give it my seal of approved compatibility. In fact, it's the list I default to when I run HAMMERCRAWL!
 
 
-### Cleric Spell Lists
-
-
-#### Level 1
+#### Cleric Level 1
 
 1. Befoul Food and Water
 2. Cause Fear
@@ -88,7 +88,7 @@ This game text does not *yet* have extensive spell lists, but over time it will 
 12. Resist Cold
 
 
-#### Level 2
+#### Cleric Level 2
 
 1. Bless
 2. Curse
@@ -103,30 +103,10 @@ This game text does not *yet* have extensive spell lists, but over time it will 
 11. Speak with Animal
 
 
-#### Level 3
+#### Cleric Level 3
 
 
-#### Level 4
-
-
-#### Level 5
-
-
-#### Level 6
-
-
-#### Level 7
-
-
-#### Level 8
-
-Clerics have no 8th-level spells. It's sort of a trade-off for their ability to wear armour and all that other cool stuff they can do.
-
-
-### Magic-User Spell Lists
-
-
-#### Level 1
+#### Magic-User Level 1
 
 1. Analyse
 2. Charm Person
@@ -143,7 +123,7 @@ Clerics have no 8th-level spells. It's sort of a trade-off for their ability to 
 13. Ventriloquism
 
 
-#### Level 2
+#### Magic-User Level 2
 
 1. Continual Darkness
 2. Continual Light
@@ -162,25 +142,10 @@ Clerics have no 8th-level spells. It's sort of a trade-off for their ability to 
 15. Wizard Lock
 
 
-#### Level 3
+#### Magic-User Level 3
 
 
-#### Level 4
-
-
-#### Level 5
-
-
-#### Level 6
-
-
-#### Level 7
-
-
-#### Level 8
-
-
-### Combined Spell List
+### Combined Spell Lists
 
 
 #### Level 1
@@ -257,7 +222,7 @@ Clerics have no 8th-level spells. It's sort of a trade-off for their ability to 
 #### Level 8
 
 
-## Spells Detailed
+# Spells Detailed
 
 The growing collection of detailed spells is below, sorted alphabetically
 
@@ -271,7 +236,7 @@ Template:
 * **Effect:**
 
 
-### Spells A
+#### Spells A
 
 
 ##### Analyse
@@ -286,13 +251,13 @@ Template:
 Casting this spell requires the caster to physically handle the item. This may expose them to any curses or other touch-activated enchantments possessed by the item.
 
 
-### Spells B
+#### Spells B
 
 
 ##### Bless
 
 
-### Spells C
+#### Spells C
 
 
 ##### Cause Fear
@@ -344,7 +309,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 If used on a target that is already below zero HP, instead restore 4 + Caster Level in lost CON stat points to the target (double if they are of the faith). If this restores their CON to original value, any remainder on the roll is applied to restore HP. The caster can target themselves with this spell.
 
 
-### Spells D
+#### Spells D
 
 
 ##### Darkness
@@ -353,14 +318,14 @@ If used on a target that is already below zero HP, instead restore 4 + Caster Le
 ##### Detect Magic
 
 
-### Spells E
+#### Spells E
 
 
 ##### Entangle
 ##### ESP
 
 
-### Spells F
+#### Spells F
 
 
 ##### Find Traps
@@ -368,10 +333,10 @@ If used on a target that is already below zero HP, instead restore 4 + Caster Le
 ##### Free Person
 
 
-### Spells G
+#### Spells G
 
 
-### Spells H
+#### Spells H
 
 
 ##### Hide Alignment
@@ -379,23 +344,23 @@ If used on a target that is already below zero HP, instead restore 4 + Caster Le
 ##### Hold Portal
 
 
-### Spells I
+#### Spells I
 
 
 ##### Invisibility
 
 
-### Spells J
+#### Spells J
 
 
-### Spells K
+#### Spells K
 
 
 ##### Knock
 ##### Know Alignment
 
 
-### Spells L
+#### Spells L
 
 
 ##### Levitate
@@ -414,7 +379,7 @@ If used on a target that is already below zero HP, instead restore 4 + Caster Le
 If cast on an object, the object glows with the same strength of light, which lasts until the spell is done. If cast on a creature, the creature must make a Body Save or be blinded for the duration of the spell. In each case, the duration of the spell is the same, and the caster can cancel it at any time.
 
 
-### Spells M
+#### Spells M
 
 
 ##### Magic Missile
@@ -435,13 +400,13 @@ At first level the caster can create a single missile. At every two levels above
 ##### Mirror Image
 
 
-### Spells N
+#### Spells N
 
 
-### Spells O
+#### Spells O
 
 
-### Spells P
+#### Spells P
 
 
 ##### Phantasmal Force
@@ -449,10 +414,10 @@ At first level the caster can create a single missile. At every two levels above
 ##### Purify Food and Water
 
 
-### Spells Q
+#### Spells Q
 
 
-### Spells R
+#### Spells R
 
 
 ##### Read Languages
@@ -466,7 +431,7 @@ Yes, Red Magic. No, that is not a typo.
 ##### Resist Fire
 
 
-### Spells S
+#### Spells S
 
 
 ##### Shield
@@ -476,16 +441,16 @@ Yes, Red Magic. No, that is not a typo.
 ##### Speak with Animal
 
 
-### Spells T
+#### Spells T
 
 
-### Spells V
+#### Spells V
 
 
 ##### Ventriloquism
 
 
-### Spells W
+#### Spells W
 
 ##### Web
 ##### Wizard Lock
@@ -498,3 +463,8 @@ Ah, you are an observant one, yes, you will do well in the adventures to come...
 Yes. This is intentional. In the world of HAMMERCRAWL! such spells are legendary creations of the greatest (and most insane) ancient wizards. The Elves refuse to touch them, for fear of the ways they warp the nature of the world and befoul the wellsprings of life. Only human Magic-Users can ever learn them, and even then they can never "safely" cast them due to the restrictions on leveling and the nature of their Highcasting ability.
 
 As for how to find them? Well, dear adventurer, that's why you must always go as deep into the dungeon as possible, to find the ancient madness that lurks beneath...
+
+
+## Magic Items
+
+TBD
