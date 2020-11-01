@@ -329,7 +329,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 * **Range:** Touch
 * **Duration:** Permanent
 * **Save:** Body (if unwilling)
-* **Effect:** If used on a target with HP less than max, target is restored 5 + Caster Level hit points. If the target is an avowed member of the Cleric's faithful congregation, the effect is doubled.
+* **Effect:** If used on a target with HP less than max, target is restored **2 + (Caster Level)** hit points. If the target is an avowed member of the Cleric's faithful congregation, the effect is doubled.
 
 
 ##### Cure Serious Wounds
@@ -340,7 +340,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 * **Range:** Touch
 * **Duration:** Permanent
 * **Save:** Body (if unwilling)
-* **Effect:** If used on a target with HP less than max but above zero, target is restored 12 + Caster Level hit points. If the target is an avowed member of the Cleric's faithful congregation, the effect is doubled.
+* **Effect:** If used on a target with HP less than max but above zero, target is restored **2 + (Caster Level x 2)** hit points. If the target is an avowed member of the Cleric's faithful congregation, the effect is doubled.
 
 If used on a target that is already below zero HP, instead restore 4 + Caster Level in lost CON stat points to the target (double if they are of the faith). If this restores their CON to original value, any remainder on the roll is applied to restore HP. The caster can target themselves with this spell.
 
