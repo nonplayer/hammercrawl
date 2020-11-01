@@ -684,6 +684,8 @@ Extended combat and damage rules are found in the Combat section. Your base dama
 
 Whenever you would "take" damage from an attack or effect, compare the incoming damage total to your base CON score. If the damage is less than or equal to your CON score, you take 1 hit. If the damage is greater than your CON score, you take 2 hits instead. For each full ten points of incoming damage above your CON, you take one additional hit on top of that.
 
+**For example**, Let's say you have a CON of 13. An opponent hits you for a total of 9 incoming damage. Since 9 is lower than you CON, you only take 1 Hit. A second opponent then hits you for 37 points of damage. This time, you would take 4 Hits, since the damage not only exceeds your CON (giving a base of 2 Hits), it exceeds it by 20 or more (giving an additional 2 Hits).
+
 Subtract the total number of Hits from your current Hit Points. If the newly-adjusted amount is greater than Zero, then your character is still up and active without further modification (unless otherwise specified).
 
 If the newly-adjusted total is less than zero, you are likely dead, or dying, depending on the adventure's Difficulty Mode. See "Zero Hit Points" further below.
