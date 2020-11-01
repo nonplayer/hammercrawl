@@ -55,6 +55,17 @@ You can cast any spell you have memorized. To do so, simply choose the spell and
 Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other memorized spells, provided their total level cost is equal to or greater than that of the spell that you just cast.
 
 
+#### Spell Components
+
+The casting of spells uses three basic components: Verbal, Somatic, and Material (optional). Due to the chaotic and sometimes ridiculous whims of the HAMMERCRAWL! ethersphere, the involvement of required components is not just required, but is required to be *awesome* in action. Each spell in the later compendium is listed along with its required components. These components are detailed below.
+
+A spell with a **Verbal** component requires that the caster *loudly* and *audibly* speak words of magic. If the caster is unable to speak these words for whatever reason, they cannot cast the spell. These words of magic can sound however the player ultimately wants them to, and if the player chooses to actualize them at the gaming table for all to hear, then the target receives a Bane on its save, if applicable. Note that the 'Smith's casters receive this same privilege...
+
+A spell with a **Somatic** component requires that the caster engage in some form of exaggerated physical movement or performance in order to actualize its magical power. This most commonly involves X-TREEM Finger Wiggling (TM), but accommodations can also be made for players who choose to involve other forms of motion, such as ballet, twerking, or interpretive dance. If the caster is prevented from engaging in their "style" of somatic motion, then they are unable to case the spell. As with verbal components, players are encouraged to passionately perform these motions for all to see, with the chance of giving their opponents Banes on their saves.
+
+Finally, **Material** components are entirely optional physical objects that the player can sacrifice in order to empower their spells. Pickled griffon's feet, petrified minotaur genitals, powdered elf bones, all are things that can be used to empower spells, provided the theme of the item and the effects of the spell align. Using such components is entirely optional and ultimately up to the feel of your gaming table. If applicable, the 'Smith may choose to allow casters to sacrifice components in order to remember spells, or overcast, or penalize opponents' saves, or more. You are encouraged to get creative.
+
+
 #### On Reversible Spells
 
 Although this game largely draws from the ol' Cyclopedia, there are no "Reversible" Spells in HAMMERCRAWL! Any reversible spells translated from older editions are done so as their two separate component spells. This at least somewhat cuts back on the power of casters, in light of their "cast anything!" abilities.
@@ -148,6 +159,25 @@ This game text does not *yet* have extensive spell lists, but over time it will 
 ### Combined Spell Lists
 
 
+#### Cantrips
+
+
+Finger Flame
+Personal Massager
+Personal Soundtrack
+Plink
+Poke
+Red Magic
+Roll For it
+Rummage
+Slap
+Slow Burn
+Small Talk
+Tastes Like Chicken
+
+
+
+
 #### Level 1
 
 1. Analyse
@@ -229,6 +259,7 @@ The growing collection of detailed spells is below, sorted alphabetically
 Template:
 
 * **Level**
+* **Components:**
 * **Target:**
 * **Range:**
 * **Duration:**
@@ -242,6 +273,7 @@ Template:
 ##### Analyse
 
 * **Level** Magic-User 1
+* **Components:**
 * **Target:** One item
 * **Range:** Touch
 * **Duration:** Instant
@@ -270,6 +302,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 ##### Cause Light Wounds
 
 * **Level** Cleric 1
+* **Components:**
 * **Target:** One living creature
 * **Range:** 5 ft'
 * **Duration:** Permanent
@@ -280,6 +313,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 ##### Cause Serious Wounds
 
 * **Level** Cleric 4
+* **Components:**
 * **Target:** One living creature
 * **Range:** 5 ft'
 * **Duration:** Permanent
@@ -290,6 +324,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 ##### Cure Light Wounds
 
 * **Level** Cleric 1
+* **Components:**
 * **Target:** One living creature
 * **Range:** Touch
 * **Duration:** Permanent
@@ -300,6 +335,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 ##### Cure Serious Wounds
 
 * **Level** Cleric 4
+* **Components:**
 * **Target:** One living creature
 * **Range:** Touch
 * **Duration:** Permanent
@@ -329,6 +365,18 @@ If used on a target that is already below zero HP, instead restore 4 + Caster Le
 
 
 ##### Find Traps
+
+##### Finger Flame
+
+* **Level** Cantrip
+* **Components:** S
+* **Target:** Self
+* **Range:** Self
+* **Duration:** Instant or Sustained
+* **Save:** None
+* **Effect:** With a snap of the fingers, this spell ignites a tiny flame at the tip of any one of the caster's fingers. This light functions as a candle that can be sustained. It can light fires, provide basic illumination, ignite pipeweed, and so on. The fire does no damage (even to targets weak against fire) can not be used as a direct weapon, but otherwise can do most anything a normal candle light can do.
+
+
 ##### Floating Disc
 ##### Free Person
 
@@ -370,6 +418,7 @@ If used on a target that is already below zero HP, instead restore 4 + Caster Le
 ##### Light
 
 * **Level**
+* **Components:** V, S
 * **Target:** Self, 1 object, or 1 creature
 * **Range:** 30 ft.
 * **Duration:** 6 Beats (+1/caster level)
@@ -385,6 +434,7 @@ If cast on an object, the object glows with the same strength of light, which la
 ##### Magic Missile
 
 * **Level** Magic-User 1
+* **Components:** V, S
 * **Target:** 1 or more creatures
 * **Range:** 150 ft.
 * **Duration:** Instant or up to 6 Beats (+1/caster level)
@@ -409,7 +459,44 @@ At first level the caster can create a single missile. At every two levels above
 #### Spells P
 
 
+##### Personal Massager
+
+* **Level** Cantrip
+* **Components:**
+* **Target:** Single body part (Self or one willing target)
+* **Range:** 5 ft.
+* **Duration:** Sustained
+* **Save:** None (target must be willing)
+* **Effect:** This spell gives the target body part a pleasant relaxing massage. If used in place of a Camp Action choice, target receives a Boon on their next die roll.
+
+
+##### Personal Sountrack
+
+* **Level** Cantrip
+* **Components:**
+* **Target:**
+* **Range:** 120 ft. radius
+* **Duration:**
+* **Save:**
+* **Effect:**
+
+
 ##### Phantasmal Force
+
+
+##### Poke
+
+* **Level** Cantrip
+* **Components:**
+* **Target:** 1 noun
+* **Range:** 60 ft.
+* **Duration:** Instant
+* **Save:** None
+* **Effect:** This spell lightly pokes the target with an invisible finger-like force. The force is not enough to move, dislodge, or otherwise physically "affect" the target. If the target is conscious, the target is aware that it has been poked, but not necessarily by whom or what.
+
+Poke will not wake sleeping targets. See **Slap** instead.
+
+
 ##### Protection from Evil
 ##### Purify Food and Water
 
@@ -421,14 +508,42 @@ At first level the caster can create a single missile. At every two levels above
 
 
 ##### Read Languages
+
 ##### Red Magic
 
-Yes, Red Magic. No, that is not a typo.
+* **Level** Cantrip
+* **Components:** S
+* **Target:** One thing.
+* **Range:** Line of Sight.
+* **Duration:** Whenever.
+* **Save:** Maybe?
+* **Effect:** This spell makes the target red.
 
 
 ##### Remove Fear
 ##### Resist Cold
 ##### Resist Fire
+
+##### Roll For It
+
+* **Level** Cantrip
+* **Components:**
+* **Target:** Self
+* **Range:** 5 ft.
+* **Duration:** Instant
+* **Save:** None
+* **Effect:** Before casting this spell, the caster and a number of willing targets must have a decision that must me made, with a number of options greater than 1. When cast, this spell temporarily conjures a phantasmal polyhedral die with sides equal to the number of choices for the decision you are trying to resolve. The die then rolls itself and lands on a random number for all to see. With the decision made, the die vanishes. Once determined, the die will never roll a different number if cast again for the same decision. (*inspired by ThrowTheGnome*)
+
+
+##### Rummage
+
+* **Level** Cantrip
+* **Components:**
+* **Target:** 1 Bag
+* **Range:** 30 ft.
+* **Duration:** Instant
+* **Save:** None
+* **Effect:** Upon casting this spell, the caster must target a bag and have a specific desired item in mind. The spell then looks through the contents of that bag and alerts the caster if said item is or is not within it. If the desired item *is* in the target bag *and* said bag is currently held or worn by the caster, *and* the caster is also currently holding a different item of similar size, they can summon the desired item to their hand instantly, swapping it with the item previously held, which is placed safely in the target bag.
 
 
 #### Spells S
@@ -436,12 +551,51 @@ Yes, Red Magic. No, that is not a typo.
 
 ##### Shield
 ##### Silence 15' Radius
+
+
+##### Slap
+
+* **Level** Cantrip
+* **Components:** S
+* **Target:** 1 noun
+* **Range:** 30 ft.
+* **Duration:** Instant
+* **Save:** Body (Special)
+* **Effect:** This spell slaps a designated location of the target with an invisible phantasmal force the size of a human hand, glove size L (9in/22.9cm). The slap is instant, audible, and painful, but leaves no marks and deals no damage. If the target is conscious, the target is aware that it has been slapped, but not necessarily by whom or what. If Slap is cast upon a sleeping target, that target is awakened, unless its sleep is of a magical or such nature that can only be broken by specific circumstances (such as unwanted and possibly illegal sexual advances from entitled royalty).
+
+The first time a target is affected by Slap, they are not allowed a save. Each subsequent Slap allows them a Body save. A target that saves against a Slap is unaffected, and cannot be targeted by your Slap for 24 hours.
+
+
 ##### Sleep
+
+
+##### Slow Burn
+
+* **Level** Cantrip
+* **Components:**
+* **Target:** 1 torch, candle, or lantern (w/ oil)
+* **Range:** 10 ft.
+* **Duration:** 1 beat
+* **Save:** None
+* **Effect:** This spell adds a single beat of light to any one mundane light source. A light source affected by a Slow Burn can not be affected by another. (*inspired by ThrowTheGnome*)
+
+
 ##### Snake Charm
 ##### Speak with Animal
 
 
 #### Spells T
+
+
+##### Tastes Like Chicken
+
+* **Level** Cantrip
+* **Components:**
+* **Target:** 1 meal
+* **Range:** 20 ft.
+* **Duration:** 1 hour (6 Beats)
+* **Save:** None
+* **Effect:** This spell makes the target meal taste like chicken if eaten within its duration.
 
 
 #### Spells V
