@@ -176,7 +176,7 @@ Lanky wolf-men of the Great Northern Reach, Vulterran Scouts are rarely seen in 
 
 **Blood for Blood:** Vulterran Scouts grow more fierce the closer they are to death. When their current HP is equal to or less than half their maximum, their melee damage is doubled. If their current HP is equal to or less than their current XP level, their damage is *tripled*.
 
-**Never Unarmed aka Claw-Claw-Bite:** Vulterran Scouts can use any melee weapon, but don't need to in most circumstances. Their claws and teeth ensure they are never unarmed, and in fact they gain a bonus attack die at levels 1 and 9, which only applies when unarmed.
+**Never Unarmed aka Claw-Claw-Bite:** Vulterran Scouts can use any melee weapon, but don't need to in most circumstances. Their claws and teeth ensure they are never unarmed, and in fact they gain a bonus Combat Die at levels 1 and 9, which only applies when unarmed.
 
 
 # Extended and Optional Rules of Play

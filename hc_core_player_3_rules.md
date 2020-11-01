@@ -656,12 +656,12 @@ Before anything related to Hit Points is determined in your game, your 'Smith mu
 
 ### Determining Your Starting Hit Points
 
-Your character's starting HP at level 1 is equal to the maximum of your class Hit Die, plus your CON mod, if any.
+Your character's starting HP at level 1 is equal to the maximum of your Class Hit Die, plus your CON mod (if any), plus an additional per-level mod based on your Class.
 
 
 ### Improving Your Hit Points
 
-The primary method of long term character HP improvement is via increasing your experience level. In HAMMERCRAWL! you must reroll your entire Hit Points total with every new level, but fortunately you can never end up with fewer than you previously had. Whenever you Level Up, roll a number of dice equal to your new XP level, and add your CON mod to each die. If the new total is greater than your previous HP total, keep it. If it is not, instead keep the previous total +1.
+The primary method of long term character HP improvement is via increasing your experience level. In HAMMERCRAWL! you gain a small amount of additional hit points each level, determined by your Class. Yes, this includes 1st level. Using just these base rules, Magic-Users gain the smallest amount (1 per level) while Half-Ogres gain the most (4 per level).
 
 
 ### Temporary Hit Points
@@ -673,7 +673,7 @@ When temporary HPs expire, you *do not* have to "pay them back" in any fashion, 
 
 ### Dealing Damage
 
-Whenever you would connect with a damaging attack or effect, roll the given amount of damage and apply it to your target, who "takes" said damage (see below).
+As a player, whenever your adventurer would connect with a damaging attack or effect, roll the given amount of damage and apply it to your target, who "takes" said damage (see below).
 
 Your base damage with all weapons is determined by your Class Hit Die, which you roll alongside the rest of your Attack Dice. Some weapons may have special modifiers to this, however. Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
 
@@ -682,7 +682,9 @@ Extended combat and damage rules are found in the Combat section. Your base dama
 
 ### Taking Damage
 
-Whenever you would "take" damage from an attack or effect, subtract the incoming amount from your current Hit Point total. If the newly-adjusted amount is greater than Zero, then your character is still up and active without further modification (unless otherwise specified).
+Whenever you would "take" damage from an attack or effect, compare the incoming damage total to your base CON score. If the damage is less than or equal to your CON score, you take 1 hit. If the damage is greater than your CON score, you take 2 hits instead. For each full ten points of incoming damage above your CON, you take one additional hit on top of that.
+
+Subtract the total number of Hits from your current Hit Points. If the newly-adjusted amount is greater than Zero, then your character is still up and active without further modification (unless otherwise specified).
 
 If the newly-adjusted total is less than zero, you are likely dead, or dying, depending on the adventure's Difficulty Mode. See "Zero Hit Points" further below.
 

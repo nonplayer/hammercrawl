@@ -49,6 +49,7 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 * **Prime Stats:** STR, CON
 * **Hit Die:** 1d8
+* **Hit Points:** HD Max + Con mod + 3/level
 * **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 25
 * **Saving Throws:**
@@ -93,6 +94,7 @@ See below for a table of attack and save bonuses by level:
 
 * **Prime Stats:** DEX, INT
 * **Hit Die:** 1d6
+* **Hit Points:** HD Max + Con mod + 2/level
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -141,6 +143,7 @@ See below for a table of attack and save bonuses by level:
 
 * **Prime Stats:** DEX, CHA
 * **Hit Die:** 1d6
+* **Hit Points:** HD Max + Con mod + 2/level
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 20
 * **Saving Throws:**
@@ -195,6 +198,7 @@ See below for a table of attack and save bonuses by level:
 
 * **Prime Stats:** STR, CON
 * **Hit Die:** 1d10
+* **Hit Points:** HD Max + Con mod + 4/level
 * **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -253,6 +257,7 @@ See below for a table of attack and save bonuses by level:
 
 * **Prime Stats:** WIS, CHA
 * **Hit Die:** 1d6
+* **Hit Points:** HD Max + Con mod + 2/level
 * **Attack Rank:** B: You add 1/2 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -295,6 +300,7 @@ See below for a table of attack and save bonuses by level:
 
 * **Prime Stats:** DEX, INT
 * **Hit Die:** 1d6
+* **Hit Points:** HD Max + Con mod + 2/level
 * **Attack Rank:** C: You add 1/3 your level (rounded down) to attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -352,6 +358,7 @@ See below for a table of attack and save bonuses by level:
 
 * **Prime Stats:** STR, CON
 * **Hit Die:** 1d8
+* **Hit Points:** HD Max + Con mod + 3/level
 * **Attack Rank:** A: You add your level to your attack rolls.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -396,6 +403,7 @@ See below for a table of attack and save bonuses by level:
 
 * **Prime Stats:** INT (only)
 * **Hit Die:** 1d4
+* **Hit Points:** HD Max + Con mod + 1/level
 * **Attack Rank:** D: You have no level-based combat bonus to attacks.
 * **Base Movement:** 30
 * **Saving Throws:**
@@ -1037,12 +1045,12 @@ Your class determines how many spells are in your starting spell or prayer book.
 
 * **Experience Level** (1) and associated **Character Tier** (1)
 * **Hit Die** = Determined by your Class
-* **Hit Points (HPs)** = Your Hit Die maximum plus your CON mod, if any.
+* **Hit Points (HPs)** = Determined by your Class
 * **Defense** = Base of 10, plus your DEX mod, plus your Armour and Shield Defense bonus.
-* **Melee Attack Modifier** = STR mod + any class mods
+* **Melee Attack Modifier** = STR mod + any Class mods
 * **Melee Damage Modifier** = STR mod
-* **Missile Attack Modifier** = DEX mod + any class mods
-* **Movement Speed** = determined by class (human base is 30)
+* **Missile Attack Modifier** = DEX mod + any Class mods
+* **Movement Speed** = Determined by your Class (human base is 30)
 * **Maximum Encumbrance (MaxEnc)** = 1/2 your INT score (rounded down), plus your STR mod.
 
 
