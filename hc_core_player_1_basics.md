@@ -51,7 +51,8 @@ A game of HAMMERCRAWL! requires the following materials of play.
 ### The Basics
 
 * The game rules
-* Multiple sets of gaming dice, including: d4, d6, d8, d10, d12, d20, and at least one d30. You may also find the other "funky" dice to be helpful on some random tables (d5, d14, d24, etc).
+* Multiple sets of gaming dice, including: d4, d6, d8, d10, d12, d20, and at least one d30.
+* The 'Smith may also find the other "funky" dice to be helpful on some random tables (d3, d5, d7, d14, d16, d24, and d30). These can be useful in some of the 'Smith's specific rules.
 * Various writing utensils
 * The spells and monsters from at least one other "classic" game (I tend to use *Dark Dungeons*, but YMMV).
 

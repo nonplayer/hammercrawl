@@ -24,8 +24,9 @@ Core things you'll need:
 
 1. Knowledge of the Rules
 2. A Dungeon
-3. Dice
-4. Helpful additional Randomizers
+3. Gaming Dice
+4. Divining Dice
+5. Helpful additional Randomizers
 
 
 ### 1. The Rules
@@ -41,14 +42,35 @@ Read these pages, and reap the rewards of knowledge.
 * Determine the total Hit Dice of the "floor boss" monster. This in turn sets the Tier of the dungeon, per the Tier rules in the Player Guide.
 
 
-### 3. The Dice
+### 3. The Gaming Dice
 
-(TBD)
+I'm assuming you know about common tabletop gaming dice already and probably have dozens of them at least. So we're not gonna go into describing what they are and how to roll them. In short, you just need a standard set, consisting of a d4, d6, d8, d10, d%, d12, and d20. You'll also need a d30 on hand, which are thankfully a lot more easily acquired today than they used to be. You may find it helpful to have multiple d20s, and a few extras of the d4, d6, and d8 as well.
+
+As the 'Smith you may also find it useful to keep an additional set of "funky dice" on hand to assist with rolling certain odd checks here and there. These dice are made popular by the excellent game Dungeon Crawl Classics (DCC), and include dice of sizes d3, d5, d7, d14, d16, d24, and d30. They can be especially useful with the newer monster damage save rules. Also, they're just cool, and you automatically gain awesome nerd cred by having them.
+
+The decision to use Funky dice is up to you. None of the player-side rules require them, but some of the Hammersmith-side rules can benefit from having the additional dice types on hand, for extra mechanical versatility when applying dice steps (see below).
 
 
-### The Divining Dice
+#### Dice "Steps"
 
-Okay, I'm assuming you know about gaming dice already and probably have dozens of them at least. So we're not gonna go into describing what they are and how to roll them. In short, you just need a standard set, consisting of a d4, d6, d8, d10, d%, d12, and d20. You may find it helpful to have multiple d20s, and a few extras of the d4, d6, and d8 as well.
+Within the 'Smith's rules you may encounter the term "steps" in the context of rules regarding dice use and manipulation. These refer to the concept of a "dice chain" of escalating potential. The easiest way to perceive this is to take your standard dice and lay them out on the table in front of you, in order from smallest on the left, to largest on the right (excluding percentile dice). Depending on whether or not you have chosen to include a set of "funky dice" mixed in, this chain will be one of the following:
+
+**The Basic Dice Chain:**
+
+**d4 <-> d6 <-> d8 <-> d10 <-> d12 <-> d20 <-> d30**
+
+**The "Funky" Dice Chain**
+
+**d3 <-> d4 <-> d5 <-> d6 <-> d7 <-> d8 <-> d10 <-> d12 <-> d14 <-> d16 <-> d20 <-> d24 <-> d30**
+
+When working with these dice chains, you start with a reference die which should be contextually obvious by the situation. Each subsequent die to the left of it is one step *down* the chain, which each subsequent die to the right of it is one step *up* the chain. For example, when applying steps to a basic attack roll, the reference die is a d20, and thus one step down is a d12 (or d16 with funky dice), and one step up is a d30 (or d24 with funky dice).
+
+If a game rule tells you to apply one or more steps to a die roll, you must find the expected reference die on the chain, count the situationally-indicated number of steps, and then substitute the new die for the roll instead. For example, if a monster is making a saving throw (reference die = d20) and a rule makes them roll with a three-step penalty, then they would instead roll using either a d8 or d12 with basic or funky dice, respectively.
+
+Steps that would push you either below the leftmost die or above the rightmost die are ignored.
+
+
+### 4. The Divining Dice
 
 Additionally, HAMMERCRAWL! makes use of the special colorful dice from the Genesys RPG to help the 'Smith randomly generate threat and other ideas on the spur of the moment (most commonly when they move into the next room of the dungeon). For the purposes of HAMMERCRAWL! the dice are as follows:
 
@@ -59,7 +81,10 @@ Additionally, HAMMERCRAWL! makes use of the special colorful dice from the Genes
 * **Black - The Bad Fortune Dice:** Dice that represent chaos working against the PCs.
 * **Yellow - The Expert Dice:** Dice that come into play when the PCs have the right tool, spell, or hireling for the job.
 
-### 4. The Additional Randomizers
+If you do not have these dice physically available, there are a number of digital versions available. These include Android/iOS apps, as well as free web-based dice rollers. Some of the online Virtual Tabletops (VTTs) now have them built-in, too.
+
+
+### 5. The Additional Randomizers
 
 This game works best if you keep a handful of randomizers at hand at all times during play. There are a number of them linked in Appendix R of this document, but that list is by no means fully comprehensive. New tools of this sort seem to pop up every year, and as such it's a glorious time to be gaming and into RPG randomizers.
 
@@ -427,7 +452,7 @@ When a PC successfully attacks a NPC, they must roll their damage as usual. The 
 
 If the NPC fails this save, they are inflicted with a Wound, or two if they rolled a natural 1. Each wound taken stacks, and once a NPC takes a number of wounds equal to or greater than their Hit Die total, that NPC is slain.
 
-If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, and for each Scratch the NPC suffers a Bane on subsequent Death saves to resist wounds. Once a NPC fails a Death save and takes a wound, erase all of its current Scratches.
+If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, making subsequent damage saves more difficult to pass as the PCs whittle away at their health. For each such Scratch the NPC carries, they roll their damage save at one die step lower. Once a NPC fails a Death save and takes a wound, tally the Wound and erase all of its current Scratches.
 
 Keeping track of scratches and remaining HD can be done with simple use of a small die (such as a d6) counting scratches, and a larger die (such as d12 or higher) counting down the NPC's remaining HD. It can be handy to keep a d30 on hand for the more powerful boss monsters, when needed. Alternately, a bowl of different-colored tokens can be used, with one color representing Scratches, and the other representing Wounds.
 
