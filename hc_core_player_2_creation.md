@@ -509,7 +509,8 @@ Each of the seven core stats affects certain mechanics, as detailed below:
 **Modifies:**
 
 * Body Saves
-* Hit Die Rolls
+* Hit Points
+* Incoming Damage Thresholds
 
 
 #### Intelligence (INT)
