@@ -63,11 +63,11 @@ Each class has its own special rules and abilities. Take note of yours using the
 
 **Born of Earth and Stone:** Dwarves are never lost when underground with solid earth or stone beneath their feet. They know the local grades and depth, and can feel air flow naturally. They have a 50% chance of detecting hidden stonework just by passing, and automatically find it if they spend a Beat searching.
 
-**Dwarf Battlemaster:** Dwarves have a bonus melee-only attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Dwarf Battlemaster:** Dwarves have a bonus melee-only Combat Die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, a Dwarf declares their target(s) and then rolls all of their Combat Dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Dwarven Resilience:** Dwarves have a Boon on all of their Good saves.
 
-**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful attack dice. Additionally, dwarves do not lose the Defense bonus of their shield when using the bash.
+**Shield Brothers:** Dwarves can use a Shield Bash with any one of their successful Combat Dice. Additionally, dwarves do not lose the Defense bonus of their shield when using the bash.
 
 See below for a table of attack and save bonuses by level:
 
@@ -116,7 +116,7 @@ At the start of play, a new Elf can only cast level 1 spells. This maximum spell
 
 **Keen Awareness:** Elves are spatially aware of their surroundings at all time. They have a 50% chance of noticing concealed *non-stonework* doors and panels simply by passing near them, and automatically find them if they spend a Beat searching.
 
-**War Adept:** Elves have a bonus attack die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**War Adept:** Elves have a bonus Combat Die at first level (giving them two), and gain a new one at levels 5, 10, and 15. When attacking, an Elf declares their target(s) and then rolls all of their Combat Dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 See below for a table of attack and save bonuses by level:
 
@@ -153,7 +153,7 @@ See below for a table of attack and save bonuses by level:
 * **Gear Restrictions:** Can use all small weapons one-handed, or medium two-handed. Cannot use two-handed human-sized weapons. Can use shields.
 * **Bonus Languages:** Halfling
 
-**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus attack die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Backup Fighter:** Halflings can function as fighters of a sort, when needed. Halflings gain a bonus Combat Die at levels 4, 8, and 12. When attacking, a Halfling declares their target(s) and then rolls all of their Combat Dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Backup Explorer:** Halflings have the following Dungeon Skills:
 
@@ -214,7 +214,7 @@ See below for a table of attack and save bonuses by level:
 
 **Murderous Rage:** Berserker blood is instilled with traces of the same dark rage that drives their ogrish ancestors to war against the kingdoms of humans. When a Berserker takes damage, they must make a Mind save (target: 12) or go into an uncontrollable violent fury. During this rage, they receive the following adjustments:
 
-* they have one (1) additional attack dice (this increases to two at level 7, and three at level 14),
+* they have one (1) additional Combat Dice (this increases to two at level 7, and three at level 14),
 * they gain temporary hit points = 1/2 their HP total (rounded up),
 * they have two (2) Banes on all saves except Body and Death, which both receive two (2) Boons.
 
@@ -228,7 +228,7 @@ While in their Rage, on their turn in combat they must take action according to 
 
 A Berserker can choose to voluntarily fail either save and willingly let the rage overtake them and/or knock them unconscious afterward. They can also trigger it on their own by causing themselves 1 point of damage with a weapon.
 
-**Savage Warrior:** Berserkers gain a bonus attack die at levels 5, 10, and 15. These dice are cumulative with those acquired from their rage. When attacking, a Berserker declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Savage Warrior:** Berserkers gain a bonus Combat Die at levels 5, 10, and 15. These dice are cumulative with those acquired from their rage. When attacking, a Berserker declares their target(s) and then rolls all of their Combat Dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Two-Hander:** When using a two-handed melee weapon, Berserkers use d12 damage dice with their attacks (instead of d10), applying the result to all attacks that hit.
 
@@ -368,13 +368,13 @@ See below for a table of attack and save bonuses by level:
 * **Gear Restrictions:** Fighters can use all weapons, shields, and armour.
 * **Bonus Languages:** None
 
-**Combat Superiority:** Fighters have a bonus attack die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their attack dice, but only one damage die. Each attack that hits applies the same amount of damage.
+**Combat Superiority:** Fighters have a bonus Combat Die at first level (giving them two), and gain a new one at levels 3, 6, 9, 12, and 15. When attacking, a Fighter declares their target(s) and then rolls all of their Combat Dice, but only one damage die. Each attack that hits applies the same amount of damage.
 
 **Not Today!:** At first level and each level after, the Fighter gains a single use of "Not Today!" When a Fighter would take damage (from any source) that would reduce their Hit Points from positive to Zero or below, they can spend a use to negate all of the damage from that attack. These uses accumulate with each level, but each use is permanently lost upon spending.
 
 **Primary Tank:** When leveling up, Fighters reroll their Hit Points twice, and keep the best result.
 
-**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful attack dice. After a bash, the Fighter loses the shield's Defense bonus until the start of their next turn in combat.
+**Shield-Trained:** Fighters can use a Shield Bash with any one of their successful Combat Dice. After a bash, the Fighter loses the shield's Defense bonus until the start of their next turn in combat.
 
 **Two-Hander:** When using a two-handed weapon, Fighters roll an *extra* damage die with their attacks, applying the result to all attacks that hit.
 

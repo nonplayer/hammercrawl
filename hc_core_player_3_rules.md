@@ -71,7 +71,7 @@ In this section, you will learn how to kill, and also how to not be killed.
 
 You'll need to know the following basic terms. There are more to follow, but these will get you started:
 
-* **Attack Dice:** How many D20s you can roll in attempts to cause damage to your opponent.
+* **Combat Dice:** How many D20s you can roll in attempts to cause damage to your opponent.
 * **Damage:** An abstract currency of applied murder, caused by weapons being used for their primary purposes.
 * **Defense:** Provided mainly by armour, this is the target number for attacks against you.
 * **Hit Die:** Your Class's core damage die, used to determine hit points and also to cause damage.
@@ -196,24 +196,24 @@ Every missile and thrown weapon in the Gear section is given a Range stat, consi
 Melee weapons without a Thrown quality *can* be thrown, but the attack receives a Bane. Max range is equal to your Strength, effective range is half that.
 
 
-#### Attack Dice Explained
+#### Combat Dice Explained
 
-Many characters may have one or more **Attack Dice** granted by their Class. Level 1 Fighters, for example, begin the game with two Attack Dice, while Magic-Users start with only one (and never gain more). In HAMMERCRAWL! these dice represent "chances to do damage" during your Turn in combat.
+Many characters may have one or more **Combat Dice** granted by their Class. Level 1 Fighters, for example, begin the game with two Combat Dice, while Magic-Users start with only one (and never gain more). In HAMMERCRAWL! these dice represent "chances to do damage" during your Turn in combat.
 
-When you decide to take an Attack action on your combat Turn, first take note of how many Attack Dice are available to you. These would be granted to you by your Class; unless specified, you only have one Attack Die. Some classes also have restrictions on how their bonus dice can be used. For example, Elves and Fighters can use their Attack Dice however they choose, while Dwarves can only use their bonus dice for melee attacks. In any such case, your base die can always be used however you like.
+When you decide to take an Attack action on your combat Turn, first take note of how many Combat Dice are available to you. These would be granted to you by your Class; unless specified, you only have one Combat Die. Some classes also have restrictions on how their bonus dice can be used. For example, Elves and Fighters can use their Combat Dice however they choose, while Dwarves can only use their bonus dice for melee attacks. In any such case, your base die can always be used however you like.
 
-Once you know your total Attack Dice, declare what weapon(s) you are using. You will only be able to use the weapons you are holding at the start of your attack, and you are not able to swap weapons once you've rolled the dice.
+Once you know your total Combat Dice, declare what weapon(s) you are using. You will only be able to use the weapons you are holding at the start of your attack, and you are not able to swap weapons once you've rolled the dice.
 
-With the weapons declared, it's time to roll all of your Attack Dice, along with your class Hit Die (also called the "damage die"). Regardless of how many Attack Dice you have, you still only roll a single Hit Die. You can then assign the dice as you see fit between basic attacks and special attacks (shield bash, tactical attacks, etc), provided they all involve weapons you are currently equipped with. Resolve each of those attacks in any order you see fit, against any targets that are valid.
+With the weapons declared, it's time to roll all of your Combat Dice, along with your class Hit Die (also called the "damage die"). Regardless of how many Combat Dice you have, you still only roll a single Hit Die. You can then assign the dice as you see fit between basic attacks and special attacks (shield bash, tactical attacks, etc), provided they all involve weapons you are currently equipped with. Resolve each of those attacks in any order you see fit, against any targets that are valid.
 
-You can think of them as separate physical attacks if you like, but they don't have to be, as they are simply additional chances to re-apply your damage die. Four attack dice can represent four separate swings of a sword, or one big mega-awesome single stab, or any combination in between.
+You can think of them as separate physical attacks if you like, but they don't have to be, as they are simply additional chances to re-apply your damage die. Four Combat Dice can represent four separate swings of a sword, or one big mega-awesome single stab, or any combination in between.
 
 
 #### Basic Attacks
 
 The basic attack action involves using a weapon to hit an enemy, with the goal of applying damage to that enemy and eventually defeating them. Most damage applied in combat will generally come from three main sources: melee attacks, missile attacks, and spell attacks. Spell attacks will always depend on the spell, so this section will only focus on Melee and Missile attacks.
 
-Any of your Attack Dice that equal or exceed your opponent's Defense can be declared successful "hits" with your currently-held weapon. Each successful hit causes damage against your enemy, determined by the result of your rolled damage:
+Any of your Combat Dice that equal or exceed your opponent's Defense can be declared successful "hits" with your currently-held weapon. Each successful hit causes damage against your enemy, determined by the result of your rolled damage:
 
 * **Melee Attacks:** The result of your damage die, plus your STR mod, plus your weapon's Melee type mod, plus any applicable specific mods
 * **Missile Attacks:** The result of your damage die, plus your weapon's Awesome mod (if any), plus any applicable specific mods
@@ -223,20 +223,20 @@ If you score multiple hits, you apply the same amount of damage that many times.
 
 #### Critical Hits and Fumbles
 
-If any of your Attack Dice roll a natural 20, you have earned a **Critical Hit** with that die! Critical hits (also known as "Crits") multiply your rolled damage by theoretically infinite amounts. When the "nat 20" is rolled, your damage multiplier increases to x2. Then you must roll a Luck Save, per normal rules. If successful, your multiplier increases to x3, and you get to attempt *another* Luck Save. For each consecutive Luck Save that you pass, increase the multiplier +1 and repeat. If you fail a Luck Save, the chain ends. Multiply your total damage rolled (including base mods) by the final multiplier, and apply that to your enemy.
+If any of your Combat Dice roll a natural 20, you have earned a **Critical Hit** with that die! Critical hits (also known as "Crits") multiply your rolled damage by theoretically infinite amounts. When the "nat 20" is rolled, your damage multiplier increases to x2. Then you must roll a Luck Save, per normal rules. If successful, your multiplier increases to x3, and you get to attempt *another* Luck Save. For each consecutive Luck Save that you pass, increase the multiplier +1 and repeat. If you fail a Luck Save, the chain ends. Multiply your total damage rolled (including base mods) by the final multiplier, and apply that to your enemy.
 
-If any of your Attack Dice roll a natural 1, you have earned a **Fumble!** result with that die. Currently there are no extended fumble rules written up, as the author has been defaulting to old WFRP1E fumble tables. If folks want to see them here, maybe that can happen in the future.
+If any of your Combat Dice roll a natural 1, you have earned a **Fumble!** result with that die. Currently there are no extended fumble rules written up, as the author has been defaulting to old WFRP1E fumble tables. If folks want to see them here, maybe that can happen in the future.
 
 
 #### Shield Bash Action
 
-The **shield bash** is a special melee attack available to Dwarves and Fighters using any non-tower shield. *After* rolling all of their attack dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
+The **shield bash** is a special melee attack available to Dwarves and Fighters using any non-tower shield. *After* rolling all of their Combat Dice during a melee action, the shield-bearer can choose to declare one of their successful hits as a Shield Bash. The attack does half the rolled damage (round down), and the target must then make a Body Save vs the shield-bearer's attack roll. If failed, the shield-bearer additionally gets a choice of one of the following:
 
 * The target is disarmed, and their weapon knocked beyond immediate melee reach.
 * The target is "dazed" until their next action, suffering a combat Bane.
 * The target is knocked to the ground, and the next ally that attacks them gains a Boon on one of their dice.
 
-Fighters who Shield Bash as one of their attack dice lose the shield's Defense bonus until their next combat turn. Dwarves do not suffer this setback.
+Fighters who Shield Bash as one of their Combat Dice lose the shield's Defense bonus until their next combat turn. Dwarves do not suffer this setback.
 
 If you Crit with a Shield Bash, each "multiplier" increase instead lets you add and/or stack another effect.
 
@@ -245,7 +245,7 @@ If you Crit with a Shield Bash, each "multiplier" increase instead lets you add 
 
 The **Tactical Attack** is a special melee action available to all characters. Clever players may wish to forgo damaging actions in favor of using their attacks to impede their opponents or otherwise create tactical Boons for their team. This includes ideas such as bull rushing, tripping, feinting, and any actual melee attack meant to confound more than to harm. Provided this takes the form of a melee attack, these are resolved in the Melee phase, otherwise resolve them in the Misc. Phase..
 
-These attacks never do damage, but can instead set up temporary Boons and Banes. Any character can attempt a tactical attack, although Explorers and Halflings receive Boons to them. *After* rolling all of their attack dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
+These attacks never do damage, but can instead set up temporary Boons and Banes. Any character can attempt a tactical attack, although Explorers and Halflings receive Boons to them. *After* rolling all of their Combat Dice during a melee action, a combatant can choose to declare one or more of their dice rolls (not necessarily hits!) as Tactical Attacks. The player must vividly describe the special maneuver they are attempting, and then declare if it is saved by Mind or Body. The save should be fairly obvious: if it's a feint or trick then it's saved by Mind, while shoves and trips and the like are saved by Body.
 
 The target must make the relevant Save. If the attacker was using a special **Tactical Weapon** (such as a bola, whip, blowgun, etc), they make this save with a Bane.
 
@@ -325,7 +325,7 @@ Unless circumstances otherwise interfere, a standard adventurer is always consid
 * If you are attacking to cause damage, then your damage is halved, rounded down.
 * If your opponent is armed, your attack roll receives a Bane, unless it is a Tactical Attack.
 
-Even if you are wielding actual weapons, you can still make use of your off-hand and your feet as extra weapons when applying your Attack Dice. This is most useful as a descriptive coloring of Tactical Attacks (give them a good kick to knock them down, etc).
+Even if you are wielding actual weapons, you can still make use of your off-hand and your feet as extra weapons when applying your Combat Dice. This is most useful as a descriptive coloring of Tactical Attacks (give them a good kick to knock them down, etc).
 
 
 ### After Combat
@@ -675,7 +675,7 @@ When temporary HPs expire, you *do not* have to "pay them back" in any fashion, 
 
 As a player, whenever your adventurer would connect with a damaging attack or effect, roll the given amount of damage and apply it to your target, who "takes" said damage (see below).
 
-Your base damage with all weapons is determined by your Class Hit Die, which you roll alongside the rest of your Attack Dice. Some weapons may have special modifiers to this, however. Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
+Your base damage with all weapons is determined by your Class Hit Die, which you roll alongside the rest of your Combat Dice. Some weapons may have special modifiers to this, however. Dwarves, Half-ogres, and Fighters have special damage rules with Two-Handed weapons (see classes for details).
 
 Extended combat and damage rules are found in the Combat section. Your base damage with spells and other effects is determined by those individual effects (see the Magic chapter).
 
@@ -687,6 +687,7 @@ Whenever you would "take" damage from an attack or effect, compare the incoming 
 Subtract the total number of Hits from your current Hit Points. If the newly-adjusted amount is greater than Zero, then your character is still up and active without further modification (unless otherwise specified).
 
 If the newly-adjusted total is less than zero, you are likely dead, or dying, depending on the adventure's Difficulty Mode. See "Zero Hit Points" further below.
+
 
 
 ### Zero Hit Points
@@ -806,7 +807,7 @@ I must note, however, that these are getting super nitpicky, so you may wish to 
 
 When a character is acting under the effects of darkness, the following mechanics apply:
 
-* Their Combat Attack Dice pool is reduced by one. If this reduces it to Zero, they cannot effectively attack.
+* Their Combat Dice pool is reduced by one. If this reduces it to Zero, they cannot effectively attack.
 * They can not perform Critical Hits on natural rolls of 20. Such rolls are treated as normal 20s instead, without the usual double damage effect.
 * Their Damage Hit Die is treated as one die size lower than it would normally be.
 * They roll with three (!!!) Banes on Skill rolls, Area Saves.
