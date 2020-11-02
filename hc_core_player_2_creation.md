@@ -106,7 +106,9 @@ See below for a table of attack and save bonuses by level:
 
 **Ageless Perfection:** Elves are immune to sleep, charm, slow, haste, aging, and energy drain effects, *unless* those effects are results of the magic of an Elf (self or other, alive or undead).
 
-**Ancient Arcanists (Spellcaster):** Elves can cast spells from the magic-user list. Elves begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of one (1) randomly-determined bonus spell. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons. Spells are memorized, cast and forgotten per normal magic rules.
+**Ancient Arcanists (Spellcaster):** Elves can cast magical spells. Elves begin the game with a spellbook containing the cantrip *Red Magic*. Additionally the book contains a base of one (1) randomly-determined bonus level 1 spell. This number of bonus spells is directly modified by the Elf's INT mod, which can reduce the bonus amount to zero (but not lower). The Elf can choose to gain two (2) random bonus cantrips in place of any one (1) bonus level 1 spell.
+
+At each new level the Elf adds one (1) new spell to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons. Spells are memorized, cast and forgotten per normal magic rules.
 
 At the start of play, a new Elf can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
@@ -269,7 +271,9 @@ See below for a table of attack and save bonuses by level:
 
 **Aligned to the Gods:** Clerics must believe in a great deific cause, and as such cannot be of Neutral alignment.
 
-**Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast spells from the Cleric spell list. Clerics begin the game with a holy prayerbook which contains a base of two (2) randomly-determined clerical prayers. This number of bonus spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons. Spells are memorized, cast and forgotten per normal magic rules.
+**Heavenly Power (Spellcaster):** Clerics channel the divine will of their deities to cast magical spells. Clerics begin the game with a holy prayerbook which contains a base of two (2) randomly-determined cantrips and two (2) random level 1 spells in the form of clerical prayers. This number of bonus level 1 spells is directly modified by the Cleric's WIS mod, which can reduce the bonus amount to zero (but not lower). The Cleric can choose to gain two (2) random bonus cantrips in place of any one (1) bonus level 1 spell.
+
+At each new level the Cleric is divinely inspired to add two (2) new prayers to their book, and they can add more by sanctifying, converting, and transcribing prayers to other gods found on scrolls and books in dungeons. Spells are memorized, cast and forgotten per normal magic rules.
 
 At the start of play, a new Cleric can only cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience.
 
@@ -419,11 +423,13 @@ See below for a table of attack and save bonuses by level:
 
 **Highcaster:** Magic-users (only) can prepare and even attempt to cast spells of higher level than they normally would be able to, provided they have a copy of the spell in their book. Casting the spell requires permanent loss of INT score equal to the difference in allowed spell levels. Such INT loss can only be regained through the use of the Cleric's *Restoration* spell. Spells are memorized, cast and forgotten per normal magic rules.
 
-**Magical Mind:** Magic-users can cast the spell *Read Magic* freely and at will, without need to prepare, memorize, or roll.
+**Magical Mind:** Magic-users can cast the level 1 spell *Detect Magic* at will as if it were a Cantrip. If the Magic-User forgets it in place of another spell, they cannot re-cast it until it is re-memorized.
 
-**Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast spells from the Magic-User spell list. Magic-Users begin the game with a spellbook containing *Read Magic*. Additionally the book contains a base of two (2) randomly-determined bonus spells. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons. Spells are cast and forgotten per normal magic rules.
+**Wizardly Ways (Spellcaster):** Magic-users are best known for their ability to cast magical spells. Magic-Users begin the game with a spellbook containing two (2) random cantrip spells, and the level 1 spell *Detect Magic*. Additionally the book contains a base of two (2) randomly-determined bonus level 1 spells in the form of arcane formulae. This number of bonus spells is directly modified by the Magic-User's INT mod, which can reduce the bonus amount to zero (but not lower). The Magic-User can choose to gain two (2) random bonus cantrips in place of any one (1) bonus level 1 spell.
 
-At the start of play, a new Magic-User can safely cast level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience. Take note of their Highcast ability, above.
+At each new level the Magic-user adds two (2) new spells to their book from their own ongoing experimentation, and they can add more by transcribing scrolls and magical texts found in dungeons. Spells are cast and forgotten per normal magic rules.
+
+At the start of play, a new Magic-User can safely cast cantrips and level 1 spells. This maximum spell level increases by +1 at every odd-numbered level of experience. Take note of their Highcast ability, above.
 
 **Wizardly Weaponry:** Magic-users can make use of new special mage-only weapons: The Wand and The Staff. Be warned that actively using these tools will mark you as a magician, and likely increase your chances of becoming a target priority by smart enemies...
 

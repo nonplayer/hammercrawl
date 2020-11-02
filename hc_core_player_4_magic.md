@@ -6,7 +6,7 @@ created: 2018-03-22
 
 # CHAPTER: Magic and Spellcasting
 
-Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. While Clerics have access to a different "divine" spell list than Elves and Magic-Users, unlike most other derivatives of The OG, that is where their spellcasting differences end. Spell lists aside, all spellcasting classes use the same rules for memorizing and casting spells.
+Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. Unlike the OG, all spellcasters have access to the same collection of spells, and use the same rules for memorizing and casting spells.
 
 
 ## Spellcasting
@@ -19,7 +19,7 @@ TBD
 
 #### Clerics Use Spellbooks Too!
 
-Unlike The OG and most of its derivatives, Clerics in HAMMERCRAWL! require spellbooks too! In opposition to how a lot of other games implement them, Clerics *do not* immediately have access to the entire Clerical spell list upon attaining the requisite experience levels. Instead, Clerics must collect and learn spells exactly as Elves and Magic-users, only their are drawn from Holy Writ. Clerics call their tomes "Prayerbooks" but otherwise follow all the core spellbook rules. Clerical spells care commonly called "prayers" and they can learn from holy scrolls exactly the same as Magic-users learn from wizardly scrolls.
+Unlike The OG and most of its derivatives, Clerics in HAMMERCRAWL! require spellbooks too! In opposition to how a lot of other games implement them, Clerics *do not* immediately have access to the spell list upon attaining the requisite experience levels. Instead, Clerics must collect and learn spells exactly as Elves and Magic-users, only their are drawn from Holy Writ. Clerics call their tomes "Prayerbooks" but otherwise follow all the core spellbook rules. Clerical spells care commonly called "prayers" and they can learn from holy scrolls exactly the same as Magic-users learn from wizardly scrolls. All are drawn from the same spell list.
 
 Some more experienced players of The OG may call this change blasphemy, but in play we've found that brand new players at one-shot games find that it makes for a lot more approachable experience when playing a Cleric for the very first time.
 
@@ -39,20 +39,18 @@ Upon the start of a new day, Clerics and Elves are considered to have memorized 
 
 *Whoah now, hold on bro! What the heck?! That's OP, dude!*
 
-Don't worry, fam, I hear you, and beg you to chilly down. Dear Reader, it's important to remember the focus of this game: sit-down, pick-up, meat-grinder dungeon crawling. One of the major roadblocks for brand new players to "Old School" style games is the experience-based barrier of entry to the "fun" classes like Clerics, Magic-Users, and Elves. They clearly get to do all the cool stuff, but for new players without extensive knowledge of daily spell preparation and the entire contents of the Cleric spell list, taking on these classes at the start can be intimidating, and can lead to those new players never coming back to a game they could learn to love. Thus HAMMERCRAWL! takes a simplified approach, aiming to make all spellcasters easier to play for newbies, but still keep them *somewhat* in check.
+Don't worry, fam, I hear you, and beg you to chilly down. Dear Reader, it's important to remember the focus of this game: sit-down, pick-up, meat-grinder dungeon crawling. One of the major roadblocks for brand new players to "Old School" style games is the experience-based barrier of entry to the "fun" classes like Clerics, Magic-Users, and Elves. They clearly get to do all the cool stuff, but for new players without extensive knowledge of daily spell preparation and the entire spell list, taking on these classes at the start can be intimidating, and can lead to those new players never coming back to a game they could learn to love. Thus HAMMERCRAWL! takes a simplified approach, aiming to make all spellcasters easier to play for newbies, but still keep them *somewhat* in check.
 
 *Ahem, resuming rules text...*
 
-At the beginning of a new day of adventuring, and following a good long restful session of sleep and morning preparation, a spellcaster is assumed to have memorized every spell currently in their Spellbook.
-
-Spells are usually forgotten upon casting. Spells can be re-memorized by resting or returning to town.
+Spells of level 1 and higher are usually forgotten upon casting. Spells can be re-memorized by resting or returning to town.
 
 
 ### Casting Spells
 
 You can cast any spell you have memorized. To do so, simply choose the spell and follow the rules of that spell. Many spells won't require the caster to make any dice rolls, although many will have saving throws that the target must make in order to resist the effects.
 
-Upon casting, you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other memorized spells, provided their total level cost is equal to or greater than that of the spell that you just cast.
+If the spell is a *cantrip* then you can cast it as often as once every Round, provided conditions allow. If the spell is a "leveled" spell (levels 1 and up), however, upon casting it you forget it for the rest of the day. If you do not wish to forget it, you can instead choose to lose a number of other memorized leveled spells, provided their total level cost is equal to or greater than that of the spell that you just cast.
 
 
 #### Spell Components
@@ -64,6 +62,11 @@ A spell with a **Verbal** component requires that the caster *loudly* and *audib
 A spell with a **Somatic** component requires that the caster engage in some form of exaggerated physical movement or performance in order to actualize its magical power. This most commonly involves X-TREEM Finger Wiggling (TM), but accommodations can also be made for players who choose to involve other forms of motion, such as ballet, twerking, or interpretive dance. If the caster is prevented from engaging in their "style" of somatic motion, then they are unable to case the spell. As with verbal components, players are encouraged to passionately perform these motions for all to see, with the chance of giving their opponents Banes on their saves.
 
 Finally, **Material** components are entirely optional physical objects that the player can sacrifice in order to empower their spells. Pickled griffon's feet, petrified minotaur genitals, powdered elf bones, all are things that can be used to empower spells, provided the theme of the item and the effects of the spell align. Using such components is entirely optional and ultimately up to the feel of your gaming table. If applicable, the 'Smith may choose to allow casters to sacrifice components in order to remember spells, or overcast, or penalize opponents' saves, or more. You are encouraged to get creative.
+
+
+#### On Cantrips
+
+**Cantrip** spells are the weakest form of magic, so weak and singular in purpose that they can be cast at will without forgetting. They stick in a caster's mind like mnemonic rhymes from childhood, ready to call forth at an instant.
 
 
 #### On Reversible Spells
@@ -82,86 +85,17 @@ Whenever a spellcaster acquires a new spell from an external source that is comp
 
 This game text does not *yet* have extensive spell lists, but over time it will certainly grow them out. In the meantime, I recommend you use whichever B/X or BECMI compatible spell list that you prefer. I find that the *Dark Dungeons* list is pretty comprehensive, and give it my seal of approved compatibility. In fact, it's the list I default to when I run HAMMERCRAWL!
 
-
-#### Cleric Level 1
-
-1. Befoul Food and Water
-2. Cause Fear
-3. Cause Light Wounds
-4. Cure Light Wounds
-5. Darkness
-6. Detect Evil
-7. Detect Magic
-8. Light
-9. Protection from Evil
-10. Purify Food and Water
-11. Remove Fear
-12. Resist Cold
+Also, one noteworthy difference here from The OG and most of its retroclones is that in HAMMERCRAWL! all of the spells are combined into one massive collection. There are no separations of schools, and no conflict between the arcane and divine. All spellcasters draw from the same greater collection of spells.
 
 
-#### Cleric Level 2
-
-1. Bless
-2. Curse
-3. Find Traps
-4. Free Person
-5. Hide Alignment
-6. Hold Person
-7. Know Alignment
-8. Resist Fire
-9. Silence 15' Radius
-10. Snake Charm
-11. Speak with Animal
-
-
-#### Cleric Level 3
-
-
-#### Magic-User Level 1
-
-1. Analyse
-2. Charm Person
-3. Darkness
-4. Detect Magic
-5. Floating Disc
-6. Hold Portal
-7. Light
-8. Magic Missile
-9. Protection from Evil
-10. Read Languages
-11. Shield
-12. Sleep
-13. Ventriloquism
-
-
-#### Magic-User Level 2
-
-1. Continual Darkness
-2. Continual Light
-3. Detect Evil
-4. Detect Invisible
-5. Entangle
-6. ESP
-7. Invisibility
-8. Knock
-9. Levitate
-10. Locate Object
-11. Mindmask
-12. Mirror Image
-13. Phantasmal Force
-14. Web
-15. Wizard Lock
-
-
-#### Magic-User Level 3
-
-
-### Combined Spell Lists
+### Complete Spell Lists
 
 
 #### Cantrips
 
+(**work in progress**)
 
+```
 Finger Flame
 Personal Massager
 Personal Soundtrack
@@ -174,8 +108,7 @@ Slap
 Slow Burn
 Small Talk
 Tastes Like Chicken
-
-
+```
 
 
 #### Level 1
@@ -273,7 +206,7 @@ Template:
 ##### Analyse
 
 * **Level** Magic-User 1
-* **Components:**
+* **Components:** VS
 * **Target:** One item
 * **Range:** Touch
 * **Duration:** Instant
@@ -302,7 +235,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 ##### Cause Light Wounds
 
 * **Level** Cleric 1
-* **Components:**
+* **Components:** VS
 * **Target:** One living creature
 * **Range:** 5 ft'
 * **Duration:** Permanent
@@ -313,7 +246,7 @@ Casting this spell requires the caster to physically handle the item. This may e
 ##### Cause Serious Wounds
 
 * **Level** Cleric 4
-* **Components:**
+* **Components:** VS
 * **Target:** One living creature
 * **Range:** 5 ft'
 * **Duration:** Permanent

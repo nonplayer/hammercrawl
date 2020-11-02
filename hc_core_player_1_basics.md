@@ -143,7 +143,7 @@ HAMMERCRAWL! is built with the following system assumptions:
 * **Experience Levels:** 15 levels for all characters. To attain the next Experience Level, you need that level x10 in Experience Points (XP), and every time you gain a level your XP reserve resets to zero.
 * **Experience Points (XP):** XP is gained from exploring new locations and defeating the challenges within. The scale is very small.
 * **Advantages:** Made popular by the fifth edition of the OG, HAMMERCRAWL! uses a similar concept to Advantages, but with a different implementation called "Beans."
-* **Consolidated Spellcasting:** Clerics and Magic-Users have much closer-aligned rules for spellcasting and memorization. This is to assist new/random drop-in players in having fun with playing these two classes, which have historically presented challenges for noobs.
+* **Consolidated Spellcasting:** Clerics and Magic-Users have much closer-aligned rules for spellcasting and memorization, including both drawing from the same spell lists. This is to assist new/random drop-in players in having fun with playing these two classes, which have historically presented challenges for noobs.
 
 
 ## Whenever Possible, Use Fiat Before Dice
