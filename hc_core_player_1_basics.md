@@ -1,5 +1,5 @@
 title: HAMMERCRAWL! RPG Player's Guide Part 1  
-subtitle: Book One: The Basics of HAMMERCRAWL!  
+subtitle: Book One Part 1: The Basics of HAMMERCRAWL!  
 author: N. Phillip Cole  
 created: 2018-03-22  
 
