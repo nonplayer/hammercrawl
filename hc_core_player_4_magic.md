@@ -6,6 +6,9 @@ created: 2018-03-22
 
 # CHAPTER: Magic and Spellcasting
 
+
+# Magic Spells
+
 Elves, Clerics, and Magic-Users (and of course many monsters) have the special ability to cast magical spells. Unlike the OG, all spellcasters have access to the same collection of spells, and use the same rules for memorizing and casting spells.
 
 

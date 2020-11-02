@@ -4,6 +4,9 @@ author: N. Phillip Cole
 created: 2018-03-22  
 
 
+# CHAPTER: Extended Game Rules Reference
+
+
 # The Rest of the Mechanics, Alphabetized
 
 As a reference for Play, this section is sorted alphabetically by subject.

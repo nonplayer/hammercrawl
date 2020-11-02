@@ -6,6 +6,9 @@ created: 2018-03-22
 
 # CHAPTER: Creating Your Character
 
+
+# Character Creation in HAMMERCRAWL!
+
 You will need the following for this process:
 
 * A printed character sheet or other such notepad

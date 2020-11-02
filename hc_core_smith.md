@@ -3,6 +3,10 @@ subtitle: Book Two: The Hammersmith's Guide to Slaughtering Adventurers
 author: N. Phillip Cole
 created: 2019-01-11  
 
+
+# CHAPTER: The Hammersmith's Guide
+
+
 # The Basics of Hammersmithin'
 
 
