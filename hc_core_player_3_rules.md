@@ -1,5 +1,5 @@
 title: HAMMERCRAWL! RPG Player's Guide Part 3  
-subtitle: Book Three: Extended Game Rules  
+subtitle: Book One Part 3: Extended Game Rules  
 author: N. Phillip Cole  
 created: 2018-03-22  
 

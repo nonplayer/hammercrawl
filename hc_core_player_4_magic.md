@@ -1,5 +1,5 @@
 title: HAMMERCRAWL! RPG Player's Guide Part 4  
-subtitle: Book Four: Magic and Spells  
+subtitle: Book One Part 4: Magic and Spells  
 author: N. Phillip Cole  
 created: 2018-03-22  
 

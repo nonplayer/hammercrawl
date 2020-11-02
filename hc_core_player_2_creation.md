@@ -1,5 +1,5 @@
 title: HAMMERCRAWL! RPG Player's Guide Part 2  
-subtitle: Book Two: Character Creation  
+subtitle: Book One Part 2: Character Creation  
 author: N. Phillip Cole  
 created: 2018-03-22  
 
