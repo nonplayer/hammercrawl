@@ -44,30 +44,7 @@ Read these pages, and reap the rewards of knowledge.
 
 ### 3. The Gaming Dice
 
-I'm assuming you know about common tabletop gaming dice already and probably have dozens of them at least. So we're not gonna go into describing what they are and how to roll them. In short, you just need a standard set, consisting of a d4, d6, d8, d10, d%, d12, and d20. You'll also need a d30 on hand, which are thankfully a lot more easily acquired today than they used to be. You may find it helpful to have multiple d20s, and a few extras of the d4, d6, and d8 as well.
-
-As the 'Smith you may also find it useful to keep an additional set of "funky dice" on hand to assist with rolling certain odd checks here and there. These dice are made popular by the excellent game Dungeon Crawl Classics (DCC), and include dice of sizes d3, d5, d7, d14, d16, d24, and d30. They can be especially useful with the newer monster damage save rules. Also, they're just cool, and you automatically gain awesome nerd cred by having them.
-
-The decision to use Funky dice is up to you. None of the player-side rules require them, but some of the Hammersmith-side rules can benefit from having the additional dice types on hand, for extra mechanical versatility when applying dice steps (see below).
-
-
-#### Dice "Steps"
-
-Within the 'Smith's rules you may encounter the term "steps" in the context of rules regarding dice use and manipulation. These refer to the concept of a "dice chain" of escalating potential. The easiest way to perceive this is to take your standard dice and lay them out on the table in front of you, in order from smallest on the left, to largest on the right (excluding percentile dice). Depending on whether or not you have chosen to include a set of "funky dice" mixed in, this chain will be one of the following:
-
-**The Basic Dice Chain:**
-
-**d4 <-> d6 <-> d8 <-> d10 <-> d12 <-> d20 <-> d30**
-
-**The "Funky" Dice Chain**
-
-**d3 <-> d4 <-> d5 <-> d6 <-> d7 <-> d8 <-> d10 <-> d12 <-> d14 <-> d16 <-> d20 <-> d24 <-> d30**
-
-When working with these dice chains, you start with a reference die which should be contextually obvious by the situation. Each subsequent die to the left of it is one step *down* the chain, which each subsequent die to the right of it is one step *up* the chain. For example, when applying steps to a basic attack roll, the reference die is a d20, and thus one step down is a d12 (or d16 with funky dice), and one step up is a d30 (or d24 with funky dice).
-
-If a game rule tells you to apply one or more steps to a die roll, you must find the expected reference die on the chain, count the situationally-indicated number of steps, and then substitute the new die for the roll instead. For example, if a monster is making a saving throw (reference die = d20) and a rule makes them roll with a three-step penalty, then they would instead roll using either a d8 or d12 with basic or funky dice, respectively.
-
-Steps that would push you either below the leftmost die or above the rightmost die are ignored.
+Same as the players, you need yourself some polyhedral gaming dice. It's your call whether or not you want to use basic dice or the extended "funky" set. Both are described in greater detail in the first Chapter of this book.
 
 
 ### 4. The Divining Dice

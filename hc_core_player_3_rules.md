@@ -4,30 +4,6 @@ author: N. Phillip Cole
 created: 2018-03-22  
 
 
-# The Basic Mechanic
-
-The core mechanic of the HAMMERCRAWL! game system is the pretty much classic, well-known **d20 Check**. This works as follows:
-
-Whenever you need to perform a Check, you first determine what Stat, Save, or other such character widget you are "testing" with this Check. Find and mentally note its associated **modifier** (it'll probably be on your character sheet), then roll a single **twenty-sided die**. When it settles, add said modifier to the topmost number shown on the resting die to determine your **Check Result**.
-
-Meanwhile, the Hammersmith will determine the **target** number you are trying to beat with your check result. This number is usually (but not always) determined by a comparison of associated character, dungeon, or monster **Tiers**.
-
-If your check result equals or exceeds the target, then the check is considered a **Success** and you get whatever the game rules and general common sense would expect for that outcome. If the result is less than the target, then the check is considered a **Failure**, which in turn commonly means that you have failed to meet the check's objective.
-
-Note, however, that **Failing Forward** is a major part of this game, and as such a "failure" result doesn't always have to mean a *complete* failure. This concept is explained in more detail in Book 1 of this game's documents, as it is a core tenet of play.
-
-That's the basic breakdown of the core mechanic. All other concepts of the rules are explained in greater detail below.
-
-
-## Beans, Boons and Banes
-
-HAMMERCRAWL! uses a system of **Boons** and **Banes** (sometimes collectively referred to as **Beans**) as its preferred method for approximating various affects that can affect a character's ability to succeed at standard tasks. Boons give the character bonus dice to add to their roll totals, while Banes similarly give them penalty dice to subtract from their roll totals. Boons and Banes cancel each other out one for one, and are also cumulative to a limit of six (6) total net Boons or Banes. For example, if a PC is attempting a roll in which they have three Banes and one add, then their net total is two Banes.
-
-With net Boons, the character rolls an extra die (called the **Bean die**) during the check, adding its result to the base die's total. Similarly with net Banes, the character rolls an extra die but instead *subtracts* its result from the total. The size of the Bean die depends on the net total of applicable Beans. With one (1) net Bean, the die is a d4. With two (2) it's a d6, three (3) get a d8, four (4) get a d10, and five (5) get a d12, ending with six (6) or more total net Beans getting an entire d20. Any net Beans over six are ignored.
-
-Beans as described here apply to all possible dice rolls, including d20 checks and d100 checks. In all cases, the effects are the same as detailed above, using a d4 through d20 additive or subtractive modifier die.
-
-
 # The Rest of the Mechanics, Alphabetized
 
 As a reference for Play, this section is sorted alphabetically by subject.
