@@ -494,131 +494,60 @@ If you are lucky enough to roll into Scum as your social status, do not dismay, 
 
 ### Random Skills
 
-For groups that want to randomize everything, use this table for skill choices. Roll 1d20 + 1d100 for each skill, and consult the table below:
+For groups that want to randomize everything, use this table for skill choices. Roll 1d150 (figure it out) for each skill, and consult the table below:
 
-| Roll | Skill (Stat)                         |
-|------|--------------------------------------|
-| 2    | Accounting (INT)                     |
-| 3    | Agriculture (INT)                    |
-| 4    | Animal Handling (INT)                |
-| 5    | Animal Training (INT)                |
-| 6    | Appraising (INT)                     |
-| 7    | Arcane Lore (INT)                    |
-| 8    | Armourer (STR)                       |
-| 9    | Art Criticism (INT)                  |
-| 10   | Artistic Ability (CHA)               |
-| 11   | Astrology (WIS)                      |
-| 12   | Balance (DEX)                        |
-| 13   | Ballet (DEX)                         |
-| 14   | Being Drunk Before Noon (CON)        |
-| 15   | Being Forgotten (CHA)                |
-| 16   | Birdwatching (WIS)                   |
-| 17   | Blacksmithing (STR)                  |
-| 18   | Blathering (CHA)                     |
-| 19   | Bluff (CHA)                          |
-| 20   | Bobsledding (STR)                    |
-| 21   | Bonsai (DEX)                         |
-| 22   | Bovine Husbandry (INT)               |
-| 23   | Bowyer/Fletcher (DEX)                |
-| 24   | Brewing (INT)                        |
-| 25   | Busking (CHA)                        |
-| 26   | Butchery (DEX)                       |
-| 27   | Caber Tossing (STR)                  |
-| 28   | Carpentry (STR)                      |
-| 29   | Cat Facts (INT)                      |
-| 30   | Charioteering (DEX)                  |
-| 31   | Chess (INT)                          |
-| 32   | Cobbling (DEX)                       |
-| 33   | Cooking (WIS)                        |
-| 34   | Dancing (DEX)                        |
-| 35   | Diplomacy (CHA)                      |
-| 36   | Direction Sense (WIS)                |
-| 37   | Disguise (WIS)                       |
-| 38   | Dog Grooming (DEX)                   |
-| 39   | Doomsaying (WIS)                     |
-| 40   | Engineering (INT)                    |
-| 41   | Equine Husbandry (INT)               |
-| 42   | Escape Artist (DEX)                  |
-| 43   | Etiquette (Choice of Culture) (CHA)  |
-| 44   | Feline Husbandry (INT)               |
-| 45   | Fire-building (DEX)                  |
-| 46   | First Aid (WIS)                      |
-| 47   | Fishing (WIS)                        |
-| 48   | Food Cart Management (INT)           |
-| 49   | Food Tasting (CON)                   |
-| 50   | Forgery (DEX)                        |
-| 51   | Freestyle Beats (CHA)                |
-| 52   | Funny Walks (DEX)                    |
-| 53   | Gambling (CHA)                       |
-| 54   | Gaming (INT)                         |
-| 55   | Gem-Cutting (DEX)                    |
-| 56   | Geography (INT)                      |
-| 57   | Getting Picked Last (CHA)            |
-| 58   | Gourmand (INT)                       |
-| 59   | Healing (INT)                        |
-| 60   | Heraldry (INT)                       |
-| 61   | Herbalism (INT)                      |
-| 62   | History, Ancient (INT)               |
-| 63   | History, Local (INT)                 |
-| 64   | Horsehair Braiding (DEX)             |
-| 65   | Hullabaloo (CHA)                     |
-| 66   | Hunting (WIS)                        |
-| 67   | Intimidation (STR or CHA)            |
-| 68   | Juggling (DEX)                       |
-| 69   | Jumping (STR)                        |
-| 70   | Landscaping (STR)                    |
-| 71   | Laws (Choice of Culture) (INT)       |
-| 72   | Leatherworking (DEX)                 |
-| 73   | Limericks (CHA)                      |
-| 74   | Lip Reading (WIS)                    |
-| 75   | Looking Conspicuous (CHA)            |
-| 76   | Magical Engineering (INT)            |
-| 77   | Milk (WIS)                           |
-| 78   | Mime (DEX)                           |
-| 79   | Miniature Equine Aficionado (INT)    |
-| 80   | Mining (INT)                         |
-| 81   | Mountaineering (WIS)                 |
-| 82   | Multi-Level Marketing (INT)          |
-| 83   | Musical Instrument (DEX)             |
-| 84   | Nature Lore (INT)                    |
-| 85   | Navigating (WIS)                     |
-| 86   | Painting (DEX)                       |
-| 87   | Performance (Choice of Medium) (CHA) |
-| 88   | Poison-Making (INT)                  |
-| 89   | Pottery (DEX)                        |
-| 90   | Pouting (CHA)                        |
-| 91   | Puppetry (DEX)                       |
-| 92   | Religious Lore (INT)                 |
-| 93   | Riding (Choose Animal) (DEX)         |
-| 94   | Rope Use (DEX)                       |
-| 95   | Running (CON)                        |
-| 96   | Seamanship (WIS)                     |
-| 97   | Seamstress/Tailor (DEX)              |
-| 98   | Selfies (CHA)                        |
-| 99   | Sense Motive (WIS)                   |
-| 100  | SEO (INT)                            |
-| 101  | Set Snares (DEX)                     |
-| 102  | Singing (CHA)                        |
-| 103  | Skiing (STR)                         |
-| 104  | Spotlight Stealing (CHA)             |
-| 105  | Squaredancing (DEX)                  |
-| 106  | Stonemasonry (STR)                   |
-| 107  | Stone-Skipping (DEX)                 |
-| 108  | Surfing (DEX)                        |
-| 109  | Survival (WIS)                       |
-| 110  | Swimming (STR)                       |
-| 111  | Sword-Swallowing (CON)               |
-| 112  | Tanning (CON)                        |
-| 113  | Tightrope-Walking (DEX)              |
-| 114  | Tumbling (DEX)                       |
-| 115  | Ursine Husbandry (CON)               |
-| 116  | Useless Card Tricks (DEX)            |
-| 117  | Ventriloquism (CHA)                  |
-| 118  | Weaponsmithing (STR)                 |
-| 119  | Weather Sense (WIS)                  |
-| 120  | Weaving (DEX)                        |
-
-
+| Roll | Skill (Stat)                          | Roll | Skill (Stat)                        | Roll | Skill (Stat)                         | 
+|------|---------------------------------------|------|-------------------------------------|------|--------------------------------------| 
+| 1    | Accounting (INT)                      | 51   | Etiquette (Choice of Culture) (CHA) | 101  | Musical Instrument (DEX)             | 
+| 2    | Agriculture (INT)                     | 52   | Feline Husbandry (INT)              | 102  | Nature Lore (INT)                    | 
+| 3    | Anger management (WIS)                | 53   | Finding your happy place (WIS)      | 103  | Navigating (WIS)                     | 
+| 4    | Animal Handling (INT)                 | 54   | Fire-building (DEX)                 | 104  | Never getting the joke (INT)         | 
+| 5    | Animal Training (INT)                 | 55   | First Aid (WIS)                     | 105  | Oh no you didn't (INT)               | 
+| 6    | Appraising (INT)                      | 56   | Fishing (WIS)                       | 106  | Painting (DEX)                       | 
+| 7    | Arcane Lore (INT)                     | 57   | Fly fishing (DEX)                   | 107  | Performance (Choice of Medium) (CHA) | 
+| 8    | Armorer (STR)                         | 58   | Food Cart Management (INT)          | 108  | Pivot Tables (INT)                   | 
+| 9    | Art Criticism (INT)                   | 59   | Food Tasting (CON)                  | 109  | Playing Spoons (DEX)                 | 
+| 10   | Artistic Ability (CHA)                | 60   | Forgery (DEX)                       | 110  | Poison-Making (INT)                  | 
+| 11   | Astrology (WIS)                       | 61   | Freestyle Beats (CHA)               | 111  | Pottery (DEX)                        | 
+| 12   | Balance (DEX)                         | 62   | Funny Walks (DEX)                   | 112  | Pouting (CHA)                        | 
+| 13   | Ballet (DEX)                          | 63   | Gambling (CHA)                      | 113  | Puppetry (DEX)                       | 
+| 14   | Base jumping (DEX)                    | 64   | Gaming (INT)                        | 114  | Religious Lore (INT)                 | 
+| 15   | Being Drunk Before Noon (CON)         | 65   | Gem-Cutting (DEX)                   | 115  | Riding (Choose Animal) (DEX)         | 
+| 16   | Being Forgotten (CHA)                 | 66   | Geography (INT)                     | 116  | Rope Use (DEX)                       | 
+| 17   | Being Mistaken for Someone Else (CHA) | 67   | Getting Picked Last (CHA)           | 117  | Running (CON)                        | 
+| 18   | Birdcalls (CHA)                       | 68   | Gourmand (INT)                      | 118  | Seamanship (WIS)                     | 
+| 19   | Birding (INT)                         | 69   | Healing (INT)                       | 119  | Seamstress/Tailor (DEX)              | 
+| 20   | Birdwatching (WIS)                    | 70   | Heraldry (INT)                      | 120  | Selfies (CHA)                        | 
+| 21   | Blacksmithing (STR)                   | 71   | Herbalism (INT)                     | 121  | Sense Motive (WIS)                   | 
+| 22   | Blathering (CHA)                      | 72   | History, Ancient (INT)              | 122  | SEO (INT)                            | 
+| 23   | Bluff (CHA)                           | 73   | History, Local (INT)                | 123  | Set Snares (DEX)                     | 
+| 24   | Bobsledding (STR)                     | 74   | Hollerin' (CON)                     | 124  | Singing (CHA)                        | 
+| 25   | Bonsai (DEX)                          | 75   | Horsehair Braiding (DEX)            | 125  | Skiing (STR)                         | 
+| 26   | Bovine Husbandry (INT)                | 76   | Hullabaloo (CHA)                    | 126  | Skydiving (STR)                      | 
+| 27   | Bowyer/Fletcher (DEX)                 | 77   | Hunting (WIS)                       | 127  | Social coordination (INT)            | 
+| 28   | Brewing (INT)                         | 78   | Ice fishing (CON)                   | 128  | Spearfishing (DEX)                   | 
+| 29   | Busking (CHA)                         | 79   | Intimidation (STR or CHA)           | 129  | Spotlight Stealing (CHA)             | 
+| 30   | Butchery (DEX)                        | 80   | Jackassery (CHA)                    | 130  | Spreadsheets (INT)                   | 
+| 31   | Caber Tossing (STR)                   | 81   | Juggling (DEX)                      | 131  | Squaredancing (DEX)                  | 
+| 32   | Calling Dibs (CHA)                    | 82   | Jumping (STR)                       | 132  | Stonemasonry (STR)                   | 
+| 33   | Calling Shotgun (CHA)                 | 83   | Landscaping (STR)                   | 133  | Stone-Skipping (DEX)                 | 
+| 34   | Carpentry (STR)                       | 84   | Laws (Choice of Culture) (INT)      | 134  | Sunbathing (CON)                     | 
+| 35   | Cat Facts (INT)                       | 85   | Leatherworking (DEX)                | 135  | Surfing (DEX)                        | 
+| 36   | Charioteering (DEX)                   | 86   | Limbo stick (DEX)                   | 136  | Survival (WIS)                       | 
+| 37   | Chess (INT)                           | 87   | Limericks (CHA)                     | 137  | Swimming (STR)                       | 
+| 38   | Cobbling (DEX)                        | 88   | Lip Reading (WIS)                   | 138  | Sword-Swallowing (CON)               | 
+| 39   | Cooking (WIS)                         | 89   | Looking awesome (CHA)               | 139  | Tanning (CON)                        | 
+| 40   | Cribbing (INT)                        | 90   | Looking Conspicuous (CHA)           | 140  | Tightrope-Walking (DEX)              | 
+| 41   | Curing hiccups (CON)                  | 91   | Magical Engineering (INT)           | 141  | Totally Making out (CHA)             | 
+| 42   | Dancing (DEX)                         | 92   | Making an entrance (CHA)            | 142  | Tumbling (DEX)                       | 
+| 43   | Diplomacy (CHA)                       | 93   | Making an exit (CHA)                | 143  | Ursine Husbandry (CON)               | 
+| 44   | Direction Sense (WIS)                 | 94   | Mansplaining (INT)                  | 144  | Useless Card Tricks (DEX)            | 
+| 45   | Disguise (WIS)                        | 95   | Milk (WIS)                          | 145  | Ventriloquism (CHA)                  | 
+| 46   | Dog Grooming (DEX)                    | 96   | Mime (DEX)                          | 146  | Weaponsmithing (STR)                 | 
+| 47   | Doomsaying (WIS)                      | 97   | Miniature Equine Aficionado (INT)   | 147  | Weather Sense (WIS)                  | 
+| 48   | Engineering (INT)                     | 98   | Mining (INT)                        | 148  | Weaving (DEX)                        | 
+| 49   | Equine Husbandry (INT)                | 99   | Mountaineering (WIS)                | 149  | Xtreem luge (STR)                    | 
+| 50   | Escape Artist (DEX)                   | 100  | Multi-Level Marketing (INT)         | 150  | Yodeling (CON)                       | 
 
 
 
@@ -679,7 +608,6 @@ Roll 1d50 to determine what your random weird item is. Some of these may not mak
 | 48   | a conspicuously dead parrot                                                   |
 | 49   | a rock in a sock                                                              |
 | 50   | a student loan disbursement check (requires Bank)                             |
-
 
 
 ### Random Wizard Weapons
