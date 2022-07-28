@@ -1,6 +1,6 @@
 title: HAMMERCRAWL! RPG 'Smith's Guide  
 subtitle: Book Two: The Hammersmith's Guide to Slaughtering Adventurers  
-author: N. Phillip Cole
+author: N. Phillip Cole  
 last updated: 2022-07-28  
 
 
