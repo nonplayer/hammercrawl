@@ -1,49 +1,81 @@
 title: HAMMERCRAWL! RPG 'Smith's Guide  
 subtitle: Book Two: The Hammersmith's Guide to Slaughtering Adventurers  
 author: N. Phillip Cole
-created: 2019-01-11  
+last updated: 2022-07-28  
 
 
-# CHAPTER: The Hammersmith's Guide
+# A Dungeon Master's Guide to HAMMERCRAWL!
 
+This document serves as a DM's - that's you, also called the **HAMMERSMITH** or simply the **'Smith** - guide to running the **HAMMERCRAWL!** process. The HAMMERCRAWL! method uses a set of special "Meta-Actions" to completely randomize an old-school "Dungeon Crawl" experience. This method is based on the assumption that at the core of every good Dungeon Crawl are the following five components:
 
-# The Basics of Hammersmithin'
+1. Player Characters (see the [Player's Guide](./hc_core_player.md) for PC-specific information)
+2. A Dungeon (and Maps)
+3. Encounters (both combat and non-)
+4. Traps
+5. Treasure
+
+The HAMMERCRAWL! method uses multiple randomizers to provide these core elements on the fly, for as close to a 100% procedurally-generated game experience as possible.
+
+Aside from numerous digital generators, the core *physical* tools used in this are a full set of [Dungeonmorph][] Dice and/or cards, a full set of Warhammer Fantasy Roleplay 3rd Edition special dice, and an array of mostly-online random generators.
+
+HAMMERCRAWL! is not meant to be a core game system. Instead it is my own custom-compiled home-rules method for running "Old School" dungeon crawl style games with 100% game randomization. Characters, dungeon rooms, encounters, and more - all are generated randomly. It works best with games that favor this kind of dungeon play. Most of this main document was written primarily with the game *Dark Dungeons* (a BECMI retroclone) in mind because that's my preferred game, but it should be easily applicable to any other such old school gaming experience.
 
 
 ## Core Principles of the 'Smith
 
 Some basic principles to follow:
 
-* **Always tell the Players their Target Numbers!** Seriously, don't waste everyone's time with that pointlessly sneaky number-concealing bullshit. This game is meant to move fast, and hiding DCs and Targets just slows things down for the sole sake of forcing some stupid un-fun antiquated artificial anti-metagame crap on everyone. When they need to Save, tell them the target before they roll. When they commit to an attack, tell them the enemy's Defense so they can just tell you if they hit and not wait for you to verify it. Quit that middling crap and step up your game.
-* **Roll in the Open, and Don't Fudge the Dice!** Fudging dice is lame as lame can be. If you're going to roll dice, then commit to it. If you're not going to commit to it, just put on the big kid britches, say what happens instead, and move on - no roll required. Throw the bones out in the open for all to see. You can't expect the players to play fair and true to the rules if you don't do the same.
+* **Always tell the Players their Target Numbers!** Seriously, don't waste everyone's time with that pointlessly sneaky number-concealing bullshit. This method of play is meant to move fast, and hiding DCs and Targets or whatever your system calls them just slows things down for the sole sake of forcing some stupid un-fun antiquated artificial anti-metagame crap on everyone. When they need to Save, tell them the target before they roll. When they commit to an attack, tell them the enemy's AC or Defense so they can just tell you if they hit and not wait for you to verify it. Quit that middling crap and step up your game.
+* **Roll in the Open, and Don't Fudge the Dice!** Fudging dice is weal as weak can be. If you're going to roll dice, then commit to it. If you're not going to commit to it, then just put on the big kid britches, say what happens instead, and move on - no roll required. Throw the bones out in the open for all to see. You can't expect the players to play fair and true to the rules if you don't do the same.
 * **Listen to the Players!** Players often come up with way cooler ideas than you ever thought of. Listen to them, mine their passing throw-away jokes for gold, and then use it against them later. The best spur-of-the-moment games are often driven by the players' own side comments. Save yourself the effort and let the players unknowingly do all your work for you!
 * **Egg and Entice them!** Give them big red shiny buttons that say "do not push" and then watch them fight over who gets to push them. Place the most stupidly obvious traps in their way and watch them second-guess themselves. And cheer them on the whole time!
 
 
-## Setting Up Your Side of the Table
+# Hammersmith Actions and Responsibilities
 
-(TBD)
+Running the Dungeon is primarily a process of listening and responding. Use the group's **Explore Actions** to build the Dungeon and randomize its contents. Use their **Camp Actions** to allow them a brief respite from the dangers that surround them. Finally, use their Town Actions to level them up and let them re-stock their supplies.
 
-Core things you'll need:
+What you do outside of all of this is up to you. It *is* a role-playing game, after all, so run it otherwise as you would your game of choice!
 
-1. Knowledge of the Rules
+
+## Setting Up the Game
+
+First off, you need some players. I think this process works best with 1 GM and no more than 5 players.
+
+You then need the basic tools (further below).
+
+Then you may find it handy to print off a stack of characters using any of the recommended generators. I suggest a stack of 50, that should last you a few games.
+
+Designate one player character to be the **Party Leader**! And have them assign the other roles as well (see the Player's guide document).
+
+Have the party leader pick the Difficulty Level of the dungeon, from the three options below. These set the base Divining Pool for the Explore actions:
+
+1. Normal: Only a single Red die is used for the Divining Pool, XP rewards are normal.
+2. Hardcore: 2 Red Dice are used in the Divining Pool, XP rewards are doubled (x2).
+3. IRON MAN! 3 Red Dice are used in the Divining Pool, XP rewards are quadrupled (x4).
+
+
+## The 'Smith's Tools
+
+1. The Rules
 2. A Dungeon
 3. Gaming Dice
 4. Divining Dice
 5. Helpful additional Randomizers
 
 
-### 1. The Rules
+### 1. The Game Rules
 
-Read these pages, and reap the rewards of knowledge.
+HAMMERCRAWL! is primarily intended to be used with "old school" role-playing games - that is, modern games that are remakes, "retroclones," or otherwise tributes to the "old school" expectations of early (1970s-1980s) official variants of Dungeons and Dragons. This means the classic spread of six broad ability scores, five weird saving throws, a very small assortment of character classes (including "race as class" options popular at those times), and a whole mess of seemingly unfair and totally deadly traps.
+
+While this method is definitely aimed at old school games, they aren't a hard requirement. Really, all you need is a "hardcore" style of dungeon crawl with maximum randomization built into as many aspects of its play structure. There are other games out there that do this, but usually it is the retroclone catalog that does it best.
+
+The *most* compatible games are those with built-in randomization of treasure, encounters, reactions, and more. For me, systems with treasure tables go to the top of the list of options, putting those derived from either B/X, BECMI, or AD&D as my primary candidates. This is because for me, the complete randomization of treasure is a crucial part of the experience, and thus systems that only give loose guidelines and expect the DM to do all the work of treasure assignment don't fit the bill.
 
 
 ### 2. The Dungeon
 
 (TBD)
-
-* Be sure to set the Difficulty
-* Determine the total Hit Dice of the "floor boss" monster. This in turn sets the Tier of the dungeon, per the Tier rules in the Player Guide.
 
 
 ### 3. The Gaming Dice
@@ -67,18 +99,41 @@ If you do not have these dice physically available, there are a number of digita
 
 ### 5. The Additional Randomizers
 
-This game works best if you keep a handful of randomizers at hand at all times during play. There are a number of them linked in Appendix R of this document, but that list is by no means fully comprehensive. New tools of this sort seem to pop up every year, and as such it's a glorious time to be gaming and into RPG randomizers.
+The HAMMERCRAWl! method focuses entirely on spontaneous, random play. It works best if you keep a handful of randomizers at hand at all times during play. A good number of these are linked in the Appendices, but that list is by no means fully comprehensive. New tools of this sort seem to pop up every year, and as such it's a glorious time to be gaming and into RPG randomizers.
 
 
+## Time-Keeping
 
-# Specific Hammersmith Actions
+This system of gaming requires a strict enforcement of timekeeping in the nature of "turns" of dungeon action. In accordance with classic rules:
 
-The sub-sections beyond are an alphabetized reference of all the specific Hammersmith rules for core actions you are expected to take. These are mainly the *new* game rules, unique to the HAMMERCRAWL! experience, and most have been previously referenced in the Players' section.
+* One Round = Ten Seconds of in-game time
+* One Turn = Ten Minutes of in-game time (or Sixty Rounds of action time)
+* One Hour = 6 Turns (or 360 Rounds)
+
+This is crucial for keeping track of light sources and special short-duration game effects. Some basic notes of importance for the B/X and related rules sets that we use:
+
+* A **Torch** lasts for 1 Hour (6 Turns)
+* A **Lantern** lasts for 4 Hours (24 turns) on 1 flask of oil
+* **Light spells** last for 6 turns, +1 per caster level
+* Each **Explore Action** costs a turn as well. This does not locate any secrets, but does give a full visual description of the room they are entering.
+* Each **Combat encounter** lasts a minimum of 1 turn, *regardless* of actual number of rounds. Combats longer than 60 rounds can last more than 1 turn - divide the total number of rounds by 60, rounding up, minimum of 1. That's how many turns it takes.
+* **Searching for Secrets** takes one turn per 10 x 10 area of the node, and uses the Search skill. Characters can split up to search different places simultaneously and save time. For thieves, this will also include searching for traps.
+
+One player in the group should be the designated time-keeper, responsible for tracking all time-based effects that the party is employing (such a light sources).
 
 
-## The Explore Action
+## Other Things You Might Need to Track
 
-This is the real meat of the HAMMERCRAWL! experience, right here. The Explore Action is the primary method of moving the game onward. Most of the at-table randomization happens when the party chooses to explore and move onward.
+I just use a graph paper notebook for these, or a OneNote book:
+
+* Character list (player names, PC names, classes, AC)
+* Dungeon Level Exit Roll Tally
+* Death List
+
+
+## The Players' "Explore" Action
+
+This is the real meat of the HAMMERCRAWL! experience, right here. The Party's Explore Action (additionally detailed in the player document) is the primary method of moving the game onward. Most of the at-table randomization happens when the party chooses to explore and move onward.
 
 Here's What you need to do when the players choose a new Explore Action:
 
@@ -87,7 +142,7 @@ Here's What you need to do when the players choose a new Explore Action:
 
 First build the Base Pool:
 
-* **Difficulty Dice:** The Pool starts with one Red Die, but this number may be increased by "despair" rolls (see "Determine Outcome" below). This number resets only after the party has left the dungeon and a significant amount of world time has passed.
+* **Difficulty Dice:** The Pool starts with one or more Red Dice (based on player-decided difficulty), but this number may be increased by "despair" rolls (see "Determine Outcome" below). This number resets only after the party has left the dungeon and a significant amount of world time has passed.
 * **Escalating Risk and Reward Dice:** For each room they explore *beyond the first room*, add one Green Die and one Purple Die. This number resets when the camp or return to town.
 
 Now, add any additional dice based on a variety of situational factors:
@@ -160,6 +215,30 @@ Additionally, each X increases the PCs' potential XP rewards for surviving the e
 **X with Circles:** (aka the "Threat" symbol - Red only) - Counts as a regular X, plus *increases* by 1 the number of Difficulty Dice in all subsequent Divining Pools while in this Dungeon. We recommend a limit of four Difficulty dice, but hey, it's your murder fantasy, so do what you will.
 
 
+### Describe the Exploration
+
+Since this is a role-playing game, the description of the exploration in-game is pretty crucial. Use the contents of your map and the results of the Divining Roll to inform the description that you then give to the players.
+
+When describing the new node's environs, do so with a hefty helping of vagueness. Give basic descriptions without exact measurements. Describe things "in passing" or otherwise cursory descriptions. If they want extended details and more specific measurements, they need to spend more time searching!
+
+
+### Apply the Mechanics of Exploration
+
+Exploration has a few resource mechanics applied to it as well. When you've finished describing the new locale, before handling any encounters, resolve the following:
+
+**Time:** Exploration always takes at least 1 turn of time, possibly more with bad Divining Pool results. The party's Timekeeper should mark off a minimum of 1 turn from all light sources and other ongoing time-tracked effects.
+
+
+### Handle Any Encounters
+
+After Rolling the pool, Describing the exploration, and then Applying the basic mechanics, it's time to resolve any Encounters that may have been rolled!
+
+
+#### Backtracking Encounters
+
+Each time the party moves back through a room they've already visited, there is a cumulative 1 in 10 chance that the room has repopulated with enemies and stuff. If that chance occurs, roll a new encounter as normal. Nowhere is truly safe!
+
+
 ### Back to the Role-Playing
 
 With the results of the Divining Dice resolved, it's time to get back to the role-playing. Introduce the room and its challenges as normal. Let the party explore, fight, etc. Describe what happens, and move on with play!
@@ -174,7 +253,7 @@ When they eventually return to the dungeon, it's entirely possible that new mons
 But regardless of how you choose to repopulate previous rooms, remember that these rooms *do not* grant any additional free Exploration XP when the party returns to them. They may earn XP from encounters within, but Exploration XP only comes from newly-Explored rooms.
 
 
-# RANDOMIZE ALL THE THINGS
+# RANDOMIZE ALL THE THINGS: A How-To Chapter
 
 HAMMERCRAWL! is designed to be played with as little prep as possible, relying instead on a lot of on-the-fly at-the-table randomization.
 
@@ -366,7 +445,9 @@ If the check fails, the encountered group either outright attacks, departs, or o
 
 ## Random Monsters
 
-TBD
+With my current process, I use the Wandering Monsters table from p.129-130 of Dark Dungeons. If there was a planned encounter in the room already (such as from an automatic dungeon stocker app), then I use it, modifying its beefiness according to the Divining Pool results.
+
+If there was no planned encounter, then a single X in the Divining Pool means it has basic wandering numbers, two means it has an extra die, and three plus means it is a full-on lair of said creature, when applicable. A bit of common sense is required for working those out on the fly, of course, on a monster by monster basis.
 
 
 ## Random NPCs (other than the author)
@@ -376,7 +457,7 @@ TBD
 
 ## Random Traps
 
-I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the Donjon, and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons. Most results are based on the dungeon level:
+I use the following roll table for traps. The basic names are cribbed directly from a few hundred test rolls on the Donjon, and then I added my own level-specific rules to use for them instead. I also got rid of Save-or-Die traps because reasons. These results are based on the *dungeon level*, not the party level:
 
 | Roll | Trap                                                                                  |
 |----|-----------------------------------------------------------------------------------------|
@@ -404,81 +485,28 @@ I use the following roll table for traps. The basic names are cribbed directly f
 
 ### On the Subject of Traps...
 
-TBD
+Dangerous traps with saving throws are fine, but you should always make sure that there are ways that the players can discover to bypass them (and thus not have to roll a save). A skilled 'Smith learns to subtly telegraph their existence with simple clues given to players who wisely choose to investigate their surroundings. This shouldn't even require a Thief or other such class in the party, although the presence of one can greatly assist.
 
-(undeveloped notes on their use in play)
+Similarly, *any* player character should be allowed to attempt to disable a trap they discover, with no need for a roll. If they figure out the trap's mechanism through exploration and role-playing, and then discover the method to disable it, then they should be allowed to simply do so - provided the physical act is within their realm of possibility. For example, if they find the hidden lever that disables a trap, they can then use that lever without having to roll for it. If that lever is out of reach on the other side of a gate, however, they will need to develop other solutions.
 
-Dangerous traps with saving throws are fine, but you should always make sure that there are ways that the players can discover to bypass them (and thus not have to roll a save). A skilled 'Smith learns to subtly telegraph their existence with simple clues given to players who wisely choose to investigate their surroundings. This shouldn't even require an Explorer in the party, although the presence of one can greatly assist.
-
-Similarly, *any* player character can attempt to disable a trap they discover, with no need for a roll. If they figure out the trap's mechanism through exploration and role-playing, and then discover the method to disable it, then they should be allowed to simply do so - provided the physical act is within their realm of possibility. For example, if they find the hidden lever that disables a trap, they can then use that lever without having to roll for it. If that lever is out of reach on the other side of a gate, however, they will need to develop other solutions.
-
-Thus I recommend that you encourage the players to not rely on their Explorer, and in fact to consider the Explorer something of a last resort, a kind of super-powered dungeon specialist that is called upon to save the day when all other options have failed.
+Thus I recommend that you encourage the players to not rely on their Thief, and in fact to consider the Thief something of a last resort, a kind of super-powered dungeon specialist that is called upon to save the day when all other options have failed.
 
 
 ## Random Treasure
 
-TBD
+As mentioned before, this method works best with game systems that have built-in treasure tables that allow complete randomization of treasure. The only games that I know of that specifically do this are B/X, BECMI, AD&D 1e, AD&D 2e, and their associated retroclones and variants. If you know of others, please update me, and I'll gladly add them to the lists here.
+
+Personally, for Random Encounter Treasure, I default to using a rather ancient Windows program I found many moons ago called **BECMI Utilities**. It generates treasure based on the old Rules Cyclopedia "A-O, P-V" treasure classes, which Dark Dungeons also uses. I've made heavy use of these very tables in my own long-running weekend games, and am quite familiar with their typical yields.
+
+The **Mythril and Mages** site for Labyrinth Lord has great online treasure generators also compatible with B/X/BECMI, if you are running with an internet connection. And the **Donjon** has the same treasure tool available there, but for AD&D/OSRIC editions (but not B/X and its ilk).
+
+**Words of Caution:** Please be careful when using pre-published treasure table randomizers! While B/X and BECMI use the same basic alphabetized tables, they are deceptively similar to AD&D, which also uses an alphabetized table. However, the latter's table options are completely different than those of the former, with drastically rearranged values. **Do not** use AD&D treasure table generators with B/X and BECMI, and vice-versa! I learned this the hard (but very hilarious) way in a demo game once, and while the results were quite fun, the game took a completely different turn at that point. Ask me about it sometime if you ever meet me in person
 
 
-# NPCs and Monsters
-
-This section details additional information on how to manage the array of characters at your disposal. For ease of writeup, all 'Smith-controlled entities are referred to as simply NPCs in this section.
+# APPENDICES
 
 
-## Managing NPC Hit Points: Damage Saves
-
-Instead of rolling and tracking multiple running hit point totals for all of your combatants, this game system suggests using a more simplified method of health tracking. Heavy HP bookkeeping is exchanged for light token-flipping and damage save rolls.
-
-When a PC successfully attacks a NPC, they must roll their damage as usual. The NPC must then make a special Death saving throw, with the PC's total damage roll as the difficulty target for this save. If the NPC is listed with any numerical modifier on their Hit Dice (such as "3HD+3"), then they apply that modifier to their Death save.
-
-If the NPC fails this save, they are inflicted with a Wound, or two if they rolled a natural 1. Each wound taken stacks, and once a NPC takes a number of wounds equal to or greater than their Hit Die total, that NPC is slain.
-
-If the NPC succeeds at this save, they instead take a Scratch. Scratches also accumulate, making subsequent damage saves more difficult to pass as the PCs whittle away at their health. For each such Scratch the NPC carries, they roll their damage save at one die step lower. Once a NPC fails a Death save and takes a wound, tally the Wound and erase all of its current Scratches.
-
-Keeping track of scratches and remaining HD can be done with simple use of a small die (such as a d6) counting scratches, and a larger die (such as d12 or higher) counting down the NPC's remaining HD. It can be handy to keep a d30 on hand for the more powerful boss monsters, when needed. Alternately, a bowl of different-colored tokens can be used, with one color representing Scratches, and the other representing Wounds.
-
-If the total incoming damage from an attack is greater than the NPC could possibly roll on its Death save, it can only succeed at the roll by rolling a natural unmodified 20.
-
-For NPCs with Zero (or fewer!) Hit Dice - including weak NPCs given only a small handful of HPs in lieu of HD - they need not make Death saving throws when hit. Instead, any hit for any amount of damage will dispatch them immediately, no Wounds required.
-
-
-## New Monsters for HAMMERCRAWL!
-
-
-### Goblin, Flesh
-
-(first appearance: Hooni's Hammers in the kingdom of 1997)
-
-
-### Mimic Worm
-
-(first appearance: HAMMERCRAWL! 3D Episode 1)
-
-
-
-# Appendix C: Converting Material from Other Games
-
-TBD
-
-
-## From "Old School" Editions
-
-TBD
-
-
-### Monsters
-
-Ignore any noted HD asterisks when calculating Tiers on Monsters and Dungeon Levels, instead using the base HD alone.
-
-Ignore any listed hit point totals, and use their HD instead to denote how many Wounds the monster can suffer in combat before being slain. Any listed HD modifiers (such as "3HD+3") are applied as a flat bonus to the monster's Death saves.
-
-
-## From Edition the Fifth
-
-TBD
-
-
-# Appendix D: Dungeon Generation Archive
+## Appendix D: Dungeon Generation Archive
 
 I've revamped the dungeon generation process from an older set of rules. Instead of ditching those rules entirely, I've preserved them here in an Appendix. You may still find them useful to your method.
 
@@ -552,9 +580,7 @@ For each room visited after the starting room, there is a *cumulative* 1 in 20 c
 If you somehow happen to "close off" the dungeon using the above methods, without rolling a level exit, either A) add a level exit organically to the last-placed node tile, or B) just accept it as a single-level dungeon and call it good. Not every dungeon needs to be a multi-level descent into the depths of Demon Heck!
 
 
-
-
-# Appendix R: Master List of Randomizers
+## Appendix R: Master List of Randomizers
 
 Here are all of the randomizers that I have found to be most excellent for running HAMMERCRAWL! live and with minimal preparation.
 
@@ -562,7 +588,11 @@ First and foremost, **nothing beats [The Donjon](http://donjon.bin.sh/)** for it
 
 Beyond the Donjon, here are some other good resources. Please note that I've added affiliate links to anything linking to DrivethruRPG, as it helps pay for new gaming tools to test out.
 
-### Physical Randomizers
+
+### Generic Randomizers
+
+
+#### Physical Randomizers
 
 All of the items in this list use tangible, physical components.
 
@@ -574,37 +604,110 @@ All of the items in this list use tangible, physical components.
   * [Traps](https://www.drivethrurpg.com/product/188927/Encounter-Building-Cards-Traps?affiliate_id=158958)
 * [Fatbelly's Monster Mod Cards](https://www.drivethrurpg.com/product/175652/Monster-Mod-Cards?affiliate_id=158958)
 
-### Mobile Apps
+
+#### Mobile Apps
 
 * [Adventuresmith](https://stevesea.github.io/Adventuresmith/)
 * [Crawler's Companion](https://purplesorcerer.com/crawler.php)
 * *Dungen* - A sadly no-more Random Dungeon Generator app on the Windows Store =(
 
-### Programs
 
-* *BECMI Utilities* - An older Windows program that is impossible to find now, sadly. Included encounters, treasure, and a character generator too.
-* [NPC's Old School Character Generator](https://github.com/nonplayer/OldSchoolCharGen)
+#### Computer Programs
 
-### Websites
+* [NPC's Old School Character Generator](https://github.com/nonplayer/OldSchoolCharGen) - it's mine, and it's janky, but I love it.
 
+
+#### Websites
+
+* [The Donjon](https://donjon.bin.sh/) - Almost everything you will ever need! I use this a lot, here are my main tabs:
+	- [Party Names](http://donjon.bin.sh/fantasy/name/#type=setting;setting=Party)
+	- [Dungeon Names](http://donjon.bin.sh/fantasy/name/#type=setting;setting=Dungeon)
+	- [AD&D Traps](http://donjon.bin.sh/adnd/random/#type=trap;level=Level%20I)
+	- [Inn Generator](http://donjon.bin.sh/fantasy/inn/)
+	- NPCs: Both [Generic Fantasy](http://donjon.bin.sh/fantasy/random/#type=npc) and [AD&D-Specific](http://donjon.bin.sh/adnd/random/#type=npc)
+	- Treasure: [AD&D](http://donjon.bin.sh/adnd/treasure/)
 * [Behind the Name Random Name Generator](http://www.behindthename.com/random/)
-* [Labyrinth Lord / Basic D&D Treasure Generator (site)](http://www.mithrilandmages.com/utilities//LLTreasure.php) - This site has a LOT of cool generators, in fact, almost as many as The Donjon
 * [Wizardawn Character Generator](http://wizardawn.and-mag.com/tool_bxadvg.php) - Can print up multiple sheets right from the get-go!
+* [Dizzy Dragon's Adventure Generator (Based off the 1e DMG)](http://www.dizzydragon.net/adventuregenerator/gen)
+* [An older article collecting a bunch of them together](http://inkwellideas.com/advice/random-dungeon-generators-reviewed/)
+
+
+**Dungeons specifically:**
+
 * [Gozzys Random Dungeon Maps](http://www.gozzys.com/dungeon-maps)
 * [RPG20's Dungeon Generator](http://rpg20.com/dungeonGen.php)
-* [Dizzy Dragon's Adventure Generator (Based off the 1e DMG)](http://www.dizzydragon.net/adventuregenerator/gen)
-* [Labyrinth Lord Random Dungeon Generator](http://www.apolitical.info/webgame/dungeon/index2?mode=2)
-* [An older article collecting a bunch of them together](http://inkwellideas.com/advice/random-dungeon-generators-reviewed/)
+* [Holy shitballs](https://donjon.bin.sh/adnd/dungeon/)
+* [Also shitballs](https://donjon.bin.sh/fantasy/dungeon/)
+* [Pretty universal, but basic](http://www.gozzys.com/dungeon-maps)
+* [Also kinda cool](http://rpg20.com/dungeonGen.php)
+* [Based off 1e DMG](http://www.dizzydragon.net/adventuregenerator/gen)
+* [Kinda funky one](http://www.apolitical.info/webgame/dungeon/index2?mode=2)
+* [An older article collecting a bunch](http://inkwellideas.com/advice/random-dungeon-generators-reviewed/)
+* [Map Mage](http://www.mapmage.com/mapmage.html) (paid product)
+
+
+### Game System-Specific
+
+
+#### BECMI
+
+BECMI and he RC have long been my favorite classic edition. Here are some links for that version specifically:
+
+* [Treasure Generator (Windows)](https://drive.google.com/file/d/0B5L0rnHMuzezZzhlT1psYXFQU0k/view)
+* [BECMI Utilities]: http://www.dragonsfoot.org/forums/viewtopic.php?f=15&t=61875
+* [NPC Generator](https://agathokles.pythonanywhere.com/)
 * [Mystara / RCD&D NPC generator](https://agathokles.pythonanywhere.com/)
 
 
-# Appendix W: Using WFRP3 Dice
+#### Black Hack
+
+* [Random Characters!](http://www.spellbound.co.uk/blackhack/bhcharacter.php) - Just reload each time for a new character
+* [Misc Black Hack Resources](https://dieheart.net/the-black-hack-resources/)
+
+
+#### DCC
+
+* [Purple Sorcerer's Random Party Generator](https://purplesorcerer.com/create_upper.php)
+* For Dungeons, the Microlite20 version on the Donjon seems the most DCC-friendly
+
+
+#### Labyrinth Lord
+
+* [Labyrinth Lord Random Dungeon Generator](http://www.apolitical.info/webgame/dungeon/index2?mode=2)
+* [Labyrinth Lord / Basic D&D Treasure Generator (site)](http://www.mithrilandmages.com/utilities//LLTreasure.php) - This site has a LOT of cool generators, in fact, almost as many as The Donjon
+* [Character Generator](http://truculent.org/llchar/)
+
+
+## Appendix U: Unsorted Miscellany
+
+This is mainly a collection of some older notes, and some disparate unsorted sections ported over from the previous incarnations of the HAMMERCRAWL! process docs.
+
+
+### END GAME REWARDS!
+
+I like to give out prizes for my convention games, based on in-game accomplishments:
+
+* 1st player to get 1000g
+* 1st Death by Trap
+* 1st Death by Monster
+* 1st Death by Other Player / Friendly Fire
+* Longest-lived character at the end
+* Most (own) Character Deaths
+* Most Deaths from Friendly Fire
+* Most Monster Kills
+* FINAL VOTE: Most Valuable Player-driven *Action*
+* FINAL VOTE: Most Valuable Player-driven *Cunning Plan*
+* FINAL VOTE: Most Hilarious Character Death
+
+
+## Appendix W: Using WFRP3 Dice
 
 HAMMERCRAWL! got its name from my love of the old WFRP 3rd Edition custom dice, which I wanted to keep using for other gaming purposes after that edition of the game went out of print. As the years have passed, the dice have become harder to find, and more expensive to buy. As such, I've since revised (and happily simplified!) the process to work with the similar dice from FFG's ongoing Genesys RPG, which forms the basis for a growing catalog of games using the same basic dice. The Genesys dice are more universal, easier to read, and most importantly: still in manufacture (and as such cheaper to acquire). And I think the revisions to the HAMMERCRAWL! process actually work out a whole lot smoother, too.
 
 However, I've kept the old WFRP-specific rules here in the appendix, both for each of possible future reference, and for nostalgia. The game *is* called "HAMMER"-crawl, after all!
 
-## The Dice
+
+### The Dice
 
 With WFRP3 you get a mix of seven different types of dice, coded by color: Blue, Yellow, White, Green, Red, Black, and Purple. Each of these colors represents a different purpose, such as Challenge, Luck, Fortune, Skull, and so on. Their different faces have symbols instead of numerical pips, which you can use to divine the outcomes of tests in that game. For this game, the dice translate as:
 
@@ -622,7 +725,7 @@ Don't have dice of your own? [Use the Broken Tome generator](http://brokentome.c
 * PC: [WFRP 3rd Edition Dice Pool Tool Kit](https://rpggeek.com/filepage/60367/wfrp-3rd-edition-dice-pool-tool-kit)
 
 
-## Building the Pool
+### Building the Pool
 
 The dice pool is built using a mix of regular gaming dice plus the fancy colored dice from WFRP3. **First we build the initial Divining Pool.** This consists of two or more Warhammer funky dice, and possibly additional standard dice based on your game system of choice and any other third-party random tables you're incorporating.
 
@@ -648,7 +751,7 @@ Finally, depending on your game system, you may add other dice as well, such as:
 * **Any other Dice:** If you have any other random check tables, add their dice to the pool, and roll them all at once to save time.
 
 
-## Divining the Results
+### Divining the Results
 
 With the Divining Pool complete, it's time to roll! **I highly suggest using a dice tray for this.**
 
