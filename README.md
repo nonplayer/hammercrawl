@@ -9,8 +9,6 @@ If for whatever reason you want to see the old attempt at a new system, switch t
 
 ## The Main Files
 
-*  This is the new core game, fully compatible with other classic-inspired games currently popular with certain groups, and completely free. It is very much a work in progress, but all the basics are there to be played with.
-
 * **[Player's Guide](./hc_rules_player.md):** Everything you need to play the game
 * **[Smith's Guide](./hc_rules_smith.md):** Everything the DM/Hammersmith needs to run the game
 
