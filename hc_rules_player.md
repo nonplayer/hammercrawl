@@ -6,7 +6,7 @@ last updated: 2022-07-28
 
 # A Player's Guide to HAMMERCRAWL!
 
-This document serves as a Player's guide to staying alive during the **HAMMERCRAWL!** process. There is more behind-the-scenes data in the [DM's Guide](./hc_core_dm.md), while this document focuses specifically on your role at the table.
+This document serves as a Player's guide to staying alive during the **HAMMERCRAWL!** process. There is more behind-the-scenes data in the Smith's Guide, while this document focuses specifically on your role at the table.
 
 For the most part, the general play of the game is handled according to the rules of the game system you are playing. This document details specific overrides put in place to better facilitate randomized old-school play.
 
