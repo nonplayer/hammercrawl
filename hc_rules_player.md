@@ -46,7 +46,7 @@ If the dead character was party leader, the group needs to elect a new leader! I
 
 Before you head off on your trek, you should make special note that Food and Lights are extremely important to survival in the HAMMERCRAWL! experience. Dungeons are dark and scary places, and most characters can't see in the dark. Without light, you can't act, nor can you camp! Similarly, Food is required in order to camp as well. No food? No camp action. Camping in this system is an *extremely* beneficial resource for the party, so be sure to manage your light and food accordingly!
 
-To better keep track of your light sources, I highly recommend making use of the awesome custom [Torch Cards][] from Dyson Logos. There are lanterns there too! They make great tools for tracking the countdown of lights.
+To better keep track of your light sources, I highly recommend making use of the awesome custom Torch Cards from Dyson Logos. There are lanterns there too! They make great tools for tracking the countdown of lights.
 
 
 ## Managing Loot and XP
